@@ -13,3 +13,5 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Septiembre 2019
++ [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
+  Barış Özmen. #DeepLearning #AutoML #ImageAugmentation
