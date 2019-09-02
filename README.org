@@ -15,3 +15,4 @@ Este repositorio es una recopilación de lecturas.
 ** Septiembre 2019
 + [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
   Barış Özmen. #DeepLearning #AutoML #ImageAugmentation
++ [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf][SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network]] ~ Yancheng Bai. #GANs #SuperResolution #ObjectDetection
