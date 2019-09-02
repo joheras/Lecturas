@@ -16,3 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
   Barış Özmen. #DeepLearning #AutoML #ImageAugmentation
 + [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf][SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network]] ~ Yancheng Bai. #GANs #SuperResolution #ObjectDetection
++ [[https://deepai.org/publication/topology-preserving-augmentation-for-cnn-based-segmentation-of-congenital-heart-defects-from-3d-paediatric-cmr][Topology-preserving augmentation for CNN-based segmentation of congenital heart defects from 3D paediatric CMR]] ~ Nick Byrne. #MedicalImages #SemanticSegmentation #ImageAugmentation #Topology
++ [[https://www.nature.com/articles/d41586-019-02514-7][Halt the use of facial-recognition technology until it is regulated]] ~ Kate Crawford. #FaceRecognition #Ethics
++ [[https://www.pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv/][Building an Image Hashing Search Engine with VP-Trees and OpenCV]] ~ Adrian Rosebrock. #ImageProcessing #SearchEngine #OpenCV #VPTree #PyImageSearch
++ [[https://arxiv.org/pdf/1907.11457.pdf][Two-hidden-layer feedforward networks are universal approximators: a constructive approach]] ~ Rocío González-Díaz #NeuralNetworks  #SimplicialComplexes #UniversalTheorem
