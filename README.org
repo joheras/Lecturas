@@ -24,3 +24,4 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/pdf/1712.04440.pdf][Data Distillation: Towards Omni-Supervised Learning]] ~ Ilija Radosavovic. #SemiSupervisedLearning #Ensembles #DataDistillation #OmniSupervisedLearning
 + [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-00928-1_65.pdf][Omni-Supervised Learning: Scaling Upto Large Unlabelled Medical Datasets]] ~ Ruobing Huang. #MedicalImages #OmniSupervisedLearning
 + [[https://towardsdatascience.com/facebook-believes-in-omni-supervised-learning-78f37253f4f4][Facebook Believes in Omni-Supervised Learning]] ~ Jesus Rodriguez. #OmniSupervisedLearning #DeepLearning
++ [[http://openaccess.thecvf.com/content_CVPR_2019/papers/Iscen_Label_Propagation_for_Deep_Semi-Supervised_Learning_CVPR_2019_paper.pdf][Label Propagation for Deep Semi-supervised Learning]] ~ Ahmet Iscen. #SemiSupervisedLearning #ImageClassification #TransductiveLearning
