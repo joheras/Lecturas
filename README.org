@@ -21,4 +21,4 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv/][Building an Image Hashing Search Engine with VP-Trees and OpenCV]] ~ Adrian Rosebrock. #ImageProcessing #SearchEngine #OpenCV #VPTree #PyImageSearch
 + [[https://arxiv.org/pdf/1907.11457.pdf][Two-hidden-layer feedforward networks are universal approximators: a constructive approach]] ~ Rocío González-Díaz #NeuralNetworks  #SimplicialComplexes #UniversalTheorem
 + [[https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection][Fruit Images for Object Detection]] ~ Muhammed Buyukkinaci. #Datasets #ObjectDetection
-+ 
++ [[https://arxiv.org/pdf/1712.04440.pdf][Data Distillation: Towards Omni-Supervised Learning]] ~ Ilija Radosavovic. #SemiSupervisedLearning #Ensembles #DataDistillation
