@@ -35,3 +35,4 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/pdf/1905.08942v2.pdf][The Machine Learning Bazaar: Harnessing the ML Ecosystem for Effective System Development]] ~ M. J. Smith. #AutoML #PapersWithCode 
 + [[https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf][Hidden Technical Debt in Machine Learning Systems]] ~ D. Ebner. #MachineLearning #Development #Risks
 + [[https://worldmodels.github.io/][World Models: Can agents learn inside of their own dreams]] ~ D. Ha. #ReinforcementLearning #GANs
++ [[https://towardsdatascience.com/learning-like-babies-image-classification-using-semi-supervised-learning-ccfb5b391d1f][Learning Like Babies]] ~ Manriq. #ImageClassification #SemiSupervisedLearning
