@@ -39,3 +39,5 @@ Este repositorio es una recopilación de lecturas.
 + [[https://medium.com/in-the-pocket-insights/data-labeling-made-simple-and-cheap-3f6ecb54697d][Data labeling made simple (and cheap)]] ~ F. Degroote. #ObjectDetection #AutoLabelling #[[https://github.com/marcotcr/lime][Lime]]
 + [[https://arxiv.org/pdf/1602.04938.pdf]["Why Should I Trust You?" Explaining the Predictions of Any Classifier]] ~ M. T. Ribeiro. #Interpretability #[[https://github.com/marcotcr/lime][Lime]] #Explainability
 + [[https://medium.com/health-ai/google-deepmind-might-have-just-solved-the-black-box-problem-in-medical-ai-3ed8bc21f636][Google DeepMind might have just solved the "Black Box" problem in medical AI]] ~ S. Ruyu Qi. #Interpretability #Healthcare #Unet
++ [[https://imo-grand-challenge.github.io/][IMO Grand Challenge]] ~ D. Selsam #Lean #AutomatedTheoremProving #MathematicalOlympiad
++ [[https://www.hillelwayne.com/post/theorem-prover-showdown/][The Great Theorem Prover Showdown]] ~ H. Wayne. #FormalMethods #Challenge #FunctionalProgramming
