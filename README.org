@@ -43,3 +43,4 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.hillelwayne.com/post/theorem-prover-showdown/][The Great Theorem Prover Showdown]] ~ H. Wayne. #FormalMethods #Challenge #FunctionalProgramming
 + [[https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/la-deuda-de-la-inteligencia-artificial-con-el-matematico-godel/][La deuda de la Inteligencia Artificial con el matemático Gödel]] ~ J. Muñoz de la Cuesta. #Lógica #IA
 + [[https://arxiv.org/pdf/1908.07355.pdf][Knowledge distillation for semi-superviseddomain adaptation]] ~ M. Orbes-Arteaga. #SemiSupervisedLearning #DataDistillation
++ [[https://blogs.scientificamerican.com/cross-check/okay-maybe-proofs-arent-dying-after-all/][Okay, Maybe Proofs Aren't Dying After All]] ~ J. Horgan. #Mathematics #ITP
