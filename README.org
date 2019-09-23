@@ -46,3 +46,4 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blogs.scientificamerican.com/cross-check/okay-maybe-proofs-arent-dying-after-all/][Okay, Maybe Proofs Aren't Dying After All]] ~ J. Horgan. #Mathematics #ITP
 + [[https://martinfowler.com/dsl.html][Domain-Specific Languages Guide]] ~ M. Fowler. #DSL
 + [[https://drive.google.com/file/d/19lv8p1fB47z1pEZVlfDXhop082Lc-kdD/view][Quantum supremacy using a programmable superconducting processor]] ~ Google AI Quantum and collaborators. #QuantumComputing
++ [[http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/resources/DoubleDIP.pdf][Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors]] ~ Y. Gandelsman #ImageSegmentation #DeepLearning 
