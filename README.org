@@ -51,3 +51,6 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/pdf/1907.08610v1.pdf][Lookahead Optimizer:k steps forward, 1 step back]] ~ M. R. Zhang. #MachineLearning #OptimizationAlgorithm
 + [[https://medium.com/sciforce/anomaly-detection-another-challenge-for-artificial-intelligence-c69d414b14db][Anomaly Detection — Another Challenge for Artificial Intelligence]] ~ Sciforce. #AnomalyDetection
 + [[https://towardsdatascience.com/enet-a-deep-neural-architecture-for-real-time-semantic-segmentation-2baa59cf97e9][ENet — A Deep Neural Architecture for Real-Time Semantic Segmentation]] ~ Arunava #SemanticSegmentation #DeepLearning 
++ [[http://zpascal.net/cvpr2017/Zendel_Analyzing_Computer_Vision_CVPR_2017_paper.pdf][Analyzing Computer Vision Data - The Good, the Bad and the Ugly]] ~ O. Zendel. #ComputerVision #Dasasets #Curation
++ [[https://cs.brown.edu/research/pubs/theses/masters/2011/vittayakorn.pdf][Quality Assessment for Crowdsourced Object Annotations]] ~ S. Vittayakorn. #ComputerVision #Dasasets #Quality
++ [[https://link.springer.com/article/10.1007/s11263-007-0090-8][LabelMe: A Database and Web-Based Tool for Image Annotation]] ~ B. C. Russell. #ObjectDetection #ImageAnnotation
