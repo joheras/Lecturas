@@ -54,3 +54,4 @@ Este repositorio es una recopilación de lecturas.
 + [[http://zpascal.net/cvpr2017/Zendel_Analyzing_Computer_Vision_CVPR_2017_paper.pdf][Analyzing Computer Vision Data - The Good, the Bad and the Ugly]] ~ O. Zendel. #ComputerVision #Dasasets #Curation
 + [[https://cs.brown.edu/research/pubs/theses/masters/2011/vittayakorn.pdf][Quality Assessment for Crowdsourced Object Annotations]] ~ S. Vittayakorn. #ComputerVision #Dasasets #Quality
 + [[https://link.springer.com/article/10.1007/s11263-007-0090-8][LabelMe: A Database and Web-Based Tool for Image Annotation]] ~ B. C. Russell. #ObjectDetection #ImageAnnotation
++ [[https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf][The Machine Learning Reproducibility Checklist]] ~ J. Pineau. #MachineLearning #Reproducibility
