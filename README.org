@@ -12,6 +12,9 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2019
 
+** Octubre 2019
++ [[https://www.pyimagesearch.com/2019/09/30/rectified-adam-radam-optimizer-with-keras/][Rectified Adam (RAdam) optimizer with Keras]] ~ A. Rosebrock #PyimageSearch #Optimization
+
 ** Septiembre 2019
 + [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
   Barış Özmen. #DeepLearning #AutoML #ImageAugmentation
@@ -56,4 +59,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://link.springer.com/article/10.1007/s11263-007-0090-8][LabelMe: A Database and Web-Based Tool for Image Annotation]] ~ B. C. Russell. #ObjectDetection #ImageAnnotation
 + [[https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf][The Machine Learning Reproducibility Checklist]] ~ J. Pineau. #MachineLearning #Reproducibility
 + [[https://www.pnas.org/content/116/39/19251?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77292076&_hsenc=p2ANqtz--4jabhgaGYrDJ0iFw5Z2XaVnj_OqurXeZijBV9qWQXruQR3rGx2B0cifX_xtgnGbOPOaXo_VAzblyguUeoObly0AFGLA&_hsmi=77292076][Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom]] ~ L. Deslauriers. #Teaching #ActiveMethodologies
-+ [[https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/][Privacy-Preserving AI in Medical Imaging: Federated Learning, Differential Privacy, and Encrypted Computation]] ~ E. Bluemke. #ArtificialIntelligence #Privacy #FederatedLearning #DifferentialPrivacy #EncryptedComputation
++ [[https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/][Privacy-Preserving AI in Medical Imaging: Federated Learning, Differential Privacy, and Encrypted Computation]] ~ E. Bluemke. #ArtificialIntelligence #Privacy #FederatedLearning #DifferentialPrivacy #EncryptedComputation #MedicalImages 
++ [[https://openreview.net/forum?id=Bygh9j09KX][ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness]] ~ R. Geirhos. #ImageClassification #Robustness
++ [[https://arxiv.org/abs/1902.07208][Transfusion: Understanding Transfer Learning for Medical Imaging]] ~ M. Raghu. #TransferLearning #MedicalImages 
++ [[https://arxiv.org/pdf/1811.08883.pdf][Rethinking ImageNet Pre-training]] ~ K. He. #TransferLearning #ObjectDetection 
