@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
+  - [[#octubre-2019][October 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
   
   
@@ -12,7 +13,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2019
 
-** Octubre 2019
+** October 2019
 + [[https://www.pyimagesearch.com/2019/09/30/rectified-adam-radam-optimizer-with-keras/][Rectified Adam (RAdam) optimizer with Keras]] ~ A. Rosebrock #PyimageSearch #Optimization
 
 ** Septiembre 2019
