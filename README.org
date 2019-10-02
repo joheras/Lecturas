@@ -14,6 +14,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Octubre 2019
++ [[https://arxiv.org/pdf/1908.11415v1.pdf][Translating Mathematical Formula Images to LaTeX Sequences Using Deep Neural Networks with Sequence-level Training]] ~ Z. Wang. #EncoderDecoder #LSTM #CNNs #OCR 
++ [[https://arxiv.org/abs/1905.13549][Learning Robust Global Representations by Penalizing Local Predictive Power]] ~ H. Wang. #ImageClassification #Robustness #GlobalPatterns
 + [[https://www.pyimagesearch.com/2019/09/30/rectified-adam-radam-optimizer-with-keras/][Rectified Adam (RAdam) optimizer with Keras]] ~ A. Rosebrock #PyimageSearch #Optimization
 
 ** Septiembre 2019
