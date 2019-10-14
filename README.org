@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Octubre 2019
++ [[https://arxiv.org/pdf/1906.07155.pdf][MMDetection: Open MMLab Detection Toolbox and Benchmark]] ~ K. Chen. #ObjectDetection #Library
 + [[https://openlibra.com][OpenLibra]] #Libros #Gratuitos
 + [[https://arxiv.org/pdf/1907.11093v1.pdf][SlimYOLOv3:Narrower, Faster and Better for Real-Time UAV Applications]] ~ P. Zhang. #ObjectDetection #Yolo #ModelPrunning
 + [[https://levelup.gitconnected.com/5-important-changes-coming-with-tensorflow-2-0-e6bb172c5fdf][5 Important Changes Coming with TensorFlow 2.0]] ~ G. Seif #Tensorflow #DeepLearning
