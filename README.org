@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Octubre 2019
++ [[https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/][Billion-scale semi-supervised learning for state-of-the-art image and video classification]] ~ I. Zeki Yalniz. #SemiSupervisedLearning #WeakSupervisedLearning
 + [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf][Machine Learning: The High-Interest Credit Card of Technical Debt]] ~ D. Sculley. #MachineLearning #TechnicalRisks
 + [[https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/][Why is my validation loss lower than my training loss?]] ~ A. Rosebrock #Pyimagesearch #ValidationLoss
 + [[https://arxiv.org/pdf/1906.07155.pdf][MMDetection: Open MMLab Detection Toolbox and Benchmark]] ~ K. Chen. #ObjectDetection #Library
