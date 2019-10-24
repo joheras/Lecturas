@@ -14,6 +14,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Octubre 2019
++ [[https://www.biorxiv.org/content/10.1101/265231v1][End-so-end differentiable learning of protein structure]] ~ M. AlQuraishi #DeepLearning #Proteins
++ [[https://www.biorxiv.org/content/10.1101/465955v4][Distance-based Protein Folding Powered by Deep Learning]] ~ J. Xu #DeepLearning #Proteins
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]] ~ Luke Oakden-Rayner #AISafety 
 + [[https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/][Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?]] ~ A. Rosebrock #PyimageSearch #Keras #TensorflowV2
 + [[https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/][Billion-scale semi-supervised learning for state-of-the-art image and video classification]] ~ I. Zeki Yalniz. #SemiSupervisedLearning #WeakSupervisedLearning
