@@ -1,3 +1,4 @@
++ [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]]
 + [[https://arxiv.org/abs/1909.12475][Hidden Stratification Causes Clinically Meaningful Failures in Machine Learning for Medical Imaging]]
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]
 + [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably haven’t heard of)]]
