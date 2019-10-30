@@ -1,3 +1,5 @@
+
++ [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]]
 + [[https://github.com/dropoutlabs/tf-world-tutorial][Privacy-Preserving Machine Learning with TF Encrypted & PySyft]]
 + [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]]
 + [[https://arxiv.org/pdf/1910.10685.pdf][Machine Learning for Scent: Learning GeneralizablePerceptual Representations of Small Molecules]]
