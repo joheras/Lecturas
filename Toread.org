@@ -13,7 +13,7 @@
 + [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]]
 + [[https://github.com/dropoutlabs/tf-world-tutorial][Privacy-Preserving Machine Learning with TF Encrypted & PySyft]]
 + [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]]
-+ [[https://arxiv.org/pdf/1910.10685.pdf][Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules]]
+
 + [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]]
 + [[https://arxiv.org/pdf/1812.11832.pdf][Towards a topological-geometrical theory of group equivariantnon-expansive operators for data analysis and machine learning]]
 + [[https://arxiv.org/pdf/1711.11279.pdf][Interpretability Beyond Feature Attribution]]
