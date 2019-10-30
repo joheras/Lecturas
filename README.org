@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Octubre 2019
++ [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]] ~ M. P. Deisenroth. #Book #MachineLearning #Mathematics
 + [[https://cacm.acm.org/magazines/2019/11/240390-deepxplore/fulltext][DeepXplore: Automated Whitebox Testing of Deep Learning Systems]] ~ K. Pei #DeepLearning #Interpretability #Reliability
 + [[https://www.biorxiv.org/content/10.1101/265231v1][End-so-end differentiable learning of protein structure]] ~ M. AlQuraishi #DeepLearning #Proteins
 + [[https://www.biorxiv.org/content/10.1101/465955v4][Distance-based Protein Folding Powered by Deep Learning]] ~ J. Xu #DeepLearning #Proteins
