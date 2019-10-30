@@ -37,4 +37,4 @@
 + [[https://www.nature.com/articles/s41592-019-0598-1][Unified rational protein engineering with sequence-based deep representation learning]]
 + [[https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/][3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)]]
 + [[https://docs.google.com/presentation/d/e/2PACX-1vTm9axI6uc6jW9-ttgQrgSNddAkIrFcQnfQ3jspI89iwcDS1MpmmKWDT_zdySrdMgLqQ6d5QvOoZUmy/pub?start=false&loop=false&delayms=30000#slide=id.p][Open Science Forum: Principles and practice]]
-+ [[https://arxiv.org/pdf/1901.00596.pdf][A Comprehensive Survey on Graph NeuralNetworks]]
+
