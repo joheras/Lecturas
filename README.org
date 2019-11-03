@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
+  - [[#noviembre-2019][Noviembre 2019]]
   - [[#octubre-2019][Octubre 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
   
@@ -12,6 +13,8 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del año 2019
+
+** Noviembre 2019
 
 ** Octubre 2019
 + [[https://arxiv.org/pdf/1910.10685.pdf][Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules]] ~ B. Sanchez-Lengeling #GraphNeuralNetworks #Molecules #Scent
