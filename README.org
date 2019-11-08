@@ -15,6 +15,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Noviembre 2019
++ [[https://arxiv.org/abs/1906.11172][Learning Data Augmentation Strategies for Object Detection]] ~ B. Zoph. #DataAugmentation #ObjectDetection #AutoML
 
 ** Octubre 2019
 + [[https://arxiv.org/pdf/1910.10685.pdf][Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules]] ~ B. Sanchez-Lengeling #GraphNeuralNetworks #Molecules #Scent
