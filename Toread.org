@@ -1,3 +1,6 @@
++ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]]
++ [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability — Making your model confess: Shapley values]]
++ [[https://lisp-journey.gitlab.io/pythonvslisp/][Python VS Common Lisp, workflow and ecosystem]]
 + [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]]
 + [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]]
 + [[https://arxiv.org/abs/1909.12475][Hidden Stratification Causes Clinically Meaningful Failures in Machine Learning for Medical Imaging]]
