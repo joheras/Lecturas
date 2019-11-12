@@ -1,7 +1,6 @@
-+ [[https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html][Self-Supervised Representation Learning]]
-+ [[https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980][Recent Advances in Modern Computer Vision]]
-+ [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][Qué es la teoría de categorías y cómo se ha convertido en tendencia]]
-+ [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]]
+
+
+
 + [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]]
 + [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability — Making your model confess: Shapley values]]
 + [[https://lisp-journey.gitlab.io/pythonvslisp/][Python VS Common Lisp, workflow and ecosystem]]
@@ -45,4 +44,4 @@
 + [[https://www.nature.com/articles/s41592-019-0598-1][Unified rational protein engineering with sequence-based deep representation learning]]
 + [[https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/][3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)]]
 + [[https://docs.google.com/presentation/d/e/2PACX-1vTm9axI6uc6jW9-ttgQrgSNddAkIrFcQnfQ3jspI89iwcDS1MpmmKWDT_zdySrdMgLqQ6d5QvOoZUmy/pub?start=false&loop=false&delayms=30000#slide=id.p][Open Science Forum: Principles and practice]]
-
++ [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]]
