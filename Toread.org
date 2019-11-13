@@ -1,6 +1,6 @@
-
-
-
++ [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]]
++ [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]]
++ [[https://towardsdatascience.com/deep-dive-into-the-computer-vision-world-part-3-abd7fd2c64ef][YOLO, SSD, FPN and RetinaNet, more unified ones]]
 + [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]]
 + [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability — Making your model confess: Shapley values]]
 + [[https://lisp-journey.gitlab.io/pythonvslisp/][Python VS Common Lisp, workflow and ecosystem]]
