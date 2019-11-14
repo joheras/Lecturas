@@ -1,3 +1,4 @@
++ [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]]
 + [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]]
 + [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]]
 + [[https://towardsdatascience.com/deep-dive-into-the-computer-vision-world-part-3-abd7fd2c64ef][YOLO, SSD, FPN and RetinaNet, more unified ones]]
