@@ -15,6 +15,12 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Noviembre 2019
++ [[https://arxiv.org/pdf/1503.03832.pdf][FaceNet: A Unified Embedding for Face Recognition and Clustering]] ~ F. Schroff #FaceRecognition #TripletLoss 
++ [[https://arxiv.org/pdf/1702.08734.pdf][Billion-scale similarity search with GPUs]] ~ J. Johnson #SimilaritySearch #GPUs
++ [[https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf][Siamese Neural Networks for One-shot Image Recognition]] ~ G. Koch #OneShotLearning #SiameseNetworks 
++ [[https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973][Image similarity using Triplet Loss]] ~ S. Das #TripletLoss
++ [[https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c][U-Nets with ResNet Encoders and cross connections]] ~ C. Thomas #FastAI #UNet 
++ [[https://arxiv.org/pdf/1711.09784.pdf][Distilling a Neural Network into a soft decision tree]] ~ N. Frosst. #Explanability #Distillation #SemiSupervisedLearning
 + [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][Qué es la teoría de categorías y cómo se ha convertido en tendencia]] ~ J. Baez #TeoriaCategorias #Logica 
 + [[https://www.biorxiv.org/content/10.1101/799270v1][DeepImageJ: A user-friendly plugin to run deep learning models in ImageJ]] ~ E. Gómez-de-Mariscal #ImageJ #DeepLearning 
