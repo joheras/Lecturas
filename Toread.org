@@ -1,3 +1,4 @@
++ [[https://arxiv.org/abs/1910.14667][Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors]]
 + [[https://towardsdatascience.com/must-read-papers-on-gans-b665bbae3317][Must-Read Papers on GANs]]
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]]
 + [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]]
