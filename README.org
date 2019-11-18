@@ -22,7 +22,6 @@ Este repositorio es una recopilación de lecturas.
 + [[https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973][Image similarity using Triplet Loss]] ~ S. Das #TripletLoss
 + [[https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c][U-Nets with ResNet Encoders and cross connections]] ~ C. Thomas #FastAI #UNet 
 + [[https://arxiv.org/pdf/1711.09784.pdf][Distilling a Neural Network into a soft decision tree]] ~ N. Frosst. #Explanability #Distillation #SemiSupervisedLearning
-+ [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][Qué es la teoría de categorías y cómo se ha convertido en tendencia]] ~ J. Baez #TeoriaCategorias #Logica 
 + [[https://www.biorxiv.org/content/10.1101/799270v1][DeepImageJ: A user-friendly plugin to run deep learning models in ImageJ]] ~ E. Gómez-de-Mariscal #ImageJ #DeepLearning 
 + [[https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html][Attention? Attention!]] ~ L. Weng #Attention #NLP
