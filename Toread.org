@@ -1,3 +1,4 @@
++ [[http://ai.stanford.edu/blog/weak-supervision/][Weak Supervision: A New Programming Paradigm for Machine Learning]]
 + [[http://c-faq.com/decl/spiral.anderson.html][The Clockwise/Spiral Rule]]
 + [[https://arxiv.org/pdf/1905.03670.pdf][S4L: Self-Supervised Semi-Supervised Learning]]
 + [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]]
