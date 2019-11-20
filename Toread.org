@@ -1,3 +1,6 @@
++ [[https://reader.elsevier.com/reader/sd/pii/S0925231217312171?token=8393125D6089846543BD22B53D74F1DAF0D3692CA6C573D49717ABD84F550FC17EF6C05C186796FDEBAF12784C34EC61][Evaluation of a novel GA-based methodology for model structure selection: The GA-PARSIMONY]]
++ [[https://reader.elsevier.com/reader/sd/pii/S092523121930459X?token=018CD1D1335019467EE0F3ACAD5DD2811A5F777EE89CD49B37C063D9D0CB55920EEB7BDE2F7A49D4FD764CAA82A85CB9][Hybrid methodology based on Bayesian optimization and GA-PARSIMONY to search for parsimony models by combining hyperparameter optimization and feature selection]]
++ [[https://arxiv.org/abs/1905.09768][Zero-shot Knowledge Transfer via Adversarial Belief Matching]]
 + [[http://ai.stanford.edu/blog/weak-supervision/][Weak Supervision: A New Programming Paradigm for Machine Learning]]
 + [[http://c-faq.com/decl/spiral.anderson.html][The Clockwise/Spiral Rule]]
 + [[https://arxiv.org/pdf/1905.03670.pdf][S4L: Self-Supervised Semi-Supervised Learning]]
