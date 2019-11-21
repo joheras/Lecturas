@@ -15,6 +15,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Noviembre 2019
++ [[https://reader.elsevier.com/reader/sd/pii/S092523121930459X?token=018CD1D1335019467EE0F3ACAD5DD2811A5F777EE89CD49B37C063D9D0CB55920EEB7BDE2F7A49D4FD764CAA82A85CB9][Hybrid methodology based on Bayesian optimization and GA-PARSIMONY to search for parsimony models by combining hyperparameter optimization and feature selection]] ~ F. J. Martinez-de-Pison #GeneticAlgorithms #HyperparameterTuning # FeatureSelection
++ [[https://reader.elsevier.com/reader/sd/pii/S0925231217312171?token=8393125D6089846543BD22B53D74F1DAF0D3692CA6C573D49717ABD84F550FC17EF6C05C186796FDEBAF12784C34EC61][Evaluation of a novel GA-based methodology for model structure selection: The GA-PARSIMONY]] ~ F. J. Martinez-de-Pison #GeneticAlgorithms #HyperparameterTuning # FeatureSelection
 + [[https://machinelearningmastery.com/computer-vision-books/][8 Books for Getting Started With Computer Vision]] ~ J. Brownlee #ComputerVision #Books
 + [[https://arxiv.org/pdf/1503.03832.pdf][FaceNet: A Unified Embedding for Face Recognition and Clustering]] ~ F. Schroff #FaceRecognition #TripletLoss 
 + [[https://arxiv.org/pdf/1702.08734.pdf][Billion-scale similarity search with GPUs]] ~ J. Johnson #SimilaritySearch #GPUs
