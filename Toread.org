@@ -1,5 +1,12 @@
 
-
++ [[https://medium.com/analytics-vidhya/training-an-object-detection-model-with-tensorflow-api-using-google-colab-4f9a688d5e8b][Training an Object Detection Model with TensorFlow API using Google COLAB]]
++ [[https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e][How to create buttons in Jupyter]]
++ [[https://deepai.org/publication/coverage-testing-of-deep-learning-models-using-dataset-characterization][Coverage Testing of Deep Learning Models using Dataset Characterization]]
++ [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0777-8][Structured report data can be used to develop deep learning algorithms: a proof of concept in ankle radiographs]]
++ [[https://diginomica.com/ai-curve-fitting-not-intelligence][AI today and tomorrow is mostly about curve fitting, not intelligence]]
++ [[https://arxiv.org/abs/1911.08265][Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model]]
++ [[https://arxiv.org/abs/1911.09071][Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks]]
++ [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]]
 + [[https://arxiv.org/abs/1911.09070][EfficientDet: Scalable and Efficient Object Detection]]
 + [[https://arxiv.org/abs/1911.00385][A Formal Proof of PAC Learnability for Decision Stumps]]
 + [[https://www.cs.cmu.edu/~rwh/papers/prob-conc/paper.pdf][A Separation Logic for Concurrent Randomized Programs]]
