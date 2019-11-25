@@ -15,6 +15,13 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Noviembre 2019
+
++ [[https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e][How to create buttons in Jupyter]] ~ D. Penilla #JupyterNotebooks #Interaction
++ [[http://blog.ibanyez.info/blogs/coding/20190410-run-a-google-colab-notebook-to-train-yolov3-using-darknet-in/][How to train YOLOv3 using Darknet on Colab]] ~ D. Ibáñez #Colab #ObjectDetection #YOLO
++ [[https://medium.com/analytics-vidhya/training-an-object-detection-model-with-tensorflow-api-using-google-colab-4f9a688d5e8b][Training an Object Detection Model with TensorFlow API using Google COLAB]] ~ N. O. Solomon #ObjectDetection #Colab
++  [[https://icml.cc/Conferences/2017/Schedule?showParentSession=1116][Semisupervised and curriculum learning conference]] #CurriculumLearning #SupervisedLearning #Conference
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7465792][Multi-Modal Curriculum Learning forSemi-Supervised Image Classification]] ~ C. Gong #SemiSupervisedLearning #CurriculumLearning #ImageClassification
++ [[https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf][Curriculum Learning]] ~ Y. Bengio #CurriculumLearning 
 + [[https://weightpruningdamage.github.io/][Selective Brain Damage: Measuring the Disparate Impact of Model Compression]] ~ S. Hooker #Prunning #NeuralCompression
 + [[https://www.technologyreview.com/s/614742/machine-learning-has-revealed-exactly-how-much-of-a-shakespeare-play-was-written-by-someone/][Machine learning has revealed exactly how much of a Shakespeare play was written by someone else]] ~  P. Plecháč #NaturalLanguageProcessing 
 + [[https://www.nature.com/articles/s41467-019-12552-4][The Eighty Five Percent Rule for optimal learning]] ~ R. C. Wilson. #CurriculumLearning #Learning #LearningRate
