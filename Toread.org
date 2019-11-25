@@ -1,7 +1,6 @@
-+ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7465792][Multi-Modal Curriculum Learning forSemi-Supervised Image Classification]]
-+  [[https://icml.cc/Conferences/2017/Schedule?showParentSession=1116][Semisupervised and curriculum learning conference]]
-+ [[https://medium.com/analytics-vidhya/training-an-object-detection-model-with-tensorflow-api-using-google-colab-4f9a688d5e8b][Training an Object Detection Model with TensorFlow API using Google COLAB]]
-+ [[https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e][How to create buttons in Jupyter]]
+
+
+
 + [[https://deepai.org/publication/coverage-testing-of-deep-learning-models-using-dataset-characterization][Coverage Testing of Deep Learning Models using Dataset Characterization]]
 + [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0777-8][Structured report data can be used to develop deep learning algorithms: a proof of concept in ankle radiographs]]
 + [[https://diginomica.com/ai-curve-fitting-not-intelligence][AI today and tomorrow is mostly about curve fitting, not intelligence]]
