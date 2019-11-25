@@ -16,6 +16,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832][On Recent Research Auditing Commercial Facial Analysis Technology]] ~ Concerned Researchers #Ethics #FaceRecognition 
++ [[http://ai.stanford.edu/blog/weak-supervision/][Weak Supervision: A New Programming Paradigm for Machine Learning]] ~ A. Ratner #WeakSupervision
++ [[http://c-faq.com/decl/spiral.anderson.html][The Clockwise/Spiral Rule]] ~ D. Anderson #C++
++ [[https://arxiv.org/abs/1911.09070][EfficientDet: Scalable and Efficient Object Detection]] ~ M. Tan #ObjectDetection
++ [[http://matryoshka.gforge.inria.fr/pubs/deep_learning_paper.pdf][A formal proofof the expressiveness of deep learning]] ~ A. Bentkamp #Isabelle/HOL #MachineLearningProofs
++ [[http://ace.cs.ohio.edu/~gstewart/papers/aaai19-bagnall.pdf][Certifying the True Error: Machine Learning in Coq with Verified Generalization Guarantees]] ~ A. Bagnall #Coq #MachineLearningProofs #Tensorflow
++ [[https://arxiv.org/abs/1911.00385][A Formal Proof of PAC Learnability for Decision Stumps]] ~ J. Tassarotti. #TheoremProving #AdrianLanguage 
 + [[https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e][How to create buttons in Jupyter]] ~ D. Penilla #JupyterNotebooks #Interaction
 + [[http://blog.ibanyez.info/blogs/coding/20190410-run-a-google-colab-notebook-to-train-yolov3-using-darknet-in/][How to train YOLOv3 using Darknet on Colab]] ~ D. Ibáñez #Colab #ObjectDetection #YOLO
 + [[https://medium.com/analytics-vidhya/training-an-object-detection-model-with-tensorflow-api-using-google-colab-4f9a688d5e8b][Training an Object Detection Model with TensorFlow API using Google COLAB]] ~ N. O. Solomon #ObjectDetection #Colab
