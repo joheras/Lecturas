@@ -16,6 +16,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://arxiv.org/pdf/1807.11626.pdf][MnasNet: Platform-Aware Neural Architecture Search for Mobile]] ~ M. Tan #AutoML #NeuralArchitectureSearch #Mobile
++ [[https://medium.com/@santiagof/auto-is-the-new-black-google-automl-microsoft-automated-ml-autokeras-and-auto-sklearn-80d1d3c3005c][Auto is the new black — Google AutoML, Microsoft Automated ML, AutoKeras and auto-sklearn]] ~ F. Santiago #AutoML
++ [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability — Making your model confess: Shapley values]] ~ F. Santiago #Interpretability #Fairness #Privacy #Robustness #Causality #Trust
++ [[https://towardsdatascience.com/deep-dive-into-the-computer-vision-world-part-3-abd7fd2c64ef][YOLO, SSD, FPN and RetinaNet, more unified ones]] ~ J. Jeong #ObjectDetection #Architectures 
++ [[https://arxiv.org/abs/1910.14667][Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors]] ~ Z. Wu #AdversialAttacks #ObjectDetectors
 + [[https://www.frontiersin.org/articles/10.3389/fcomp.2019.00010/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE][Generative Adversarial Networks for Augmenting Training Data of Microscopic Cell Images]] ~ P. Baniukiewicz #DataAugmentation #Microscopy #GANs
 + [[https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832][On Recent Research Auditing Commercial Facial Analysis Technology]] ~ Concerned Researchers #Ethics #FaceRecognition 
 + [[http://ai.stanford.edu/blog/weak-supervision/][Weak Supervision: A New Programming Paradigm for Machine Learning]] ~ A. Ratner #WeakSupervision
