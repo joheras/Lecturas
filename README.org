@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://machinelearningmastery.com/types-of-learning-in-machine-learning/][14 Different Types of Learning in Machine Learning]] ~ J. Brownlee #Classification #SemiSupervisedLearning #SelfSupervisedLearning
 + [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]] ~ A. Coenen #DimensionalityReduction 
 + [[https://arxiv.org/pdf/1807.11626.pdf][MnasNet: Platform-Aware Neural Architecture Search for Mobile]] ~ M. Tan #AutoML #NeuralArchitectureSearch #Mobile
 + [[https://medium.com/@santiagof/auto-is-the-new-black-google-automl-microsoft-automated-ml-autokeras-and-auto-sklearn-80d1d3c3005c][Auto is the new black — Google AutoML, Microsoft Automated ML, AutoKeras and auto-sklearn]] ~ F. Santiago #AutoML
