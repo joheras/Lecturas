@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://www.frontiersin.org/articles/10.3389/fcomp.2019.00010/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE][Generative Adversarial Networks for Augmenting Training Data of Microscopic Cell Images]] ~ P. Baniukiewicz #DataAugmentation #Microscopy #GANs
 + [[https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832][On Recent Research Auditing Commercial Facial Analysis Technology]] ~ Concerned Researchers #Ethics #FaceRecognition 
 + [[http://ai.stanford.edu/blog/weak-supervision/][Weak Supervision: A New Programming Paradigm for Machine Learning]] ~ A. Ratner #WeakSupervision
 + [[http://c-faq.com/decl/spiral.anderson.html][The Clockwise/Spiral Rule]] ~ D. Anderson #C++
