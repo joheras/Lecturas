@@ -17,7 +17,7 @@ Este repositorio es una recopilación de lecturas.
 ** Noviembre 2019
 
 + [[https://arxiv.org/abs/1610.05755][Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data]] ~ N. Papernot #DifferentialPrivacy #PATE #Ensemble #SemiSupervisedLearning
-+ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689016][Enhance PATE on Complex TasksWith Knowledge TransferredFrom Non-Private Data]] ~ L. Wang #DifferentialPrivacy #Ensemble #ImageClassification
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689016][Enhance PATE on Complex Tasks With Knowledge Transferred From Non-Private Data]] ~ L. Wang #DifferentialPrivacy #Ensemble #ImageClassification
 + [[https://arxiv.org/pdf/1802.08908.pdf][Scalable Private Learning with PATE]] ~ N. Papernot #DifferentialPrivacy #Ensemble
 + [[https://desfontain.es/privacy/differential-privacy-awesomeness.html][Why differential privacy is awesome]] ~ D. Desfontaines #DifferentialPrivacy #Security #Series
 + [[https://www.papernot.fr/teaching/f19/ECE1784H_7.pdf][Differential Privacy]] ~ N. Papernot #DifferentialPrivacy #Security
