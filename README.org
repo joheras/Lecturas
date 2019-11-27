@@ -16,6 +16,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://arxiv.org/abs/1610.05755][Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data]] ~ N. Papernot #DifferentialPrivacy #PATE #Ensemble #SemiSupervisedLearning
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689016][Enhance PATE on Complex TasksWith Knowledge TransferredFrom Non-Private Data]] ~ L. Wang #DifferentialPrivacy #Ensemble #ImageClassification
++ [[https://arxiv.org/pdf/1802.08908.pdf][Scalable Private Learning with PATE]] ~ N. Papernot #DifferentialPrivacy #Ensemble
++ [[https://desfontain.es/privacy/differential-privacy-awesomeness.html][Why differential privacy is awesome]] ~ D. Desfontaines #DifferentialPrivacy #Security #Series
++ [[https://www.papernot.fr/teaching/f19/ECE1784H_7.pdf][Differential Privacy]] ~ N. Papernot #DifferentialPrivacy #Security
++ [[https://arxiv.org/abs/1911.08855][RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices]] ~ C. Chen #ObjectDetection #Mobile #SmallNetworks
++ [[https://arxiv.org/pdf/1811.05588.pdf][YOLO-LITE: A Real-Time Object DetectionAlgorithm Optimized for Non-GPU Computers]] ~ R. Huang. #ObjectDetection #Mobile #SmallNetworks
 + [[https://machinelearningmastery.com/types-of-learning-in-machine-learning/][14 Different Types of Learning in Machine Learning]] ~ J. Brownlee #Classification #SemiSupervisedLearning #SelfSupervisedLearning
 + [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]] ~ A. Coenen #DimensionalityReduction 
 + [[https://arxiv.org/pdf/1807.11626.pdf][MnasNet: Platform-Aware Neural Architecture Search for Mobile]] ~ M. Tan #AutoML #NeuralArchitectureSearch #Mobile
