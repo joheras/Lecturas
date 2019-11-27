@@ -16,6 +16,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://smerity.com/articles/2017/baselines_need_love.html][Backing off towards simplicity - why baselines need more love]] ~ S. Merity #Baselines #DeepLearning
++ [[https://smerity.com/articles/2018/limited_compute.html][The compute and data moats are dead]] ~ S. Merity #BigData #LimitedComputation 
++ [[https://arxiv.org/abs/1911.11423][Single Headed Attention RNN: Stop Thinking With Your Head]] ~ S. Merity #NaturalLanguageProcessing #LanguageModelling
 + [[https://arxiv.org/abs/1610.05755][Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data]] ~ N. Papernot #DifferentialPrivacy #PATE #Ensemble #SemiSupervisedLearning
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689016][Enhance PATE on Complex Tasks With Knowledge Transferred From Non-Private Data]] ~ L. Wang #DifferentialPrivacy #Ensemble #ImageClassification
 + [[https://arxiv.org/pdf/1802.08908.pdf][Scalable Private Learning with PATE]] ~ N. Papernot #DifferentialPrivacy #Ensemble
