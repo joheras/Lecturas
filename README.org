@@ -16,6 +16,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
++ [[https://arxiv.org/pdf/1902.06162.pdf][Self-supervised Visual Feature Learning withDeep Neural Networks: A Survey]] ~ L. Jing #SelfSupervisedLearning #TransferLearning 
++ [[https://arxiv.org/pdf/1911.10317.pdf][PlantDoc: A Dataset for Visual Plant Disease Detection]] ~ D. Singh #Datasets #ObjectDetection
 + [[http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Multi-Task_Self-Supervised_Object_Detection_via_Recycling_of_Bounding_Box_Annotations_CVPR_2019_paper.pdf][Multi-task Self-supervised Object Detectionvia Recycling of Bounding Box Annotations]] ~ W. Lee #SelfSupervisedLearning #ObjectDetection #MultiClassLearning
 + [[https://arxiv.org/abs/1804.09170][Realistic Evaluation of Deep Semi-Supervised Learning Algorithms]] ~ A. Oliver #SemiSupervisedLearning #Evaluation #ImageClassification
 + [[https://arxiv.org/pdf/1905.03670.pdf][S4L: Self-Supervised Semi-Supervised Learning]] ~ X. Zhai #SelfSupervisedLearning #SemiSupervisedLearning
