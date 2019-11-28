@@ -3,7 +3,6 @@
 + [[https://deepai.org/publication/differentially-private-federated-variational-inference][Differentially Private Federated Variational Inference]]
 + [[https://arxiv.org/abs/1911.11763][SuperGlue: Learning Feature Matching with Graph Neural Networks]]
 
-+ [[https://deepai.org/publication/coverage-testing-of-deep-learning-models-using-dataset-characterization][Coverage Testing of Deep Learning Models using Dataset Characterization]]
 + [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0777-8][Structured report data can be used to develop deep learning algorithms: a proof of concept in ankle radiographs]]
 + [[https://diginomica.com/ai-curve-fitting-not-intelligence][AI today and tomorrow is mostly about curve fitting, not intelligence]]
 + [[https://arxiv.org/abs/1911.08265][Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model]]
@@ -16,7 +15,6 @@
 + [[https://arxiv.org/abs/1905.09768][Zero-shot Knowledge Transfer via Adversarial Belief Matching]]
 
 
-+ [[https://arxiv.org/pdf/1905.03670.pdf][S4L: Self-Supervised Semi-Supervised Learning]]
 + [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]]
 + [[https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/][Variational Autoencoders in Haskell]]
 + [[https://arxiv.org/pdf/1708.07860.pdf][Multi-task Self-Supervised Visual Learning]]
