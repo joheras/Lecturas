@@ -16,7 +16,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2019
 
-+[[https://arxiv.org/abs/1511.06434][Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks]] ~ A. Radford #GANs
++ [[https://arxiv.org/abs/1511.06434][Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks]] ~ A. Radford #GANs
 + [[https://arxiv.org/pdf/1406.2661.pdf][Generative Adversarial Nets]] ~ I. Goodfellow. #GANs
 + [[https://arxiv.org/pdf/1902.06162.pdf][Self-supervised Visual Feature Learning withDeep Neural Networks: A Survey]] ~ L. Jing #SelfSupervisedLearning #TransferLearning 
 + [[https://arxiv.org/pdf/1911.10317.pdf][PlantDoc: A Dataset for Visual Plant Disease Detection]] ~ D. Singh #Datasets #ObjectDetection
