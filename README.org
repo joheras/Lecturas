@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
+  - [[#diciembre-2019][Diciembre 2019]]
   - [[#noviembre-2019][Noviembre 2019]]
   - [[#octubre-2019][Octubre 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
@@ -13,6 +14,17 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del año 2019
+
+** Diciembre 2019
+
++ [[https://deepai.org/publication/artificial-intelligence-for-diagnosis-of-skin-cancer-challenges-and-opportunities][Artificial Intelligence for Diagnosis of Skin Cancer: Challenges and Opportunities]] ~ M. Goyal #MedicalImaging #Review #Datasets
++ [[https://towardsdatascience.com/bayesian-deep-learning-with-fastai-how-not-to-be-uncertain-about-your-uncertainty-6a99d1aa686e][Bayesian deep learning with Fastai : how not to be uncertain about your uncertainty]] ~ D. Huynh #BayesianNeuralNetworks #FastAI
++ [[https://towardsdatascience.com/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef][How I created over 100,000 labeled LEGO training images]] ~ D. West #Annotation 
++ [[https://codesync.global/media/revolution-in-computing-education-at-school-opportunity-and-challenge-cmldn19/][The revolution in computing education at school: opportunity and challenge]] ~ S. Peyton Jones #ComputerScience #Education
++ [[https://www.tweag.io/posts/2019-11-28-pcf-makam-spec][How to make your papers run: executable formal semantics for your language]] ~ T. Freund #FormalMethods #Makam #OperationalSemantics
++ [[https://fairmlbook.org/index.html][Fairness and machine learning]] ~ S. Barocas #Ethics #Fairness
++ [[https://blog.dropbox.com/topics/work-culture/-the-mind-at-work--guido-van-rossum-on-how-python-makes-thinking][The Mind at Work: Guido van Rossum on how Python makes thinking in code easier]] ~ A. Wing Kosner #Programming #Python
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994246/pdf/1758-2946-6-10.pdf][Cross-validation pitfalls when selecting andassessing regression and classification models]] ~ D. Krstajic #CrossValidation #MachineLearning #ProperEvaluation
 
 ** Noviembre 2019
 
