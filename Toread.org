@@ -17,8 +17,8 @@
 
 + [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]]
 + [[https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/][Variational Autoencoders in Haskell]]
-+ [[https://arxiv.org/pdf/1708.07860.pdf][Multi-task Self-Supervised Visual Learning]]
-+ [[https://arxiv.org/pdf/1901.09005.pdf][Revisiting Self-Supervised Visual Representation Learning]]
+
+
 + [[https://arxiv.org/pdf/1908.01842.pdf][Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds]]
 + [[https://ai.googleblog.com/2019/11/spice-self-supervised-pitch-estimation.html][SPICE: Self-Supervised Pitch Estimation ]]
 + [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus — Cloud Segmentation using Deep Learning for Agriculture.]]
