@@ -4,7 +4,6 @@
 + [[https://arxiv.org/abs/1911.11763][SuperGlue: Learning Feature Matching with Graph Neural Networks]]
 
 + [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0777-8][Structured report data can be used to develop deep learning algorithms: a proof of concept in ankle radiographs]]
-+ [[https://diginomica.com/ai-curve-fitting-not-intelligence][AI today and tomorrow is mostly about curve fitting, not intelligence]]
 + [[https://arxiv.org/abs/1911.08265][Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model]]
 + [[https://arxiv.org/abs/1911.09071][Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks]]
 + [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]]
