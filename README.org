@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/abs/1606.03498][Improved Techniques for Training GANs]] ~ T. Salimans #GANs #TrainingMethods #SemiSupervisedLearning 
 + [[https://deepai.org/publication/artificial-intelligence-for-diagnosis-of-skin-cancer-challenges-and-opportunities][Artificial Intelligence for Diagnosis of Skin Cancer: Challenges and Opportunities]] ~ M. Goyal #MedicalImaging #Review #Datasets
 + [[https://towardsdatascience.com/bayesian-deep-learning-with-fastai-how-not-to-be-uncertain-about-your-uncertainty-6a99d1aa686e][Bayesian deep learning with Fastai : how not to be uncertain about your uncertainty]] ~ D. Huynh #BayesianNeuralNetworks #FastAI
 + [[https://towardsdatascience.com/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef][How I created over 100,000 labeled LEGO training images]] ~ D. West #Annotation 
