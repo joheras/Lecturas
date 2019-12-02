@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/pdf/1901.09005.pdf][Revisiting Self-Supervised Visual Representation Learning]] ~ A. Kolesnikov #SelfSupervisedLearning #RepresentationLearning
++ [[https://arxiv.org/pdf/1708.07860.pdf][Multi-task Self-Supervised Visual Learning]] ~ C. Doersch #SelfSupervisedLearning #MultiTaskLearning #RepresentationLearning
 + [[https://www.fast.ai/2019/12/02/nbdev/][nbdev: use Jupyter Notebooks for everything]] ~ J. Howard #JupyterNotebooks #ProgrammingEnvironment #Python
 + [[https://arxiv.org/abs/1606.03498][Improved Techniques for Training GANs]] ~ T. Salimans #GANs #TrainingMethods #SemiSupervisedLearning 
 + [[https://deepai.org/publication/artificial-intelligence-for-diagnosis-of-skin-cancer-challenges-and-opportunities][Artificial Intelligence for Diagnosis of Skin Cancer: Challenges and Opportunities]] ~ M. Goyal #MedicalImaging #Review #Datasets
