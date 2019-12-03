@@ -15,19 +15,18 @@
 + [[https://arxiv.org/abs/1905.09768][Zero-shot Knowledge Transfer via Adversarial Belief Matching]]
 
 
-+ [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]]
+
 + [[https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/][Variational Autoencoders in Haskell]]
 
 
 + [[https://arxiv.org/pdf/1908.01842.pdf][Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds]]
 + [[https://ai.googleblog.com/2019/11/spice-self-supervised-pitch-estimation.html][SPICE: Self-Supervised Pitch Estimation ]]
-+ [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus — Cloud Segmentation using Deep Learning for Agriculture.]]
 
 + [[https://arxiv.org/pdf/1911.05250v1.pdf][Location-aware Upsampling for Semantic Segmentation]]
 + [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://arxiv.org/abs/1910.09779][Bridging the Gap Between f-GANs and Wasserstein GANs]]
 
-+ [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]]
+
 + [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]]
 + [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]]
 
