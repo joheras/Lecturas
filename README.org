@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]] ~ T. Hagendorff #Ethics #Guidelines
++ [[https://arxiv.org/pdf/1703.06870.pdf][Mask R-CNN]] ~ K. He #ObjectDetection #SemanticSegmentation #MultiTaskLearning
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfTraining #ImageClassification #SemiSupervisedLearning #EfficientNet
 + [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus — Cloud Segmentation using Deep Learning for Agriculture.]] ~ G. Rahman #Copernicus #Agriculture #IDERioja #SemanticSegmentation
 + [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]] ~ P. Moura #DesignPatterns #Programming #Prolog
