@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/pdf/1911.13299.pdf][What’s Hidden in a Randomly Weighted Neural Network?]] ~ V. Ramanujan #UntrainedNetworks #Subnetworks #LotteryTicket
 + [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]] ~ T. Hagendorff #Ethics #Guidelines
 + [[https://arxiv.org/pdf/1703.06870.pdf][Mask R-CNN]] ~ K. He #ObjectDetection #SemanticSegmentation #MultiTaskLearning
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfTraining #ImageClassification #SemiSupervisedLearning #EfficientNet
