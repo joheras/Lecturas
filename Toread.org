@@ -1,4 +1,5 @@
 
++ [[https://arxiv.org/abs/1912.00953][LOGAN: Latent Optimisation for Generative Adversarial Networks]]
 + [[https://www.biorxiv.org/content/10.1101/133504v2.abstract][Deep Neural Networks in Computational Neuroscience]]
 + [[https://arxiv.org/abs/1802.03268][Efficient Neural Architecture Search via Parameter Sharing]]
 + [[https://deepai.org/publication/differentially-private-federated-variational-inference][Differentially Private Federated Variational Inference]]
