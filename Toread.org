@@ -50,7 +50,7 @@
 + [[https://github.com/dropoutlabs/tf-world-tutorial][Privacy-Preserving Machine Learning with TF Encrypted & PySyft]]
 + [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]]
 
-+ [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]]
+
 + [[https://arxiv.org/pdf/1812.11832.pdf][Towards a topological-geometrical theory of group equivariantnon-expansive operators for data analysis and machine learning]]
 + [[https://arxiv.org/pdf/1711.11279.pdf][Interpretability Beyond Feature Attribution]]
 + [[https://arxiv.org/pdf/1809.05962.pdf][Robust Adversarial Perturbation on Deep Proposal-based Models]]
