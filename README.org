@@ -17,6 +17,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfTraining #ImageClassification #SemiSupervisedLearning #EfficientNet
++ [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus — Cloud Segmentation using Deep Learning for Agriculture.]] ~ G. Rahman #Copernicus #Agriculture #IDERioja #SemanticSegmentation
++ [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]] ~ P. Moura #DesignPatterns #Programming #Prolog
++ [[http://deliprao.com/archives/342][The Doers and The Clarion Callers]] ~ Delip #ArtificialIntelligence #Connectionism #Symbolism
 + [[https://arxiv.org/pdf/1901.09005.pdf][Revisiting Self-Supervised Visual Representation Learning]] ~ A. Kolesnikov #SelfSupervisedLearning #RepresentationLearning
 + [[https://arxiv.org/pdf/1708.07860.pdf][Multi-task Self-Supervised Visual Learning]] ~ C. Doersch #SelfSupervisedLearning #MultiTaskLearning #RepresentationLearning
 + [[https://www.fast.ai/2019/12/02/nbdev/][nbdev: use Jupyter Notebooks for everything]] ~ J. Howard #JupyterNotebooks #ProgrammingEnvironment #Python
