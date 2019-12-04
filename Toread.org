@@ -3,36 +3,18 @@
 + [[https://www.biorxiv.org/content/10.1101/133504v2.abstract][Deep Neural Networks in Computational Neuroscience]]
 + [[https://arxiv.org/abs/1802.03268][Efficient Neural Architecture Search via Parameter Sharing]]
 + [[https://deepai.org/publication/differentially-private-federated-variational-inference][Differentially Private Federated Variational Inference]]
-+ [[https://arxiv.org/abs/1911.11763][SuperGlue: Learning Feature Matching with Graph Neural Networks]]
-
 + [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0777-8][Structured report data can be used to develop deep learning algorithms: a proof of concept in ankle radiographs]]
 + [[https://arxiv.org/abs/1911.08265][Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model]]
 + [[https://arxiv.org/abs/1911.09071][Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks]]
-+ [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]]
-
-
 + [[https://www.cs.cmu.edu/~rwh/papers/prob-conc/paper.pdf][A Separation Logic for Concurrent Randomized Programs]]
 + [[https://www.cs.cmu.edu/~rwh/papers/tail-bounds/paper.pdf][Verified Tail Bounds for Randomized Programs]]
 + [[https://arxiv.org/abs/1905.09768][Zero-shot Knowledge Transfer via Adversarial Belief Matching]]
-
-
-
 + [[https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/][Variational Autoencoders in Haskell]]
-
-
 + [[https://arxiv.org/pdf/1908.01842.pdf][Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds]]
 + [[https://ai.googleblog.com/2019/11/spice-self-supervised-pitch-estimation.html][SPICE: Self-Supervised Pitch Estimation ]]
-
 + [[https://arxiv.org/pdf/1911.05250v1.pdf][Location-aware Upsampling for Semantic Segmentation]]
 + [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://arxiv.org/abs/1910.09779][Bridging the Gap Between f-GANs and Wasserstein GANs]]
-
-
-+ [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]]
-
-+ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]]
-
-
 + [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]]
 + [[https://arxiv.org/abs/1909.12475][Hidden Stratification Causes Clinically Meaningful Failures in Machine Learning for Medical Imaging]]
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]
@@ -47,8 +29,6 @@
 + [[https://arxiv.org/pdf/1905.01164.pdf][SinGAN: Learning a Generative Model from a Single Natural Image]]
 + [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]]
 + [[https://github.com/dropoutlabs/tf-world-tutorial][Privacy-Preserving Machine Learning with TF Encrypted & PySyft]]
-
-
 + [[https://arxiv.org/pdf/1812.11832.pdf][Towards a topological-geometrical theory of group equivariantnon-expansive operators for data analysis and machine learning]]
 + [[https://arxiv.org/pdf/1711.11279.pdf][Interpretability Beyond Feature Attribution]]
 + [[https://arxiv.org/pdf/1809.05962.pdf][Robust Adversarial Perturbation on Deep Proposal-based Models]]
@@ -69,5 +49,4 @@
 + [[https://academic.oup.com/jamia/article/25/10/1419/5035024][Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review]]
 + [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]]
 + [[https://www.nature.com/articles/s41592-019-0598-1][Unified rational protein engineering with sequence-based deep representation learning]]
-
 + [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]]
