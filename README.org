@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/abs/1912.01412][Deep Learning for Symbolic Mathematics]] ~ G. Lample #DeepLearning #ComputerAlgebraSystems 
 + [[https://arxiv.org/pdf/1911.13299.pdf][What’s Hidden in a Randomly Weighted Neural Network?]] ~ V. Ramanujan #UntrainedNetworks #Subnetworks #LotteryTicket
 + [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]] ~ T. Hagendorff #Ethics #Guidelines
 + [[https://arxiv.org/pdf/1703.06870.pdf][Mask R-CNN]] ~ K. He #ObjectDetection #SemanticSegmentation #MultiTaskLearning
