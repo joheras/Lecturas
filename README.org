@@ -17,6 +17,15 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://ai.googleblog.com/2017/04/predicting-properties-of-molecules-with.html][Predicting Properties of Molecules with Machine Learning]] ~ G. Dahl #GraphNeuralNetworks #Chemistry
++ [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]] ~ A. Wiltschko #Smell #DeepNeuralNetworks #GraphNeuralNetworks #Embeddings #Chemistry
++ [[https://docs.google.com/presentation/d/e/2PACX-1vTm9axI6uc6jW9-ttgQrgSNddAkIrFcQnfQ3jspI89iwcDS1MpmmKWDT_zdySrdMgLqQ6d5QvOoZUmy/pub?start=false&loop=false&delayms=30000#slide=id.p][Open Science Forum: Principles and practice]] ~ G. Way #OpenScience
++ [[https://www.pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/][OpenCV Vehicle Detection, Tracking, and Speed Estimation]] ~ A. Rosebrock #PyimageSearch #VehicleDetection #OpenCV #RaspberryPi
++ [[https://www.pyimagesearch.com/2019/11/25/human-activity-recognition-with-opencv-and-deep-learning/][Human Activity Recognition with OpenCV and Deep Learning]] ~ A. Rosebrock #PyimageSearch #HumanActivityRecognition #VideoRecognition #KineticsDataset #3DConvs
++ [[https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/][3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)]] ~ A. Rosebrock #PyimageSearch #Keras #Tensorflow
++ [[https://lisp-journey.gitlab.io/pythonvslisp/][Python VS Common Lisp, workflow and ecosystem]] ~ H. Beg #ProgrammingLanguages #Lisp #Python
++ [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]] ~ V. Alto #Streamlit #ConvolutionalNeuralNetworks #Interactive #Visualization
++ [[https://arxiv.org/pdf/1905.11946.pdf][EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks]] ~ M. Tan #ConvolutionalNeuralNetworks #ImageClassification #EfficientNet #NeuralArchitectureSearch #ModelScaling
 + [[https://arxiv.org/abs/1912.01412][Deep Learning for Symbolic Mathematics]] ~ G. Lample #DeepLearning #ComputerAlgebraSystems 
 + [[https://arxiv.org/pdf/1911.13299.pdf][What’s Hidden in a Randomly Weighted Neural Network?]] ~ V. Ramanujan #UntrainedNetworks #Subnetworks #LotteryTicket
 + [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]] ~ T. Hagendorff #Ethics #Guidelines
