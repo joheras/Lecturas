@@ -48,6 +48,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994246/pdf/1758-2946-6-10.pdf][Cross-validation pitfalls when selecting andassessing regression and classification models]] ~ D. Krstajic #CrossValidation #MachineLearning #ProperEvaluation
 
 ** Noviembre 2019
+#+html: <p align="center"><img src="wordClouds/noviembre2019.png" /></p>
 
 + [[https://diginomica.com/ai-curve-fitting-not-intelligence][AI today and tomorrow is mostly about curve fitting, not intelligence]] ~ K. Marko #ArtificialIntelligence #ArtificialGeneralIntelligence
 + [[https://arxiv.org/abs/1511.06434][Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks]] ~ A. Radford #GANs
@@ -109,6 +110,8 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/1906.11172][Learning Data Augmentation Strategies for Object Detection]] ~ B. Zoph. #DataAugmentation #ObjectDetection #AutoML
 
 ** Octubre 2019
+#+html: <p align="center"><img src="wordClouds/octubre2019.png" /></p>
+
 + [[https://arxiv.org/pdf/1910.10685.pdf][Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules]] ~ B. Sanchez-Lengeling #GraphNeuralNetworks #Molecules #Scent
 + [[https://arxiv.org/pdf/1901.00596.pdf][A Comprehensive Survey on Graph Neural Networks]] ~ Z. Wu. #Survey #GraphNeuralNetworks
 + [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]] ~ M. P. Deisenroth. #Book #MachineLearning #Mathematics
@@ -130,6 +133,8 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.pyimagesearch.com/2019/09/30/rectified-adam-radam-optimizer-with-keras/][Rectified Adam (RAdam) optimizer with Keras]] ~ A. Rosebrock #PyimageSearch #Optimization
 
 ** Septiembre 2019
+#+html: <p align="center"><img src="wordClouds/septiembre2019.png" /></p>
+
 + [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
   Barış Özmen. #DeepLearning #AutoML #ImageAugmentation
 + [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf][SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network]] ~ Yancheng Bai. #GANs #SuperResolution #ObjectDetection
