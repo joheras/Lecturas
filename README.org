@@ -17,6 +17,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]] ~ JupyterHub #JupyterNotebooks
++ [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]] ~ Sciforce #ImageClassification #TransferLearning #DomainAdapatation #FewShotLearning
++ [[https://arxiv.org/pdf/1909.01958.pdf][From ‘F’ to ‘A’ on the N.Y. Regents Science Exams:An Overview of the Aristo Project]] ~ P. Clark #NaturalLanguageProcessing #QuestionAnswering #Aristo
++ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]] ~ Microsiervos #ArtificialIntelligence #Mathematics
++ [[https://arxiv.org/abs/1911.11763][SuperGlue: Learning Feature Matching with Graph Neural Networks]] ~ P-E. Sarlin # GraphNeuralNetworks #PoseEstimation #Matching #Homography
 + [[https://ai.googleblog.com/2017/04/predicting-properties-of-molecules-with.html][Predicting Properties of Molecules with Machine Learning]] ~ G. Dahl #GraphNeuralNetworks #Chemistry
 + [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]] ~ A. Wiltschko #Smell #DeepNeuralNetworks #GraphNeuralNetworks #Embeddings #Chemistry
 + [[https://docs.google.com/presentation/d/e/2PACX-1vTm9axI6uc6jW9-ttgQrgSNddAkIrFcQnfQ3jspI89iwcDS1MpmmKWDT_zdySrdMgLqQ6d5QvOoZUmy/pub?start=false&loop=false&delayms=30000#slide=id.p][Open Science Forum: Principles and practice]] ~ G. Way #OpenScience
