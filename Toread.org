@@ -1,5 +1,6 @@
 
 + [[https://github.com/LaRiffle/collateral-learning][Collateral Learning]]
++ [[https://openai.com/blog/deep-double-descent/][Deep Double Descent]] 
 + [[https://arxiv.org/pdf/1505.04597.pdf][U-Net: Convolutional Networks for Biomedical Image Segmentation]]
 + [[https://arxiv.org/abs/1606.00915][DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs]]
 + [[https://arxiv.org/abs/1908.09715][City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times]]
