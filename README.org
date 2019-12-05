@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf][Image to Image Translation for Domain Adaptation]] ~ Z. Murez #DomainAdaptation #EncoderDecoder #DomainShift
 + [[https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628][10 Lessons I Learned Training GANs for one Year]] ~ M. Pasini #GANs #Tricks
 + [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]] ~ JupyterHub #JupyterNotebooks
 + [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]] ~ Sciforce #ImageClassification #TransferLearning #DomainAdapatation #FewShotLearning
