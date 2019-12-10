@@ -17,6 +17,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://emtiyaz.github.io/papers/learning_from_bayes.pdf][Learning-Algorithms from Bayesian Principles]] ~ M. Emtiyaz #LearningAlgorithms
++ [[https://arxiv.org/pdf/1905.09272v2.pdf][Data-efficient image recognition with contrastive predictive coding]] ~ O. J. Hénaff  #RepresentationLearning #ImageClassification #SemiSupervisedLearning 
++ [[https://arxiv.org/pdf/1706.03762.pdf][Attention is all you need]] ~ A. Vaswani #MachineTranslation #Attention #Transformers #NaturalLanguageProcessing
++ [[http://eyeriss.mit.edu/2019_neurips_tutorial.pdf][Efficient Processing of Deep Neural Networks:from Algorithms to Hardware Architectures]] ~ V. Sze #Efficiency #Consumption #Hardware
++ [[https://autogluon.mxnet.io/][AutoGluon: AutoML Toolkit for Deep Learning]] ~ Gluon #AutoML #ImageClassification #ObjectDetection
++ [[https://medium.com/@NeurIPSConf/what-we-learned-from-neurips-2019-data-111ab996462c][What we learned from NeurIPS 2019 data]] ~ NeurIPS
 + [[http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf][Image to Image Translation for Domain Adaptation]] ~ Z. Murez #DomainAdaptation #EncoderDecoder #DomainShift
 + [[https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628][10 Lessons I Learned Training GANs for one Year]] ~ M. Pasini #GANs #Tricks
 + [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]] ~ JupyterHub #JupyterNotebooks
