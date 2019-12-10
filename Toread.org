@@ -1,4 +1,5 @@
-
++ [[https://medium.com/@mgalkin/machine-learning-on-graphs-neurips-2019-875eecd41069][Machine Learning on Graphs @ NeurIPS 2019]]
++ [[https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html][Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees]]
 + [[https://openai.com/blog/deep-double-descent/][Deep Double Descent]] 
 + [[https://arxiv.org/pdf/1505.04597.pdf][U-Net: Convolutional Networks for Biomedical Image Segmentation]]
 + [[https://arxiv.org/abs/1606.00915][DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs]]
