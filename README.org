@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.biorxiv.org/content/biorxiv/early/2019/04/11/606202.full.pdf][Deciphering interaction fingerprints from protein molecular surfaces]] ~ P. Gainza #Chemistry #Molecules
 + [[https://emtiyaz.github.io/papers/learning_from_bayes.pdf][Learning-Algorithms from Bayesian Principles]] ~ M. Emtiyaz #LearningAlgorithms
 + [[https://arxiv.org/pdf/1905.09272v2.pdf][Data-efficient image recognition with contrastive predictive coding]] ~ O. J. Hénaff  #RepresentationLearning #ImageClassification #SemiSupervisedLearning 
 + [[https://arxiv.org/pdf/1706.03762.pdf][Attention is all you need]] ~ A. Vaswani #MachineTranslation #Attention #Transformers #NaturalLanguageProcessing
