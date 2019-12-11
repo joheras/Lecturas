@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.youtube.com/watch?v=jiLPUkpH6Kg&list=PLoh75bAP4Qoh_DKJGrWudy9GNTNEzyXvG&index=3&t=0s][Future of individualized medicine]] ~ J. Howard #Medicine #ArtificialIntelligence
 + [[https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO][TensorFlow 2.0 + Keras Overview for Deep Learning Researchers]] ~ F. Chollet #Keras #Tensorflow
 + [[https://www.biorxiv.org/content/biorxiv/early/2019/04/11/606202.full.pdf][Deciphering interaction fingerprints from protein molecular surfaces]] ~ P. Gainza #Chemistry #Molecules
 + [[https://emtiyaz.github.io/papers/learning_from_bayes.pdf][Learning-Algorithms from Bayesian Principles]] ~ M. Emtiyaz #LearningAlgorithms
