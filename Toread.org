@@ -1,3 +1,5 @@
++ [[https://www.blog.google/products/search/search-language-understanding-bert][Understanding searches better than ever before]]
++ [[https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html][Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing]]
 + [[http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf][Dynamic Routing Between Capsules]]
 + [[https://slideslive.com/38921496/human-behavior-modeling-with-machine-learning-opportunities-and-challenges][Human Behavior Modeling with Machine Learning: Opportunities and Challenges]]
 + [[https://www.youtube.com/watch?v=9iol3Lk6kyU][A Bluffer's Guide to Dimension Reduction]]
