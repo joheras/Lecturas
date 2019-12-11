@@ -1,3 +1,6 @@
++ [[https://slideslive.com/38921496/human-behavior-modeling-with-machine-learning-opportunities-and-challenges][Human Behavior Modeling with Machine Learning: Opportunities and Challenges]]
++ [[https://www.youtube.com/watch?v=9iol3Lk6kyU][A Bluffer's Guide to Dimension Reduction]]
++ [[https://www.youtube.com/watch?v=jiLPUkpH6Kg&list=PLoh75bAP4Qoh_DKJGrWudy9GNTNEzyXvG&index=3&t=0s][Future of individualized medicine]]
 + [[https://medium.com/@mgalkin/machine-learning-on-graphs-neurips-2019-875eecd41069][Machine Learning on Graphs @ NeurIPS 2019]]
 + [[https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html][Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees]]
 + [[https://openai.com/blog/deep-double-descent/][Deep Double Descent]] 
