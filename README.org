@@ -17,6 +17,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/abs/1811.04017][A generic framework for privacy preserving deep learning]] ~ T. Ryffel #Privacy #FederatedLearning #DifferentialPrivacy
++ [[https://slideslive.com/38921496/human-behavior-modeling-with-machine-learning-opportunities-and-challenges][Human Behavior Modeling with Machine Learning: Opportunities and Challenges]] ~ N. Oliver #HumanBehaviour
++ [[https://arxiv.org/pdf/1912.04958.pdf][Analyzing and Improving the Image Quality of StyleGAN]] ~ T. Karras #GANs #StyleGAN 
 + [[https://www.youtube.com/watch?v=9iol3Lk6kyU][A Bluffer's Guide to Dimension Reduction]] ~ L. McInnes #DimensionalityReduction #Video #Overview
 + [[https://arxiv.org/pdf/1806.10758.pdf][A Benchmark for Interpretability Methods in DeepNeural Networks]] ~ S. Hooker #Interpretability #FeatureImportance
 + [[https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/][Deep Learning -> Federated Learning in 10 Lines of PyTorch + PySyft]] ~ T. Ryffel #FederatedLearning #Privacy #PySyft
