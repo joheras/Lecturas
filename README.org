@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.youtube.com/watch?v=9iol3Lk6kyU][A Bluffer's Guide to Dimension Reduction]] ~ L. McInnes #DimensionalityReduction #Video #Overview
++ [[https://arxiv.org/pdf/1806.10758.pdf][A Benchmark for Interpretability Methods in DeepNeural Networks]] ~ S. Hooker #Interpretability #FeatureImportance
 + [[https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/][Deep Learning -> Federated Learning in 10 Lines of PyTorch + PySyft]] ~ T. Ryffel #FederatedLearning #Privacy #PySyft
 + [[https://arkhn.com/en/federated/][Federated Learning]] ~ Arkhn #FederatedLearning #Privacy
 + [[https://arxiv.org/pdf/1908.07836.pdf][PubLayNet: largest dataset ever for documentlayout analysis]] ~ X. Zhong #DocumentAnalysis #Athento #Dataset #Tables
