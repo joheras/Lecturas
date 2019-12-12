@@ -1,3 +1,4 @@
++ [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][Privacy Preserving Deep Learning with PyTorch & PySyft]]
 + [[https://www.blog.google/products/search/search-language-understanding-bert][Understanding searches better than ever before]]
 + [[https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html][Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing]]
 + [[http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf][Dynamic Routing Between Capsules]]
