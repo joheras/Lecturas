@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://arxiv.org/pdf/1908.07836.pdf][PubLayNet: largest dataset ever for documentlayout analysis]] ~ X. Zhong #DocumentAnalysis #Athento #Dataset #Tables
++ [[https://arxiv.org/abs/1606.00915][DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs]] ~ L-C. Chen #SemanticSegmentation 
 + [[https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7][AI-Based Photo Restoration]] ~ F. Kitashov #GANs #U-net #Colorisation #Inpainting
 + [[https://www.youtube.com/watch?v=jiLPUkpH6Kg&list=PLoh75bAP4Qoh_DKJGrWudy9GNTNEzyXvG&index=3&t=0s][Future of individualized medicine]] ~ J. Howard #Medicine #ArtificialIntelligence
 + [[https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO][TensorFlow 2.0 + Keras Overview for Deep Learning Researchers]] ~ F. Chollet #Keras #Tensorflow
