@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz699/5564115][Protein–protein interaction site prediction through combining local and global features with deep neural networks]] ~ M. Zeng #Proteins #Chemistry 
 + [[https://www.nature.com/articles/s41598-019-46369-4][Predicting Protein-Protein Interactions from Matrix-Based Protein Sequence Using Convolution Neural Network and Feature-Selective Rotation Forest]] ~ L. Wang #ConvolutionalNeuralNetworks #Proteins #Chemistry
 + [[https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks][A gallery of interesting Jupyter Notebooks]] ~ J. C. Agar #JupyterNotebooks #Resources
 + [[https://arxiv.org/abs/1907.09595v3][MixConv: Mixed Depthwise Convolutional Kernels]] ~ M. Tan #Mobile #ImageClassification #NeuralArchitectureSearch
