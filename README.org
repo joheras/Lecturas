@@ -17,6 +17,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html][Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing]] ~ J. Devlin #NaturalLanguageProcessing #BERT #PreTraining #SemiSupervisedLearning
++ [[https://arxiv.org/pdf/1505.04597.pdf][U-Net: Convolutional Networks for Biomedical Image Segmentation]] ~ O. Ronneberger #SemanticSegmentation
++ [[https://windowsontheory.org/2019/12/05/deep-double-descent/][Deep Double Descent]] ~ OpenAI #Methods #DeepNeuralNetworks
++ [[https://arxiv.org/pdf/1707.08721.pdf][Exploiting Web Images for Weakly Supervised Object Detection]] ~ Q. Tao #ObjectDetection #WeakSupervisedLearning #CurriculumLearning
 + [[https://www.biorxiv.org/content/10.1101/541862v1.full.pdf][Deep learning reveals cancer metastasis and therapeutic antibody targeting in whole body]] ~ C. Pan #MedicalImaging 
 + [[https://medium.com/mlreview/machine-learning-on-graphs-neurips-2019-875eecd41069][Machine Learning on Graphs @ NeurIPS 2019]] ~ M. Galkin #Graphs #GraphConvolutionalNetworks #Embeddings
 + [[https://github.com/ageron/handson-ml2][Machine Learning Notebooks]] ~ A. Géron #MachineLearning #JupyterNotebooks #Resources
