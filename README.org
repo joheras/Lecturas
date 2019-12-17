@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.biorxiv.org/content/10.1101/541862v1.full.pdf][Deep learning reveals cancer metastasis and therapeutic antibody targeting in whole body]] ~ C. Pan #MedicalImaging 
++ [[https://medium.com/mlreview/machine-learning-on-graphs-neurips-2019-875eecd41069][Machine Learning on Graphs @ NeurIPS 2019]] ~ M. Galkin #Graphs #GraphConvolutionalNetworks #Embeddings
 + [[https://github.com/ageron/handson-ml2][Machine Learning Notebooks]] ~ A. Géron #MachineLearning #JupyterNotebooks #Resources
 + [[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz699/5564115][Protein–protein interaction site prediction through combining local and global features with deep neural networks]] ~ M. Zeng #Proteins #Chemistry 
 + [[https://www.nature.com/articles/s41598-019-46369-4][Predicting Protein-Protein Interactions from Matrix-Based Protein Sequence Using Convolution Neural Network and Feature-Selective Rotation Forest]] ~ L. Wang #ConvolutionalNeuralNetworks #Proteins #Chemistry
