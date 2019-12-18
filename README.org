@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.oreilly.com/radar/drivetrain-approach-data-products/][Designing great data products]] ~ J. Howard #DataProducts #Pipeline
 + [[https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html][Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing]] ~ J. Devlin #NaturalLanguageProcessing #BERT #PreTraining #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/1505.04597.pdf][U-Net: Convolutional Networks for Biomedical Image Segmentation]] ~ O. Ronneberger #SemanticSegmentation
 + [[https://windowsontheory.org/2019/12/05/deep-double-descent/][Deep Double Descent]] ~ OpenAI #Methods #DeepNeuralNetworks
