@@ -41,17 +41,17 @@
 + [[https://arxiv.org/abs/1910.09779][Bridging the Gap Between f-GANs and Wasserstein GANs]]
 + [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]]
 + [[https://arxiv.org/abs/1909.12475][Hidden Stratification Causes Clinically Meaningful Failures in Machine Learning for Medical Imaging]]
-+ [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]
-+ [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably haven’t heard of)]]
+
+
 + [[https://arxiv.org/abs/1910.10683][Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer]]
 + [[https://arxiv.org/abs/1711.06897][Single-Shot Refinement Neural Network for Object Detection]]
 + [[https://arxiv.org/abs/1901.03278][Region Proposal by Guided Anchoring]]
 + [[https://arxiv.org/abs/1811.08661][Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection]]
 + [[https://link.springer.com/book/10.1007/978-3-030-22386-1][Bioimage Data Analysis Workflows]]
 + [[https://arxiv.org/abs/1910.11797][Deep Reinforcement Learning in HOL4]]
-+ [[https://pythonawesome.com/a-fully-automated-framework-for-object-detection-featuring/][A fully automated framework for object detection featuring]]
+
 + [[https://arxiv.org/pdf/1905.01164.pdf][SinGAN: Learning a Generative Model from a Single Natural Image]]
-+ [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]]
+
 + [[https://github.com/dropoutlabs/tf-world-tutorial][Privacy-Preserving Machine Learning with TF Encrypted & PySyft]]
 + [[https://arxiv.org/pdf/1812.11832.pdf][Towards a topological-geometrical theory of group equivariantnon-expansive operators for data analysis and machine learning]]
 + [[https://arxiv.org/pdf/1711.11279.pdf][Interpretability Beyond Feature Attribution]]
@@ -72,5 +72,5 @@
 + [[https://arxiv.org/pdf/1903.09731.pdf][Expert-Augmented Machine Learning]]
 + [[https://academic.oup.com/jamia/article/25/10/1419/5035024][Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review]]
 + [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]]
-+ [[https://www.nature.com/articles/s41592-019-0598-1][Unified rational protein engineering with sequence-based deep representation learning]]
+
 + [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]]
