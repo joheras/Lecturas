@@ -2,10 +2,9 @@
 
 + [[https://arxiv.org/abs/1904.13000][Adversarial Training and Robustness for Multiple Perturbations]]
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][Privacy Preserving Deep Learning with PyTorch & PySyft]]
-+ [[https://www.blog.google/products/search/search-language-understanding-bert][Understanding searches better than ever before]]
+
 
 + [[http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf][Dynamic Routing Between Capsules]]
-+ [[https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html][Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees]]
 
 
 
