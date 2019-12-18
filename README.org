@@ -17,6 +17,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]  ~ L. Oakden-Rayner  #MedicalAI #Methods
++ [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably haven’t heard of)]] ~ L. Oakden-Rayner #ClinicalTrials #MedicalAI
++ [[https://github.com/MIC-DKFZ/medicaldetectiontoolkit][Medical Detection Toolkit]] ~ P. Jaeger #ObjectDetection #Software
++ [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]] ~ M. Pasini #GANs #SiameseNetworks
++ [[https://www.biorxiv.org/content/10.1101/589333v1][Unified rational protein engineering with sequence-based deep representation learning]] ~ E. Alley #Chemistry
 + [[https://www.blog.google/products/search/search-language-understanding-bert][Understanding searches better than ever before]] ~ P. Nayak #NaturalLanguageProcessing #BERT #SearchAlgorithm
 + [[https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html][Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees]] ~ C. Weill #Ensemble #AutoML #ReinforcementLearning
 + [[https://www.oreilly.com/radar/drivetrain-approach-data-products/][Designing great data products]] ~ J. Howard #DataProducts #Pipeline
