@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.blog.google/products/search/search-language-understanding-bert][Understanding searches better than ever before]] ~ P. Nayak #NaturalLanguageProcessing #BERT #SearchAlgorithm
++ [[https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html][Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees]] ~ C. Weill #Ensemble #AutoML #ReinforcementLearning
 + [[https://www.oreilly.com/radar/drivetrain-approach-data-products/][Designing great data products]] ~ J. Howard #DataProducts #Pipeline
 + [[https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html][Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing]] ~ J. Devlin #NaturalLanguageProcessing #BERT #PreTraining #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/1505.04597.pdf][U-Net: Convolutional Networks for Biomedical Image Segmentation]] ~ O. Ronneberger #SemanticSegmentation
