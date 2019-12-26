@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] ~ S. Keshav #Methods #Research #Reading 
++ [[https://arxiv.org/pdf/1901.02985.pdf][Auto-DeepLab:Hierarchical Neural Architecture Search for Semantic Image Segmentation]] ~ C. Liu #SemanticSegmentation #NeuralArchitectureSearch
 + [[https://blog.datascienceheroes.com/spam-detection-using-fastai-ulmfit-part-1-language-model/][SPAM detection using fastai ULMFiT]] ~ P. Casas #FastAI #NaturalLanguageProcessing #SpamDetection
 + [[https://distill.pub/2016/augmented-rnns/][Attention and Augmented Recurrent Neural Networks]] ~ C. Olah #NaturalLanguageProcessing #Attention #RNNs
 + [[https://arxiv.org/pdf/1912.10077v1.pdf][Are Transformers universal approximators of sequence-to-sequence functions?]] ~ C. Yun #NaturalLanguageProcessing #Transformers #Attention #ContextualMapping
