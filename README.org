@@ -17,6 +17,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://distill.pub/2016/augmented-rnns/][Attention and Augmented Recurrent Neural Networks]] ~ C. Olah #NaturalLanguageProcessing #Attention #RNNs
++ [[https://arxiv.org/pdf/1912.10077v1.pdf][Are Transformers universal approximators of sequence-to-sequence functions?]] ~ C. Yun #NaturalLanguageProcessing #Transformers #Attention #ContextualMapping
++ [[https://arxiv.org/pdf/1812.05239.pdf][Improving Fairness in Machine Learning Systems:What Do Industry Practitioners Need?]] ~ K. Holstein #Fairness #Industry #HumanComputerInteraction
++ [[https://retina.elpais.com/retina/2019/12/17/innovacion/1576572302_779289.html][Nike patenta unas zapatillas basadas en ‘blockchain’]] ~ J. Cortes #Blockchain #Falsificaciones
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]  ~ L. Oakden-Rayner  #MedicalAI #Methods
 + [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably haven’t heard of)]] ~ L. Oakden-Rayner #ClinicalTrials #MedicalAI
 + [[https://github.com/MIC-DKFZ/medicaldetectiontoolkit][Medical Detection Toolkit]] ~ P. Jaeger #ObjectDetection #Software
