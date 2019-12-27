@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/?utm_source=linkedin.com&utm_medium=social][It’s a Record-Breaking Crowd]] ~ P. Sharma #CroudCounting #Tutorial
 + [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] ~ S. Keshav #Methods #Research #Reading 
 + [[https://arxiv.org/pdf/1901.02985.pdf][Auto-DeepLab:Hierarchical Neural Architecture Search for Semantic Image Segmentation]] ~ C. Liu #SemanticSegmentation #NeuralArchitectureSearch
 + [[https://blog.datascienceheroes.com/spam-detection-using-fastai-ulmfit-part-1-language-model/][SPAM detection using fastai ULMFiT]] ~ P. Casas #FastAI #NaturalLanguageProcessing #SpamDetection
