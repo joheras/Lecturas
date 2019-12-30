@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2019
 
++ [[https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/][Label Smoothing with Keras and Tensorflow]] A. Rosebrock #PyimageSearch #LabelSmoothing #Regularisation
 + [[https://st2.ning.com/topology/rest/1.0/file/get/1211570060?profile=original][Data Science Cheatsheet]] ~ M. Lin #DataScience
 + [[https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/?utm_source=linkedin.com&utm_medium=social][It’s a Record-Breaking Crowd]] ~ P. Sharma #CroudCounting #Tutorial
 + [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] ~ S. Keshav #Methods #Research #Reading 
