@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2019
 
 ** Diciembre 2019
+#+html: <p align="center"><img src="wordClouds/diciembre2019.png" /></p>
 
 + [[https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/][Label Smoothing with Keras and Tensorflow]] A. Rosebrock #PyimageSearch #LabelSmoothing #Regularisation
 + [[https://st2.ning.com/topology/rest/1.0/file/get/1211570060?profile=original][Data Science Cheatsheet]] ~ M. Lin #DataScience
