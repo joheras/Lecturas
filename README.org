@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://ieeexplore.ieee.org/abstract/document/8580569][Development of Algorithms for Automated Detection of Cervical Pre-Cancers With a Low-Cost, Point-of-Care, Pocket Colposcope]] ~ M. Nyamewaa Asiedu #MedicalImaging #LowResources
 + [[https://arxiv.org/pdf/1912.05752.pdf][The Use of Deep Learning for Symbolic IntegrationA Review of (Lample and Charton, 2019)]] ~ E. Davis #DeepLearning #ComputerAlgebraSystems #Review
 + [[https://medium.com/@the_change/linear-algebra-is-fun-trust-me-part-1-dfab83c2453e][Linear Algebra is fun, trust me!]] ~ S. Sharma #LinearAlgebra #Maths #Applications
 + [[https://blog.google/technology/health/improving-breast-cancer-screening][Using AI to improve breast cancer screening]] ~ S. Shetty #MedicalImaging #Support #Health
