@@ -4,6 +4,8 @@
 Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
+- [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#enero-2020][Enero 2020]]
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
   - [[#diciembre-2019][Diciembre 2019]]
   - [[#noviembre-2019][Noviembre 2019]]
@@ -11,9 +13,13 @@ Este repositorio es una recopilación de lecturas.
   - [[#septiembre-2019][Septiembre 2019]]
   
   
+* Lecturas del año 2020
 
+** Enero 2020
 
-* Lecturas del año 2019
++ [[https://arxiv.org/pdf/1912.05752.pdf][The Use of Deep Learning for Symbolic IntegrationA Review of (Lample and Charton, 2019)]] ~ E. Davis #DeepLearning #ComputerAlgebraSystems #Review
++ [[https://medium.com/@the_change/linear-algebra-is-fun-trust-me-part-1-dfab83c2453e][Linear Algebra is fun, trust me!]] ~ S. Sharma #LinearAlgebra #Maths #Applications
++ [[https://blog.google/technology/health/improving-breast-cancer-screening][Using AI to improve breast cancer screening]] ~ S. Shetty #MedicalImaging #Support #Health
 
 ** Diciembre 2019
 #+html: <p align="center"><img src="wordClouds/diciembre2019.png" /></p>
