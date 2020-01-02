@@ -17,6 +17,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://arxiv.org/abs/1909.00015][Adaptively Sparse Transformers]] ~ G. M. Correia #NaturalLanguageProcessing #Attention #Transformers
++ [[https://arxiv.org/abs/1910.04302][Prescribed Generative Adversarial Networks]] ~ A. B. Dieng #GANs 
++ [[https://arxiv.org/abs/1912.11975][Clinical XLNet: Modeling Sequential Clinical Notes and Predicting Prolonged Mechanical Ventilation]] ~ K. Huang #ClinicalData #HealthCare #NaturalLanguageProcessing 
 + [[https://arxiv.org/pdf/1912.13213.pdf][A Modern Introduction to Online Learning]] ~ F. Orabona #OnlineLearning
 + [[https://osf.io/mkzcq/][Hyper-Kvasir: A Comprehensive Multi-Class Image and Video Dataset for Gastrointestinal Endoscopy]] ~ H. Borgli #Datasets #ImageClassification #SemanticSegmentation
 + [[https://ieeexplore.ieee.org/abstract/document/8580569][Development of Algorithms for Automated Detection of Cervical Pre-Cancers With a Low-Cost, Point-of-Care, Pocket Colposcope]] ~ M. Nyamewaa Asiedu #MedicalImaging #LowResources
