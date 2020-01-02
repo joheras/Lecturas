@@ -17,7 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
-+ [[][A Modern Introduction to Online Learning]] ~ F. Orabona #OnlineLearning
++ [[https://arxiv.org/pdf/1912.13213.pdf][A Modern Introduction to Online Learning]] ~ F. Orabona #OnlineLearning
 + [[https://osf.io/mkzcq/][Hyper-Kvasir: A Comprehensive Multi-Class Image and Video Dataset for Gastrointestinal Endoscopy]] ~ H. Borgli #Datasets #ImageClassification #SemanticSegmentation
 + [[https://ieeexplore.ieee.org/abstract/document/8580569][Development of Algorithms for Automated Detection of Cervical Pre-Cancers With a Low-Cost, Point-of-Care, Pocket Colposcope]] ~ M. Nyamewaa Asiedu #MedicalImaging #LowResources
 + [[https://arxiv.org/pdf/1912.05752.pdf][The Use of Deep Learning for Symbolic IntegrationA Review of (Lample and Charton, 2019)]] ~ E. Davis #DeepLearning #ComputerAlgebraSystems #Review
