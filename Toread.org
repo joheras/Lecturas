@@ -3,7 +3,6 @@
 
 + [[https://arxiv.org/pdf/1604.06737.pdf][Entity Embeddings of Categorical Variables]]
 
-+ [[https://arxiv.org/abs/1904.13000][Adversarial Training and Robustness for Multiple Perturbations]]
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][Privacy Preserving Deep Learning with PyTorch & PySyft]]
 
 
@@ -11,7 +10,7 @@
 
 
 
-+ [[https://arxiv.org/abs/1908.09715][City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times]]
+
 + [[https://arxiv.org/abs/1612.03242][StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]]
 + [[https://arxiv.org/abs/1611.07004][Image-to-Image Translation with Conditional Adversarial Networks]]
 + [[https://arxiv.org/abs/1703.10593][Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]]
@@ -72,7 +71,7 @@
 + [[https://arxiv.org/pdf/1905.11369v1.pdf][Object Discovery with a Copy-Pasting GAN]]
 + [[https://www.biorxiv.org/content/10.1101/740548v2][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
 + [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and FutureDirections]]
-+ [[https://arxiv.org/pdf/1903.09731.pdf][Expert-Augmented Machine Learning]]
+
 + [[https://academic.oup.com/jamia/article/25/10/1419/5035024][Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review]]
 + [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]]
 
