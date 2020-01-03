@@ -17,6 +17,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://arxiv.org/pdf/1903.09731.pdf][Expert-Augmented Machine Learning]] ~ E. D. Gennatas #ExpertKnowledge
++ [[https://arxiv.org/abs/1908.09715][City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times]] ~ A. Van Etten #OpenStreetMap #RoadExtraction #SemanticSegmentation 
++ [[https://arxiv.org/abs/1904.13000][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. Tramer #AdversialAttacks #Defenses
 + [[https://arxiv.org/abs/1909.00015][Adaptively Sparse Transformers]] ~ G. M. Correia #NaturalLanguageProcessing #Attention #Transformers
 + [[https://arxiv.org/abs/1910.04302][Prescribed Generative Adversarial Networks]] ~ A. B. Dieng #GANs 
 + [[https://arxiv.org/abs/1912.11975][Clinical XLNet: Modeling Sequential Clinical Notes and Predicting Prolonged Mechanical Ventilation]] ~ K. Huang #ClinicalData #HealthCare #NaturalLanguageProcessing 
