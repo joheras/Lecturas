@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://www.fast.ai/2019/07/08/fastai-nlp/][A Code-First Introduction to Natural Language Processing]] ~ R. Thomas #NaturalLanguageProcessing #Course
 + [[https://arxiv.org/pdf/1903.09731.pdf][Expert-Augmented Machine Learning]] ~ E. D. Gennatas #ExpertKnowledge
 + [[https://arxiv.org/abs/1908.09715][City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times]] ~ A. Van Etten #OpenStreetMap #RoadExtraction #SemanticSegmentation 
 + [[https://arxiv.org/abs/1904.13000][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. Tramer #AdversialAttacks #Defenses
