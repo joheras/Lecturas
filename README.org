@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://ruder.io/research-highlights-2019/][10 ML & NLP Research Highlights of 2019]] ~ S. Ruder #NaturalLanguageProcessing #Highlights
 + [[https://www.aaai.org/ojs/index.php/AAAI/article/view/4330][Towards Automated Semi-Supervised Learning]] ~ Y-F. Li #AutoML #SemiSupervisedLearning #StructuredData
 + [[https://www.fast.ai/2020/01/07/data-questionnaire/][Data project checklist]] ~ J. Howard #DataScience 
 + [[https://www.fast.ai/2019/07/08/fastai-nlp/][A Code-First Introduction to Natural Language Processing]] ~ R. Thomas #NaturalLanguageProcessing #Course
