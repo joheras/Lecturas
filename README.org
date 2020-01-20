@@ -17,6 +17,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://arxiv.org/pdf/1902.07208.pdf][Transfusion: Understanding Transfer Learning forMedical Imaging]] ~ M. Raghu #TransferLearning #MedicalImaging
++ [[https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html][Introducing state of the art text classification with universal language models]] ~ J. Howard #NaturalLanguageProcessing #SemiSupervisedLearning #UMLFit
++ [[https://arxiv.org/pdf/1902.06162.pdf][Self-supervised Visual Feature Learning withDeep Neural Networks: A Survey]] ~ L. Jing  #SemiSupervisedLearning #SelfSupervisedLearning #PretextTasks #Survey
++ [[https://www.fast.ai/2020/01/13/self_supervised/][Self-supervised learning and computer vision]] ~ J. Howard #SemiSupervisedLearning #SelfSupervisedLearning #PretextTasks
++ [[https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5][Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning]] ~ D. S. Kermany #TransferLearning #MedicalImaging
 + [[https://ruder.io/research-highlights-2019/][10 ML & NLP Research Highlights of 2019]] ~ S. Ruder #NaturalLanguageProcessing #Highlights
 + [[https://www.aaai.org/ojs/index.php/AAAI/article/view/4330][Towards Automated Semi-Supervised Learning]] ~ Y-F. Li #AutoML #SemiSupervisedLearning #StructuredData
 + [[https://www.fast.ai/2020/01/07/data-questionnaire/][Data project checklist]] ~ J. Howard #DataScience 
