@@ -17,11 +17,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://github.com/nstrodt/UDSMProt][UDSMProt: Universal Deep Sequence Models for Protein Classification]] ~ N. Strodthoff #ULMFiT #ProteinClassification
++ [[https://github.com/kheyer/Genomic-ULMFiT][Genomic ULMFiT]] ~ K. Heyer #ULMFiT #Genomics
 + [[https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/][Intro to anomaly detection with OpenCV, Computer Vision, and scikit-learn]] ~ A. Rosebrock #AnomalyOutlierDetection #IsolationForest
 + [[https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html][Reformer: The Efficient Transformer]] ~ N. Kitaev #Attention #SequenceModels
 + [[https://text-machine-lab.github.io/blog/2020/bert-secrets/][The Dark Secrets of BERT]] ~ A. Rogers #NaturalLanguageProcessing #BERT
 + [[https://arxiv.org/pdf/1902.07208.pdf][Transfusion: Understanding Transfer Learning forMedical Imaging]] ~ M. Raghu #TransferLearning #MedicalImaging
-+ [[https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html][Introducing state of the art text classification with universal language models]] ~ J. Howard #NaturalLanguageProcessing #SemiSupervisedLearning #UMLFit
++ [[https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html][Introducing state of the art text classification with universal language models]] ~ J. Howard #NaturalLanguageProcessing #SemiSupervisedLearning #ULMFiT
 + [[https://arxiv.org/pdf/1902.06162.pdf][Self-supervised Visual Feature Learning withDeep Neural Networks: A Survey]] ~ L. Jing  #SemiSupervisedLearning #SelfSupervisedLearning #PretextTasks #Survey
 + [[https://www.fast.ai/2020/01/13/self_supervised/][Self-supervised learning and computer vision]] ~ J. Howard #SemiSupervisedLearning #SelfSupervisedLearning #PretextTasks
 + [[https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5][Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning]] ~ D. S. Kermany #TransferLearning #MedicalImaging
