@@ -1,4 +1,26 @@
 
++ [[https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15][Object Detection Techniques in Computer Vision]] 
++ [[https://github.com/kheyer/Genomic-ULMFiT][Genomic ULMFiT]]
++ [[https://chemrxiv.org/articles/Inductive_Transfer_Learning_for_Molecular_Activity_Prediction_Next-Gen_QSAR_Models_with_MolPMoFiT/9978743/1][Inductive Transfer Learning for Molecular Activity ]]
++ [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
++ [[https://colah.github.io/posts/2015-08-Understanding-LSTMs/][Understanding LSTM Networks]]
++ [[https://www.biorxiv.org/content/10.1101/622803v1.full.pdf+html][Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences]]
++ [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
++ [[https://www.youtube.com/watch?v=6qIodcz8o-Q][How to Know]]
++ [[https://github.com/nstrodt/UDSMProt][UDSMProt: Universal Deep Sequence Models for Protein Classification]]
++ [[https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7][Can We Generate High-Quality Movie Reviews Using Language Models?]]
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8843852&tag=1][Unsupervised Exemplar-Based Learning forImproved Document Image Classification]]
++ [[http://jbcordonnier.com/posts/attention-cnn/][How a self-attention layer can learn convolutional filters?]]
++ [[https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd][Meet AdaMod: a new deep learning optimizer with memory]]
++ [[https://arxiv.org/abs/1606.02228][Systematic evaluation of CNN advances on the ImageNet]]
++ [[https://deepai.org/publication/on-interpretability-of-artificial-neural-networks][On Interpretability of Artificial Neural Networks]]
++ [[https://deepai.org/publication/what-can-robotics-research-learn-from-computer-vision-research][What can robotics research learn from computer vision research?]]
++ [[https://arxiv.org/abs/1911.11423][Single Headed Attention RNN: Stop Thinking With Your Head]]
++ [[https://arxiv.org/abs/1912.01991][Self-Supervised Learning of Pretext-Invariant Representations]]
++ [[https://arxiv.org/abs/1911.05722][Momentum Contrast for Unsupervised Visual Representation Learning]]
++ [[https://arxiv.org/abs/1905.09272][Data-Efficient Image Recognition with Contrastive Predictive Coding]]
+--------------------------------
+
 + [[https://arxiv.org/abs/1910.05895][Transformers without Tears: Improving the Normalization of Self-Attention]]
 
 + [[https://arxiv.org/pdf/1604.06737.pdf][Entity Embeddings of Categorical Variables]]
