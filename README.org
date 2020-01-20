@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html][Reformer: The Efficient Transformer]] ~ N. Kitaev #Attention #SequenceModels
++ [[https://text-machine-lab.github.io/blog/2020/bert-secrets/][The Dark Secrets of BERT]] ~ A. Rogers #NaturalLanguageProcessing #BERT
 + [[https://arxiv.org/pdf/1902.07208.pdf][Transfusion: Understanding Transfer Learning forMedical Imaging]] ~ M. Raghu #TransferLearning #MedicalImaging
 + [[https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html][Introducing state of the art text classification with universal language models]] ~ J. Howard #NaturalLanguageProcessing #SemiSupervisedLearning #UMLFit
 + [[https://arxiv.org/pdf/1902.06162.pdf][Self-supervised Visual Feature Learning withDeep Neural Networks: A Survey]] ~ L. Jing  #SemiSupervisedLearning #SelfSupervisedLearning #PretextTasks #Survey
