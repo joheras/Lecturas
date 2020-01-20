@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/][Intro to anomaly detection with OpenCV, Computer Vision, and scikit-learn]] ~ A. Rosebrock #AnomalyOutlierDetection #IsolationForest
 + [[https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html][Reformer: The Efficient Transformer]] ~ N. Kitaev #Attention #SequenceModels
 + [[https://text-machine-lab.github.io/blog/2020/bert-secrets/][The Dark Secrets of BERT]] ~ A. Rogers #NaturalLanguageProcessing #BERT
 + [[https://arxiv.org/pdf/1902.07208.pdf][Transfusion: Understanding Transfer Learning forMedical Imaging]] ~ M. Raghu #TransferLearning #MedicalImaging
