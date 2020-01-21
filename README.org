@@ -17,6 +17,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
+
++ [[https://chemrxiv.org/articles/Inductive_Transfer_Learning_for_Molecular_Activity_Prediction_Next-Gen_QSAR_Models_with_MolPMoFiT/9978743/1][Inductive Transfer Learning for Molecular Activity]] ~ X. Li #ULMFiT #Chemistry
++ [[https://colah.github.io/posts/2015-08-Understanding-LSTMs/][Understanding LSTM Networks]] ~ C. Olah #RecurrentNeuralNetworks #NaturalLanguageProcessing 
 + [[https://github.com/nstrodt/UDSMProt][UDSMProt: Universal Deep Sequence Models for Protein Classification]] ~ N. Strodthoff #ULMFiT #ProteinClassification
 + [[https://github.com/kheyer/Genomic-ULMFiT][Genomic ULMFiT]] ~ K. Heyer #ULMFiT #Genomics
 + [[https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/][Intro to anomaly detection with OpenCV, Computer Vision, and scikit-learn]] ~ A. Rosebrock #AnomalyOutlierDetection #IsolationForest
