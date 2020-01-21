@@ -1,13 +1,10 @@
 
-+ [[https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15][Object Detection Techniques in Computer Vision]] 
-+ [[https://github.com/kheyer/Genomic-ULMFiT][Genomic ULMFiT]]
-+ [[https://chemrxiv.org/articles/Inductive_Transfer_Learning_for_Molecular_Activity_Prediction_Next-Gen_QSAR_Models_with_MolPMoFiT/9978743/1][Inductive Transfer Learning for Molecular Activity ]]
 + [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
-+ [[https://colah.github.io/posts/2015-08-Understanding-LSTMs/][Understanding LSTM Networks]]
+
 + [[https://www.biorxiv.org/content/10.1101/622803v1.full.pdf+html][Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences]]
 + [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
 + [[https://www.youtube.com/watch?v=6qIodcz8o-Q][How to Know]]
-+ [[https://github.com/nstrodt/UDSMProt][UDSMProt: Universal Deep Sequence Models for Protein Classification]]
+
 + [[https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7][Can We Generate High-Quality Movie Reviews Using Language Models?]]
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8843852&tag=1][Unsupervised Exemplar-Based Learning forImproved Document Image Classification]]
 + [[http://jbcordonnier.com/posts/attention-cnn/][How a self-attention layer can learn convolutional filters?]]
