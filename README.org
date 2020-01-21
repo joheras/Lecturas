@@ -17,7 +17,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
-
++ [[http://jbcordonnier.com/posts/attention-cnn/][How a self-attention layer can learn convolutional filters?]] ~ J-B. Cordonnier #Attention #ConvolutionalNeuralNetworks
++ [[https://ieeexplore.ieee.org/abstract/document/8843852][Unsupervised Exemplar-Based Learning for Improved Document Image Classification]] ~ S. Abuelwafa #DocumentImageClassification #SemiSupervisedLearning
++ [[https://www.biorxiv.org/content/10.1101/622803v1.full.pdf+html][Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences]] ~ A. Rives #Proteins #SelfSupervision
 + [[https://chemrxiv.org/articles/Inductive_Transfer_Learning_for_Molecular_Activity_Prediction_Next-Gen_QSAR_Models_with_MolPMoFiT/9978743/1][Inductive Transfer Learning for Molecular Activity]] ~ X. Li #ULMFiT #Chemistry
 + [[https://colah.github.io/posts/2015-08-Understanding-LSTMs/][Understanding LSTM Networks]] ~ C. Olah #RecurrentNeuralNetworks #NaturalLanguageProcessing 
 + [[https://github.com/nstrodt/UDSMProt][UDSMProt: Universal Deep Sequence Models for Protein Classification]] ~ N. Strodthoff #ULMFiT #ProteinClassification
