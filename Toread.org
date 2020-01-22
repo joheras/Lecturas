@@ -1,6 +1,6 @@
 
 + [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
-
++
 
 + [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
 + [[https://www.youtube.com/watch?v=6qIodcz8o-Q][How to Know]]
