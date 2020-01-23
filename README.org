@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://papers.nips.cc/paper/9259-consistency-based-semi-supervised-learning-for-object-detection.pdf][Consistency-based Semi-supervised Learning forObject Detection]] ~ J. Jeong #SemiSupervisedLearning #ObjectDetection
++ [[https://arxiv.org/abs/2001.07685][FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence]] ~ K. Sohn #SemiSupervisedLearning #ImageClassification
 + [[http://jbcordonnier.com/posts/attention-cnn/][How a self-attention layer can learn convolutional filters?]] ~ J-B. Cordonnier #Attention #ConvolutionalNeuralNetworks
 + [[https://ieeexplore.ieee.org/abstract/document/8843852][Unsupervised Exemplar-Based Learning for Improved Document Image Classification]] ~ S. Abuelwafa #DocumentImageClassification #SemiSupervisedLearning
 + [[https://www.biorxiv.org/content/10.1101/622803v1.full.pdf+html][Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences]] ~ A. Rives #Proteins #SelfSupervision
