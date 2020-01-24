@@ -1,6 +1,10 @@
 
 + [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
-+
++ [[https://deepai.org/publication/saunet-shape-attentive-u-net-for-interpretable-medical-image-segmentation][
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation]]
++ [[https://www.youtube.com/watch?v=4zrU54VIK6k][Privacy Preserving AI]]
++ [[https://lena-voita.github.io/posts/emnlp19_evolution.html][Evolution of Representations in the Transformer]]
++ [[https://lena-voita.github.io/posts/acl19_heads.html][The Story of Heads]]
 
 + [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
 + [[https://www.youtube.com/watch?v=6qIodcz8o-Q][How to Know]]
