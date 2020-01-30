@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839189&tag=1][Beyond a Gaussian Denoiser: Residual Learningof Deep CNN for Image Denoising]] ~ K. Zhang #Denoising #CNNs
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #GANs #Attention
 + [[https://www.fast.ai/2019/05/03/decrappify/][Decrappification, DeOldification, and Super Resolution]] ~ J. Howard #SuperResolution #ImageColorisation #GANs #Unet
 + [[https://papers.nips.cc/paper/9259-consistency-based-semi-supervised-learning-for-object-detection.pdf][Consistency-based Semi-supervised Learning forObject Detection]] ~ J. Jeong #SemiSupervisedLearning #ObjectDetection
