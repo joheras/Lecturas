@@ -17,6 +17,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2020
 
++ [[https://arxiv.org/abs/1911.05722][Momentum Contrast for Unsupervised Visual Representation Learning]] ~ K. He #RepresentationLearning #ContrastiveLearning #SelfSupervisedLearning 
++ [[https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html][Contrastive Self-Supervised Learning]] ~ A. Anand #ContrastiveLearning #SemiSupervisedLearning
 + [[https://www.pyimagesearch.com/2020/01/27/yolo-and-tiny-yolo-object-detection-on-the-raspberry-pi-and-movidius-ncs/][YOLO and Tiny-YOLO object detection on the Raspberry Pi and Movidius NCS]] ~ A. Rosebrock #PyimageSearch #YOLO #RaspberriPI
 + [[https://arxiv.org/pdf/1801.06146.pdf][Universal Language Model Fine-tuning for Text Classification]] ~ J. Howard #ULMFit #NaturalLanguageProcessing #FineTuning
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839189&tag=1][Beyond a Gaussian Denoiser: Residual Learningof Deep CNN for Image Denoising]] ~ K. Zhang #Denoising #CNNs
