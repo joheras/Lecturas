@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#febrero-2020][Febrero 2020]]
   - [[#enero-2020][Enero 2020]]
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
   - [[#diciembre-2019][Diciembre 2019]]
@@ -14,6 +15,12 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2020
+
+** Febrero 2020
+
++ [[https://arxiv.org/pdf/2001.11202v1.pdf][Image Embedded Segmentation: Combining Supervised and Unsupervised Objectives through Generative Adversarial Networks]] ~ C. Taylan #GANs #SemanticSegmentation #Image2Image
++ [[https://arxiv.org/pdf/2001.10585v1.pdf][An Automated Approach for the Discovery of Interoperability]] ~ D. Sap #Interoperability #CAD
+
 
 ** Enero 2020
 
