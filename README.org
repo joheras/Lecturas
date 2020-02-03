@@ -18,6 +18,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2020
 
++ [[https://medium.com/bethgelab/increasing-the-robustness-of-dnns-against-image-corruptions-by-playing-the-game-of-noise-4566b5c2c8d5][A surprisingly simple way to make DNNs robust against many types of image corruptions]] ~ E. Rusak #DataAugmentation #Robustness #GaussianNoise
 + [[https://arxiv.org/pdf/2001.11202v1.pdf][Image Embedded Segmentation: Combining Supervised and Unsupervised Objectives through Generative Adversarial Networks]] ~ C. Taylan #GANs #SemanticSegmentation #Image2Image
 + [[https://arxiv.org/pdf/2001.10585v1.pdf][An Automated Approach for the Discovery of Interoperability]] ~ D. Sap #Interoperability #CAD
 
