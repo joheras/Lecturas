@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://github.com/Machine-Learning-Tokyo/AI_Curriculum][AI Curriculum]] ~ Suzana Ilić #DeepLearning #Courses #NLP #ComputerVision
 + [[https://www.si.edu/openaccess/faq][Smithsonian Open Access]] #Datasets #Images #Museums
 + [[https://www.sciencedirect.com/science/article/pii/S2452310017300537][The imaging tsunami: Computational opportunities and challenges]] ~ W. Ouyang #Microscopy #Bioimaging #SuperResolution
 + [[https://github.com/fastai/fastbook][Draft of the fastai book]] ~ J. Howard #FastAI #Deeplearning #NLP #ComputerVision
