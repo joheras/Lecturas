@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/abs/2002.08512][Reliance on Metrics is a Fundamental Challenge for AI]] ~ R. Thomas #Ethics 
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials/translations/espa%C3%B1ol][Pysyft:  A library for encrypted, privacy preserving machine learning]] ~ Pysyft #Privacy #DeepLearning
 + [[https://github.com/Machine-Learning-Tokyo/AI_Curriculum][AI Curriculum]] ~ Suzana Ilić #DeepLearning #Courses #NLP #ComputerVision
 + [[https://www.si.edu/openaccess/faq][Smithsonian Open Access]] #Datasets #Images #Museums
