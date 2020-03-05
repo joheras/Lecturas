@@ -20,6 +20,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/1904.12848.pdf][Unsupervised data augmentation for consistency training]] ~ Q. Xie #SemiSupervisedLearning #DataAugmentation
++ [[https://drive.google.com/file/d/1ax1-XprJHDRRv2Ru3dJwPLs3ShxcpQ3r/view][Learning from unlabeled data]] ~ T. Luong #SelfSupervisedLearning #SemiSupervisedLearning #NoisyStudent
 + [[https://arxiv.org/abs/2002.08512][Reliance on Metrics is a Fundamental Challenge for AI]] ~ R. Thomas #Ethics 
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials/translations/espa%C3%B1ol][Pysyft:  A library for encrypted, privacy preserving machine learning]] ~ Pysyft #Privacy #DeepLearning
 + [[https://github.com/Machine-Learning-Tokyo/AI_Curriculum][AI Curriculum]] ~ Suzana Ilić #DeepLearning #Courses #NLP #ComputerVision
