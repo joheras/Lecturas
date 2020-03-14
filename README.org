@@ -20,6 +20,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/1905.13538.pdf][FUNSD: A Dataset for Form Understandingin Noisy Scanned Documents]] ~ G. Jaume #FormUnderstanding #Dataset #Athento [[https://guillaumejaume.github.io/FUNSD/download/][Repositorio]]
++ [[https://arxiv.org/pdf/1908.07836.pdf][PubLayNet: largest dataset ever for documentlayout analysis]] ~ X. Zhong #LayoutAnalysis #TableDetection #Dataset #Athento [[https://dax.cdn.appdomain.cloud/dax-publaynet/1.0.0/PubLayNet.html][Repositorio]]
++ [[https://arxiv.org/pdf/1911.09070.pdf][EfficientDet: Scalable and Efficient Object Detection]] ~ M. Tan #ObjectDetection #EfficientDet #Efficiency
++ [[https://arxiv.org/abs/1911.11929][CSPNet: A New Backbone that can Enhance Learning Capability of CNN]] ~ C. Hang #YOLO #ObjectDetection #Darknet #Efficient [[https://github.com/WongKinYiu/CrossStagePartialNetworks][Repositorio]]
 + [[https://arxiv.org/pdf/1904.12848.pdf][Unsupervised data augmentation for consistency training]] ~ Q. Xie #SemiSupervisedLearning #DataAugmentation
 + [[https://drive.google.com/file/d/1ax1-XprJHDRRv2Ru3dJwPLs3ShxcpQ3r/view][Learning from unlabeled data]] ~ T. Luong #SelfSupervisedLearning #SemiSupervisedLearning #NoisyStudent
 + [[https://arxiv.org/abs/2002.08512][Reliance on Metrics is a Fundamental Challenge for AI]] ~ R. Thomas #Ethics 
