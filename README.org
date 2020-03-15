@@ -20,6 +20,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://github.com/alhassy/PythonCheatSheet][PythonCheatSheet]] ~ [[https://github.com/alhassy][alhassy]] #Python
++ [[https://distill.pub/2020/circuits/zoom-in/][Zoom In: An Introduction to Circuits]] ~ C. Olah #Interpretability 
++ [[https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html][Fast and Easy Infinitely Wide Networks with Neural Tangents]] ~ S. Schoenholz #InfiniteNetworks #NeuralTangents
++ [[https://arxiv.org/abs/2002.05709][A Simple Framework for Contrastive Learning of Visual Representations]] ~ T. Chen #ContrastiveLearning #SelfSupervisedLearning #DataAugmentation
 + [[https://arxiv.org/pdf/1905.13538.pdf][FUNSD: A Dataset for Form Understandingin Noisy Scanned Documents]] ~ G. Jaume #FormUnderstanding #Dataset #Athento [[https://guillaumejaume.github.io/FUNSD/download/][Repositorio]]
 + [[https://arxiv.org/pdf/1908.07836.pdf][PubLayNet: largest dataset ever for documentlayout analysis]] ~ X. Zhong #LayoutAnalysis #TableDetection #Dataset #Athento [[https://dax.cdn.appdomain.cloud/dax-publaynet/1.0.0/PubLayNet.html][Repositorio]]
 + [[https://arxiv.org/pdf/1911.09070.pdf][EfficientDet: Scalable and Efficient Object Detection]] ~ M. Tan #ObjectDetection #EfficientDet #Efficiency
