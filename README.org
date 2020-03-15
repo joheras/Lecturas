@@ -20,6 +20,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw][ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters]] ~ DeepSpeed #LargeModels #Library #ModelTraining #Parallelism
++ [[https://speakerdeck.com/inesmontani/the-future-of-nlp-in-python-keynote-pycon-colombia-2020][The future of NLP in Python]] ~ I. Montani #NLP
++ [[https://quantum-journal.org/papers/q-2020-02-06-226/][Data re-uploading for a universal quantum classifier]] ~ A. Pérez-Salinas #QuantumComputing #MachineLearning
++ [[https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html][Announcing TensorFlow Quantum: An Open Source Library for Quantum Machine Learning ]] ~ A. Ho #QuantumComputing #MachineLearning
 + [[https://github.com/alhassy/PythonCheatSheet][PythonCheatSheet]] ~ [[https://github.com/alhassy][alhassy]] #Python
 + [[https://distill.pub/2020/circuits/zoom-in/][Zoom In: An Introduction to Circuits]] ~ C. Olah #Interpretability 
 + [[https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html][Fast and Easy Infinitely Wide Networks with Neural Tangents]] ~ S. Schoenholz #InfiniteNetworks #NeuralTangents
