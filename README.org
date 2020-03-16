@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://forums.fast.ai/t/fastai-v2-has-a-medical-imaging-submodule/56117][Fastai v2 has a medical imaging submodule!]] ~ J. Howard #FastAI #MedicalData
 + [[https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw][ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters]] ~ DeepSpeed #LargeModels #Library #ModelTraining #Parallelism
 + [[https://speakerdeck.com/inesmontani/the-future-of-nlp-in-python-keynote-pycon-colombia-2020][The future of NLP in Python]] ~ I. Montani #NLP
 + [[https://quantum-journal.org/papers/q-2020-02-06-226/][Data re-uploading for a universal quantum classifier]] ~ A. Pérez-Salinas #QuantumComputing #MachineLearning
