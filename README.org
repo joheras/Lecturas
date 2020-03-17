@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://gitmemory.com/issue/AlexeyAB/darknet/2746/477459452][mAP (mean average precision) calculation for different Datasets ]] ~ AlexeyAB #Detection #Metrics #YOLO
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfSupervised #SemiSupervised
 + [[https://forums.fast.ai/t/fastai-v2-has-a-medical-imaging-submodule/56117][Fastai v2 has a medical imaging submodule!]] ~ J. Howard #FastAI #MedicalData
 + [[https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw][ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters]] ~ DeepSpeed #LargeModels #Library #ModelTraining #Parallelism
