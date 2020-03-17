@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/][Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning]] ~ A. Rosenbrog #PyimageSearch #ImageClassification
 + [[https://gitmemory.com/issue/AlexeyAB/darknet/2746/477459452][mAP (mean average precision) calculation for different Datasets ]] ~ AlexeyAB #Detection #Metrics #YOLO
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfSupervised #SemiSupervised
 + [[https://forums.fast.ai/t/fastai-v2-has-a-medical-imaging-submodule/56117][Fastai v2 has a medical imaging submodule!]] ~ J. Howard #FastAI #MedicalData
