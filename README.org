@@ -20,6 +20,17 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/abs/2002.04803][Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence]] ~ S. Raschka #Python #MachineLearning #DeepLearning
++ [[https://arxiv.org/pdf/2002.02948.pdf][A deep-learning view of chemical space designed to facilitate drug discovery]] ~ P. Maragakis #Chemistry #DrugDiscovery
++ [[https://arxiv.org/pdf/2002.01155v1.pdf][Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception]] ~ J. Islam #SuperResolution #ImageEnhancement
++ [[https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a][From zero to research — An introduction to Meta-learning]] ~ T. Wolf #MetaLearning
++ [[https://arxiv.org/abs/1908.00709][AutoML: A Survey of the State-of-the-Art]] ~ X. He #AutoML
++ [[https://www.cc.gatech.edu/~parikh/citizenofcvpr/][Good Citizien of CVPR]] ~ Conference #Research #Advices
++ [[https://colab.research.google.com/gist/pablo14/857e3259b441621f9cba194bf272c492/tutorial-on-spam-detection-using-fastai-ulmfit-part-2-classification-model.ipynb][Tutorial on SPAM detection using fastai ULMFiT - Part 2: Classification Model]] ~ P. Casas #ULMFit #FastAI #NLP
++ [[https://www.biorxiv.org/content/10.1101/2020.02.20.956268v1.full.pdf][Interactive machine learning for fast and robust cell profiling]] ~ L. Laux #Segmentation #CellProfiler
++ [[https://arxiv.org/pdf/2003.01383v1.pdf][Fully Convolutional Networks for Automatically Generating Image Masks to Train Mask R-CNN]] ~ H. Wu #ObjectDetection 
++ [[https://github.com/huggingface/transformers/tree/master/notebooks][Transformers Notebooks]] ~ HuggingFace #NLP #Transformers
++ [[https://github.com/mogwai/fastai_audio][Fast AI Audio]] ~ Mogwai #FastAI #Audio
 + [[https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/114214][RSNA Intracranial Hemorrhage Detection FastAI]] ~ J. Howard #MedicalImaging #FastAI
 + [[https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/][Step-By-Step Framework for Imbalanced Classification Projects]] ~ J. Brownlee #ImageClassification #ImbalancedDatasets
 + [[https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/][Grad-CAM: Visualize class activation maps with Keras, TensorFlow, and Deep Learning]] ~ A. Rosenbrog #PyimageSearch #ActivationMaps #Interpretability
