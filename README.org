@@ -20,6 +20,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://github.com/earthspecies/from_zero_to_DSP][From Zero to DSP]] ~ radekosmulski #Audio
++ [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0832-5#Tab1][Deep learning workflow in radiology: a primer]] ~ E. Montagnon #DeepLearning #MedicalImaging #Workflow
 + [[https://arxiv.org/abs/2002.04803][Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence]] ~ S. Raschka #Python #MachineLearning #DeepLearning
 + [[https://arxiv.org/pdf/2002.02948.pdf][A deep-learning view of chemical space designed to facilitate drug discovery]] ~ P. Maragakis #Chemistry #DrugDiscovery
 + [[https://arxiv.org/pdf/2002.01155v1.pdf][Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception]] ~ J. Islam #SuperResolution #ImageEnhancement
