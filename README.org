@@ -20,6 +20,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/114214][RSNA Intracranial Hemorrhage Detection FastAI]] ~ J. Howard #MedicalImaging #FastAI
++ [[https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/][Step-By-Step Framework for Imbalanced Classification Projects]] ~ J. Brownlee #ImageClassification #ImbalancedDatasets
++ [[https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/][Grad-CAM: Visualize class activation maps with Keras, TensorFlow, and Deep Learning]] ~ A. Rosenbrog #PyimageSearch #ActivationMaps #Interpretability
++ [[https://arxiv.org/pdf/2003.06957.pdf][Frustratingly Simple Few-Shot Object Detection]] ~ X. Wang #ObjectDetection #FewShotLearning [[https://github.com/ucbdrive/few-shot-object-detection][Repositorio]]
 + [[https://arxiv.org/pdf/1904.04445.pdf][Semi-Supervised Segmentation of Salt Bodies inSeismic Images using an Ensemble ofConvolutional Neural Networks]] ~ Y. Babakhin #SemiSupervisedLearning #SemanticSegmentation #SelfLearning
 + [[https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/][Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning]] ~ A. Rosenbrog #PyimageSearch #ImageClassification
 + [[https://gitmemory.com/issue/AlexeyAB/darknet/2746/477459452][mAP (mean average precision) calculation for different Datasets ]] ~ AlexeyAB #Detection #Metrics #YOLO
