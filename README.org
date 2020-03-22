@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/2003.08462v1.pdf][Semi-supervised few-shot learning for medicalimage segmentation]] ~ A. Fayjie #SemiSupervisedLearning #FewShotLearning
 + [[https://arxiv.org/pdf/2002.05709.pdf][A Simple Framework for Contrastive Learning of Visual Representations]] ~ T. Chen #ContrastiveLearning 
 + [[https://ai.googleblog.com/2020/03/visual-transfer-learning-for-robotic.html][Visual Transfer Learning for Robotic Manipulation]] ~ Y-C. Lin #Robotics #TransferLearning 
 + [[https://arxiv.org/abs/2003.06798][StarNet: towards weakly supervised few-shot detection and explainable few-shot classification]] ~ L. Karlinsky #FewShotLearning #Interpretability #WeaklySupervised #ObjectDetection
