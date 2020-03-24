@@ -20,6 +20,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/1906.06423.pdf][Fixing the train-test resolution discrepancy]] ~ H. Touvron #ImageNet #Classification #FixRes
++ [[https://arxiv.org/pdf/2003.08237.pdf][Fixing the train-test resolution discrepancy: FixEfficientNet]] ~ H. Touvron #Classification #FixEfficientNet #ImageNet
 + [[https://arxiv.org/pdf/1805.04574.pdf][Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation]] ~ Y. Wei #WeakLearning #SemiSupervisedLearning
 + [[https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf][Weakly- and Semi-Supervised Learning of a Deep Convolutional Network forSemantic Image Segmentation]] ~ G. Papandreou #WeakLearning #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/1808.03575.pdf][Weakly- and Semi-Supervised Panoptic Segmentation]] ~ Q. Li #SemanticSegmentation #WeakLearning #PanopticSegmentation
