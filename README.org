@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://deepai.org/publication/incremental-object-detection-via-meta-learning][Incremental Object Detection via Meta-Learning]] ~ K. J. Joseph #ObjectDetection #MetaLearning
 + [[https://arxiv.org/pdf/1906.06423.pdf][Fixing the train-test resolution discrepancy]] ~ H. Touvron #ImageNet #Classification #FixRes
 + [[https://arxiv.org/pdf/2003.08237.pdf][Fixing the train-test resolution discrepancy: FixEfficientNet]] ~ H. Touvron #Classification #FixEfficientNet #ImageNet
 + [[https://arxiv.org/pdf/1805.04574.pdf][Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation]] ~ Y. Wei #WeakLearning #SemiSupervisedLearning
