@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/1902.04103.pdf][Bag of Freebies for Training Object Detection Neural Networks]] ~ Z. Zhang #ObjectDetection #Tricks
 + [[https://ruder.io/semi-supervised/][An overview of proxy-label approaches for semi-supervised learning]] ~ S. Ruder #SemiSupervisedLearning #ProxyLabel
 + [[https://github.com/noachr/MixMatch-fastai/blob/master/MixMatch%20Blog.ipynb][A fastai/Pytorch implementation of MixMatch]] ~ N. Rubinstein #FastAI #MixMatch #SemiSupervisedLearning
 + [[https://ai.facebook.com/blog/ccmatrix-a-billion-scale-bitext-data-set-for-training-translation-models/][CCMatrix: A billion-scale bitext data set for training translation models]] ~ H. Schwenk #NLP #Dataset #Translation
