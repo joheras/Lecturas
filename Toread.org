@@ -1,19 +1,18 @@
-+ https://www.nature.com/articles/s41598-020-61055-6
++ 
 + https://www.tensorflow.org/quantum
-+ https://arxiv.org/abs/2002.07772v1
++ 
 + https://skellig-ai.github.io/2020/02/03/The-Augmented-Scientist-Part-1.html
 + https://towardsdatascience.com/building-an-incremental-recommender-system-part-ii-2d0e782b2cf6
-+ https://arxiv.org/abs/1911.09070
+
 + www.robotics.unsw.edu.au/srv/index.html
-+ https://ai.facebook.com/blog/ccmatrix-a-billion-scale-bitext-data-set-for-training-translation-models/
 + https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30003-0/fulltext
-+ https://arxiv.org/abs/2002.02405
++ 
 + https://deepai.org/publication/generating-interpretable-poverty-maps-using-object-detection-in-satellite-images
-+ https://arxiv.org/abs/2001.07626
-+ https://arxiv.org/abs/1901.03407
++ 
++ 
 + https://github.com/AntixK/PyTorch-VAE
 + https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17
-+ https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19
++ 
 + https://deepmind.com/research
 + 
 
