@@ -20,6 +20,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://www.tensorflow.org/quantum][TensorFlow Quantum is a library for hybrid quantum-classical machine learning]] ~ Tensorflow #QuantumMachineLearning
++ [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30003-0/fulltext][Changes in cancer detection and false-positive recall in mammography using artificial intelligence: a retrospective, multireader study]] ~ H. Kim #MedicalImaging #ImageClassification
++ [[https://arxiv.org/pdf/2002.01612v1.pdf][Generating Interpretable Poverty Maps using Object Detection in Satellite Images]] ~ K. Ayush #ObjectDetection #YOLO
 + [[https://arxiv.org/abs/2002.02405][How Good is the Bayes Posterior in Deep Neural Networks Really?]] ~ F. Wenzel #BayesianInference
 + [[https://arxiv.org/pdf/1901.03407.pdf][Deep learning for anomaly detection: a survey]] ~ R. Chalapathy #AnomalyDetection
 + [[https://arxiv.org/pdf/2002.07772v1.pdf][The Tree Ensemble Layer: Differentiability meets Conditional Computation]] ~ H. Hazimeh #DecissionTrees #EnsembleLayer
