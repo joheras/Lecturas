@@ -1,20 +1,13 @@
 + 
-+ https://www.tensorflow.org/quantum
 + 
 + https://skellig-ai.github.io/2020/02/03/The-Augmented-Scientist-Part-1.html
 + https://towardsdatascience.com/building-an-incremental-recommender-system-part-ii-2d0e782b2cf6
 
 + www.robotics.unsw.edu.au/srv/index.html
-+ https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30003-0/fulltext
-+ 
-+ https://deepai.org/publication/generating-interpretable-poverty-maps-using-object-detection-in-satellite-images
-+ 
 + 
 + https://github.com/AntixK/PyTorch-VAE
 + https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17
-+ 
-+ https://deepmind.com/research
-+ 
+
 
 --------------------------------
 
