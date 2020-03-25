@@ -20,6 +20,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/abs/2002.02405][How Good is the Bayes Posterior in Deep Neural Networks Really?]] ~ F. Wenzel #BayesianInference
++ [[https://arxiv.org/pdf/1901.03407.pdf][Deep learning for anomaly detection: a survey]] ~ R. Chalapathy #AnomalyDetection
++ [[https://arxiv.org/pdf/2002.07772v1.pdf][The Tree Ensemble Layer: Differentiability meets Conditional Computation]] ~ H. Hazimeh #DecissionTrees #EnsembleLayer
++ [[https://www.nature.com/articles/s41598-020-61055-6][AppendiXNet: Deep Learning for Diagnosis of Appendicitis from A Small Dataset of CT Exams Using Video Pretraining]] ~ P. Rajpurkar #MedicalImaging #3DClassification #TransferLearning
++ [[https://arxiv.org/pdf/1904.11490.pdf][RepPoints: Point Set Representation for Object Detection]] ~ Z. Yang #ObjectDetection
 + [[https://arxiv.org/pdf/1902.04103.pdf][Bag of Freebies for Training Object Detection Neural Networks]] ~ Z. Zhang #ObjectDetection #Tricks
 + [[https://ruder.io/semi-supervised/][An overview of proxy-label approaches for semi-supervised learning]] ~ S. Ruder #SemiSupervisedLearning #ProxyLabel
 + [[https://github.com/noachr/MixMatch-fastai/blob/master/MixMatch%20Blog.ipynb][A fastai/Pytorch implementation of MixMatch]] ~ N. Rubinstein #FastAI #MixMatch #SemiSupervisedLearning
