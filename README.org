@@ -20,6 +20,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0][A walk with FastAI 2]] ~ 
++ [[https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf][Unsupervised Learning of Depth and Ego-Motion from Video]] ~ T. Zhou #SelfSupervisedLearning #Video 
++ [[https://arxiv.org/abs/2003.10580][Meta Pseudo Labels]] ~ H. Pham #SelfSupervisedLearning #SemiSupervisedLearning
 + [[https://www.tensorflow.org/quantum][TensorFlow Quantum is a library for hybrid quantum-classical machine learning]] ~ Tensorflow #QuantumMachineLearning
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30003-0/fulltext][Changes in cancer detection and false-positive recall in mammography using artificial intelligence: a retrospective, multireader study]] ~ H. Kim #MedicalImaging #ImageClassification
 + [[https://arxiv.org/pdf/2002.01612v1.pdf][Generating Interpretable Poverty Maps using Object Detection in Satellite Images]] ~ K. Ayush #ObjectDetection #YOLO
