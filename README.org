@@ -20,7 +20,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
-+ [[https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0][A walk with FastAI 2]] ~ 
++ [[https://ipam.wistia.com/medias/w1ii9wdqnd][From classical statistics to modern machine learning]] ~ M. Belkin #DoubleDescent
++ [[https://www.youtube.com/watch?v=MX5cqgUVkQE][How to Know]] ~ C. Kidd #Neuropsycology #Learning
++ [[https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17][tSNE vs. UMAP: Global Structure]] ~ N. Oskolkov #DimensionalityReduction
++ [[https://github.com/AntixK/PyTorch-VAE][PyTorch VAE]] ~ A. K. Subramanian #Pytorch #VAE
++ [[https://skellig-ai.github.io/2020/02/03/The-Augmented-Scientist-Part-1.html][The Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images]] ~ I. Keaney #ImageClassification #FastAI
++ [[https://arxiv.org/pdf/2001.07626.pdf][PatchPerPix for Instance Segmentation]] ~ P. Hirsch #InstanceSegmentation #Datasets 
++ [[https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0][A walk with FastAI 2]] ~ Muellerzr #FastaAI #Course
 + [[https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf][Unsupervised Learning of Depth and Ego-Motion from Video]] ~ T. Zhou #SelfSupervisedLearning #Video 
 + [[https://arxiv.org/abs/2003.10580][Meta Pseudo Labels]] ~ H. Pham #SelfSupervisedLearning #SemiSupervisedLearning
 + [[https://www.tensorflow.org/quantum][TensorFlow Quantum is a library for hybrid quantum-classical machine learning]] ~ Tensorflow #QuantumMachineLearning
