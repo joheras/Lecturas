@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://www.youtube.com/watch?v=bGEDjhbSHmg][Introduction to Semi-supervised Learning using MixMatch]] ~ R. Löwenström #SemiSupervisedLearning #MixMatch
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
 + [[https://arxiv.org/pdf/1908.08681v1.pdf][Mish: A Self Regularized Non-Monotonic Neural Activation Function]] ~ D. Misra #ActivationFunction
 + [[https://ipam.wistia.com/medias/w1ii9wdqnd][From classical statistics to modern machine learning]] ~ M. Belkin #DoubleDescent
