@@ -20,6 +20,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
++ [[https://arxiv.org/pdf/1908.08681v1.pdf][Mish: A Self Regularized Non-Monotonic Neural Activation Function]] ~ D. Misra #ActivationFunction
 + [[https://ipam.wistia.com/medias/w1ii9wdqnd][From classical statistics to modern machine learning]] ~ M. Belkin #DoubleDescent
 + [[https://www.youtube.com/watch?v=MX5cqgUVkQE][How to Know]] ~ C. Kidd #Neuropsycology #Learning
 + [[https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17][tSNE vs. UMAP: Global Structure]] ~ N. Oskolkov #DimensionalityReduction
