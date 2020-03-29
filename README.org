@@ -20,8 +20,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
++ [[https://link.springer.com/content/pdf/10.1007/s11263-020-01300-7.pdf][Layout2image: Image Generation from Layout]] ~ B. Zhao #Layout2Image
 + [[https://www.youtube.com/watch?v=egs0XN-xjA0&list=PL_lsbAsL_o2BY-RrqVDKDcywKnuUTp-f3&index=13%3Futm_source%3D-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=pytorch-devcon19&utm_product=Detectron2][Detectron2 - Next Gen Object Detection Library]] ~ Y. Wu #Detectron #ObjectDetection #Video
-+ [[https://arxiv.org/pdf/2003.11571v1.pdf][Learning Layout and Style Reconfigurable GANsfor Controllable Image Synthesis]] ~ W. Sun #GANs #LayoutToImage
++ [[https://arxiv.org/pdf/2003.11571v1.pdf][Learning Layout and Style Reconfigurable GANsfor Controllable Image Synthesis]] ~ W. Sun #GANs #Layout2Image
 + [[https://www.youtube.com/watch?v=bGEDjhbSHmg][Introduction to Semi-supervised Learning using MixMatch]] ~ R. Löwenström #SemiSupervisedLearning #MixMatch
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
 + [[https://arxiv.org/pdf/1908.08681v1.pdf][Mish: A Self Regularized Non-Monotonic Neural Activation Function]] ~ D. Misra #ActivationFunction
