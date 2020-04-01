@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#abril-2020][Abril 2020]]
   - [[#marzo-2020][Marzo 2020]]
   - [[#febrero-2020][Febrero 2020]]
   - [[#enero-2020][Enero 2020]]
@@ -17,9 +18,17 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2020
 
+** Abril 2020
+
++ [[https://arxiv.org/pdf/1804.01622.pdf][Image Generation from Scene Graphs]] ~ J. Johnson #ImageGeneration #SceneGraphs
++ [[https://arxiv.org/pdf/1604.07379.pdf][Context Encoders: Feature Learning by Inpainting]] ~ Pathak #InPainting #AutoEncoders
++ [[https://www.pyimagesearch.com/2020/03/30/autoencoders-for-content-based-image-retrieval-with-keras-and-tensorflow/][Autoencoders for Content-based Image Retrieval with Keras and TensorFlow]] ~ A. Rosenbrog #PyimageSearch #AutoEncoders #ImageRetrieval
++ [[https://arxiv.org/pdf/2003.11303v1.pdf][Cylindrical Convolutional Networks forJoint Object Detection and Viewpoint Estimation]] ~ S. Joung #ObjectDetection #3DConvolutions
++ [[http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Generative_Modeling_for_Small-Data_Object_Detection_ICCV_2019_paper.pdf][Generative Modeling for Small-Data Object Detection]] ~ L. Liu #ObjectDetection #GAN
 
 ** Marzo 2020
 
++ [[http://www.vision-ary.net/2015/03/largest-boosted-cascades-opencv-lbp-haar-hog/][HAAR LBP HOG Cascades for OpenCV]] ~ Vision-Ary Team #ObjectDetection
 + [[https://link.springer.com/content/pdf/10.1007/s11263-020-01300-7.pdf][Layout2image: Image Generation from Layout]] ~ B. Zhao #Layout2Image
 + [[https://www.youtube.com/watch?v=egs0XN-xjA0&list=PL_lsbAsL_o2BY-RrqVDKDcywKnuUTp-f3&index=13%3Futm_source%3D-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=pytorch-devcon19&utm_product=Detectron2][Detectron2 - Next Gen Object Detection Library]] ~ Y. Wu #Detectron #ObjectDetection #Video
 + [[https://arxiv.org/pdf/2003.11571v1.pdf][Learning Layout and Style Reconfigurable GANsfor Controllable Image Synthesis]] ~ W. Sun #GANs #Layout2Image
