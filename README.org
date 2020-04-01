@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/2003.11734.pdf][Fastidious Attention Network for Navel Orange Segmentation]] ~ S. Xiaoye #SemanticSegmentation #Attention
 + [[https://arxiv.org/pdf/1804.01622.pdf][Image Generation from Scene Graphs]] ~ J. Johnson #ImageGeneration #SceneGraphs
 + [[https://arxiv.org/pdf/1604.07379.pdf][Context Encoders: Feature Learning by Inpainting]] ~ Pathak #InPainting #AutoEncoders
 + [[https://www.pyimagesearch.com/2020/03/30/autoencoders-for-content-based-image-retrieval-with-keras-and-tensorflow/][Autoencoders for Content-based Image Retrieval with Keras and TensorFlow]] ~ A. Rosenbrog #PyimageSearch #AutoEncoders #ImageRetrieval
