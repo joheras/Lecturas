@@ -29,6 +29,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2020
 
+#+html: <p align="center"><img src="wordClouds/marzo2020.png" /></p>
 + [[http://www.vision-ary.net/2015/03/largest-boosted-cascades-opencv-lbp-haar-hog/][HAAR LBP HOG Cascades for OpenCV]] ~ Vision-Ary Team #ObjectDetection
 + [[https://link.springer.com/content/pdf/10.1007/s11263-020-01300-7.pdf][Layout2image: Image Generation from Layout]] ~ B. Zhao #Layout2Image
 + [[https://www.youtube.com/watch?v=egs0XN-xjA0&list=PL_lsbAsL_o2BY-RrqVDKDcywKnuUTp-f3&index=13%3Futm_source%3D-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=pytorch-devcon19&utm_product=Detectron2][Detectron2 - Next Gen Object Detection Library]] ~ Y. Wu #Detectron #ObjectDetection #Video
