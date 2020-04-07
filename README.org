@@ -20,6 +20,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/2003.13853v1.pdf][Semi-supervised Learning for Few-shot Image-to-Image Translation]] ~ Y. Wan #SemiSupervisedLearning #Image2Image
++ [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
++ [[https://arxiv.org/pdf/1904.11486.pdf][Making Convolutional Networks Shift-Invariant Again]] ~ R. Zhang #ConvolutionalNeuralNetworks #Antialiasing
++ [[https://arxiv.org/abs/2004.01180][Learning to See Through Obstructions]] ~ Y. Liu #ObstructionRemoval
++ [[https://arxiv.org/pdf/1708.07860.pdf][Multi-task Self-Supervised Visual Learning]] ~ C. Doersch #SelfSupervisedLearning #MultiTaskLearning
++ [[https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/][Blur and anonymize faces with OpenCV and Python]] ~ A. Rosenbrog #Pyimagesearch #FaceDetection
 + [[https://arxiv.org/pdf/2002.11829.pdf][Representation Learning Through Latent Canonicalizations]] ~ O. Litani #RepresentationLearning #SelfSupervisedLearning
 + [[https://arxiv.org/pdf/2003.11734.pdf][Fastidious Attention Network for Navel Orange Segmentation]] ~ S. Xiaoye #SemanticSegmentation #Attention
 + [[https://arxiv.org/pdf/1804.01622.pdf][Image Generation from Scene Graphs]] ~ J. Johnson #ImageGeneration #SceneGraphs
