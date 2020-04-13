@@ -20,7 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
-
++ [[https://arxiv.org/pdf/2004.02042v1.pdf][ObjectNet Dataset: Reanalysis and Correction]] ~ A. Borji #ObjectNet #ObjectDetection
 + [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]] ~ B. Rohrer #IntroCNNs 
 + [[https://arxiv.org/pdf/2001.03994.pdf][FAST IS BETTER THAN FREE:REVISITING ADVERSARIAL TRAINING]] ~ E. Wong #AdeversarialTraining
 + [[https://arxiv.org/pdf/1904.13000.pdf][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. Tramèr #AdeversarialTraining #TrabajoSevilla
