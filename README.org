@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/1909.06674.pdf][A Step Toward Quantifying IndependentlyReproducible Machine Learning Research]] ~ E. Raff #Reproducibility
 + [[https://arxiv.org/pdf/2004.01241v1.pdf][Semantic Segmentation of Underwater Imagery: Dataset and Benchmark]] ~ J. Islam #SemanticSegmentation #Dataset
 + [[https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf][The Architectural Implications of Facebook’sDNN-based Personalized Recommendation]] ~ U. Gupta #RecommendationSystems 
 + [[https://jalammar.github.io/illustrated-bert/][The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)]] ~ J. Alammar #NLP
