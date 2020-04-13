@@ -20,6 +20,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/2004.01241v1.pdf][Semantic Segmentation of Underwater Imagery: Dataset and Benchmark]] ~ J. Islam #SemanticSegmentation #Dataset
++ [[https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf][The Architectural Implications of Facebook’sDNN-based Personalized Recommendation]] ~ U. Gupta #RecommendationSystems 
++ [[https://jalammar.github.io/illustrated-bert/][The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)]] ~ J. Alammar #NLP
++ [[http://www.cleverhans.io/][cleverhans blog]] ~ I. GodFellow #Blog #Security #MachineLearning
++ [[http://www.cleverhans.io/2020/04/06/stealing-bert.html][How to steal modern NLP systems with gibberish?]] ~ K. Krishna #NLP #Bert #Attacks #Distillation
 + [[https://colab.research.google.com/drive/1VJzTxN1QYXdc9LOjVO4DWqpV7nY4okmD#scrollTo=PwZ1zOxil56y][Text Similarity Search with Modern NLP and Elasticsearch Service]] #ElasticSearch #NLP
 + [[https://arxiv.org/pdf/2003.13853v1.pdf][Semi-supervised Learning for Few-shot Image-to-Image Translation]] ~ Y. Wan #SemiSupervisedLearning #Image2Image
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
