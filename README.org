@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://colab.research.google.com/drive/1VJzTxN1QYXdc9LOjVO4DWqpV7nY4okmD#scrollTo=PwZ1zOxil56y][Text Similarity Search with Modern NLP and Elasticsearch Service]] #ElasticSearch #NLP
 + [[https://arxiv.org/pdf/2003.13853v1.pdf][Semi-supervised Learning for Few-shot Image-to-Image Translation]] ~ Y. Wan #SemiSupervisedLearning #Image2Image
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
 + [[https://arxiv.org/pdf/1904.11486.pdf][Making Convolutional Networks Shift-Invariant Again]] ~ R. Zhang #ConvolutionalNeuralNetworks #Antialiasing
