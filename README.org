@@ -20,6 +20,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
+
++ [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]] ~ B. Rohrer #IntroCNNs 
++ [[https://arxiv.org/pdf/2001.03994.pdf][FAST IS BETTER THAN FREE:REVISITING ADVERSARIAL TRAINING]] ~ E. Wong #AdeversarialTraining
++ [[https://arxiv.org/pdf/1904.13000.pdf][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. Tramèr #AdeversarialTraining #TrabajoSevilla
++ [[https://deepai.org/publication/examining-the-benefits-of-capsule-neural-networks][Examining the Benefits of Capsule Neural Networks]] ~ A. Punjabi #CapsuleNetworks #Explainability
 + [[https://arxiv.org/pdf/1909.06674.pdf][A Step Toward Quantifying IndependentlyReproducible Machine Learning Research]] ~ E. Raff #Reproducibility
 + [[https://arxiv.org/pdf/2004.01241v1.pdf][Semantic Segmentation of Underwater Imagery: Dataset and Benchmark]] ~ J. Islam #SemanticSegmentation #Dataset
 + [[https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf][The Architectural Implications of Facebook’sDNN-based Personalized Recommendation]] ~ U. Gupta #RecommendationSystems 
