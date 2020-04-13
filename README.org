@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://www.pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/][OpenCV Age Detection with Deep Learning]] ~ A. Rosenbrog #PyimageSearch #AgeDetection #ImageClassification
 + [[https://arxiv.org/pdf/2004.02042v1.pdf][ObjectNet Dataset: Reanalysis and Correction]] ~ A. Borji #ObjectNet #ObjectDetection
 + [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]] ~ B. Rohrer #IntroCNNs 
 + [[https://arxiv.org/pdf/2001.03994.pdf][FAST IS BETTER THAN FREE:REVISITING ADVERSARIAL TRAINING]] ~ E. Wong #AdeversarialTraining
