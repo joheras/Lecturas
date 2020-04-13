@@ -3,10 +3,6 @@
 --------------------------------
 
 + [[https://deepai.org/publication/weakly-supervised-few-shot-object-segmentation-using-co-attention-with-visual-and-semantic-inputs][Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs]]
-+ [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]]
-+ [[https://arxiv.org/pdf/2001.03994.pdf][FAST IS BETTER THAN FREE:REVISITING ADVERSARIAL TRAINING]]
-+ [[https://arxiv.org/pdf/1904.13000.pdf][Adversarial Training and Robustness forMultiple Perturbations]] 
-+ [[https://deepai.org/publication/examining-the-benefits-of-capsule-neural-networks][Examining the Benefits of Capsule Neural Networks]]
 + [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
 + [[https://deepai.org/publication/saunet-shape-attentive-u-net-for-interpretable-medical-image-segmentation][SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation]]
 + [[https://www.youtube.com/watch?v=4zrU54VIK6k][Privacy Preserving AI]]
