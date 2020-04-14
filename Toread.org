@@ -2,6 +2,11 @@
 
 --------------------------------
 
++ [[https://deepai.org/publication/on-interpretability-of-artificial-neural-networks][On Interpretability of Artificial Neural Networks]] ~ F. Fan #Interpretability #NeuralNetworks
++ [[https://arxiv.org/abs/1911.11423][Single Headed Attention RNN: Stop Thinking With Your Head]]
++ [[https://arxiv.org/abs/1912.01991][Self-Supervised Learning of Pretext-Invariant Representations]]
++ [[https://arxiv.org/abs/1911.05722][Momentum Contrast for Unsupervised Visual Representation Learning]]
++ [[https://arxiv.org/abs/1905.09272][Data-Efficient Image Recognition with Contrastive Predictive Coding]]
 
 
 
