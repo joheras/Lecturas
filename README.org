@@ -20,6 +20,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]] ~ A. Karpathy #NeuralNets #Recipes
++ [[https://arxiv.org/pdf/2001.07645v1.pdf][SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation]] ~ J. Sun #Segmentation #Interpretability
++ [[https://lena-voita.github.io/posts/emnlp19_evolution.html][Evolution of Representations in the Transformer]] ~ L. Voita #NLP #Transformers
++ [[https://arxiv.org/pdf/2001.09540v1.pdf][Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs]] ~ M. Siam #Segmentation #Attention #FewShotLearning
++ [[https://jalammar.github.io/illustrated-transformer/][The Illustrated Transformer]] ~ J. Alamar #Transformers #NLP
++ [[https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/][Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)]] ~ J. Alammar #Attention #NLP
 + [[https://www.pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/][OpenCV Age Detection with Deep Learning]] ~ A. Rosenbrog #PyimageSearch #AgeDetection #ImageClassification
 + [[https://arxiv.org/pdf/2004.02042v1.pdf][ObjectNet Dataset: Reanalysis and Correction]] ~ A. Borji #ObjectNet #ObjectDetection
 + [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]] ~ B. Rohrer #IntroCNNs 
