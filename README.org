@@ -20,6 +20,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
+
++ [[https://deepai.org/publication/what-can-robotics-research-learn-from-computer-vision-research][What can robotics research learn from computer vision research?]] ~ P. Corke #Robotics #ComputerVision
++ [[https://lena-voita.github.io/posts/acl19_heads.html][The Story of Heads]] ~ L. Voita #Transformers #NLP
++ [[https://www.biorxiv.org/content/10.1101/740548v8][Deep Learning-Based Point-Scanning Super-Resolution Imaging]] ~ L. Fang #SuperResolution
++ [[https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7][Can We Generate High-Quality Movie Reviews Using Language Models?]] ~ O. Dar #LanguajeModel #TextGeneration #NLP
++ [[https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd][Meet AdaMod: a new deep learning optimizer with memory]] ~ L. Wright #Optimiser
++ [[https://arxiv.org/abs/1606.02228][Systematic evaluation of CNN advances on the ImageNet]] ~ D. Mishkin #CNNs
 + [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]] ~ A. Karpathy #NeuralNets #Recipes
 + [[https://arxiv.org/pdf/2001.07645v1.pdf][SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation]] ~ J. Sun #Segmentation #Interpretability
 + [[https://lena-voita.github.io/posts/emnlp19_evolution.html][Evolution of Representations in the Transformer]] ~ L. Voita #NLP #Transformers
