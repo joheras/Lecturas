@@ -2,19 +2,10 @@
 
 --------------------------------
 
-+ [[https://deepai.org/publication/weakly-supervised-few-shot-object-segmentation-using-co-attention-with-visual-and-semantic-inputs][Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs]]
-+ [[http://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
-+ [[https://deepai.org/publication/saunet-shape-attentive-u-net-for-interpretable-medical-image-segmentation][SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation]]
-+ [[https://www.youtube.com/watch?v=4zrU54VIK6k][Privacy Preserving AI]]
-+ [[https://lena-voita.github.io/posts/emnlp19_evolution.html][Evolution of Representations in the Transformer]]
+
 + [[https://lena-voita.github.io/posts/acl19_heads.html][The Story of Heads]]
-
 + [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
-+ 
-
 + [[https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7][Can We Generate High-Quality Movie Reviews Using Language Models?]]
-
-
 + [[https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd][Meet AdaMod: a new deep learning optimizer with memory]]
 + [[https://arxiv.org/abs/1606.02228][Systematic evaluation of CNN advances on the ImageNet]]
 + [[https://deepai.org/publication/on-interpretability-of-artificial-neural-networks][On Interpretability of Artificial Neural Networks]]
