@@ -3,17 +3,8 @@
 --------------------------------
 
 
-+ [[https://lena-voita.github.io/posts/acl19_heads.html][The Story of Heads]]
-+ [[https://www.biorxiv.org/content/10.1101/740548v4][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
-+ [[https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7][Can We Generate High-Quality Movie Reviews Using Language Models?]]
-+ [[https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd][Meet AdaMod: a new deep learning optimizer with memory]]
-+ [[https://arxiv.org/abs/1606.02228][Systematic evaluation of CNN advances on the ImageNet]]
-+ [[https://deepai.org/publication/on-interpretability-of-artificial-neural-networks][On Interpretability of Artificial Neural Networks]]
-+ [[https://deepai.org/publication/what-can-robotics-research-learn-from-computer-vision-research][What can robotics research learn from computer vision research?]]
-+ [[https://arxiv.org/abs/1911.11423][Single Headed Attention RNN: Stop Thinking With Your Head]]
-+ [[https://arxiv.org/abs/1912.01991][Self-Supervised Learning of Pretext-Invariant Representations]]
-+ [[https://arxiv.org/abs/1911.05722][Momentum Contrast for Unsupervised Visual Representation Learning]]
-+ [[https://arxiv.org/abs/1905.09272][Data-Efficient Image Recognition with Contrastive Predictive Coding]]
+
+
 --------------------------------
 
 + [[https://arxiv.org/abs/1910.05895][Transformers without Tears: Improving the Normalization of Self-Attention]]
