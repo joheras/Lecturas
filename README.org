@@ -20,7 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
-
++ [[https://openai.com/blog/microscope/][OpenAI Microscope]] ~ L. Shubert #CNNs #Interpretability
 + [[https://deepai.org/publication/what-can-robotics-research-learn-from-computer-vision-research][What can robotics research learn from computer vision research?]] ~ P. Corke #Robotics #ComputerVision
 + [[https://lena-voita.github.io/posts/acl19_heads.html][The Story of Heads]] ~ L. Voita #Transformers #NLP
 + [[https://www.biorxiv.org/content/10.1101/740548v8][Deep Learning-Based Point-Scanning Super-Resolution Imaging]] ~ L. Fang #SuperResolution
