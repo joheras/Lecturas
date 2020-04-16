@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://colab.research.google.com/drive/1ZshwEPDDCHKZHkpmbVPvGoDEt1O1kICw#scrollTo=9-CMpP5a3Wcp][An end-to-end GAN example]] ~ F. Chollet #Keras2 #GANs
 + [[https://github.com/google/automl/tree/master/efficientdet][EfficientDet repository]] ~ M. Tan #ObjectDetection #EfficientDet
 + [[https://openai.com/blog/microscope/][OpenAI Microscope]] ~ L. Shubert #CNNs #Interpretability
 + [[https://deepai.org/publication/what-can-robotics-research-learn-from-computer-vision-research][What can robotics research learn from computer vision research?]] ~ P. Corke #Robotics #ComputerVision
