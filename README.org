@@ -20,6 +20,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/1712.02950.pdf][CycleGAN, a Master of Steganography]] ~ C. Chu #GANs #Steganography
++ [[https://arxiv.org/pdf/2001.02522v1.pdf][On Interpretability of Artificial Neural Networks]] ~ F. Fan #Interpretability #NeuralNetworks #Survey
++ [[https://arxiv.org/abs/1911.11423][Single Headed Attention RNN: Stop Thinking With Your Head]] ~ S. Merity #RNNs #NLP
++ [[https://arxiv.org/abs/1912.01991][Self-Supervised Learning of Pretext-Invariant Representations]] ~ I. Misra #SelfSupervisedLearning 
++ [[https://arxiv.org/abs/1911.05722][Momentum Contrast for Unsupervised Visual Representation Learning]] ~ K. He #MoCO #RepresentationLearning #ContrastiveLearning #SelfSupervisedLearning 
++ [[https://arxiv.org/abs/1905.09272][Data-Efficient Image Recognition with Contrastive Predictive Coding]] ~ O. J. Henaff #ContrastiveLearning #SemiSupervisedLearning #SelfSupervisedLearning
 + [[https://arxiv.org/pdf/2002.12749.pdf][Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples]] ~ P. Neekhara #DeepFakes #AdversarialExamples
 + [[https://colab.research.google.com/drive/1ZshwEPDDCHKZHkpmbVPvGoDEt1O1kICw#scrollTo=9-CMpP5a3Wcp][An end-to-end GAN example]] ~ F. Chollet #Keras2 #GANs
 + [[https://github.com/google/automl/tree/master/efficientdet][EfficientDet repository]] ~ M. Tan #ObjectDetection #EfficientDet
