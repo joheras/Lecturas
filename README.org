@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/2004.08686v1.pdf][A Large Dataset of Historical Japanese Documents with Complex Layouts]] ~ Z. Shen #Datasets #Documents
 + [[https://arxiv.org/abs/2004.11362][Supervised Contrastive Learning]] ~ P. Khosla #ContrastiveLearning #SemiSupervisedLearning #SelfSupervised
 + [[https://arxiv.org/pdf/2004.10934.pdf][YOLOv4: Optimal Speed and Accuracy of Object Detection]] ~ A. Bochkovskiy #YOLO #ObjectDetection
 + [[https://arxiv.org/pdf/1712.02950.pdf][CycleGAN, a Master of Steganography]] ~ C. Chu #GANs #Steganography
