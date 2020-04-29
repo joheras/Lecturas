@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/abs/2004.11362][Supervised Contrastive Learning]] ~ P. Khosla #ContrastiveLearning #SemiSupervisedLearning #SelfSupervised
 + [[https://arxiv.org/pdf/2004.10934.pdf][YOLOv4: Optimal Speed and Accuracy of Object Detection]] ~ A. Bochkovskiy #YOLO #ObjectDetection
 + [[https://arxiv.org/pdf/1712.02950.pdf][CycleGAN, a Master of Steganography]] ~ C. Chu #GANs #Steganography
 + [[https://arxiv.org/pdf/2001.02522v1.pdf][On Interpretability of Artificial Neural Networks]] ~ F. Fan #Interpretability #NeuralNetworks #Survey
