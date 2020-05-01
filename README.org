@@ -20,6 +20,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2020
 
++ [[https://arxiv.org/pdf/1905.00397.pdf][Fast AutoAugment]] ~ S. Lim #ImageAugmentation 
++ [[https://amitness.com/2020/03/fixmatch-semi-supervised/][The Illustrated FixMatch for Semi-Supervised Learning]] ~ A. Chaudhary #SemiSupervisedLearning #FixMatch
++ [[https://amitness.com/2020/04/recurrent-layers-keras/][A Visual Guide to Recurrent Layers in Keras]] ~ A. Chaudhary #NLP #RNN
++ [[https://github.com/ohmeow/blurr][An extensible integration of huggingface transformer models with fastai v2]] #NLP #FastAI #Transformers #Library 
++ [[https://www.mdpi.com/1999-4893/13/5/106/htm][Diagnosis in Tennis Serving Technique ]] ~ E. Roanes-Lozano #Tennis #GrobnerBasis #ComputerAlgebraSystem
++ [[https://arxiv.org/abs/2004.13060][GIMP-ML: Python Plugins for using Computer Vision Models in GIMP]] ~ K. Soman #Gimp #ComputerVision #DeepLearning
 + [[https://arxiv.org/pdf/2004.08686v1.pdf][A Large Dataset of Historical Japanese Documents with Complex Layouts]] ~ Z. Shen #Datasets #Documents
 + [[https://arxiv.org/abs/2004.11362][Supervised Contrastive Learning]] ~ P. Khosla #ContrastiveLearning #SemiSupervisedLearning #SelfSupervised
 + [[https://arxiv.org/pdf/2004.10934.pdf][YOLOv4: Optimal Speed and Accuracy of Object Detection]] ~ A. Bochkovskiy #YOLO #ObjectDetection
