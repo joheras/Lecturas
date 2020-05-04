@@ -21,6 +21,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://arxiv.org/pdf/2004.14545.pdf][Explainable Deep Learning: A Field Guide for the Uninitiated]] ~ N. Xie #Explainable #Interpretability
++ [[https://arxiv.org/abs/2004.13453][DRU-net: An Efficient Deep Convolutional Neural Network for Medical Image Segmentation]] ~ M. Jafari #Segmentation #MedicalImaging
++ [[https://arxiv.org/abs/2004.15011][TLDR: Extreme Summarization of Scientific Documents]] ~ I. Cachola  #Summarization #NLP
 + [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] ~ S. Ilić #Visualization #InteractiveTools
 
 ** Abril 2020
