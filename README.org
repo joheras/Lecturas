@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783][An Illustrated Guide to Graph Neural Networks]] ~ R. Anand #GraphNeuralNetworks
 + [[https://xiaohangzhan.github.io/projects/deocclusion/][Self-Supervised Scene De-occlusion]] ~ X. Zhan #SelfSupervisedLearning #Occlusion
 + [[https://sci-hub.tw/https://link.springer.com/article/10.1007/s11042-020-08929-z][Using off-the-shelf data-human interface platforms:traps and tricks]] ~ A. Angeli #Comparison #Orange #KNIME
 + [[https://arxiv.org/pdf/2004.14545.pdf][Explainable Deep Learning: A Field Guide for the Uninitiated]] ~ N. Xie #Explainable #Interpretability
