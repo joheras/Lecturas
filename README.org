@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://www.theverge.com/2016/8/4/12369494/descartes-artificial-intelligence-crop-predictions-usda][This startup uses machine learning and satellite imagery to predict crop yields]] ~ A. Brokaw #Crops #Detection
 + [[https://arxiv.org/abs/2004.09927][TTNet: Real-time temporal and spatial video analysis of table tennis]] ~ Voeikov #Detection #Segmentation #Video #MultiTask
 + [[https://www.youtube.com/watch?v=G5lmya6eKtc][The future of NLP]] ~ HuggingFace #NLP #Youtube
 + [[https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783][An Illustrated Guide to Graph Neural Networks]] ~ R. Anand #GraphNeuralNetworks
