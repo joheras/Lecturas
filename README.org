@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://arxiv.org/pdf/2005.04757v1.pdf][A Simple Semi-Supervised Learning Frameworkfor Object Detection]] ~ K. Sohn #SemiSupervisedLearning #ObjectDetection
 + [[https://www.theverge.com/2016/8/4/12369494/descartes-artificial-intelligence-crop-predictions-usda][This startup uses machine learning and satellite imagery to predict crop yields]] ~ A. Brokaw #Crops #Detection
 + [[https://arxiv.org/abs/2004.09927][TTNet: Real-time temporal and spatial video analysis of table tennis]] ~ Voeikov #Detection #Segmentation #Video #MultiTask
 + [[https://www.youtube.com/watch?v=G5lmya6eKtc][The future of NLP]] ~ HuggingFace #NLP #Youtube
