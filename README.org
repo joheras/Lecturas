@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://keras.io/examples/][Keras code examples]] ~ Keras #Keras #Tutorials #ComputerVision #NLP #GANs #ReinforcementLearning
 + [[https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG][Neural Network Programming - Deep Learning with PyTorch]] ~ DeepLizard #Pytorch #Videos
 + [[https://theaisummer.com/gan-computer-vision/][GANs in computer vision: Introduction to generative learning]] ~ N. Adaloglou #GANs #Series
 + [[https://arxiv.org/abs/2004.14356][AxCell: Automatic Extraction of Results from Machine Learning Papers]] ~ A. Kardas #DataExtraction #TableDetection 
