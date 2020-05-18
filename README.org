@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://www.youtube.com/watch?v=enXA0eghWQQ][Antipatterns in open source research code]] ~ J. Safi #AntiPatterns #OpenSource
 + [[https://www.youtube.com/watch?v=l_3zj6HeWUE&t=610s][Group Normalization (Paper Explained)]] ~ Y. Kilcher #Normalisation #DeepLearning #ParallelTraining 
 + [[https://keras.io/examples/][Keras code examples]] ~ Keras #Keras #Tutorials #ComputerVision #NLP #GANs #ReinforcementLearning
 + [[https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG][Neural Network Programming - Deep Learning with PyTorch]] ~ DeepLizard #Pytorch #Videos
