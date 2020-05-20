@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://arxiv.org/pdf/2004.10605.pdf][Self-Supervised Representation Learning onDocument Images]] ~ A. Cosma #Documents #SelfSupervisedLearning #Classification 
 + [[https://www.youtube.com/watch?v=enXA0eghWQQ][Antipatterns in open source research code]] ~ J. Safi #AntiPatterns #OpenSource
 + [[https://www.youtube.com/watch?v=l_3zj6HeWUE&t=610s][Group Normalization (Paper Explained)]] ~ Y. Kilcher #Normalisation #DeepLearning #ParallelTraining 
 + [[https://keras.io/examples/][Keras code examples]] ~ Keras #Keras #Tutorials #ComputerVision #NLP #GANs #ReinforcementLearning
