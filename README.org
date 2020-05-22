@@ -21,7 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
-
++ [[https://arxiv.org/pdf/2005.10243.pdf][What Makes for Good Views for Contrastive Learning?]] ~ Y. Tian #ContrastiveLearning
 + [[https://www.nature.com/articles/s42003-020-0905-5.pdf][Training instance segmentation neural network with synthetic datasets for crop seed phenotyping]] ~ Y. Toda #Agriculture #Segmentation #SyntheticData
 + [[https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent#slide=id.g168a3288f7_0_58][Machine Learning 101]] ~ J. Mayes #Introduction #DeepLearning #Slides
 + [[https://www.youtube.com/watch?v=p-zOeQCoG9c&t=41s][Weight Standardization (Paper Explained)]] ~ Y. Kilcher #Normalisation #DeepLearning #ParallelTraining 
