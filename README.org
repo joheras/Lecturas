@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://www.youtube.com/watch?time_continue=1&v=l5he9JNJqHA&feature=emb_logo][A critical analysis of self-supervision, or what we can learn from a single image (Paper Explained)]]  ~ Y. Kilcher #SelfSupervision
 + [[https://arxiv.org/abs/1612.03242][StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]] ~ H. Zhang #GANs #ImageSynthesis
 + [[https://arxiv.org/pdf/1811.04017.pdf!][A generic framework forprivacy preserving deep learning]] ~ A. Ryffel #Privacy #PySyft
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][Privacy Preserving Deep Learning with PyTorch & PySyft]] ~ PySyft #FederatedLearning #Privacy
