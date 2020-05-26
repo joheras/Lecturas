@@ -21,6 +21,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://arxiv.org/abs/1612.03242][StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]] ~ H. Zhang #GANs #ImageSynthesis
++ [[https://arxiv.org/pdf/1811.04017.pdf!][A generic framework forprivacy preserving deep learning]] ~ A. Ryffel #Privacy #PySyft
++ [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][Privacy Preserving Deep Learning with PyTorch & PySyft]] ~ PySyft #FederatedLearning #Privacy
++ [[http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf][Dynamic Routing Between Capsules]] ~ S. Sabour #CapsuleNetworks #ComputerVision
++ [[https://arxiv.org/pdf/1604.06737.pdf][Entity Embeddings of Categorical Variables]] ~ C. Guo #Embeddings
++ [[https://arxiv.org/abs/1910.05895][Transformers without Tears: Improving the Normalization of Self-Attention]] ~ T. Nguyen #Transformers #NLP
 + [[https://arxiv.org/pdf/2005.10243.pdf][What Makes for Good Views for Contrastive Learning?]] ~ Y. Tian #ContrastiveLearning
 + [[https://www.nature.com/articles/s42003-020-0905-5.pdf][Training instance segmentation neural network with synthetic datasets for crop seed phenotyping]] ~ Y. Toda #Agriculture #Segmentation #SyntheticData
 + [[https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent#slide=id.g168a3288f7_0_58][Machine Learning 101]] ~ J. Mayes #Introduction #DeepLearning #Slides
