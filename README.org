@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1][How we write rebuttals]] ~ D. Parikh #Rebuttals #Advices
 + [[https://arxiv.org/abs/1710.09412][mixup: Beyond Empirical Risk Minimization]] ~ H. Zhang #ImageClassification #DataAugmentation
 + [[https://arxiv.org/abs/2005.12872][End-to-End Object Detection with Transformers]] ~ N. Carion #ObjectDetection #Transformers
 + [[https://arxiv.org/pdf/1711.11585.pdf][High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]] ~ T-C. Wang #GANs #ImageSynthesis
