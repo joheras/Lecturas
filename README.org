@@ -21,7 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
-+ [[https://mlinproduction.com/deploying-machine-learning-models/][The Ultimate Guide to Deploying Machine Learning Models]] ~ Luigi #Deployment #Series
++ [[https://mlinproduction.com/deploying-machine-learning-models/][The Ultimate Guide to Deploying Machine Learning Models]] ~ L. Patruno #Deployment #Series
 + [[https://arxiv.org/pdf/2005.09007.pdf][U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection]] ~ X. Qin #SalientObjectDetection
 + [[https://arxiv.org/abs/1912.02424][Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection]] ~ S. Zhang #ObjectDetection
 + [[https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1][How we write rebuttals]] ~ D. Parikh #Rebuttals #Advices
