@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2020
 
++ [[https://towardsdatascience.com/illustrated-guide-to-transformer-cf6969ffa067][Illustrated Guide to Transformers]] ~ H. Jing #Transformers #NLP
 + [[https://mlinproduction.com/deploying-machine-learning-models/][The Ultimate Guide to Deploying Machine Learning Models]] ~ L. Patruno #Deployment #Series
 + [[https://arxiv.org/pdf/2005.09007.pdf][U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection]] ~ X. Qin #SalientObjectDetection
 + [[https://arxiv.org/abs/1912.02424][Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection]] ~ S. Zhang #ObjectDetection
