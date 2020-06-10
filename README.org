@@ -22,6 +22,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained][The transformer explained]] #Transfomers #NLP
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Ensemble_Generative_Cleaning_With_Feedback_Loops_for_Defending_Adversarial_Attacks_CVPR_2020_paper.pdf][Ensemble Generative Cleaning with Feedback Loops for Defending AdversarialAttacks]] ~ J. Yuan #Ensembles #AdversarialAttacks
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf][A Self-supervised Approach for Adversarial Robustness]] ~ M. Nasser #SelfSupervisedLearning #AdversarialAttacks #Detection #Segmentation #Classification
++ [[https://arxiv.org/pdf/2006.04757.pdf][Language Modeling for Formal Mathematics]] ~ M. N. Rabe #LanguageModelling #Mathematics #TheoremProving
+
 ** Mayo 2020
 #+html: <p align="center"><img src="wordClouds/mayo2020.png" /></p>
 
