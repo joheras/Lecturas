@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#junio-2020][Junio 2020]]
   - [[#mayo-2020][Mayo 2020]]
   - [[#abril-2020][Abril 2020]]
   - [[#marzo-2020][Marzo 2020]]
@@ -19,7 +20,10 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2020
 
+** Junio 2020
+
 ** Mayo 2020
+#+html: <p align="center"><img src="wordClouds/mayo2020.png" /></p>
 
 + [[https://arxiv.org/pdf/1807.05520.pdf][Deep Clustering for Unsupervised Learning of Visual Features]] ~ M. Caron #UnsupervisedLearning #Clustering
 + [[https://towardsdatascience.com/illustrated-guide-to-transformer-cf6969ffa067][Illustrated Guide to Transformers]] ~ H. Jing #Transformers #NLP
