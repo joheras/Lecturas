@@ -22,7 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
-+ [[https://www.pyimagesearch.com/2020/06/15/opencv-fast-fourier-transform-fft-for-blur-detection-in-images-and-video-streams/][OpenCV Fast Fourier Transform (FFT) for blur detection in images and video streams]] ~ A. Rosebrock #Pyimagesearch #BlurDetection
++ [[https://www.pyimagesearch.com/2020/06/15/opencv-fast-fourier-transform-fft-for-blur-detection-in-images-and-video-streams/][OpenCV Fast Fourier Transform (FFT) for blur detection in images and video streams]] ~ A. Rosebrock #Pyimagesearch #BlurDetection #FourierTransform
 + [[https://public.roboflow.ai/object-detection/][Object Detection Datasets]] ~ Roboflow #ObjectDetection #Datasets
 + [[https://keras.io/examples/structured_data/structured_data_classification_from_scratch/][Structured data classification from scratch]] ~ F. Chollet #Keras #StrucuturedData
 + [[https://arxiv.org/pdf/2006.06666.pdf][VirTex: Learning Visual Representationsfrom Textual Annotations]] ~ K. Desai #Pretraining #SelfSupervisedLearning #TransferLearning 
