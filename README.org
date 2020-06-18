@@ -22,6 +22,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[https://dennybritz.com/blog/ai-replication-incentives/][AI Research, Replicability and Incentives]] ~ D. Britz #Replicability #Reproducibility 
++ [[https://arxiv.org/abs/1808.01244][CornerNet: Detecting Objects as Paired Keypoints]] ~ H. Law #ObjectDetection
++ [[https://arxiv.org/abs/2006.07733][Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning]] ~ J-B. Grill #SelfSupervisedLearning
++ [[https://arxiv.org/pdf/2006.06882.pdf][Rethinking Pre-training and Self-training]] ~ B. Zoph #TransferLearning #SemiSupervisedLearning
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Deep_Snake_for_Real-Time_Instance_Segmentation_CVPR_2020_paper.pdf][Deep Snake for Real-Time Instance Segmentation]] ~ S. Peng #InstanceSegmentation #Contours #Snake
 + [[http://mlops-github.com/][Machine Learning Ops]] #MLOps
 + [[https://interpretablevision.github.io/][CVPR 2020 Tutorial on Interpretable Machine Learning for Computer Vision]] #Interpretability #Tutorial
 + [[https://www.mdpi.com/2078-2489/11/3/137/htm][A Responsible Machine Learning Workflow with Focus on Interpretable Models, Post-hoc Explanation, and Discrimination Testing]] ~ N. Gill #Interpretable #Fairness
