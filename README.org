@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Khan_A_Novel_Technique_Combining_Image_Processing_Plant_Development_Properties_and_CVPRW_2020_paper.pdf][A Novel Technique Combining Image Processing, Plant Development Properties,and the Hungarian Algorithm, to Improve Leaf Detection in Maize]] ~ N. A. Kham #Plants #Agriculture #Skeleton
 + [[https://dennybritz.com/blog/ai-replication-incentives/][AI Research, Replicability and Incentives]] ~ D. Britz #Replicability #Reproducibility 
 + [[https://arxiv.org/abs/1808.01244][CornerNet: Detecting Objects as Paired Keypoints]] ~ H. Law #ObjectDetection
 + [[https://arxiv.org/abs/2006.07733][Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning]] ~ J-B. Grill #SelfSupervisedLearning
