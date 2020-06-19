@@ -22,6 +22,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf][Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning]] ~ T. Chen #AdversialRobustness #SelfSupervisedLearning #TransferLearning
++ [[https://arxiv.org/pdf/2006.07159.pdf][Are we done with ImageNet?]] ~ L. Beyer #ImageNet #Evaluation #Benchmark
++ [[http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf][Self-Supervised Representation Learning by Rotation Feature Decoupling]] ~ Z. Feng #SelfSupervisedLearning #AdversialAttacks
++ [[https://ranahanocka.github.io/point2mesh/][Point2Mesh A Self-Prior for Deformable Meshes]] ~ R. Hanocka #Mesh #Topology
 + [[https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full][Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks]] ~ J. Ubbens #DeepLearning #Plants
 + [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Khan_A_Novel_Technique_Combining_Image_Processing_Plant_Development_Properties_and_CVPRW_2020_paper.pdf][A Novel Technique Combining Image Processing, Plant Development Properties,and the Hungarian Algorithm, to Improve Leaf Detection in Maize]] ~ N. A. Kham #Plants #Agriculture #Skeleton
 + [[https://dennybritz.com/blog/ai-replication-incentives/][AI Research, Replicability and Incentives]] ~ D. Britz #Replicability #Reproducibility 
