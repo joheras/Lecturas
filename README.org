@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w57/Battiato_Detection_and_Classification_of_Pollen_Grain_Microscope_Images_CVPRW_2020_paper.pdf][Detection and Classification of Pollen Grain Microscope Images]] ~ S. Battiano #ImageClassification #Bioimage
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_A_Semi-Supervised_Assessor_of_Neural_Architectures_CVPR_2020_paper.pdf][A Semi-Supervised Assessor of Neural Architectures]] ~ Y. Tang #NeuralArchitectureSearch
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf][Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning]] ~ T. Chen #AdversialRobustness #SelfSupervisedLearning #TransferLearning
 + [[https://arxiv.org/pdf/2006.07159.pdf][Are we done with ImageNet?]] ~ L. Beyer #ImageNet #Evaluation #Benchmark
