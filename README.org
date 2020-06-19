@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_A_Semi-Supervised_Assessor_of_Neural_Architectures_CVPR_2020_paper.pdf][A Semi-Supervised Assessor of Neural Architectures]] ~ Y. Tang #NeuralArchitectureSearch
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf][Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning]] ~ T. Chen #AdversialRobustness #SelfSupervisedLearning #TransferLearning
 + [[https://arxiv.org/pdf/2006.07159.pdf][Are we done with ImageNet?]] ~ L. Beyer #ImageNet #Evaluation #Benchmark
 + [[http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf][Self-Supervised Representation Learning by Rotation Feature Decoupling]] ~ Z. Feng #SelfSupervisedLearning #AdversialAttacks
