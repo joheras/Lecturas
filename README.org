@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[https://arxiv.org/abs/1912.03538][Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection]] ~ S. Beery #ObjectDetection #Attention
 + [[http://carabela.prhlt.upv.es/en/][Carabela]] ~ E. Vidal #OCR #OldDocuments
 + [[https://arxiv.org/pdf/2006.09965.pdf][High-Fidelity Generative Image Compression]] ~ F. Mentzer #GANs #ImageCompression
 + [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w57/Battiato_Detection_and_Classification_of_Pollen_Grain_Microscope_Images_CVPRW_2020_paper.pdf][Detection and Classification of Pollen Grain Microscope Images]] ~ S. Battiano #ImageClassification #Bioimage
