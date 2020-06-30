@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[https://www.researchgate.net/profile/Jorge_Calvo-Zaragoza/publication/335333672_Handwritten_Music_Recognition_for_Mensural_Notation_with_Convolutional_Recurrent_Neural_Networks/links/5d650fac299bf1f70b101c7a/Handwritten-Music-Recognition-for-Mensural-Notation-with-Convolutional-Recurrent-Neural-Networks.pdf][Handwritten Music Recognition for Mensural Notation with Convolutional RecurrentNeural Networks]] ~ J. Calvo-Zaragoza #OMR
 + [[https://ieeexplore.ieee.org/document/8999506][Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages]] ~ T. Tsai #OMR
 + [[https://github.com/apacha/OMR-Datasets][Optical Music Recognition Datasets]] #OMR #Datasets
 + [[https://arxiv.org/abs/1912.03538][Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection]] ~ S. Beery #ObjectDetection #Attention
