@@ -22,6 +22,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2020
 
++ [[https://ieeexplore.ieee.org/document/8999506][Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages]] ~ T. Tsai #OMR
++ [[https://github.com/apacha/OMR-Datasets][Optical Music Recognition Datasets]] #OMR #Datasets
 + [[https://arxiv.org/abs/1912.03538][Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection]] ~ S. Beery #ObjectDetection #Attention
 + [[http://carabela.prhlt.upv.es/en/][Carabela]] ~ E. Vidal #OCR #OldDocuments
 + [[https://arxiv.org/pdf/2006.09965.pdf][High-Fidelity Generative Image Compression]] ~ F. Mentzer #GANs #ImageCompression
