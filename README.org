@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#julio-2020][Julio 2020]]
   - [[#junio-2020][Junio 2020]]
   - [[#mayo-2020][Mayo 2020]]
   - [[#abril-2020][Abril 2020]]
@@ -19,6 +20,10 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2020
+
+** Julio 2020
+
++ [[https://towardsdatascience.com/distributed-learning-on-image-classification-of-beans-in-tensorflow-5a85e6c3eb71][Distributed Learning on Image Classification of Beans in TensorFlow]] ~ A. Gupta #DistributedLearning #Tensorflow
 
 ** Junio 2020
 
