@@ -23,6 +23,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[http://mlss.tuebingen.mpg.de/2020/schedule.html][The Machine Learning Summer School]] #MachineLearning #Course
++ [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Corneanu_Computing_the_Testing_Error_Without_a_Testing_Set_CVPR_2020_paper.pdf][Computing the Testing Error without a Testing Set]] ~ C. Corneanu #PersistentHomology #MachineLearning
 + [[https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html][Advancing Self-Supervised and Semi-Supervised Learning with SimCLR ]] ~ T. Chen #SelfSupervisedLearning #SemiSupervisedLearning
 + [[https://towardsdatascience.com/distributed-learning-on-image-classification-of-beans-in-tensorflow-5a85e6c3eb71][Distributed Learning on Image Classification of Beans in TensorFlow]] ~ A. Gupta #DistributedLearning #Tensorflow
 
