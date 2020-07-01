@@ -23,10 +23,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html][Advancing Self-Supervised and Semi-Supervised Learning with SimCLR ]] ~ T. Chen #SelfSupervisedLearning #SemiSupervisedLearning
 + [[https://towardsdatascience.com/distributed-learning-on-image-classification-of-beans-in-tensorflow-5a85e6c3eb71][Distributed Learning on Image Classification of Beans in TensorFlow]] ~ A. Gupta #DistributedLearning #Tensorflow
 
 ** Junio 2020
 
+#+html: <p align="center"><img src="wordClouds/junio2020.png" /></p>
 + [[https://www.youtube.com/watch?v=DYBmD88vpiA][Object-Centric Learning with Slot Attention (Paper Explained)]] ~ Y. Kilcher #Attention 
 + ̣[[https://www.youtube.com/watch?v=Hdo81GtLC_4][Direct Feedback Alignment Scales to Modern Deep Learning Tasks and Architectures (Paper Explained)]] ~ Y. Kilcher #BackPropagationAlternative #Training
 + [[https://www.researchgate.net/profile/Jorge_Calvo-Zaragoza/publication/335333672_Handwritten_Music_Recognition_for_Mensural_Notation_with_Convolutional_Recurrent_Neural_Networks/links/5d650fac299bf1f70b101c7a/Handwritten-Music-Recognition-for-Mensural-Notation-with-Convolutional-Recurrent-Neural-Networks.pdf][Handwritten Music Recognition for Mensural Notation with Convolutional RecurrentNeural Networks]] ~ J. Calvo-Zaragoza #OMR
