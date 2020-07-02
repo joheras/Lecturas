@@ -23,6 +23,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
+
++ [[https://academic.oup.com/jamia/article/25/10/1419/5035024][Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review]] ~ C. Xiao #Review #HealthRecords
++ [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
++ [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]] ~ Facebook #InstanceSegmentation
++ [[https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf][Three things everyone should know to improve object retrieval]] ~ R. Arandjelovic #ObjectRetrieval #DatabaseSearch
 + [[https://www.nature.com/articles/s41591-020-0942-0.pdf][Human–computer collaboration for skin cancer recognition]] ~ P. Tschandl #MedicalImaging
 + [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf][SmoothMix: a Simple Yet Effective Data Augmentation to Train RobustClassifiers]] ~ J. H. Lee #DataAugmentation
 + [[http://mlss.tuebingen.mpg.de/2020/schedule.html][The Machine Learning Summer School]] #MachineLearning #Course
