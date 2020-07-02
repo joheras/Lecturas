@@ -23,7 +23,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
-
++ [[https://arxiv.org/pdf/2006.10029.pdf][Big Self-Supervised Models areStrong Semi-Supervised Learners]] ~ T. Chen #SelfSupervisedLearning #SemiSupervisedLearning
++ [[https://t.co/pE4NG6s8lv?amp=1][Opening Up the Black Box: Model Understanding with Captum and PyTorch]] ~ N. Kokhlikyan #Interpretability #Pytorch 
++ [[https://openaccess.thecvf.com/content_CVPR_2020/papers/Dundar_Panoptic-Based_Image_Synthesis_CVPR_2020_paper.pdf][Panoptic-based Image Synthesis]] ~ A. Dundar #ImageSynthesis
++ [[https://www.youtube.com/watch?v=q6Kyvy1zLwQ&feature=youtu.be][BERTology Meets Biology: Interpreting Attention in Protein Language Models (Video Explained)]] ~ Y. Kilcher #Bert #Biologoy #Proteins
++ The Reformer [[https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing][Notebook 1]] [[https://colab.research.google.com/drive/1xKK32Yhda-iYgtoA3eCrnCVuy_lraQR9?usp=sharing][Notebook 2]] [[https://colab.research.google.com/drive/1BLffcRt9LXmM7nKU2UXhtm0PqAG0UE7J?usp=sharing][Notebook 3]] [[https://colab.research.google.com/drive/1MYxvC4RbKeDzY2lFfesN-CvPLKLk00CQ?usp=sharing][Notebook 4]] #NLP
++ [[https://www.youtube.com/watch?v=JpkzK58lkmA][Designing Practical NLP Solutions]] ~ I. Montani #NLP
 + [[https://academic.oup.com/jamia/article/25/10/1419/5035024][Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review]] ~ C. Xiao #Review #HealthRecords
 + [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]] ~ Facebook #InstanceSegmentation
