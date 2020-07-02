@@ -23,6 +23,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://www.nature.com/articles/s41591-020-0942-0.pdf][Human–computer collaboration for skin cancer recognition]] ~ P. Tschandl #MedicalImaging
++ [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf][SmoothMix: a Simple Yet Effective Data Augmentation to Train RobustClassifiers]] ~ J. H. Lee #DataAugmentation
 + [[http://mlss.tuebingen.mpg.de/2020/schedule.html][The Machine Learning Summer School]] #MachineLearning #Course
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Corneanu_Computing_the_Testing_Error_Without_a_Testing_Set_CVPR_2020_paper.pdf][Computing the Testing Error without a Testing Set]] ~ C. Corneanu #PersistentHomology #MachineLearning
 + [[https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html][Advancing Self-Supervised and Semi-Supervised Learning with SimCLR ]] ~ T. Chen #SelfSupervisedLearning #SemiSupervisedLearning
