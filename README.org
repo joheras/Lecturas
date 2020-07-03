@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://arxiv.org/pdf/1912.05027.pdf][SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization]] ~ X. Du #NeuralArchitectureSearch
 + [[https://github.com/Adi-iitd/AI-Art][AI Art]] #DeepDream #Pix2Pix #StyleTransfer #CycleGAN
 + [[https://arxiv.org/pdf/2007.00224.pdf][Debiased Contrastive Learning]] ~ C-Y. Chuang #SelfSupervisedLearning #ContrastiveLearning
 + [[https://arxiv.org/pdf/2006.10029.pdf][Big Self-Supervised Models areStrong Semi-Supervised Learners]] ~ T. Chen #SelfSupervisedLearning #SemiSupervisedLearning
