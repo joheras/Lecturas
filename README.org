@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://openaccess.thecvf.com/content_WACV_2020/papers/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.pdf][ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution]] ~ P. Vitoria #Colorization #GANs
 + [[https://arxiv.org/pdf/1912.05027.pdf][SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization]] ~ X. Du #NeuralArchitectureSearch
 + [[https://github.com/Adi-iitd/AI-Art][AI Art]] #DeepDream #Pix2Pix #StyleTransfer #CycleGAN
 + [[https://arxiv.org/pdf/2007.00224.pdf][Debiased Contrastive Learning]] ~ C-Y. Chuang #SelfSupervisedLearning #ContrastiveLearning
