@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://distill.pub/2020/bayesian-optimization/][Exploring Bayesian Optimization]] ~ A. Agnihotri #Tuning
 + [[https://blog.floydhub.com/introduction-to-adversarial-machine-learning/][Introduction to Adversarial Machine Learning]] ~ A. Chakraborty #AdversarialExamples
 + [[https://roberttlange.github.io/posts/2020/06/lottery-ticket-hypothesis/][The Lottery Ticket Hypothesis: A Survey]] ~ R. Lange #LotteryTicket
 + [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-51054-1_6.pdf][Deep Generation of Coq Lemma Names Using Elaborated Terms]] ~ P. Nie #NLP #Coq
