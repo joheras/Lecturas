@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]] ~ B. Frog #CategoryTheory
 + [[https://www.youtube.com/watch?v=hAooAOFRsYc&feature=youtu.be][Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)]] ~ Y. Kilcher #Attention #RNN
 + [[https://arxiv.org/pdf/1908.07442.pdf][TabNet: Attentive Interpretable Tabular Learning]] ~ S. Arik #TabularData #SelfSupervisedLearning #Attention
 + [[https://distill.pub/2020/bayesian-optimization/][Exploring Bayesian Optimization]] ~ A. Agnihotri #Tuning
