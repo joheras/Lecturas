@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://arxiv.org/pdf/1908.07442.pdf][TabNet: Aentive Interpretable Tabular Learning]] ~ S. Arik #TabularData #SelfSupervisedLearning #Attention
 + [[https://distill.pub/2020/bayesian-optimization/][Exploring Bayesian Optimization]] ~ A. Agnihotri #Tuning
 + [[https://blog.floydhub.com/introduction-to-adversarial-machine-learning/][Introduction to Adversarial Machine Learning]] ~ A. Chakraborty #AdversarialExamples
 + [[https://roberttlange.github.io/posts/2020/06/lottery-ticket-hypothesis/][The Lottery Ticket Hypothesis: A Survey]] ~ R. Lange #LotteryTicket
