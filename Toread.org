@@ -55,8 +55,8 @@
 + [[https://arxiv.org/abs/1903.11176#][On evaluating CNN representations for low resource medical image classification]]
 + [[https://arxiv.org/pdf/1905.11369v1.pdf][Object Discovery with a Copy-Pasting GAN]]
 + [[https://www.biorxiv.org/content/10.1101/740548v2][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
-+ [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and FutureDirections]]
++ [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and Future Directions]]
 
 + [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]]
 
-+ [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]]
+
