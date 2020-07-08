@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://www.sciencedirect.com/science/article/pii/S1361841519301100?via%3Dihub][REFUGE Challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs]] ~ J. Orlando #Challenge #ImageClassification #ImageSegmentation
 + [[https://arxiv.org/pdf/1812.01187.pdf][Bag of Tricks for Image Classification with Convolutional Neural Networks]] ~ T. He #Tricks #ImageClassification
 + [[https://arxiv.org/pdf/1803.05316.pdf][Seven Sketches in Compositionality:An Invitation to Applied Category Theory]] ~ B. Frog #CategoryTheory
 + [[https://www.youtube.com/watch?v=hAooAOFRsYc&feature=youtu.be][Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)]] ~ Y. Kilcher #Attention #RNN
