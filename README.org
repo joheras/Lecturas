@@ -23,6 +23,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html][TensorFlow 2 meets the Object Detection API]] ~ V. Rathod #ObjectDetection #Tensorflow
++ [[https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/][4 Automatic Outlier Detection Algorithms in Python]] ~ J. Brownlee #OutlierDetection
 + [[https://21stcenturychallenges.org/challenges/][21st Century Challenges]] #Challenges
 + [[https://amitness.com/2020/07/semi-supervised-learning/][Semi-Supervised Learning in Computer Vision]] ~ A. Chaudhary #SemiSupervisedLearning #Review
 + [[https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03635-x][Keras R-CNN: library for cell detection inbiological images using deep neuralnetworks]] ~ J. Hung #DeepLearning #ObjectDetetion [[https://github.com/broadinstitute/keras-rcnn][#KerasRCNN]]
