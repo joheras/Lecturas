@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03635-x][Keras R-CNN: library for cell detection inbiological images using deep neuralnetworks]] ~ J. Hung #DeepLearning #ObjectDetetion [[https://github.com/broadinstitute/keras-rcnn][#KerasRCNN]]
 + [[https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf][Representation learning without labels]] ~ I. Higgins #RepresentationLearning
 + [[https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L12%20-%20UCLxDeepMind%20DL2020.pdf][Responsible Innovation & Artificial Intelligence]] ~ C. Qin #AdversialTraining #Ethics
 + [[https://www.youtube.com/watch?v=x6T1zMSE4Ts&feature=youtu.be][NVAE: A Deep Hierarchical Variational Autoencoder (Paper Explained)]] ~ Y. Kilcher #AutoEncoders
