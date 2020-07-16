@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://medium.com/@ndharap/data-pipelines-in-fastai-v1-4c927d7757d2][Data Pipelines in Fastai (data blocks API v1)]] ~ N. Dharap #FastAI
 + [[https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html][TensorFlow 2 meets the Object Detection API]] ~ V. Rathod #ObjectDetection #Tensorflow
 + [[https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/][4 Automatic Outlier Detection Algorithms in Python]] ~ J. Brownlee #OutlierDetection
 + [[https://21stcenturychallenges.org/challenges/][21st Century Challenges]] #Challenges
