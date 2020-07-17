@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://medium.com/usf-msds/creating-a-web-application-powered-by-a-fastai-model-d5ee560d5207][Creating a web application powered by a fastai model]] ~ A. NS #FastAI #WebAPP #Flask
 + [[https://www.aclweb.org/anthology/2020.acl-main.204.pdf][DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference]] ~ J. Xin #NLP #Bert
 + [[https://course.fullstackdeeplearning.com][Full stack deep learning]] #DeepLearning #Course #EndToEnd
 + [[https://github.com/tensorflow/cloud][TensorFlow Cloud]] #Tensorflow #Cloud
