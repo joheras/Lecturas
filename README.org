@@ -23,6 +23,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf][When Does Label Smoothing Help?]] ~ R. Muller #LabelSmoothing #ImageClassification
++ [[http://vladlen.info/papers/self-attention.pdf][Exploring Self-attention for Image Recognition]] ~ H. Zao #Attention #ImageClassification
++ [[https://openai.com/blog/openai-api/][OpenAI API]] ~ OpenAI #NLP #GPT3
++ [[https://sites.google.com/view/chiawen-kuo/home/featmatch][FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning]] ~ C-W. Keo #SemiSupervisedLearning #ImageAugmentation
++ [[https://ruder.io/optimizing-gradient-descent/][An overview of gradient descent optimization algorithms]] ~ S. Ruder #Training #Optimization
++ [[https://graphics.pixar.com/library/SuperResolution/paper.pdf][Deep Learned Super Resolution for Feature Film Production]] ~ V. Vavilana #SuperResolution #Pixar
++ [[https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.p1][Machine Learning Production Pipeline]] ~ C. Huyen #Pipeline #Production
 + [[https://medium.com/usf-msds/creating-a-web-application-powered-by-a-fastai-model-d5ee560d5207][Creating a web application powered by a fastai model]] ~ A. NS #FastAI #WebAPP #Flask
 + [[https://www.aclweb.org/anthology/2020.acl-main.204.pdf][DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference]] ~ J. Xin #NLP #Bert
 + [[https://course.fullstackdeeplearning.com][Full stack deep learning]] #DeepLearning #Course #EndToEnd
