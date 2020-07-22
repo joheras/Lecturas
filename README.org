@@ -23,6 +23,14 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
+
++ [[http://jalammar.github.io/illustrated-gpt2/][The Illustrated GPT-2 (Visualizing Transformer Language Models)]] ~ J. Alammar #NLP #GPT2
++ [[https://medium.com/@pierre_guillou/faster-than-training-from-scratch-fine-tuning-the-english-gpt-2-in-any-language-with-hugging-f2ec05c98787][Faster than training from scratch — Fine-tuning the English GPT-2 in any language with Hugging Face and fastai v2 (practical case with Portuguese)]] ~ P. Guillou #NLP #Transformers #HuggingFace #FastAI
++ [[https://arxiv.org/pdf/1804.08328.pdf][Taskonomy: Disentangling Task Transfer Learning]] ~ A. Zamir #TransferLearning
++ [[https://arxiv.org/pdf/2007.10928.pdf][What is important about the No Free Lunch theorems?]] ~ D. Wolpert #NoFreeLunchTheorem
++ [[https://francescopochetti.com/tabular-deep-leaning-tabnet-deep-dive/][Tabular Deep Leaning: TabNet deep dive]] ~ F. Pochetti #TabNet
++ [[https://arxiv.org/pdf/2006.02334.pdf][DetectoRS: Detecting Objects with Recursive Feature Pyramidand Switchable Atrous Convolution]] ~ S. Qiao #ObjectDetection
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-53518-6_1.pdf][A Promising Path Towards Autoformalization and General ArtificialIntelligence]] ~ C. Szegedy #Formalization #ITP #AGI
 + [[https://arxiv.org/pdf/2007.02171.pdf][Neuro-Symbolic Generative Art: A Preliminary Study]] ~ G. Aggarwal #Art #GenerativeLearning
 + [[https://arxiv.org/pdf/2007.07628v1.pdf][Visualizing Transfer Learning]] ~ R. Szabó #TransferLearning #Visualization
 + [[https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/][Image classification via fine-tuning with EfficientNet]] ~ Y. Fu #Keras #EfficientNet #FineTuning
