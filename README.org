@@ -23,6 +23,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://adversarial-ml-tutorial.org/][Adversarial Robustness - Theory and Practice]] ~ Z.  Kolter #AdversarialExamples
++ [[https://arxiv.org/pdf/2003.07631.pdf][Toward Interpretable Machine Learning:Transparent Deep Neural Networks and Beyond]] ~ W: Samek #Interpretability
++ [[https://arxiv.org/pdf/2007.07365.pdf][Towards a Theoretical Understanding of the Robustness ofVariational Autoencoders]] ~ A. Camuto #AdversarialAttacks #VAEs
++ [[https://arxiv.org/pdf/2007.06776.pdf][Verification of ML Systems via Reparameterization]] ~ J.B. Tristan #TheoremProving #Verification
++ [[https://arxiv.org/pdf/2007.08792.pdf][Uncertainty Quantification and Deep Ensembles]] ~ R. Rahaman #Ensembles
 + [[https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/][Understanding and Decoding a JPEG Image using Python]] ~ Y. Khalid #JPG #Algorithms
 + [[https://app.wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNzU3NTU][Modern Data Augmentation Techniques for Computer Vision]] ~ A. Thakur #DataAugmentation
 + [[https://arxiv.org/pdf/1706.02515.pdf][Self-Normalizing Neural Networks]] ~ G. Klambauer #StructuredData
