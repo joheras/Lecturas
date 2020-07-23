@@ -23,7 +23,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
-
++ [[https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/][Understanding and Decoding a JPEG Image using Python]] ~ Y. Khalid #JPG #Algorithms
++ [[https://app.wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNzU3NTU][Modern Data Augmentation Techniques for Computer Vision]] ~ A. Thakur #DataAugmentation
++ [[https://arxiv.org/pdf/1706.02515.pdf][Self-Normalizing Neural Networks]] ~ G. Klambauer #StructuredData
++ [[https://arxiv.org/pdf/1910.03771.pdf][Transformers: State-of-the-Art Natural Language Processing]] ~ Huggingface #NLP #Transformers
 + [[http://jalammar.github.io/illustrated-gpt2/][The Illustrated GPT-2 (Visualizing Transformer Language Models)]] ~ J. Alammar #NLP #GPT2
 + [[https://medium.com/@pierre_guillou/faster-than-training-from-scratch-fine-tuning-the-english-gpt-2-in-any-language-with-hugging-f2ec05c98787][Faster than training from scratch — Fine-tuning the English GPT-2 in any language with Hugging Face and fastai v2 (practical case with Portuguese)]] ~ P. Guillou #NLP #Transformers #HuggingFace #FastAI
 + [[https://arxiv.org/pdf/1804.08328.pdf][Taskonomy: Disentangling Task Transfer Learning]] ~ A. Zamir #TransferLearning
