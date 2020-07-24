@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://sci-hub.tw/10.1109/CVPR.2019.00489][What does it mean to learn in deep networks? And, how does one detectadversarial attacks?]] ~ C. Corneanu #AlgebraicTopology #DeepLearning
 + [[https://adversarial-ml-tutorial.org/][Adversarial Robustness - Theory and Practice]] ~ Z.  Kolter #AdversarialExamples
 + [[https://arxiv.org/pdf/2003.07631.pdf][Toward Interpretable Machine Learning:Transparent Deep Neural Networks and Beyond]] ~ W: Samek #Interpretability
 + [[https://arxiv.org/pdf/2007.07365.pdf][Towards a Theoretical Understanding of the Robustness ofVariational Autoencoders]] ~ A. Camuto #AdversarialAttacks #VAEs
