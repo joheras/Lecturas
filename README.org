@@ -23,6 +23,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://arxiv.org/pdf/1810.03993.pdf][Model Cards for Model Reporting]] ~ M. Mitchel #Provenance [[https://modelcards.withgoogle.com][Model cards webpage]]
++ [[https://cloud.google.com/blog/products/ai-machine-learning/google-breaks-ai-performance-records-in-mlperf-with-worlds-fastest-training-supercomputer][Google breaks AI performance records in MLPerf with world's fastest training supercomputer]] ~ N. Kumar #SuperComputing #TPUs
 + [[https://arxiv.org/pdf/2007.08558.pdf][On Robustness and Transferability ofConvolutional Neural Networks]] ~ J. Djolonga #Robustness #TransferLearning
 + [[http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/PID6011471.pdf][Graphical Object Detection in Document Images]] #Dataset #ImageAnalysis
 + [[https://sci-hub.tw/10.1109/CVPR.2019.00489][What does it mean to learn in deep networks? And, how does one detectadversarial attacks?]] ~ C. Corneanu #AlgebraicTopology #DeepLearning
