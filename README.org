@@ -23,6 +23,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2020
 
++ [[https://arxiv.org/pdf/1611.07004.pdf][Image-to-Image Translation with Conditional Adversarial Networks]] ~ P. Isola #Image2Image #GAN
++ [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]] ~ J. Hui #GANs
++ [[https://arxiv.org/abs/1711.06897][Single-Shot Refinement Neural Network for Object Detection]] ~ S. Zhang #ObjectDetection
++ [[https://arxiv.org/abs/1706.05587][Rethinking Atrous Convolution for Semantic Image Segmentation]] ~ L. Chen #SemanticSegmentation #AtrousConvolution
 + [[https://arxiv.org/pdf/1810.03993.pdf][Model Cards for Model Reporting]] ~ M. Mitchel #Provenance [[https://modelcards.withgoogle.com][Model cards webpage]]
 + [[https://cloud.google.com/blog/products/ai-machine-learning/google-breaks-ai-performance-records-in-mlperf-with-worlds-fastest-training-supercomputer][Google breaks AI performance records in MLPerf with world's fastest training supercomputer]] ~ N. Kumar #SuperComputing #TPUs
 + [[https://arxiv.org/pdf/2007.08558.pdf][On Robustness and Transferability ofConvolutional Neural Networks]] ~ J. Djolonga #Robustness #TransferLearning
