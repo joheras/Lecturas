@@ -1,4 +1,4 @@
-+ [[https://arxiv.org/abs/1611.07004][Image-to-Image Translation with Conditional Adversarial Networks]]
+
 + [[https://arxiv.org/abs/1703.10593][Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]]
 + [[https://arxiv.org/abs/1812.04948][A Style-Based Generator Architecture for Generative Adversarial Networks]]
 + [[https://arxiv.org/abs/1809.11096][Large Scale GAN Training for High Fidelity Natural Image Synthesis]]
@@ -10,7 +10,6 @@
 + [[https://arxiv.org/abs/1310.1531][DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition]]
 
 
-+ [[https://arxiv.org/abs/1706.05587][Rethinking Atrous Convolution for Semantic Image Segmentation]]
 + [[https://arxiv.org/abs/1912.00953][LOGAN: Latent Optimisation for Generative Adversarial Networks]]
 + [[https://www.biorxiv.org/content/10.1101/133504v2.abstract][Deep Neural Networks in Computational Neuroscience]]
 + [[https://arxiv.org/abs/1802.03268][Efficient Neural Architecture Search via Parameter Sharing]]
@@ -31,7 +30,7 @@
 
 
 + [[https://arxiv.org/abs/1910.10683][Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer]]
-+ [[https://arxiv.org/abs/1711.06897][Single-Shot Refinement Neural Network for Object Detection]]
+
 + [[https://arxiv.org/abs/1901.03278][Region Proposal by Guided Anchoring]]
 + [[https://arxiv.org/abs/1811.08661][Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection]]
 + [[https://link.springer.com/book/10.1007/978-3-030-22386-1][Bioimage Data Analysis Workflows]]
@@ -51,12 +50,10 @@
 + [[https://arxiv.org/pdf/1907.07374v1.pdf][A Survey on Explainable Artificial Intelligence (XAI):towardsMedical XAI]]
 + [[https://arxiv.org/pdf/1312.6034v2.pdf][Deep Inside Convolutional Networks: VisualisingImage Classification Models and Saliency Maps]]
 + [[https://arxiv.org/pdf/1703.10593.pdf][Unpaired Image-to-Image Translationusing Cycle-Consistent Adversarial Networks]]
-+ [[https://arxiv.org/pdf/1611.07004.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
 + [[https://arxiv.org/abs/1903.11176#][On evaluating CNN representations for low resource medical image classification]]
 + [[https://arxiv.org/pdf/1905.11369v1.pdf][Object Discovery with a Copy-Pasting GAN]]
 + [[https://www.biorxiv.org/content/10.1101/740548v2][Deep Learning-Based Point-Scanning Super-Resolution Imaging]]
 + [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and Future Directions]]
 
-+ [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN — Wasserstein GAN & WGAN-GP]]
 
 
