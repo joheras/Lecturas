@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#agosto-2020][Agosto 2020]]
   - [[#julio-2020][Julio 2020]]
   - [[#junio-2020][Junio 2020]]
   - [[#mayo-2020][Mayo 2020]]
@@ -20,6 +21,12 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2020
+
+** Agosto 2020
+
++ MLOps Tutorial [[https://www.youtube.com/watch?v=9BgIDqAzfuA][Video 1]] [[https://www.youtube.com/watch?feature=youtu.be&v=kZKAuShWF0s&app=desktop][Video 2]] [[https://www.youtube.com/watch?v=xPncjKH6SPk&feature=youtu.be][Video 3]] ~ E. Obrien #MLOps
++ [[https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks][Top Computer Vision Google Colab Notebooks]] #Colab #ComputerVision #Resources
++ [[https://ruder.io/nlp-beyond-english/][Why You Should Do NLP Beyond English]] ~ S. Ruder #NLP
 
 ** Julio 2020
 
