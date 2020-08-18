@@ -24,6 +24,15 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://www.kaggle.com/amyjang/neural-style-transfer-for-augmenting-medical-data?linkId=96670625][Neural Style Transfer for Augmenting Medical Data]] ~ A. Yang #StyleTransfer #MedicalImaging
++ [[https://amaarora.github.io/2020/08/13/efficientnet.html][EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks]] ~ A. Arora #EfficientNet #ImageClassification
++ [[https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db][Unsupervised Learning of Visual Features by Contrasting Cluster Assignments]] ~ A. Nain #SelfSupervisedLearning
++ [[https://analyticsindiamag.com/how-do-data-scientists-create-high-quality-training-datasets-for-computer-vision/][How Do Data Scientists Create High-Quality Training DataSets For Computer Vision ]] ~ V. Chawla #Datasets #ComputerVision
++ [[https://elifesciences.org/articles/55133][Imaging methods are vastly underreported in biomedical research]] ~ G. Marques #Imaging #Reproducibility
++ [[https://towardsdatascience.com/12-papers-you-should-read-to-understand-object-detection-in-the-deep-learning-era-3390d4a28891][12 Papers You Should Read to Understand Object Detection in the Deep Learning Era]] ~ E. Yanjia Li #ObjectDetection
++ [[https://jalammar.github.io/how-gpt3-works-visualizations-animations/][How GPT3 Works - Visualizations and Animations]] ~ J. Alamar #GPT3 #NLP
++ [[https://towardsdatascience.com/pp-yolo-surpasses-yolov4-object-detection-advances-1efc2692aa62][PP-YOLO Surpasses YOLOv4 — Object Detection Advances]] ~ J. Solawetz #PPYolo #ObjectDetection #PaddlePaddle
++ [[https://github.com/NirantK/awesome-project-ideas#vision][Awesome Deep Learning Project Ideas]] ~ NirantK #DeepLearning #Projects
 + MLOps Tutorial [[https://www.youtube.com/watch?v=9BgIDqAzfuA][Video 1]] [[https://www.youtube.com/watch?feature=youtu.be&v=kZKAuShWF0s&app=desktop][Video 2]] [[https://www.youtube.com/watch?v=xPncjKH6SPk&feature=youtu.be][Video 3]] ~ E. Obrien #MLOps
 + [[https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks][Top Computer Vision Google Colab Notebooks]] #Colab #ComputerVision #Resources
 + [[https://ruder.io/nlp-beyond-english/][Why You Should Do NLP Beyond English]] ~ S. Ruder #NLP
