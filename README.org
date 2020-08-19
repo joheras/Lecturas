@@ -24,6 +24,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/][AutoML: powering the new human-machine learning ecosystem]] ~ Mihaela van der Schaar #AutoML
 + [[https://towardsdatascience.com/github-is-the-best-automl-you-will-ever-need-5331f671f105][GitHub is the best AutoML you will ever need]] ~ M. Ali #GitHub #MLOps
 + [[https://www.kaggle.com/amyjang/neural-style-transfer-for-augmenting-medical-data?linkId=96670625][Neural Style Transfer for Augmenting Medical Data]] ~ A. Yang #StyleTransfer #MedicalImaging
 + [[https://amaarora.github.io/2020/08/13/efficientnet.html][EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks]] ~ A. Arora #EfficientNet #ImageClassification
