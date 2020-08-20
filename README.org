@@ -24,6 +24,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://blog.openmined.org/private-machine-learning-explained/][Privacy-Preserving Data Science, Explained]] ~ E. Bluenke #Privacy
 + [[http://ethics.fast.ai/][Practical data ethics]] ~ R. Thomas #Ethics #Data
 + [[https://www.youtube.com/watch?feature=youtu.be&v=ZAW9EyNo2fw&app=desktop][Reconciling modern machine learning and the bias-variance trade-off (video)]] ~ Y. Kilcher  #BiasVarianceTradeoff
 + [[https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/][AutoML: powering the new human-machine learning ecosystem]] ~ Mihaela van der Schaar #AutoML
