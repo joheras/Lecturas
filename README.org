@@ -24,6 +24,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf][Graph Representation Learning]] ~ W. Hamilton #GraphRepresentationLearning #Book
++ [[https://amaarora.github.io/2020/08/23/siimisic.html][SIIM-ISIC Melanoma Classification - my journey to a top 5% solution and first silver medal on Kaggle]] ~ A. Arora #ImageClassification #Tips
++ [[https://arxiv.org/pdf/2004.12629.pdf][CascadeTabNet: An approach for end to end table detection and structurerecognition from image-based documents]] ~ D. Prasad #TableSegmentation #TableDetection #Athento [[https://github.com/DevashishPrasad/CascadeTabNet][Repository]]
++ [[https://dbolya.github.io/tide/paper.pdf][TIDE: A General Toolbox for Identifying Object Detection Errors]] ~ D. Bolya #Evaluation #Object Detection
 + [[https://arxiv.org/pdf/2007.01293v1.pdf][Not All Unlabeled Data are Equal:Learning to Weight Data in Semi-supervised Learning]] ~ Z. Ren #SemiSupervisedLearning
 + [[https://blog.openmined.org/private-machine-learning-explained/][Privacy-Preserving Data Science, Explained]] ~ E. Bluenke #Privacy
 + [[http://ethics.fast.ai/][Practical data ethics]] ~ R. Thomas #Ethics #Data
