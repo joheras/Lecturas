@@ -24,6 +24,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730069.pdf][Table Structure Recognition using Top-Downand Bottom-Up Cues]] ~ S. Raja #Athento #TableStructure
 + [[https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf][Graph Representation Learning]] ~ W. Hamilton #GraphRepresentationLearning #Book
 + [[https://amaarora.github.io/2020/08/23/siimisic.html][SIIM-ISIC Melanoma Classification - my journey to a top 5% solution and first silver medal on Kaggle]] ~ A. Arora #ImageClassification #Tips
 + [[https://arxiv.org/pdf/2004.12629.pdf][CascadeTabNet: An approach for end to end table detection and structurerecognition from image-based documents]] ~ D. Prasad #TableSegmentation #TableDetection #Athento [[https://github.com/DevashishPrasad/CascadeTabNet][Repository]]
