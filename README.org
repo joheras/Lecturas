@@ -24,6 +24,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2020
 
++ [[https://huggingface.co/blog/reformer][The Reformer - Pushing the limits of language modeling]] ~ P. von Platen #NLP #Reformer #HuggingFace
 + [[https://papers.eccv2020.eu/paper/2209/][MimicDet: Bridging the Gap BetweenOne-Stage and Two-Stage Object Detection]] ~ X. Lu #ObjectDetection #ECCV
 + [[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf][ForkGAN: Seeing into the Rainy Night]] ~ Z. Zheng #DomainTranslation #Detection #ECCV
 + [[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740579.pdf][Improving Object Detection withSelectiveSelf-Supervised Self-Training]] ~ Y. Li #SelfSupervisedLearning #ObjectDetection #ECCV
