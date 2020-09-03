@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://sites.google.com/view/di2019/home][https://sites.google.com/view/di2019/home]] #Athento #DocumentAnalysis #Workshop
 + [[https://arxiv.org/pdf/1912.13318.pdf][LayoutLM: Pre-training of Text and Layout for Document Image Understanding]] ~ Y. Xu #Transformers #DocumentAnalysis #FormUnderstanding [[https://github.com/microsoft/unilm/tree/master/layoutlm][Repository]]
 + [[https://icdar2021.org/competitions/][COMPETITION ON SCIENTIFIC LITERATURE PARSING]] ~ ICDAR #Athento #Competitions
 + [[https://arxiv.org/abs/2006.01038][DocBank: A Benchmark Dataset for Document Layout Analysis]] ~ M. Li #DocumentAnalysis #Dataset
