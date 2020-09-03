@@ -22,6 +22,10 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2020
 
+** Septiembre 2020
+
++ [[https://arxiv.org/pdf/2009.00104.pdf][A Framework For Contrastive Self-SupervisedLearning And Designing A New Approach]] ~ W. Falcon #SelfSupervisedLearning #ContrastiveLearning
+
 ** Agosto 2020
 
 + [[https://huggingface.co/blog/reformer][The Reformer - Pushing the limits of language modeling]] ~ P. von Platen #NLP #Reformer #HuggingFace
