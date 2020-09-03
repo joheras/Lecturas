@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#septiembre-2020][Septiembre 2020]]
   - [[#agosto-2020][Agosto 2020]]
   - [[#julio-2020][Julio 2020]]
   - [[#junio-2020][Junio 2020]]
@@ -24,6 +25,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://arxiv.org/pdf/1912.13318.pdf][LayoutLM: Pre-training of Text and Layout for Document Image Understanding]] ~ Y. Xu #Transformers #DocumentAnalysis #FormUnderstanding [[https://github.com/microsoft/unilm/tree/master/layoutlm][Repository]]
++ [[https://icdar2021.org/competitions/][COMPETITION ON SCIENTIFIC LITERATURE PARSING]] ~ ICDAR #Athento #Competitions
++ [[https://arxiv.org/abs/2006.01038][DocBank: A Benchmark Dataset for Document Layout Analysis]] ~ M. Li #DocumentAnalysis #Dataset
 + [[https://arxiv.org/pdf/2009.00104.pdf][A Framework For Contrastive Self-SupervisedLearning And Designing A New Approach]] ~ W. Falcon #SelfSupervisedLearning #ContrastiveLearning
 
 ** Agosto 2020
