@@ -25,6 +25,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://github.com/davanstrien/fastai4GLAMS][fastai4GLAMS study group]] ~ davastrien #Datasets #Museums #ObjectDetection #Classification #Athento
++ [[http://icaart.org/ARTIDIGH.aspx][Artificial Intelligence and Digital Heritage: Challenges and Opportunities - ARTIDIGH 2021 ]] ~ Conference #ArtificialIntelligence #Museums
 + [[https://arxiv.org/pdf/2009.01564.pdf][Can AutoML outperform humans? An evaluation on popular OpenML datasets using AutoML Benchmark]] ~ M. Hanussek #AutoML
 + [[https://arxiv.org/pdf/2006.05278.pdf][An Overview of Deep Semi-Supervised Learning]] ~ Y. Ouali #SemiSupervisedLearning #Review
 + [[https://arxiv.org/pdf/2003.09005.pdf][Semi-Supervised Semantic Segmentation with Cross-Consistency Training]]  ~ Y. Ouali #SemanticSegmentation #SemiSupervisedLearning
