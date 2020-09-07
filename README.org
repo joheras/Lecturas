@@ -25,6 +25,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://arxiv.org/pdf/2009.01564.pdf][Can AutoML outperform humans? An evaluation on popular OpenML datasets using AutoML Benchmark]] ~ M. Hanussek #AutoML
++ [[https://arxiv.org/pdf/2006.05278.pdf][An Overview of Deep Semi-Supervised Learning]] ~ Y. Ouali #SemiSupervisedLearning #Review
++ [[https://arxiv.org/pdf/2003.09005.pdf][Semi-Supervised Semantic Segmentation with Cross-Consistency Training]]  ~ Y. Ouali #SemanticSegmentation #SemiSupervisedLearning
 + [[https://github.com/yassouali/awesome-semi-supervised-learning][Awesome Semi-Supervised Learning]] ~ Y. Ouali #SemiSupervisedLearning #CuratedList
 + [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740][Color-to-Grayscale: Does the Method Matter in Image Recognition?]] ~ C. Kanan #ImageUnderstanding
 + [[https://arxiv.org/pdf/2001.06001.pdf][Curriculum Labeling: Self-paced Pseudo-Labeling forSemi-Supervised Learning]] ~ P. Cascante-Bonilla #CurriculumLearning #SemiSupervisedLearning
@@ -217,7 +220,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2004.14356][AxCell: Automatic Extraction of Results from Machine Learning Papers]] ~ A. Kardas #DataExtraction #TableDetection 
 + [[https://arxiv.org/pdf/2003.08505.pdf][A Metric Learning Reality Check]] ~ K. Musgrave #MetricLearning
 + [[https://arxiv.org/pdf/1909.13719.pdf][RandAugment: Practical automated data augmentationwith a reduced search space]] ~ E. Cubuk #DataAugmentation #ObjectDetection #ImageClassification #SemiSupervisedLearning
-+ [[https://arxiv.org/pdf/2005.04757v1.pdf][A Simple Semi-Supervised Learning Frameworkfor Object Detection]] ~ K. Sohn #SemiSupervisedLearning #ObjectDetection
++ [[https://arxiv.org/pdf/2005.04757v1.pdf][A Simple Semi-Supervised Learning Framework for Object Detection]] ~ K. Sohn #SemiSupervisedLearning #ObjectDetection
 + [[https://www.theverge.com/2016/8/4/12369494/descartes-artificial-intelligence-crop-predictions-usda][This startup uses machine learning and satellite imagery to predict crop yields]] ~ A. Brokaw #Crops #Detection
 + [[https://arxiv.org/abs/2004.09927][TTNet: Real-time temporal and spatial video analysis of table tennis]] ~ Voeikov #Detection #Segmentation #Video #MultiTask
 + [[https://www.youtube.com/watch?v=G5lmya6eKtc][The future of NLP]] ~ HuggingFace #NLP #Youtube
