@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://github.com/yassouali/awesome-semi-supervised-learning][Awesome Semi-Supervised Learning]] ~ Y. Ouali #SemiSupervisedLearning #CuratedList
 + [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740][Color-to-Grayscale: Does the Method Matter in Image Recognition?]] ~ C. Kanan #ImageUnderstanding
 + [[https://arxiv.org/pdf/2001.06001.pdf][Curriculum Labeling: Self-paced Pseudo-Labeling forSemi-Supervised Learning]] ~ P. Cascante-Bonilla #CurriculumLearning #SemiSupervisedLearning
 + [[https://sites.google.com/view/di2019/home][https://sites.google.com/view/di2019/home]] #Athento #DocumentAnalysis #Workshop
