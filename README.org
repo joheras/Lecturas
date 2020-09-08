@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://labs.loc.gov/work/reports/][Library reports]] #Libraries
 + [[https://yassouali.github.io/ml-blog/cvpr2020/][CVPR 2020: A Snapshot]] ~ Y. Ouali #Summarcy #CVPR
 + [[https://yassouali.github.io/ml-blog/eccv2020/][ECCV 2020: Some Highlights]] ~ Y. Ouali #Summarcy #ECCV
 + [[https://samiraabnar.github.io/articles/2020-05/vizualization][Visualizing Model Comparison]] ~ S. Abnar #ModelComparison
