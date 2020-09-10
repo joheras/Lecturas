@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0][Data is plural]] ~ J. Singer-Vine #Datasets
 + [[https://arxiv.org/pdf/2009.00236v1.pdf][A Survey of Deep Active Learning]] ~ P. Ren #ActiveLearning
 + [[https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/][How Close Are Computers to Automating Mathematical Reasoning?]] ~ S. Ornes #ITP
 + [[https://labs.loc.gov/work/reports/][Library reports]] #Libraries
