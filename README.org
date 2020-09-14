@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://arxiv.org/pdf/2008.08579.pdf][Slide-free MUSE Microscopy to H&E Histology Modality Conversionvia Unpaired Image-to-Image Translation GAN Models]] ~ T. Abraham #GANs #StyleTransfer 
 + [[https://www.mdpi.com/2072-4292/12/16/2532/htm][Fully Convolutional Neural Network for Rapid Flood Segmentation in Synthetic Aperture Radar Imagery ]] ~ E. Nemni #Fastai #Lidar #Copernicus
 + [[https://www.sciencedirect.com/science/article/pii/S2001037020303561][A bird’s-eye view of deep learning in bioimage analysis]] ~ E. Meijering #DeepLearning #Bioimaging #Survey #AutoML
 + [[https://arxiv.org/abs/2001.00018][Connecting optical morphology, environment, and HI mass fraction for low-redshift galaxies using deep learning]] ~ J. Wu #Galaxies #FastAI
