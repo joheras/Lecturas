@@ -25,6 +25,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2020
 
++ [[https://arxiv.org/pdf/1807.07356.pdf][Aleatoric uncertainty estimation with test-time augmentation for medical imagesegmentation with convolutional neural networks]] ~ G. Wang #TTA #SemanticSegmentation
++ [[https://www.nature.com/articles/s41598-020-61808-3][Test-time augmentation for deep learning-based cell segmentation on microscopy images]] ~ N. Moshk #TestTimeAugmentation #SemanticSegmentation 
++ [[https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html][Meta-Learning: Learning to Learn Fast]] ~ L. Weng #MetaLearning
 + [[https://arxiv.org/pdf/1906.01916.pdf][Semi-supervised semantic segmentationneeds strong, varied perturbations]] ~ G. French #SemiSupervisedLearning #SemanticSegmentation
 + [[https://arxiv.org/pdf/1912.02781.pdf][AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty]] ~ D. Hendrycks #DataAugmentation
 + [[https://arxiv.org/abs/1905.04899][CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features]] ~ S. Yun #DataAugmentation
