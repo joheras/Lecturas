@@ -26,6 +26,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://arxiv.org/pdf/1812.03443.pdf][FBNet: Hardware-Aware Efficient ConvNet Designvia Differentiable Neural Architecture Search]] ~ B. Wu #FBNet #Mobile
++ [[https://arxiv.org/pdf/2003.12040.pdf][Pseudo-Labeling for Small Lesion Detection onDiabetic Retinopathy Images]] ~ Q. Chen #DiabeticRetinopathy #PseudoLabeling #ObjectDetection #SemiSupervisedLearning
++ [[https://distill.pub/2020/communicating-with-interactive-articles/][Communicating with Interactive Articles]] ~ F. Hohman #Distill
++ [[http://anna.harutyunyan.net/wp-content/uploads/2020/09/What_is_an_agent.pdf][What is an agent?]] ~ A. Harutyunyan #ArtificialIntelligence
 + [[https://news.cision.com/fi/city-of-helsinki/r/helsinki-and-amsterdam-first-cities-in-the-world-to-launch-open-ai-register,c3204076][Helsinki and Amsterdam first cities in the world to launch open AI register]] #Cities #ArtificialIntelligence
 + [[https://github.com/genforce/genforce][GenForce Lib for Generative Modeling]] #GANs
 + [[https://www.kaggle.com/tanlikesmath/upit-a-package-for-unpaired-img2img-translation/][UPIT -a package for unpaired img2img translation]] #Image2Image #CycleGAN
