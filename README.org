@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://arxiv.org/abs/2009.10521][A survey on Kornia: an Open Source Differentiable Computer Vision Library for PyTorch]] ~ E. Riba #ComputerVision #DeepLearning
 + [[https://arxiv.org/pdf/1812.03443.pdf][FBNet: Hardware-Aware Efficient ConvNet Designvia Differentiable Neural Architecture Search]] ~ B. Wu #FBNet #Mobile
 + [[https://arxiv.org/pdf/2003.12040.pdf][Pseudo-Labeling for Small Lesion Detection onDiabetic Retinopathy Images]] ~ Q. Chen #DiabeticRetinopathy #PseudoLabeling #ObjectDetection #SemiSupervisedLearning
 + [[https://distill.pub/2020/communicating-with-interactive-articles/][Communicating with Interactive Articles]] ~ F. Hohman #Distill
