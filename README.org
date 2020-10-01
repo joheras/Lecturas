@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#octubre-2020][Octubre 2020]]
   - [[#septiembre-2020][Septiembre 2020]]
   - [[#agosto-2020][Agosto 2020]]
   - [[#julio-2020][Julio 2020]]
@@ -22,6 +23,12 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2020
+
+** Octubre 2020
+
++ [[https://news.cision.com/fi/city-of-helsinki/r/helsinki-and-amsterdam-first-cities-in-the-world-to-launch-open-ai-register,c3204076][Helsinki and Amsterdam first cities in the world to launch open AI register]] #Cities #ArtificialIntelligence
++ [[https://github.com/genforce/genforce][GenForce Lib for Generative Modeling]] #GANs
++ [[https://www.kaggle.com/tanlikesmath/upit-a-package-for-unpaired-img2img-translation/][UPIT -a package for unpaired img2img translation]] #Image2Image #CycleGAN
 
 ** Septiembre 2020
 
