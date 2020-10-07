@@ -26,6 +26,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://github.com/vinthony/ghost-free-shadow-removal][Towards Ghost-free Shadow Removal]] ~ X. Cun #ShadowRemoval #GANs [https://colab.research.google.com/drive/1cJ_dsBUXFaFtjoZB9gDYeahjmysnvnTq#scrollTo=qnoxUFU3zqpV][notebook]
++ [[https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Mask-ShadowGAN_Learning_to_Remove_Shadows_From_Unpaired_Data_ICCV_2019_paper.pdf][Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data]] ~ X. Hu #ShadowRemoval #CycleGAN
 + [[https://arxiv.org/abs/2009.10521][A survey on Kornia: an Open Source Differentiable Computer Vision Library for PyTorch]] ~ E. Riba #ComputerVision #DeepLearning
 + [[https://arxiv.org/pdf/1812.03443.pdf][FBNet: Hardware-Aware Efficient ConvNet Designvia Differentiable Neural Architecture Search]] ~ B. Wu #FBNet #Mobile
 + [[https://arxiv.org/pdf/2003.12040.pdf][Pseudo-Labeling for Small Lesion Detection onDiabetic Retinopathy Images]] ~ Q. Chen #DiabeticRetinopathy #PseudoLabeling #ObjectDetection #SemiSupervisedLearning
