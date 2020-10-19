@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] #InteractiveTools
 + [[https://www.biorxiv.org/content/10.1101/2020.10.08.327718v1.full.pdf][Creating Clear and Informative Image-based Figures forScientific Publications]] ~ H. Hambor #Images
 + [[https://www.biorxiv.org/content/10.1101/2020.10.07.328005v1.full.pdf][1Deep-LUMEN Assay – Human lung epithelial spheroid classification from brightfield images using deep learning]] ~ L. Abdul #Detection #Spheroids #Tumours
 + [[https://github.com/vinthony/ghost-free-shadow-removal][Towards Ghost-free Shadow Removal]] ~ X. Cun #ShadowRemoval #GANs [https://colab.research.google.com/drive/1cJ_dsBUXFaFtjoZB9gDYeahjmysnvnTq#scrollTo=qnoxUFU3zqpV][notebook]
