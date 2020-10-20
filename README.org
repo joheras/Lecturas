@@ -26,6 +26,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://www.pyimagesearch.com/2020/10/19/adversarial-images-and-attacks-with-keras-and-tensorflow/][Adversarial images and attacks with Keras and TensorFlow]] ~ A. Rosebrog #Pyimagesearch #AdversialAttacks
++ [[https://www.researchgate.net/publication/277775478_CRISP_Data_Mining_Methodology_Extension_for_Medical_Domain][CRISP Data Mining Methodology Extension for Medical Domain]]  #CRISPDM #Heidi #Medicine
++ [[https://www.researchgate.net/profile/Workneh_Ayele/publication/342572029_Adapting_CRISP-DM_for_Idea_Mining_A_Data_Mining_Process_for_Generating_Ideas_Using_a_Textual_Dataset/links/5efdc0baa6fdcc4ca444a952/Adapting-CRISP-DM-for-Idea-Mining-A-Data-Mining-Process-for-Generating-Ideas-Using-a-Textual-Dataset.pdf][Adapting CRISP-DM for Idea Mining]] #CRISPDM #Heidi
++ [[http://www.cs.unibo.it/~danilo.montesi/CBD/Beatriz/1107356429_CrispDM1.0.pdf][CRISP-DM 1.0]] #CRISPDM #Heidi
++ [[http://www.cs.unibo.it/~danilo.montesi/CBD/Beatriz/10.1.1.198.5133.pdf][CRISP-DM: Towards a Standard Process Model for Data Mining]] ~ R. Wirth #CRISPDM #Heidi
++ [[https://arxiv.org/abs/2009.08449]['Less Than One'-Shot Learning: Learning N Classes From M<N Samples]] ~ I. Sucholutsky #FewShotLearning
++ [[https://openreview.net/forum?id=xTJEN-ggl1b][LambdaNetworks: Modeling long-range Interactions without Attention]] #ComputerVision #ImageClassification
 + [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] #InteractiveTools
 + [[https://www.biorxiv.org/content/10.1101/2020.10.08.327718v1.full.pdf][Creating Clear and Informative Image-based Figures forScientific Publications]] ~ H. Hambor #Images
 + [[https://www.biorxiv.org/content/10.1101/2020.10.07.328005v1.full.pdf][1Deep-LUMEN Assay – Human lung epithelial spheroid classification from brightfield images using deep learning]] ~ L. Abdul #Detection #Spheroids #Tumours
