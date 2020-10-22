@@ -26,6 +26,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
+
++ [[https://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf][Semi Supervised Semantic Segmentation Using Generative Adversarial Network]]  #SemanticSegmentation #SemiSupervisedLearning #GANs
++ [[https://arxiv.org/pdf/2010.09713v1.pdf][PseudoSeg: Designing Pseudo Labels for Semantic Segmentation]] #PseudoLabeling #SemanticSegmentation #SemiSupervisedLearning
++ [[https://arxiv.org/pdf/1912.10557.pdf][Algorithm Unrolling: Interpretable, Efficient DeepLearning for Signal and Image Processing]] #Interpretability
++ [[https://www.serch.dev/blog/2020/10/21/la-historia-que-cuentan-nuestros-tests.html][La historia que cuentan nuestros tests]] #TDD
 + [[https://www.pyimagesearch.com/2020/10/19/adversarial-images-and-attacks-with-keras-and-tensorflow/][Adversarial images and attacks with Keras and TensorFlow]] ~ A. Rosebrog #Pyimagesearch #AdversialAttacks
 + [[https://www.researchgate.net/publication/277775478_CRISP_Data_Mining_Methodology_Extension_for_Medical_Domain][CRISP Data Mining Methodology Extension for Medical Domain]]  #CRISPDM #Heidi #Medicine
 + [[https://www.researchgate.net/profile/Workneh_Ayele/publication/342572029_Adapting_CRISP-DM_for_Idea_Mining_A_Data_Mining_Process_for_Generating_Ideas_Using_a_Textual_Dataset/links/5efdc0baa6fdcc4ca444a952/Adapting-CRISP-DM-for-Idea-Mining-A-Data-Mining-Process-for-Generating-Ideas-Using-a-Textual-Dataset.pdf][Adapting CRISP-DM for Idea Mining]] #CRISPDM #Heidi
