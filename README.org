@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[https://itsfoss.com/use-onedrive-linux-rclone/][https://itsfoss.com/use-onedrive-linux-rclone/]]
 + [[https://nanonets.com/blog/extract-structured-data-from-invoice/][How to extract structured data from invoices]] #Invoices #Athento
 + [[https://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf][Semi Supervised Semantic Segmentation Using Generative Adversarial Network]]  #SemanticSegmentation #SemiSupervisedLearning #GANs
 + [[https://arxiv.org/pdf/2010.09713v1.pdf][PseudoSeg: Designing Pseudo Labels for Semantic Segmentation]] #PseudoLabeling #SemanticSegmentation #SemiSupervisedLearning
@@ -41,7 +42,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] #InteractiveTools
 + [[https://www.biorxiv.org/content/10.1101/2020.10.08.327718v1.full.pdf][Creating Clear and Informative Image-based Figures forScientific Publications]] ~ H. Hambor #Images
 + [[https://www.biorxiv.org/content/10.1101/2020.10.07.328005v1.full.pdf][1Deep-LUMEN Assay – Human lung epithelial spheroid classification from brightfield images using deep learning]] ~ L. Abdul #Detection #Spheroids #Tumours
-+ [[https://github.com/vinthony/ghost-free-shadow-removal][Towards Ghost-free Shadow Removal]] ~ X. Cun #ShadowRemoval #GANs [https://colab.research.google.com/drive/1cJ_dsBUXFaFtjoZB9gDYeahjmysnvnTq#scrollTo=qnoxUFU3zqpV][notebook]
++ [[https://github.com/vinthony/ghost-free-shadow-removal][Towards Ghost-free Shadow Removal]] ~ X. Cun #ShadowRemoval #GANs [[https://colab.research.google.com/drive/1cJ_dsBUXFaFtjoZB9gDYeahjmysnvnTq#scrollTo=qnoxUFU3zqpV][notebook]]
 + [[https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Mask-ShadowGAN_Learning_to_Remove_Shadows_From_Unpaired_Data_ICCV_2019_paper.pdf][Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data]] ~ X. Hu #ShadowRemoval #CycleGAN
 + [[https://arxiv.org/abs/2009.10521][A survey on Kornia: an Open Source Differentiable Computer Vision Library for PyTorch]] ~ E. Riba #ComputerVision #DeepLearning
 + [[https://arxiv.org/pdf/1812.03443.pdf][FBNet: Hardware-Aware Efficient ConvNet Designvia Differentiable Neural Architecture Search]] ~ B. Wu #FBNet #Mobile
