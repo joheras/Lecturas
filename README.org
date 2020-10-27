@@ -26,7 +26,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
-
++ [[https://nanonets.com/blog/extract-structured-data-from-invoice/][How to extract structured data from invoices]] #Invoices #Athento
 + [[https://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf][Semi Supervised Semantic Segmentation Using Generative Adversarial Network]]  #SemanticSegmentation #SemiSupervisedLearning #GANs
 + [[https://arxiv.org/pdf/2010.09713v1.pdf][PseudoSeg: Designing Pseudo Labels for Semantic Segmentation]] #PseudoLabeling #SemanticSegmentation #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/1912.10557.pdf][Algorithm Unrolling: Interpretable, Efficient DeepLearning for Signal and Image Processing]] #Interpretability
