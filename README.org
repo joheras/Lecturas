@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[http://jonathanstray.com/to-apply-ai-for-good-think-form-extraction][To apply AI for good, think form extraction]] ~ J. Stray #Forms #Athento
 + [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/][Machine Learning for Healthcare]] #Healthcare #Course
 + [[https://arxiv.org/pdf/2003.00898.pdf][The importance of transparency and reproducibility in artificialintelligence research]] #Reproducibility
 + [[https://becominghuman.ai/using-variational-autoencoder-vae-to-generate-new-images-14328877e88d][Using Variational Autoencoder (VAE) to Generate New Images]] #VAE
