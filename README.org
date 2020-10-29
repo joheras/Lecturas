@@ -26,6 +26,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2020
 
++ [[http://jonathanstray.com/extracting-campaign-finance-data-from-gnarly-pdfs-using-deep-learning][Extracting campaign finance data from gnarly PDFs using deep learning]] ~ J. Stray #Forms #Athento
++ [[https://wandb.ai/stacey/deepform_v1/reports/DeepForm-Understand-Structured-Documents-at-Scale--VmlldzoyODQ3Njg][DeepForm: Understand Structured Documents at Scale]] #Forms #Athento
++ [[https://www.wandb.com/benchmarks][Weights and bias benchmarks]] #Datasets
 + [[https://wandb.ai/deepform/political-ad-extraction/benchmark][DeepForm: Extract Information from Documents]] #Dataset #Forms #Athento
 + [[http://jonathanstray.com/to-apply-ai-for-good-think-form-extraction][To apply AI for good, think form extraction]] ~ J. Stray #Forms #Athento
 + [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/][Machine Learning for Healthcare]] #Healthcare #Course
