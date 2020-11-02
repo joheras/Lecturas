@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#noviembre-2020][Noviembre 2020]]
   - [[#octubre-2020][Octubre 2020]]
   - [[#septiembre-2020][Septiembre 2020]]
   - [[#agosto-2020][Agosto 2020]]
@@ -24,8 +25,14 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2020
 
+
+** Noviembre 2020
+
 ** Octubre 2020
 
++ [[https://arxiv.org/pdf/2010.00532.pdf][Persistent homology advances interpretable machine learning fornanoporous materials]] #TDA #PersistentHomology
++ [[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620069.pdf][Attentive Normalization]] #Normalization
++ [[https://www.lozeve.com/files/tdanetworks.pdf][Topological Data Analysis of Temporal Networks]] #TDA
 + [[http://jonathanstray.com/extracting-campaign-finance-data-from-gnarly-pdfs-using-deep-learning][Extracting campaign finance data from gnarly PDFs using deep learning]] ~ J. Stray #Forms #Athento
 + [[https://wandb.ai/stacey/deepform_v1/reports/DeepForm-Understand-Structured-Documents-at-Scale--VmlldzoyODQ3Njg][DeepForm: Understand Structured Documents at Scale]] #Forms #Athento
 + [[https://www.wandb.com/benchmarks][Weights and bias benchmarks]] #Datasets
