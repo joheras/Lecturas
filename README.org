@@ -28,6 +28,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2020
 
++ [[https://arxiv.org/abs/2010.09337][Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges]] #Interpretability
++ The ultimate guide to Encoder Decoder Models [[https://colab.research.google.com/drive/18ZBlS4tSqSeTzZAVFxfpNDb_SrZfAOMf?usp=sharing][1/4]] [[https://colab.research.google.com/drive/1XpKHijllH11nAEdPcQvkpYHCVnQikm9G?usp=sharing][2/4]] [[https://colab.research.google.com/drive/1HJhnWMFizEKKWEAb-k7QDBv4c03hXbCR?usp=sharing][3/4]] [[https://colab.research.google.com/drive/1BFgJbPSeAQE7Wz0hgqyaDJj_4wkUrXgt?usp=sharing][4/4]] #NLP Transformers
++ [[https://openreview.net/pdf?id=RLRXCV6DbEJ][Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images]] #VAE #GenerativeModels
++ [[https://openreview.net/pdf?id=qVyeW-grC2k][Long Range Arena : A Benchmark for Efficient Transformers ]] #Transformers #NLP
 + [[https://openreview.net/forum?id=YicbFdNTTy][An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale]] #Transformers #ImageClassification
 + [[https://arxiv.org/pdf/2009.11698.pdf][Principles and Practice of Explainable Machine Learning]] #Explanability
 + [[https://arxiv.org/pdf/1907.01297.pdf][Neural Network Verification for the Masses]] #TheoremProving #NeuralNetworks #Verification
