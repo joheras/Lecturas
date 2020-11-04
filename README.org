@@ -239,7 +239,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://ieeexplore.ieee.org/document/8999506][Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages]] ~ T. Tsai #OMR
 + [[https://github.com/apacha/OMR-Datasets][Optical Music Recognition Datasets]] #OMR #Datasets
 + [[https://arxiv.org/abs/1912.03538][Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection]] ~ S. Beery #ObjectDetection #Attention
-+ [[http://carabela.prhlt.upv.es/en/][Carabela]] ~ E. Vidal #OCR #OldDocuments
++ [[http://carabela.prhlt.upv.es/en/][Carabela]] ~ E. Vidal #OCR #OldDocuments #Athento
 + [[https://arxiv.org/pdf/2006.09965.pdf][High-Fidelity Generative Image Compression]] ~ F. Mentzer #GANs #ImageCompression
 + [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w57/Battiato_Detection_and_Classification_of_Pollen_Grain_Microscope_Images_CVPRW_2020_paper.pdf][Detection and Classification of Pollen Grain Microscope Images]] ~ S. Battiano #ImageClassification #Bioimage
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_A_Semi-Supervised_Assessor_of_Neural_Architectures_CVPR_2020_paper.pdf][A Semi-Supervised Assessor of Neural Architectures]] ~ Y. Tang #NeuralArchitectureSearch
