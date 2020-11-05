@@ -28,6 +28,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2020
 
++ [[https://nanonets.com/blog/key-value-pair-extraction-from-documents-using-ocr-and-deep-learning/][How to extract Key-Value pairs from Documents using deep learning]] #Forms #Athento
++ [[https://link.springer.com/article/10.1007%2Fs11548-020-02262-4][Unravelling the effect of data augmentation transformations in polyp segmentation]] #DataAugmentation #SemanticSegmentation
++ [[https://www.youtube.com/watch?v=-QH8fRhqFHM][The Narrated Transformer Language Model]] #NLP #Transformer
++ [[https://arxiv.org/pdf/2010.07922.pdf][Representation Learning via Invariant Causal Mechanisms]] #SelfSupervisedLearning
 + [[https://arxiv.org/abs/2010.09337][Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges]] #Interpretability
 + The ultimate guide to Encoder Decoder Models [[https://colab.research.google.com/drive/18ZBlS4tSqSeTzZAVFxfpNDb_SrZfAOMf?usp=sharing][1/4]] [[https://colab.research.google.com/drive/1XpKHijllH11nAEdPcQvkpYHCVnQikm9G?usp=sharing][2/4]] [[https://colab.research.google.com/drive/1HJhnWMFizEKKWEAb-k7QDBv4c03hXbCR?usp=sharing][3/4]] [[https://colab.research.google.com/drive/1BFgJbPSeAQE7Wz0hgqyaDJj_4wkUrXgt?usp=sharing][4/4]] #NLP Transformers
 + [[https://openreview.net/pdf?id=RLRXCV6DbEJ][Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images]] #VAE #GenerativeModels
