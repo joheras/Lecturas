@@ -27,7 +27,8 @@ Este repositorio es una recopilación de lecturas.
 
 
 ** Noviembre 2020
-
+ 
++ [[https://github.com/zszazi/Deep-learning-in-cloud][Deep-learning-in-cloud]] #Resources #DeepLearning #Cloud
 + [[https://nanonets.com/blog/key-value-pair-extraction-from-documents-using-ocr-and-deep-learning/][How to extract Key-Value pairs from Documents using deep learning]] #Forms #Athento
 + [[https://link.springer.com/article/10.1007%2Fs11548-020-02262-4][Unravelling the effect of data augmentation transformations in polyp segmentation]] #DataAugmentation #SemanticSegmentation
 + [[https://www.youtube.com/watch?v=-QH8fRhqFHM][The Narrated Transformer Language Model]] #NLP #Transformer
