@@ -27,7 +27,12 @@ Este repositorio es una recopilación de lecturas.
 
 
 ** Noviembre 2020
- 
+
++ [[https://arxiv.org/pdf/2010.05234.pdf][https://arxiv.org/pdf/2010.05234.pdf]] #GraphNeuralNetworks
++ [[https://arxiv.org/pdf/2010.09594.pdf][Multi-Modal Super Resolution for DenseMicroscopic Particle Size Estimation]] #SuperResolution #GAN #ObjectDetection
++ [[https://arxiv.org/pdf/2009.08576.pdf][Pruning Neural Networks at Initialization: Why are We Missing the Mark?]] #Prunning
++ [[https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/][GANs with Keras and TensorFlow]]  #Pyimagesearch #GANs 
++ [[https://www.pyimagesearch.com/2020/11/09/opencv-super-resolution-with-deep-learning/][OpenCV Super Resolution with Deep Learning]] #Pyimagesearch #SuperResolution #OpenCV
 + [[https://github.com/zszazi/Deep-learning-in-cloud][Deep-learning-in-cloud]] #Resources #DeepLearning #Cloud
 + [[https://nanonets.com/blog/key-value-pair-extraction-from-documents-using-ocr-and-deep-learning/][How to extract Key-Value pairs from Documents using deep learning]] #Forms #Athento
 + [[https://link.springer.com/article/10.1007%2Fs11548-020-02262-4][Unravelling the effect of data augmentation transformations in polyp segmentation]] #DataAugmentation #SemanticSegmentation
