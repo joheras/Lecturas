@@ -28,6 +28,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2020
 
++ [[https://walkwithfastai.com/tab.ae][Using AutoEncoders with Tabular Data (Intermediate)]] #FastAI #TabularData #AutoEncoders
 + [[https://arxiv.org/pdf/2010.05234.pdf][https://arxiv.org/pdf/2010.05234.pdf]] #GraphNeuralNetworks
 + [[https://arxiv.org/pdf/2010.09594.pdf][Multi-Modal Super Resolution for DenseMicroscopic Particle Size Estimation]] #SuperResolution #GAN #ObjectDetection
 + [[https://arxiv.org/pdf/2009.08576.pdf][Pruning Neural Networks at Initialization: Why are We Missing the Mark?]] #Prunning
