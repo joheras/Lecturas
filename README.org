@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#diciembre-2020][Diciembre 2020]]
   - [[#noviembre-2020][Noviembre 2020]]
   - [[#octubre-2020][Octubre 2020]]
   - [[#septiembre-2020][Septiembre 2020]]
@@ -24,6 +25,14 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2020
+
+** Diciembre 2020
+
++ [[https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/][Why Skin Lesions are Peanuts and Brain Tumors Harder Nuts]] ~ T. Kooi #MedicalImaging #ScarceData
++ [[https://arxiv.org/pdf/2009.11060.pdf][Docs are ROCs: A simple off-the-shelf approach for estimating average human performance in diagnostic studies]] ~ L. Oakden-Rayner #Evaluation
++ [[https://arxiv.org/pdf/1906.02243.pdf][Energy and Policy Considerations for Deep Learning in NLP]] ~ E. Strubell #Energy
++ [[https://nips.cc/virtual/2020/public/invited_16166.html][You Can’t Escape Hyperparameters and Latent Variables: Machine Learning as a Software Engineering Enterprise ]] ~ C. Isbell #Neurips #Keynote #Bias #SoftwareEngineering
++ [[https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/021220-ENIA.pdf][Estrategia Nacional de Inteligencia Artificial]] #IA #Moncloa
 
 
 ** Noviembre 2020
