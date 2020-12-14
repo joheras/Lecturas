@@ -28,6 +28,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://www.nature.com/articles/s41592-020-01008-z.epdf?sharing_token=4jS8WCio35M6tfgQUUXamtRgN0jAjWel9jnR3ZoTv0MPk71Wg6vREldiNjHEbU89_ehOOb_NLZNqil4VHQLygNjZAbd5f4rttCieNLf4e_cDouFUxnVsIw7jpYI0G0GhIxZRSNtNTx2Fihu-cMDbH-RlIsKJFlO08zK9a1yTtZk%3D][nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation]] #Segmentation #AutoML
++ [[https://arxiv.org/abs/2012.05628][As good as new. How to successfully recycle English GPT-2 to make models for other languages]] #NLP #GPT
++ [[https://arxiv.org/pdf/2011.13920.pdf][Unsupervised part representation by Flow Capsules]] #Capsules #SelfSupervisedLearning
 + [[https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook /Vision_Transformer_Tutorial.ipynb#scrollTo=J9lOBfezfPCX][Unofficial Walkthrough of Vision Transformer]] #Colab #Transformers #ComputerVision
 + [[https://openreview.net/pdf?id=tcjMxpMJc95][Understanding Knowledge Distillation]] #SemiSupervisedLearning #SelfSupervised #Distillation
 + [[https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/][Why Skin Lesions are Peanuts and Brain Tumors Harder Nuts]] ~ T. Kooi #MedicalImaging #ScarceData
