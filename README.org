@@ -28,6 +28,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook /Vision_Transformer_Tutorial.ipynb#scrollTo=J9lOBfezfPCX][Unofficial Walkthrough of Vision Transformer]] #Colab #Transformers #ComputerVision
++ [[https://openreview.net/pdf?id=tcjMxpMJc95][Understanding Knowledge Distillation]] #SemiSupervisedLearning #SelfSupervised #Distillation
 + [[https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/][Why Skin Lesions are Peanuts and Brain Tumors Harder Nuts]] ~ T. Kooi #MedicalImaging #ScarceData
 + [[https://arxiv.org/pdf/2009.11060.pdf][Docs are ROCs: A simple off-the-shelf approach for estimating average human performance in diagnostic studies]] ~ L. Oakden-Rayner #Evaluation
 + [[https://arxiv.org/pdf/1906.02243.pdf][Energy and Policy Considerations for Deep Learning in NLP]] ~ E. Strubell #Energy
