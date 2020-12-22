@@ -28,6 +28,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://analyticsindiamag.com/onenet/][OneNet: Introduction to End-to-End One-Stage Object Detection ]] #ObjectDetection
++ [[https://arxiv.org/pdf/2004.08955.pdf][ResNeSt: Split-Attention Networks]] #ImageClassification
++ [[https://blog.tensorflow.org/2020/11/my-experience-with-tensorflow-quantum.html][My experience with TensorFlow Quantum]] #Tensorflow #QuantumComputing
++ [[https://twitter.com/PetarV_93/status/1306689702020382720][Resources Graph Neural Networks]] #GraphNeuralNetworks
++ [[https://arxiv.org/pdf/1912.12693.pdf][A Gentle Introduction to Deep Learning for Graphs]] #GraphNeuralNetworks
++ [[https://blog.einstein.ai/comatch-advancing-semi-supervised-learning-with-contrastive-graph-regularization/][CoMatch: Advancing Semi-supervised Learning with Contrastive Graph Regularization]] #SemiSupervisedLearning #ContrastiveRegularization
 + [[http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf][High Performance Natural Language Processing]] #NLP
 + [[https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/][Nbdev: A literate programming environment that democratizes software engineering best practices]] #NBDev #JupyterNotebooks #FastAI
 + [[https://towardsdatascience.com/getting-started-with-giotto-learn-a-python-library-for-topological-machine-learning-451d88d2c4bc][Getting started with giotto-tda]] #TDA 
