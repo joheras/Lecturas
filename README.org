@@ -28,6 +28,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://ethics-of-ai.mooc.fi/start][https://ethics-of-ai.mooc.fi/start]] #Mooc #Ethics
 + [[https://ogb.stanford.edu/][Open Graph Benchmark]] #Datasets #GraphNeuralNetworks #Benchmark
 + [[https://arxiv.org/pdf/2012.07421.pdf][Wilds: A Benchmark of in-the-Wild Distribution Shifts]] #DomainShift #Manuel [[https://t.co/bwOiG9R5Ct][Webpage]]
 + [[https://arxiv.org/pdf/2004.07780.pdf][Shortcut Learning in Deep Neural Networks]] #Robustness #Transferability #DomainShift
