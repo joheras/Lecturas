@@ -28,6 +28,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://arxiv.org/abs/2012.07805][Extracting Training Data from Large Language Models]] #NLP
++ [[https://arxiv.org/abs/2012.07177][Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation]] #DataAugmentation #SemanticSegmentation
++ [[https://modestyachts.github.io/imagenet-testbed/][Measuring Robustness to Natural Distribution Shifts in Image Classification ]] #DomainShift #Robustness
++ [[https://epfml.github.io/attention-cnn/][Visualization of Self-Attention Maps in Vision]] #Interpretability #Attention
++ [[https://arxiv.org/abs/1906.03516][DiCENet: Dimension-wise Convolutions for Efficient Networks]] #EfficientNetworks #Mobile
++ [[https://arxiv.org/abs/2002.09437][Calibrating Deep Neural Networks using Focal Loss]] #Miscalibration #Loss
 + [[https://ethics-of-ai.mooc.fi/start][https://ethics-of-ai.mooc.fi/start]] #Mooc #Ethics
 + [[https://ogb.stanford.edu/][Open Graph Benchmark]] #Datasets #GraphNeuralNetworks #Benchmark
 + [[https://arxiv.org/pdf/2012.07421.pdf][Wilds: A Benchmark of in-the-Wild Distribution Shifts]] #DomainShift #Manuel [[https://t.co/bwOiG9R5Ct][Webpage]]
