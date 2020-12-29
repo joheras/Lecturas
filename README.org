@@ -28,6 +28,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2020
 
++ [[https://arxiv.org/pdf/2012.12877.pdf][Training data-efficient image transformers& distillation through attention]] #Distillation #Transformers #ComputerVision
 + [[https://arxiv.org/abs/2012.07805][Extracting Training Data from Large Language Models]] #NLP
 + [[https://arxiv.org/abs/2012.07177][Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation]] #DataAugmentation #SemanticSegmentation
 + [[https://modestyachts.github.io/imagenet-testbed/][Measuring Robustness to Natural Distribution Shifts in Image Classification ]] #DomainShift #Robustness
