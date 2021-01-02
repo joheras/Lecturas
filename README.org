@@ -4,6 +4,8 @@
 Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
+- [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#enero-2021][Enero 2021]]
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#diciembre-2020][Diciembre 2020]]
   - [[#noviembre-2020][Noviembre 2020]]
@@ -24,6 +26,12 @@ Este repositorio es una recopilación de lecturas.
   - [[#septiembre-2019][Septiembre 2019]]
   
   
+* Lecturas del año 2021
+
+** Enero 2021
+  
++ [[https://arxiv.org/pdf/2012.14163v1.pdf][Multiple Document Datasets Pre-training ImprovesText Line Detection With Deep Neural Networks]] #Athento #DocumentAnalysis #HistoricalDocuments
+
 * Lecturas del año 2020
 
 ** Diciembre 2020
