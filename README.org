@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
   
++ [[https://openai.com/blog/clip/][CLIP: Connecting Text and Images]] #OpenAI #ImageClassification #SelfSupervisedLearning
 + [[https://d1.awsstatic.com/whitepapers/mlops-continuous-delivery-machine-learning-on-aws.pdf?did=wp_card][MLOps: Continuous Delivery forMachine Learning on AWS]] #MLOPs
 + [[https://arxiv.org/pdf/2012.14163v1.pdf][Multiple Document Datasets Pre-training ImprovesText Line Detection With Deep Neural Networks]] #Athento #DocumentAnalysis #HistoricalDocuments
 
