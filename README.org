@@ -29,7 +29,10 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2021
 
 ** Enero 2021
-  
+ 
++ [[https://arxiv.org/pdf/2101.01169.pdf][Transformers in Vision: A Survey]] #Transformers #ComputerVision
++ [[http://yacvid.hayko.at/index.php][Yet Another Computer Vision Index To Datasets (YACVID)]] #Datasets
++ [[https://arxiv.org/abs/2003.10580][Meta Pseudo Labels]] #SemiSupervisedLearning
 + [[https://dalex.drwhy.ai/python/][dalex: Responsible Machine Learning in Python]] #Explanability #Interpretability
 + [[https://machinelearningmastery.com/semi-supervised-learning-with-label-propagation/][Semi-Supervised Learning With Label Propagation]]  #SemiSupervisedLearning #LabelPropagation
 + [[https://openai.com/blog/clip/][CLIP: Connecting Text and Images]] #OpenAI #ImageClassification #SelfSupervisedLearning
