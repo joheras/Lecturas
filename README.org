@@ -30,6 +30,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
  
++ [[https://people.maths.ox.ac.uk/nanda/cat/][Computational Algebraic Topology]] #ComputationalAlgebraicTopology #Course #TDA
++ [[https://www.nature.com/articles/s41746-020-00376-2][Deep learning-enabled medical computer vision]] #MedicalImaging
 + [[https://arxiv.org/pdf/2101.01169.pdf][Transformers in Vision: A Survey]] #Transformers #ComputerVision
 + [[http://yacvid.hayko.at/index.php][Yet Another Computer Vision Index To Datasets (YACVID)]] #Datasets
 + [[https://arxiv.org/abs/2003.10580][Meta Pseudo Labels]] #SemiSupervisedLearning
