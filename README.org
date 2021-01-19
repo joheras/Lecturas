@@ -29,7 +29,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2021
 
 ** Enero 2021
- 
+
++ [[https://testdriven.io/guides/complete-python/][The Complete Python Development Guide]] #Python 
 + [[https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/][Using GitHub Actions for MLOps & Data Science ]] #MLOps
 + [[https://people.maths.ox.ac.uk/nanda/cat/][Computational Algebraic Topology]] #ComputationalAlgebraicTopology #Course #TDA
 + [[https://www.nature.com/articles/s41746-020-00376-2][Deep learning-enabled medical computer vision]] #MedicalImaging
