@@ -30,6 +30,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
++ [[https://arxiv.org/abs/2101.06871][CheXtransfer: Performance and Parameter Efficiency of ImageNet Models for Chest X-Ray Interpretation]] #MedicalImaging #TransferLearning
++ [[https://huggingface.co/blog/zero-deepspeed-fairscale][Fit More and Train Faster With ZeRO via DeepSpeed and FairScale]] #NLP #Transformers #Efficiency
++ [[https://openreview.net/pdf?id=djwS0m4Ft_A][Evaluating the Disentanglement of Deep Generative Models through Manifold Topology]] #TDA
++ [[https://arxiv.org/pdf/2101.05224v1.pdf][Big Self-Supervised Models Advance Medical Image Classification]] #SelfSupervisedLearning #MedicalImaging
++ [[https://bdtechtalks.com/2021/01/11/concept-whitening-interpretable-neural-networks/][Deep learning doesn’t need to be a black box]] #Interpretability
++ [[https://analyticsindiamag.com/microsoft-research-unadversarial/][Microsoft Releases Unadversarial Examples: Designing Objects for Robust Vision – A Complete Hands-On Guide ]] #AdversarialExamples
 + [[https://arxiv.org/pdf/2011.08036.pdf][Scaled-YOLOv4: Scaling Cross Stage Partial Network]] #YOLO #ObjectDetection
 + [[https://keras.io/examples/][Keras Code examples]] #Keras #Samples
 + [[https://raevskymichail.medium.com/cowmask-data-augmentation-for-self-supervised-models-9623f99ef4bb][CowMask — Data Augmentation for Self-Supervised Models]] #SemiSupervisedLearning
