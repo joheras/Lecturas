@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
++ [[https://arxiv.org/pdf/2010.04819v1.pdf][How Does Mixup Help With Robustness and Generalization?]] #MixUp #DataAugmentation
 + [[https://arxiv.org/abs/2101.06871][CheXtransfer: Performance and Parameter Efficiency of ImageNet Models for Chest X-Ray Interpretation]] #MedicalImaging #TransferLearning
 + [[https://huggingface.co/blog/zero-deepspeed-fairscale][Fit More and Train Faster With ZeRO via DeepSpeed and FairScale]] #NLP #Transformers #Efficiency
 + [[https://openreview.net/pdf?id=djwS0m4Ft_A][Evaluating the Disentanglement of Deep Generative Models through Manifold Topology]] #TDA
