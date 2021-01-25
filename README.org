@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
++ [[https://stanford-cs329s.github.io/syllabus.html][CS 329S: Machine Learning Systems Design]] #MLOps
 + [[https://theaisummer.com/cnn-architectures/][Best deep CNN architectures and their principles: from AlexNet to EfficientNet]] #CNNs
 + [[https://github.com/daviddao/awful-ai][Awful AI]] #IA #Ethics #Misuses
 + [[https://arxiv.org/pdf/2010.04819v1.pdf][How Does Mixup Help With Robustness and Generalization?]] #MixUp #DataAugmentation
