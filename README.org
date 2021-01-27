@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
++ [[https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/][VinVL: Advancing the state of the art for vision-language models]] #VisualLanguageModels
 + [[https://www.mdpi.com/2079-9292/10/3/279/htm][A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit]] #ObjectDetection #Metrics #Evaluation
 + [[https://arxiv.org/abs/2101.07571v1][An Improvement of Object Detection Performance using Multi-step Machine Learnings]] #ObjectDetection
 + [[https://stanford-cs329s.github.io/syllabus.html][CS 329S: Machine Learning Systems Design]] #MLOps
