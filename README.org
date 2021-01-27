@@ -30,6 +30,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
++ [[https://www.mdpi.com/2079-9292/10/3/279/htm][A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit]] #ObjectDetection #Metrics #Evaluation
++ [[https://arxiv.org/abs/2101.07571v1][An Improvement of Object Detection Performance using Multi-step Machine Learnings]] #ObjectDetection
 + [[https://stanford-cs329s.github.io/syllabus.html][CS 329S: Machine Learning Systems Design]] #MLOps
 + [[https://theaisummer.com/cnn-architectures/][Best deep CNN architectures and their principles: from AlexNet to EfficientNet]] #CNNs
 + [[https://github.com/daviddao/awful-ai][Awful AI]] #IA #Ethics #Misuses
