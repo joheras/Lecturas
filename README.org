@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#diciembre-2020][Diciembre 2020]]
@@ -28,9 +29,17 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+** Febrero 2021
+
++ [[https://www.paperswithcode.com/datasets][Datasets papers with code]] #Datasets
++ [[https://towardsdatascience.com/logicgamessolver-how-to-solve-logic-games-using-computer-vision-and-artificial-intelligence-1a4972e7e0be][LogicGamesSolver— How to solve logic games using Computer Vision and Artificial Intelligence]] #ComputerVision #Sudoku #IA
++ [[https://arxiv.org/pdf/2101.11605.pdf][Bottleneck Transformers for Visual Recognition]] #Transformers #CNN
++ [[https://missing.csail.mit.edu/][The Missing Semester of Your CS Education]] #ComputerScience #Lectures
++ [[https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/][How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras]] #SemiSupervisedLearning #GANs
+
+
 ** Enero 2021
  
-+ [[https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/][How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras]] #SemiSupervisedLearning #GANs
 + [[https://arxiv.org/pdf/1511.06233.pdf][Towards Open Set Deep Networks]] #OpenSetRecognition
 + [[https://arxiv.org/pdf/1602.08465.pdf][Seq-NMS for Video Object Detection]] #VideoObjectDetection
 + [[https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/][VinVL: Advancing the state of the art for vision-language models]] #VisualLanguageModels
