@@ -31,6 +31,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
++ [[https://arxiv.org/abs/1809.04430][Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy]] #Segmenation #MedicalImaging
++ [[https://www.climatechange.ai/papers/neurips2020/74][Long-Range Seasonal Forecasting of 2m-Temperature with Machine Learning (Papers Track) ]] #ClimateChante #ML
 + [[https://www.paperswithcode.com/datasets][Datasets papers with code]] #Datasets
 + [[https://towardsdatascience.com/logicgamessolver-how-to-solve-logic-games-using-computer-vision-and-artificial-intelligence-1a4972e7e0be][LogicGamesSolver— How to solve logic games using Computer Vision and Artificial Intelligence]] #ComputerVision #Sudoku #IA
 + [[https://arxiv.org/pdf/2101.11605.pdf][Bottleneck Transformers for Visual Recognition]] #Transformers #CNN
