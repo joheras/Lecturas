@@ -31,7 +31,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
-+ [[https://sci-hub.se/10.1038/s41592-020-01008-z][nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation]] #Felix #Segmentation
++ [[https://sci-hub.se/10.1038/s41592-020-01008-z][nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation]] #Felix #Segmentation [[https://github.com/MIC-DKFZ/nnUNet][repository]]
 + [[https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128][Robust artificial intelligence tools to predict future cancer ]] #MedicalImaging #Robustness 
 + [[https://arxiv.org/abs/1809.04430][Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy]] #Segmenation #MedicalImaging
 + [[https://www.climatechange.ai/papers/neurips2020/74][Long-Range Seasonal Forecasting of 2m-Temperature with Machine Learning (Papers Track) ]] #ClimateChante #ML
