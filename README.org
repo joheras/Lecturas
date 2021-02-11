@@ -31,6 +31,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
++ [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and FutureDirections]] #MedicalImaging
 + [[https://www.youtube.com/watch?v=DbQNKdtoqUw&feature=youtu.be][Simple explanation of disentanglement ft. cute doggos & state-of-the-art work]] #Disentanglement
 + [[https://sgfin.github.io/2020/06/22/Induction-Intro/][Induction, Inductive Biases, and Infusing Knowledge into Learned Representations]] #RepresentationLearning
 + [[https://www.nature.com/articles/s41598-019-52737-x][Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks]] #DataAugmentation #Segmentation #CycleGAN
