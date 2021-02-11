@@ -31,6 +31,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
++ [[https://sci-hub.se/10.1038/s41591-019-0508-1][Clinical-grade computational pathology using weakly supervised deep learning on whole  slide images]] #WeaklySupervised #Zaragoza
++ [[https://arxiv.org/abs/1703.10593][Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]] #CycleGAN
 + [[https://arxiv.org/pdf/1902.05655.pdf][Going Deep in Medical Image Analysis:Concepts, Methods, Challenges and FutureDirections]] #MedicalImaging
 + [[https://www.youtube.com/watch?v=DbQNKdtoqUw&feature=youtu.be][Simple explanation of disentanglement ft. cute doggos & state-of-the-art work]] #Disentanglement
 + [[https://sgfin.github.io/2020/06/22/Induction-Intro/][Induction, Inductive Biases, and Infusing Knowledge into Learned Representations]] #RepresentationLearning
