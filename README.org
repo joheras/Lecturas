@@ -31,6 +31,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
++ [[https://airctic.com/getting_started_mmdetection/][MMDetection and IceVision]] #MMDetection #Icevision
 + [[https://arxiv.org/pdf/2102.06171.pdf][High-Performance Large-Scale Image Recognition Without Normalization]] #ImageClassification
 + [[https://arxiv.org/pdf/2102.05644.pdf][Training Vision Transformers for Image Retrieval]] #Transformers #ImageRetrieval
 + [[https://sci-hub.se/10.1038/s41591-019-0508-1][Clinical-grade computational pathology using weakly supervised deep learning on whole  slide images]] #WeaklySupervised #Zaragoza
