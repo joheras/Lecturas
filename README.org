@@ -31,6 +31,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2021
 
++ [[https://arxiv.org/pdf/2102.12627.pdf][How to represent part-whole hierarchies in a neural network]] #RepresentationLearning
 + [[https://www.nature.com/articles/s41467-021-21187-3][AI-based mobile application tofight antibiotic resistance]] #Antibiotics #AntimicrobialResistance
 + [[https://arxiv.org/abs/2102.08602][LambdaNetworks: Modeling Long-Range Interactions Without Attention]] #ImageClassification
 + [[https://arxiv.org/abs/2102.09480][Unbiased Teacher for Semi-Supervised Object Detection]] #ObjectDetection #SemiSupervisedLearning
