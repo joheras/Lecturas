@@ -29,6 +29,12 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+
+** Marzo 2021
+
++ [[https://www.quantitative-plant.org/][Quantitative Plant]] #Plants #Software #Repository
+
+
 ** Febrero 2021
 
 + [[https://arxiv.org/pdf/2102.12627.pdf][How to represent part-whole hierarchies in a neural network]] #RepresentationLearning
