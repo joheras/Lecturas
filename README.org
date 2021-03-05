@@ -32,6 +32,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence][Self-supervised learning: The dark matter of intelligence]] #SelfSupervisedLearning [[https://vissl.ai/][library]].
 + [[https://ai.facebook.com/blog/d2go-brings-detectron2-to-mobile/][D2Go brings Detectron2 to mobile]] #Detectron #Mobile #ProyectoSepara
 + [[https://www.quantitative-plant.org/][Quantitative Plant]] #Plants #Software #Repository
 + [[https://ruder.io/recent-advances-lm-fine-tuning/][Recent Advances in Language Model Fine-tuning]]
