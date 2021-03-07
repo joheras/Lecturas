@@ -32,6 +32,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://arxiv.org/pdf/2103.01988.pdf][Self-supervised Pretraining of Visual Features in the Wild]] #SelfSupervisedLearning
 + [[https://github.com/visenger/awesome-mlops][Awesome MLOPs]] #MLOPS #Repository
 + [[https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence][Self-supervised learning: The dark matter of intelligence]] #SelfSupervisedLearning [[https://vissl.ai/][library]].
 + [[https://ai.facebook.com/blog/d2go-brings-detectron2-to-mobile/][D2Go brings Detectron2 to mobile]] #Detectron #Mobile #ProyectoSepara
@@ -236,7 +237,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740][Color-to-Grayscale: Does the Method Matter in Image Recognition?]] ~ C. Kanan #ImageUnderstanding
 + [[https://arxiv.org/pdf/2001.06001.pdf][Curriculum Labeling: Self-paced Pseudo-Labeling forSemi-Supervised Learning]] ~ P. Cascante-Bonilla #CurriculumLearning #SemiSupervisedLearning
 + [[https://sites.google.com/view/di2019/home][https://sites.google.com/view/di2019/home]] #Athento #DocumentAnalysis #Workshop
-+ [[https://arxiv.org/pdf/1912.13318.pdf][LayoutLM: Pre-training of Text and Layout for Document Image Understanding]] ~ Y. Xu #Transformers #DocumentAnalysis #FormUnderstanding [[https://github.com/microsoft/unilm/tree/master/layoutlm][Repository]]
++ [[https://arxiv.org/pdf/1912.13318.pdf][LayoutLM: Pre-training of Text and Layout for Document Image Understanding]] ~ Y. Xu #Transformers #DocumentAnalysis #FormUnderstanding #FUNSD [[https://github.com/microsoft/unilm/tree/master/layoutlm][Repository]]
 + [[https://icdar2021.org/competitions/][COMPETITION ON SCIENTIFIC LITERATURE PARSING]] ~ ICDAR #Athento #Competitions
 + [[https://arxiv.org/abs/2006.01038][DocBank: A Benchmark Dataset for Document Layout Analysis]] ~ M. Li #DocumentAnalysis #Dataset
 + [[https://arxiv.org/pdf/2009.00104.pdf][A Framework For Contrastive Self-SupervisedLearning And Designing A New Approach]] ~ W. Falcon #SelfSupervisedLearning #ContrastiveLearning
