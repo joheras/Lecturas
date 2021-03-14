@@ -33,6 +33,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/][Why you need to improve your training data, and how to do it]] #ProyectoSEPARA #Data
++ [[https://docs.google.com/presentation/d/1SSQE6sxMmiKx7KpK1bAQiSEAUvk0iMUHYzybrAgScJM/edit#slide=id.gc6f73a04f_0_0][ML in industry]] #ProyectoSEPARA
 + [[https://jax.readthedocs.io/en/latest/jax-101/index.html][Tutorial: JAX 101 ]] #JAX
 + [[https://fastai.github.io/timmdocs/models#My-dataset-doesn][My dataset doesn't consist of 3-channel images - what now? ]] #MultiSpectralImages #ProyectoSEPARA
 + [[https://arxiv.org/pdf/2103.01988.pdf][Self-supervised Pretraining of Visual Features in the Wild]] #SelfSupervisedLearning
