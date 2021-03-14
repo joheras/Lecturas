@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://jax.readthedocs.io/en/latest/jax-101/index.html][Tutorial: JAX 101 ]] #JAX
 + [[https://fastai.github.io/timmdocs/models#My-dataset-doesn][My dataset doesn't consist of 3-channel images - what now? ]] #MultiSpectralImages #ProyectoSEPARA
 + [[https://arxiv.org/pdf/2103.01988.pdf][Self-supervised Pretraining of Visual Features in the Wild]] #SelfSupervisedLearning
 + [[https://github.com/visenger/awesome-mlops][Awesome MLOPs]] #MLOPS #Repository
