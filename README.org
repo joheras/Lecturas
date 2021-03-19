@@ -33,6 +33,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
+
++ [[https://neuraspike.com/blog/matplotlib-tutorial/][A Simple Walk-through with Matplotlib for Data Science]] #DataVisualization
++ [[http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf][Computational Algebraic Topology Lecture Notes]] #AlgebraicTopology
++ [[https://modelcards.withgoogle.com/about][The value of a shared understanding of AI models]] #ModelCards #Datasets
 + [[https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/][Why you need to improve your training data, and how to do it]] #ProyectoSEPARA #Data
 + [[https://docs.google.com/presentation/d/1SSQE6sxMmiKx7KpK1bAQiSEAUvk0iMUHYzybrAgScJM/edit#slide=id.gc6f73a04f_0_0][ML in industry]] #ProyectoSEPARA
 + [[https://jax.readthedocs.io/en/latest/jax-101/index.html][Tutorial: JAX 101 ]] #JAX
