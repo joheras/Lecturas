@@ -33,7 +33,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
-
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9361692][Hybrid Graph Convolutional Network forSemi-Supervised Retinal Image Classification]] #Retina #SemiSupervisedLearning
++ [[https://arxiv.org/pdf/2103.09108.pdf][Is it Enough to Optimize CNN Architectures on ImageNet?]] #ImageClassification 
 + [[https://neuraspike.com/blog/matplotlib-tutorial/][A Simple Walk-through with Matplotlib for Data Science]] #DataVisualization
 + [[http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf][Computational Algebraic Topology Lecture Notes]] #AlgebraicTopology
 + [[https://modelcards.withgoogle.com/about][The value of a shared understanding of AI models]] #ModelCards #Datasets
