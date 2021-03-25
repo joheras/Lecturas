@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://stanford-cs329s.github.io/syllabus.html][CS 329S: Machine Learning Systems Design]] #MLOPS #Course
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9361692][Hybrid Graph Convolutional Network forSemi-Supervised Retinal Image Classification]] #Retina #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/2103.09108.pdf][Is it Enough to Optimize CNN Architectures on ImageNet?]] #ImageClassification 
 + [[https://neuraspike.com/blog/matplotlib-tutorial/][A Simple Walk-through with Matplotlib for Data Science]] #DataVisualization
