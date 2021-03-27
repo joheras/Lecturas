@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2021
 
++ [[https://avalanche.continualai.org/][Avalanche: an End-to-End Library for Continual Learning]] #ContinualLearning #Library #SEPARA
++ [[https://github.com/google/mediapy][Read/write/show images and videos in an IPython/Jupyter notebook]] #Visualization #Jupyter #Library
++ [[https://arxiv.org/pdf/2103.13318.pdf][Factors of Influence for Transfer Learning acrossDiverse Appearance Domains and Task Type]] #TransferLearning
 + [[https://stanford-cs329s.github.io/syllabus.html][CS 329S: Machine Learning Systems Design]] #MLOPS #Course
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9361692][Hybrid Graph Convolutional Network forSemi-Supervised Retinal Image Classification]] #Retina #SemiSupervisedLearning
 + [[https://arxiv.org/pdf/2103.09108.pdf][Is it Enough to Optimize CNN Architectures on ImageNet?]] #ImageClassification 
