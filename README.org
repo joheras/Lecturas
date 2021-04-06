@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#abril-2021][Abril 2021]]
   - [[#marzo-2021][Marzo 2021]]
   - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
@@ -30,6 +31,9 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+** Abril 2021
+
++ [[https://fullstackdeeplearning.com/spring2021/lecture-10/][Testing & Explainability]] #Testing #MLOPs
 
 ** Marzo 2021
 
