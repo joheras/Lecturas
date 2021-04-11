@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2021
 
++ [[https://www.youtube.com/watch?v=eS-OHAHOqU0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11][MIT 6.S191: Taming Dataset Bias via Domain Adaptation]] #DomainAdaption #DomainShift
 + [[https://fullstackdeeplearning.com/spring2021/lecture-10/][Testing & Explainability]] #Testing #MLOPs
 
 ** Marzo 2021
