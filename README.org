@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2021
 
++ [[https://arxiv.org/pdf/2104.03602.pdf][SiT: Self-supervised vIsion Transformer]] #SelfSupervised #Transformers
++ [[https://umap-learn.readthedocs.io/en/latest/how_umap_works.html#adapting-to-real-world-data][How UMAP Works]] #UMAP
++ [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]] #UMAP #DimensionalityReduction
 + [[https://www.youtube.com/watch?v=eS-OHAHOqU0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11][MIT 6.S191: Taming Dataset Bias via Domain Adaptation]] #DomainAdaption #DomainShift
 + [[https://fullstackdeeplearning.com/spring2021/lecture-10/][Testing & Explainability]] #Testing #MLOPs
 
