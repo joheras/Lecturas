@@ -33,6 +33,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2021
 
++ [[https://ex.pegg.io/][Explainable AI Cheat Sheet]] #Interpretability
++ [[https://arxiv.org/pdf/2104.13921.pdf][Zero-Shot Detection via Vision and Language Knowledge Distillation]] #ZeroShot #ObjectDetection
++ [[http://proceedings.mlr.press/v119/liang20a/liang20a.pdf][Do We Really Need to Access the Source Data? Source Hypothesis Transfer forUnsupervised Domain Adaptation]] #DomainShift #DomainTransfer
++ [[https://fullstackdeeplearning.com/spring2021/lecture-10/][Lecture 10: Testing & Explainability]] #Testing #Explainability
 + [[https://arxiv.org/pdf/2104.03602.pdf][SiT: Self-supervised vIsion Transformer]] #SelfSupervised #Transformers
 + [[https://umap-learn.readthedocs.io/en/latest/how_umap_works.html#adapting-to-real-world-data][How UMAP Works]] #UMAP
 + [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]] #UMAP #DimensionalityReduction
