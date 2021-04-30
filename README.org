@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2021
 
++ [[https://www.youtube.com/watch?v=I0yrJz8uc5Q][Please Stop Doing "Explainable" ML - Cynthia Rudin]] #Interpretability
 + [[https://ex.pegg.io/][Explainable AI Cheat Sheet]] #Interpretability
 + [[https://arxiv.org/pdf/2104.13921.pdf][Zero-Shot Detection via Vision and Language Knowledge Distillation]] #ZeroShot #ObjectDetection
 + [[http://proceedings.mlr.press/v119/liang20a/liang20a.pdf][Do We Really Need to Access the Source Data? Source Hypothesis Transfer forUnsupervised Domain Adaptation]] #DomainShift #DomainTransfer
