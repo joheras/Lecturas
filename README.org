@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2021
 
++ [[https://thegradientpub.substack.com/p/machine-learning-ethics-and-open][Machine Learning, Ethics, and Open Source Licensing ]] #Ethics
++ [[https://yuliang.vision/pseudo_seg/][PseudoSeg: Designing Pseudo Labels for Semantic Segmentation]] #SemiSupervisedLearning #Segmentation
++ [[https://arxiv.org/pdf/2104.14294.pdf][Emerging Properties in Self-Supervised Vision Transformers]] #Transformers #SelfSupervisedLearning
 + [[https://www.youtube.com/watch?v=I0yrJz8uc5Q][Please Stop Doing "Explainable" ML - Cynthia Rudin]] #Interpretability
 + [[https://ex.pegg.io/][Explainable AI Cheat Sheet]] #Interpretability
 + [[https://arxiv.org/pdf/2104.13921.pdf][Zero-Shot Detection via Vision and Language Knowledge Distillation]] #ZeroShot #ObjectDetection
