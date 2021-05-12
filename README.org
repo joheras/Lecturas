@@ -31,6 +31,15 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+** Mayo 2021
+
++ [[https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/][Machine Learning, Ethics, and Open Source Licensing (Part II/II)]] #Ethics #Licenses
++ [[https://fastai.github.io/timmdocs/RandAugment][RandAugment - Practical automated data augmentation with a reduced search space]] #DataAugmentation #RandAugment
++ [[https://wandb.ai/wandb_fc/pytorch-image-models/reports/Revisiting-ResNets-Improved-Training-and-Scaling-Strategies--Vmlldzo2NDE3NTM?galleryTag=][Revisiting ResNets: Improved Training and Scaling Strategies]] #Resnet #TrainingStrategies
++ [[https://arxiv.org/abs/2105.01601][MLP-Mixer: An all-MLP Architecture for Vision]] #ComputerVision #NLP
++ [[https://arxiv.org/pdf/2104.13478.pdf][Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges]] #GeometricDeepLearning
++ [[https://www.sciencedirect.com/science/article/pii/S1350946218300119?via%3Dihub][Artificial intelligence in retina]] #Retina #OPTRetina
+
 ** Abril 2021
 
 + [[https://www.sscardapane.it/teaching/reproducibledl/][Reproducible Deep Learning]] #Reproducible #MLOps
