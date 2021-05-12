@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://www.researchgate.net/publication/340438092_Human-centered_Explainable_AI_Towards_a_Reflective_Sociotechnical_Approach][Human-centered Explainable AI: Towards a Reflective Sociotechnical Approach]] #HumanCentered #Explanaible
 + [[https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/][Machine Learning, Ethics, and Open Source Licensing (Part II/II)]] #Ethics #Licenses
 + [[https://fastai.github.io/timmdocs/RandAugment][RandAugment - Practical automated data augmentation with a reduced search space]] #DataAugmentation #RandAugment
 + [[https://wandb.ai/wandb_fc/pytorch-image-models/reports/Revisiting-ResNets-Improved-Training-and-Scaling-Strategies--Vmlldzo2NDE3NTM?galleryTag=][Revisiting ResNets: Improved Training and Scaling Strategies]] #Resnet #TrainingStrategies
