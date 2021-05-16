@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://www.youtube.com/watch?v=5F5LlmO10AM][Challenges of Advanced AutoML - Determined AI]] #AutoML
++ [[https://slideslive.com/38938406/the-infonce-loss-in-selfsupervised-learning][The InfoNCE loss in self-supervised learning ]] #SelfSupervisedLearning
++ [[https://www.biorxiv.org/content/10.1101/2021.03.27.437348v1][Measuring hidden phenotype: Quantifying the shape of barley seeds using the Euler Characteristic Transform]] #PlantPhenotyping #TDA
 + [[https://arxiv.org/pdf/2103.11251.pdf][Interpretable Machine Learning: FundamentalPrinciples and 10 Grand Challenges]] #Interpretability
 + [[https://github.com/craffel/dl3d-seminar][(Deep) Learning with Limited Labeled Data (DL3D)]] #SemiSupervisedLearning
 + [[https://arxiv.org/abs/2103.06326][S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning]] #SelfSupervision #ReinforcementLearning
