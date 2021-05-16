@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://arxiv.org/pdf/2103.11251.pdf][Interpretable Machine Learning: FundamentalPrinciples and 10 Grand Challenges]] #Interpretability
 + [[https://github.com/craffel/dl3d-seminar][(Deep) Learning with Limited Labeled Data (DL3D)]] #SemiSupervisedLearning
 + [[https://arxiv.org/abs/2103.06326][S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning]] #SelfSupervision #ReinforcementLearning
 + [[https://arxiv.org/pdf/2103.10697.pdf][ConViT: Improving Vision Transformerswith Soft Convolutional Inductive Biases]] #Transformers #ImageClassification
