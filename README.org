@@ -33,6 +33,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://colab.research.google.com/github/fepegar/torchio-notebooks/blob/main/notebooks/TorchIO_MONAI_PyTorch_Lightning.ipynb#scrollTo=GMI3YJNgCDjy][Medical image segmentation with TorchIO, MONAI & PyTorch Lightning]] #Segmentation #3D
++ [[https://octo.github.com/projects/flat-data][Flat Data]] #MLOps
 + [[https://www.youtube.com/watch?v=5F5LlmO10AM][Challenges of Advanced AutoML - Determined AI]] #AutoML
 + [[https://slideslive.com/38938406/the-infonce-loss-in-selfsupervised-learning][The InfoNCE loss in self-supervised learning ]] #SelfSupervisedLearning
 + [[https://www.biorxiv.org/content/10.1101/2021.03.27.437348v1][Measuring hidden phenotype: Quantifying the shape of barley seeds using the Euler Characteristic Transform]] #PlantPhenotyping #TDA
