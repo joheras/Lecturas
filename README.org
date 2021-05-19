@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://www.kaggle.com/yassinealouini/all-the-segmentation-metrics][All the segmentation metrics!]] #Segmentation #Metrics
++ [[https://sociam.github.io/saap-workshop/resources/01_Ayling_Zhou_Chapman_final.pdf][Algorithmic Accountability and the Role ofProvenance]] 
++ [[https://www.cognitivefactory.fr/fastaidocs][FastAI concepts]] #FastAI
 + [[https://colab.research.google.com/github/fepegar/torchio-notebooks/blob/main/notebooks/TorchIO_MONAI_PyTorch_Lightning.ipynb#scrollTo=GMI3YJNgCDjy][Medical image segmentation with TorchIO, MONAI & PyTorch Lightning]] #Segmentation #3D
 + [[https://octo.github.com/projects/flat-data][Flat Data]] #MLOps
 + [[https://www.youtube.com/watch?v=5F5LlmO10AM][Challenges of Advanced AutoML - Determined AI]] #AutoML
