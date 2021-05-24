@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2021
 
++ [[https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html][Next-Generation Pose Detection with MoveNet and TensorFlow.js]] #PoseDetection #Skeletons #RobertoMarani
 + [[https://www.youtube.com/watch?v=727WIwTTNn8&t=8s][Taller MLOps: desplegando servicios en producción]] #MLOps
 + [[https://www.kaggle.com/yassinealouini/all-the-segmentation-metrics][All the segmentation metrics!]] #Segmentation #Metrics
 + [[https://sociam.github.io/saap-workshop/resources/01_Ayling_Zhou_Chapman_final.pdf][Algorithmic Accountability and the Role ofProvenance]] 
