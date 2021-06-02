@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#junio-2021][Junio 2021]]
   - [[#mayo-2021][Mayo 2021]]
   - [[#abril-2021][Abril 2021]]
   - [[#marzo-2021][Marzo 2021]]
@@ -31,6 +32,12 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2021
+
+** Junio 2021
+
++ [[https://www.frontiersin.org/articles/10.3389/frai.2021.681108/full][A Survey of Topological Machine Learning Methods]] #TDA
++ [[https://www.nature.com/articles/s41557-021-00716-z][Best practices in machine learning for chemistry]]
++ [[https://nathanhubens.github.io/fasterai/][Fasterai: A library to make smaller and faster neural networks]] #Pruning #FastAI
 
 ** Mayo 2021
 
