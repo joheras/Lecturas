@@ -35,6 +35,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2021
 
++ [[https://arxiv.org/pdf/1710.05381.pdf][A systematic study of the class imbalance problemin convolutional neural networks]] #DataImbalance
++ [[https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5][Survey on deep learning with class imbalance]] #DataImbalance
++ [[https://ohmeow.com/posts/2021/06/03/ajtfb-chapter-5.html][A Journey Through Fastbook (AJTFB) - Chapter 5]] #FastAI
 + [[https://www.frontiersin.org/articles/10.3389/frai.2021.681108/full][A Survey of Topological Machine Learning Methods]] #TDA
 + [[https://www.nature.com/articles/s41557-021-00716-z][Best practices in machine learning for chemistry]]
 + [[https://nathanhubens.github.io/fasterai/][Fasterai: A library to make smaller and faster neural networks]] #Pruning #FastAI
