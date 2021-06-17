@@ -35,6 +35,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2021
 
++ [[https://arxiv.org/pdf/2012.02312.pdf][ReMix Training for Calibrated Imbalanced Deep Learning]] #ImbalanceData
 + [[https://arxiv.org/pdf/2106.04732.pdf][AdaMatch: A Unified Approach to Semi-SupervisedLearning and Domain Adaptation]] #SemiSupervisedLearning #DomainAdaption
 + [[https://arxiv.org/pdf/1710.05381.pdf][A systematic study of the class imbalance problemin convolutional neural networks]] #DataImbalance
 + [[https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5][Survey on deep learning with class imbalance]] #DataImbalance
