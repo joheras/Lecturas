@@ -33,6 +33,9 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+** Julio 2021
++ [[https://youtu.be/iMDawBTYQGU][Computer Vision and the Global Goals]]
+
 ** Junio 2021
 
 + [[https://arxiv.org/pdf/2012.02312.pdf][ReMix Training for Calibrated Imbalanced Deep Learning]] #ImbalanceData
