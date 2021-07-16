@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#julio-2021][Julio 2021]]
   - [[#junio-2021][Junio 2021]]
   - [[#mayo-2021][Mayo 2021]]
   - [[#abril-2021][Abril 2021]]
@@ -34,6 +35,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2021
 
 ** Julio 2021
++ [[https://www.nature.com/articles/s41467-020-17478-w.pdf][Causality matters in medical imaging]]
 + [[https://youtu.be/iMDawBTYQGU][Computer Vision and the Global Goals]]
 
 ** Junio 2021
