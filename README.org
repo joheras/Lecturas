@@ -35,7 +35,9 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2021
 
 ** Julio 2021
-+ [[https://www.nature.com/articles/s41467-020-17478-w.pdf][Causality matters in medical imaging]]
+
++ [[https://papers.nips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf][Realistic Evaluation of Deep Semi-Supervised Learning Algorithms]] #SemiSupervisedLearning
++ [[https://www.nature.com/articles/s41467-020-17478-w.pdf][Causality matters in medical imaging]] #Causality
 + [[https://youtu.be/iMDawBTYQGU][Computer Vision and the Global Goals]]
 
 ** Junio 2021
