@@ -36,6 +36,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2021
 
++ [[https://arxiv.org/pdf/1912.05283.pdf][Identifying Mislabeled Instances in Classification Datasets]] #DataCleaning
++ [[https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/][PyInstaller – How to Turn Your Python Code into an Exe on Windows]] #Pyinstaller
++ [[https://arxiv.org/pdf/1405.4097.pdf][A preliminary study of Croatian Language Syllable Networks]] #NLP #Arista
 + [[https://papers.nips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf][Realistic Evaluation of Deep Semi-Supervised Learning Algorithms]] #SemiSupervisedLearning
 + [[https://www.nature.com/articles/s41467-020-17478-w.pdf][Causality matters in medical imaging]] #Causality
 + [[https://youtu.be/iMDawBTYQGU][Computer Vision and the Global Goals]]
