@@ -36,6 +36,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2021
 
++ [[https://arxiv.org/pdf/2103.10292.pdf][How I failed machine learning in medical imaging - shortcomings and recommendations]] #MedicalImaging
++ [[https://www.frontiersin.org/articles/10.3389/frai.2021.681108/full][A Survey of Topological Machine Learning Methods]] #TDA
++ [[https://github.com/google-research/robustness_metrics][Robustness Metrics]]
++ [[https://arxiv.org/pdf/2107.04902.pdf][Industry and Academic Research in Computer Vision]] #ComputerVision
++ [[https://dl.acm.org/doi/10.1145/3442188.3445922][On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?]] #NLP #Ethics
++ [[https://arxiv.org/abs/2106.10270][How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers]] #Transformers #Tricks
 + [[https://arxiv.org/pdf/1912.05283.pdf][Identifying Mislabeled Instances in Classification Datasets]] #DataCleaning
 + [[https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/][PyInstaller – How to Turn Your Python Code into an Exe on Windows]] #Pyinstaller
 + [[https://arxiv.org/pdf/1405.4097.pdf][A preliminary study of Croatian Language Syllable Networks]] #NLP #Arista
