@@ -36,6 +36,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2021
 
++ [[https://theaisummer.com/self-supervised-representation-learning-computer-vision/][Grokking self-supervised (representation) learning: how it works in computer vision and why]] #SelfSupervisedLearning
++ [[https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/][AugLy: A new data augmentation library to help build more robust AI models]] #DataAugmentation
 + [[https://arxiv.org/pdf/2103.10292.pdf][How I failed machine learning in medical imaging - shortcomings and recommendations]] #MedicalImaging
 + [[https://www.frontiersin.org/articles/10.3389/frai.2021.681108/full][A Survey of Topological Machine Learning Methods]] #TDA
 + [[https://github.com/google-research/robustness_metrics][Robustness Metrics]]
