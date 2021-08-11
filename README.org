@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#agosto-2021][Agosto 2021]]
   - [[#julio-2021][Julio 2021]]
   - [[#junio-2021][Junio 2021]]
   - [[#mayo-2021][Mayo 2021]]
@@ -33,6 +34,14 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2021
+
+** Agosto 2021
+
++ [[https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext][Deep Learning for AI]] #Challenges #GodFathers
++ [[https://docs.manim.community/en/stable/index.html][Manim Community Overview]] #Visualization #Animation
++ [[https://arxiv.org/pdf/2107.10356.pdf][Reading Race: AI Recognizes Patient’s Racial Identity In Medical Images]] #Ethics #MedicalAI
++ [[https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/][AI has the worst superpower… medical racism]] #Ethics #MedicalAI
++ [[https://martinfowler.com/articles/practical-test-pyramid.html][Practical Test Pyramid]] #DDD #TDD #Tests
 
 ** Julio 2021
 
