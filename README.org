@@ -37,6 +37,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2021
 
++ [[https://arxiv.org/pdf/2009.05673.pdf][Applications of Deep Neural Networks with Keras]]
 + [[https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext][Deep Learning for AI]] #Challenges #GodFathers
 + [[https://docs.manim.community/en/stable/index.html][Manim Community Overview]] #Visualization #Animation
 + [[https://arxiv.org/pdf/2107.10356.pdf][Reading Race: AI Recognizes Patient’s Racial Identity In Medical Images]] #Ethics #MedicalAI
