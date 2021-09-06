@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#septiembre-2021][Septiembre 2021]]
   - [[#agosto-2021][Agosto 2021]]
   - [[#julio-2021][Julio 2021]]
   - [[#junio-2021][Junio 2021]]
@@ -34,6 +35,11 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2021
+
+
+** Septiembre 2021
+
++ [[https://distill.pub/2021/gnn-intro/][A Gentle Introduction to Graph Neural Networks]] #GraphNeuralNetworks
 
 ** Agosto 2021
 
