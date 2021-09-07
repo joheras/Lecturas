@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://tezansahu.medium.com/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8][Fundamentals of MLOps | A Gentle Introduction to MLOps]] [[https://tezansahu.medium.com/fundamentals-of-mlops-part-1-a-gentle-introduction-to-mlops-1b184d2c32a8][Parte 1]] [[https://tezansahu.medium.com/fundamentals-of-mlops-part-2-data-model-management-with-dvc-6be2ad284ec4][Parte 2]] [[https://tezansahu.medium.com/fundamentals-of-mlops-part-3-ml-experimentation-using-pycaret-747f14e4c28d][Parte 3]] [[https://tezansahu.medium.com/fundamentals-of-mlops-part-4-tracking-with-mlflow-deployment-with-fastapi-61614115436][Parte 4]]
 + [[https://distill.pub/2021/gnn-intro/][A Gentle Introduction to Graph Neural Networks]] #GraphNeuralNetworks
 
 ** Agosto 2021
