@@ -39,6 +39,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://www.sciencedirect.com/science/article/pii/S0065245816300572][A Systematic Approach to Generation of New Ideas for PhD Research in Computing - ScienceDirect]] #Thesis #Ideas
++ [[https://arxiv.org/pdf/2108.02497.pdf][How to avoid machine learning pitfalls: a guide for academic researchers]] #Recommendations
++ [[https://developer.nvidia.com/blog/deciphering-ancient-texts-with-ai/?mkt_tok=MTU2LU9GTi03NDIAAAF-2uW9LTpK75b2F0K4DF81KwECCnIzCG4fGZLdh0toV48cU9tKeFUjcfUtDpKhL-meRBCI5dAx0cYAKL6t2d6UOmYg-hMzxaNhPVCh-ECtAeFXAo0][Deciphering Ancient Texts with AI]] #IER #AncientDocuments #OCR
++ [[https://arxiv.org/pdf/2007.15745.pdf][On hyperparameter optimization of machine learning algorithms: Theory and practice]] #HyperparameterTuning #Survey
++ [[https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext][Deep Learning for AI]] #DeepLearning #Challenges
++ [[https://arxiv.org/pdf/2009.05673.pdf][Applications of Deep Neural Networks with Keras]] #Book #Keras
 + [[https://arxiv.org/pdf/2107.05407.pdf][PonderNet: Learning to Ponder]] #Pondering
 + [[https://arxiv.org/pdf/2108.06883v2.pdfhttps://arxiv.org/pdf/2108.06883v2.pdf][CarveMix: A Simple Data Augmentation Method for Brain Lesion Segmentation]] #DataAugmentation #SemanticSegmentation
 + [[http://proceedings.mlr.press/v137/biderman20a/biderman20a.pdf][Pitfalls in Machine Learning Research: Reexamining the Development Cycle]] #MachineLearning #Recommendations
