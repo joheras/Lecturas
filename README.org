@@ -39,6 +39,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[http://proceedings.mlr.press/v137/biderman20a/biderman20a.pdf][Pitfalls in Machine Learning Research: Reexamining the Development Cycle]] #MachineLearning #Recommendations
++ [[https://github.com/qanastek/HugsVision][HugsVision]] #ComputerVision #Transformers
 + [[https://l7.curtisnorthcutt.com/confident-learning][An Introduction to Confident Learning: Finding and Learning with Label Errors in Datasets]] #ConfidentLearning
 + [[https://calmcode.io/bad-labels][Bad Labels]] #BadLabels #ActiveAnnotation #OPTRetina [[https://github.com/cgnorthcutt/cleanlab][CleanLAB]]
 + [[https://arxiv.org/pdf/2109.00574.pdf][Active label cleaning: Improving dataset quality under resource constraints]] #Annotation #MedicalImaging #OPTRetina
