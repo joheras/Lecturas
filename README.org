@@ -39,6 +39,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://arxiv.org/pdf/2107.05407.pdf][PonderNet: Learning to Ponder]] #Pondering
++ [[https://arxiv.org/pdf/2108.06883v2.pdfhttps://arxiv.org/pdf/2108.06883v2.pdf][CarveMix: A Simple Data Augmentation Method for Brain Lesion Segmentation]] #DataAugmentation #SemanticSegmentation
 + [[http://proceedings.mlr.press/v137/biderman20a/biderman20a.pdf][Pitfalls in Machine Learning Research: Reexamining the Development Cycle]] #MachineLearning #Recommendations
 + [[https://github.com/qanastek/HugsVision][HugsVision]] #ComputerVision #Transformers
 + [[https://l7.curtisnorthcutt.com/confident-learning][An Introduction to Confident Learning: Finding and Learning with Label Errors in Datasets]] #ConfidentLearning
