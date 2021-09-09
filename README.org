@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://analyticsindiamag.com/all-the-free-ml-ai-courses-launched-at-google-i-o/][All The Free ML/AI Courses Launched At Google I/O]] #Courses #Tensorflow #Edge
 + [[https://www.sciencedirect.com/science/article/pii/S0065245816300572][A Systematic Approach to Generation of New Ideas for PhD Research in Computing - ScienceDirect]] #Thesis #Ideas
 + [[https://arxiv.org/pdf/2108.02497.pdf][How to avoid machine learning pitfalls: a guide for academic researchers]] #Recommendations
 + [[https://developer.nvidia.com/blog/deciphering-ancient-texts-with-ai/?mkt_tok=MTU2LU9GTi03NDIAAAF-2uW9LTpK75b2F0K4DF81KwECCnIzCG4fGZLdh0toV48cU9tKeFUjcfUtDpKhL-meRBCI5dAx0cYAKL6t2d6UOmYg-hMzxaNhPVCh-ECtAeFXAo0][Deciphering Ancient Texts with AI]] #IER #AncientDocuments #OCR
