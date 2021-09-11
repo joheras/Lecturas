@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://youtu.be/w6Pw4MOzMuo][Ver "ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein" en YouTube]] #GeometricDeepLearning #GraphNeuralNetworks
 + [[https://t.co/iZFbEm0F0K?amp=1][The Annotated DETR]] #ObjectDetection #Transformers
 + [[https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/][Self-supervised learning: The dark matter of intelligence]] #
 + [[https://analyticsindiamag.com/all-the-free-ml-ai-courses-launched-at-google-i-o/][All The Free ML/AI Courses Launched At Google I/O]] #Courses #Tensorflow #Edge
