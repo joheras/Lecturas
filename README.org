@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/][Self-supervised learning: The dark matter of intelligence]] #
 + [[https://analyticsindiamag.com/all-the-free-ml-ai-courses-launched-at-google-i-o/][All The Free ML/AI Courses Launched At Google I/O]] #Courses #Tensorflow #Edge
 + [[https://www.sciencedirect.com/science/article/pii/S0065245816300572][A Systematic Approach to Generation of New Ideas for PhD Research in Computing - ScienceDirect]] #Thesis #Ideas
 + [[https://arxiv.org/pdf/2108.02497.pdf][How to avoid machine learning pitfalls: a guide for academic researchers]] #Recommendations
