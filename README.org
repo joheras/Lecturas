@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://arxiv.org/pdf/2103.10292.pdf][How I failed machine learning in medical imaging - shortcomings and recommendations]] #MedicalImaging
 + [[https://arxiv.org/abs/2107.136710][Deeper Learning By Doing: Integrating Hands-On Research Projects Into a Machine Learning Course]] #MachineLearning #Teaching
 + [[https://youtu.be/w6Pw4MOzMuo][Ver "ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein" en YouTube]] #GeometricDeepLearning #GraphNeuralNetworks
 + [[https://t.co/iZFbEm0F0K?amp=1][The Annotated DETR]] #ObjectDetection #Transformers
