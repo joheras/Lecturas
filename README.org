@@ -39,6 +39,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://towardsdatascience.com/why-you-should-not-rely-on-t-sne-umap-or-trimap-f8f5dc333e59][Why you should not rely on t-SNE, UMAP or TriMAP]] #DimensionalityReduction
++ [[https://madewithml.com/courses/mlops/objective/][Made with ML]] #MLOps
++ [[https://pytorch.org/blog/torchvision-mobilenet-v3-implementation/][Everything you need to know about TorchVision’s MobileNetV3 implementation]] #CompactNetworks
 + [[https://arxiv.org/pdf/2103.10292.pdf][How I failed machine learning in medical imaging - shortcomings and recommendations]] #MedicalImaging
 + [[https://arxiv.org/abs/2107.136710][Deeper Learning By Doing: Integrating Hands-On Research Projects Into a Machine Learning Course]] #MachineLearning #Teaching
 + [[https://youtu.be/w6Pw4MOzMuo][Ver "ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein" en YouTube]] #GeometricDeepLearning #GraphNeuralNetworks
