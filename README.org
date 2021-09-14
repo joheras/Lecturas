@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://learnopencv.com/introduction-to-intel-openvino-toolkit/][Introduction to Intel OpenVINO Toolkit]] #Quantization
 + [[https://huggingface.co/datasets][HuggingFace Datasets]] #Datasets #NLP
 + [[https://readthedocs.org/][Read the Docs]] #Documentation #SemTorch
 + [[https://towardsdatascience.com/why-you-should-not-rely-on-t-sne-umap-or-trimap-f8f5dc333e59][Why you should not rely on t-SNE, UMAP or TriMAP]] #DimensionalityReduction #PaCMAP
