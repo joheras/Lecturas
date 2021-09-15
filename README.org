@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://imagingtext.github.io/cibook.pdf][Computational Imaging]] #Imaging
 + [[https://learnopencv.com/introduction-to-intel-openvino-toolkit/][Introduction to Intel OpenVINO Toolkit]] #Quantization
 + [[https://huggingface.co/datasets][HuggingFace Datasets]] #Datasets #NLP
 + [[https://readthedocs.org/][Read the Docs]] #Documentation #SemTorch
