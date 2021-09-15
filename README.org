@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html][Contrastive Representation Learning]] #ContrastiveLearning
 + [[https://www.novetta.com/2021/03/learning-rate/][Methods for Automating Learning Rate Finders]] #LearningRate #FastAI [[https://docs.fast.ai/callback.schedule.html#Suggestion-Methods][Suggestion Methods]]
 + [[https://bowenc0221.github.io/maskformer/][Per-Pixel Classification is NOT All You Need for Semantic Segmentation]] #SemanticSegmentation
 + [[https://imagingtext.github.io/cibook.pdf][Computational Imaging]] #Imaging
