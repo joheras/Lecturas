@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://calmcode.io/altair/introduction.html][Altair]] #DataVisualization
 + [[https://www.youtube.com/watch?v=IC4qZE5Wljs][Training StyleGAN2 ADA PyTorch Images with Low GPU Memory NVIDIA]] #GAN
 + [[https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html][Contrastive Representation Learning]] #ContrastiveLearning
 + [[https://www.novetta.com/2021/03/learning-rate/][Methods for Automating Learning Rate Finders]] #LearningRate #FastAI [[https://docs.fast.ai/callback.schedule.html#Suggestion-Methods][Suggestion Methods]]
