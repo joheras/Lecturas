@@ -39,6 +39,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://arxiv.org/pdf/1910.02551.pdf][Soft-Label Dataset Distillation and Text Dataset Distillation]] #Distillation #Sevilla
++ [[https://arxiv.org/pdf/1811.10959.pdf][Dataset Distillation]] #Distillation #Sevilla
++ [[https://arxiv.org/pdf/2106.09018v2.pdf][End-to-End Semi-Supervised Object Detection with Soft Teacher]] #SemiSupervisedLearning #ObjectDetection
++ [[https://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html][Toward Fast and Accurate Neural Networks for Image Recognition]] #ImageClassification
 + [[https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9][TinyML models — what happens behind the scenes]] #CompactNetworks
 + [[https://calmcode.io/altair/introduction.html][Altair]] #DataVisualization
 + [[https://www.youtube.com/watch?v=IC4qZE5Wljs][Training StyleGAN2 ADA PyTorch Images with Low GPU Memory NVIDIA]] #GAN
