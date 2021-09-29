@@ -39,6 +39,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://ai.googleblog.com/2021/09/revisiting-mask-head-architectures-for.html][Revisiting Mask-Head Architectures for Novel Class Instance Segmentation]] #InstanceSegmentation
++ [[https://github.com/obss/sahi][SAHI: A vision library for large-scale object detection & instance segmentation]] #ObjectDetection
 + [[https://arxiv.org/pdf/2012.05463.pdf][Investigating Bias in Image Classification using Model Explanations]] #Bias #Interpretability
 + [[https://arxiv.org/pdf/1711.11279.pdf][Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)]] #Interpretability
 + [[https://github.com/unica-mlsec/mlsec][Machine Learning Security / Adversarial Machine Learning]] #MachineLearning #Security
