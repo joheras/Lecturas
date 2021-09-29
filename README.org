@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9][TinyML models — what happens behind the scenes]] #CompactNetworks
 + [[https://calmcode.io/altair/introduction.html][Altair]] #DataVisualization
 + [[https://www.youtube.com/watch?v=IC4qZE5Wljs][Training StyleGAN2 ADA PyTorch Images with Low GPU Memory NVIDIA]] #GAN
 + [[https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html][Contrastive Representation Learning]] #ContrastiveLearning
