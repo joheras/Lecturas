@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://github.com/unica-mlsec/mlsec][Machine Learning Security / Adversarial Machine Learning]] #MachineLearning #Security
 + [[https://arxiv.org/abs/2109.10852][Pix2seq: A Language Modeling Framework for Object Detection]] #ObjectDetection
 + [[https://blog.openmined.org/private-ai-machine-learning-on-encrypted-data/][PRIVATE AI: MACHINE LEARNING ON ENCRYPTED DATA]] #Privacy
 + [[https://www.youtube.com/watch?v=jiftCAhOYQA][Hugging Face Infinity]] #HuggingFace #Inference #RealTime
