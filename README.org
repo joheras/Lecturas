@@ -39,6 +39,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2021
 
++ [[https://blog.openmined.org/private-ai-machine-learning-on-encrypted-data/][PRIVATE AI: MACHINE LEARNING ON ENCRYPTED DATA]] #Privacy
++ [[https://www.youtube.com/watch?v=jiftCAhOYQA][Hugging Face Infinity]] #HuggingFace #Inference #RealTime
 + [[https://arxiv.org/pdf/1910.02551.pdf][Soft-Label Dataset Distillation and Text Dataset Distillation]] #Distillation #Sevilla
 + [[https://arxiv.org/pdf/1811.10959.pdf][Dataset Distillation]] #Distillation #Sevilla
 + [[https://arxiv.org/pdf/2106.09018v2.pdf][End-to-End Semi-Supervised Object Detection with Soft Teacher]] #SemiSupervisedLearning #ObjectDetection
