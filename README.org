@@ -38,7 +38,8 @@ Este repositorio es una recopilación de lecturas.
 
 
 ** Septiembre 2021
-
+ 
++ [[https://arxiv.org/pdf/2108.10520.pdf][Improving Object Detection by Label Assignment Distillation]] #ObjectDetection #Distillation
 + [[https://ai.googleblog.com/2021/09/revisiting-mask-head-architectures-for.html][Revisiting Mask-Head Architectures for Novel Class Instance Segmentation]] #InstanceSegmentation
 + [[https://github.com/obss/sahi][SAHI: A vision library for large-scale object detection & instance segmentation]] #ObjectDetection
 + [[https://arxiv.org/pdf/2012.05463.pdf][Investigating Bias in Image Classification using Model Explanations]] #Bias #Interpretability
