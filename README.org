@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#octubre-2021][Octubre 2021]]
   - [[#septiembre-2021][Septiembre 2021]]
   - [[#agosto-2021][Agosto 2021]]
   - [[#julio-2021][Julio 2021]]
