@@ -36,6 +36,9 @@ Este repositorio es una recopilación de lecturas.
   
 * Lecturas del año 2021
 
+** Octubre 2021
+
++ [[https://keras.io/examples/vision/handwriting_recognition/][Handwriting recognition]] #HandwritingRecognition #IER
 
 ** Septiembre 2021
  
