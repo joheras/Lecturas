@@ -39,6 +39,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://uwspace.uwaterloo.ca/handle/10012/17103][Learning From Almost No Data]] #Sevilla #DataDistillation
++ [[https://arxiv.org/abs/2110.00476][ResNet strikes back: An improved training procedure in timm]] #ImageClassification #TrainingTricks
 + [[https://keras.io/examples/vision/handwriting_recognition/][Handwriting recognition]] #HandwritingRecognition #IER
 
 ** Septiembre 2021
