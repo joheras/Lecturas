@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://www.nature.com/articles/s41592-021-01262-9.epdf?sharing_token=gFbjdF-nflWTb11ulG7OwdRgN0jAjWel9jnR3ZoTv0NeCGAajxJJG9eNeKTuUDwD-rhKcp8lM5VPvscQ0aFZy_yWdNcPyVNt0r-ShB4cf_G0kZMRVgOoeQL6iHxScPIXcfKgBxgePB7jIMAk0K2zQk6TrnarJenPJemoyfnA4ts%3D][DeepImageJ: A user-friendly environment to run deep learning models in ImageJ]] #Adrián #ImageJ
 + [[https://uwspace.uwaterloo.ca/handle/10012/17103][Learning From Almost No Data]] #Sevilla #DataDistillation
 + [[https://arxiv.org/abs/2110.00476][ResNet strikes back: An improved training procedure in timm]] #ImageClassification #TrainingTricks
 + [[https://keras.io/examples/vision/handwriting_recognition/][Handwriting recognition]] #HandwritingRecognition #IER
