@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://ai.googleblog.com/2021/10/self-supervised-learning-advances.html][Self-Supervised Learning Advances Medical Image Classification]] #SelfSupervisedLearning #MedicalImaging
 + [[https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Fei_13.pdf][Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection]] #CycleGAN #OutOfDomain
 + [[https://arxiv.org/pdf/2106.05210.pdf][Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation]] #VideoSegmentation
 + [[https://faculty.washington.edu/ebender/2021_575/][ Societal Impacts of NLP]] #NLP #Ethics
