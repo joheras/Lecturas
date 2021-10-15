@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://www.ujaen.es/centros/ceatic/noticias/ya-puedes-ver-el-video-de-la-charla-de-ana-freire-de-ayer][STOP: Estudiando problemas mentales en redes sociales mediante Inteligencia Artificial]]
 + [[https://arxiv.org/pdf/2106.10860.pdf][Multiplying Matrices Without Multiplying]] #MatrixMultiplication #DeepLearning
 + [[https://ai.googleblog.com/2021/10/self-supervised-learning-advances.html][Self-Supervised Learning Advances Medical Image Classification]] #SelfSupervisedLearning #MedicalImaging [[https://arxiv.org/pdf/2101.05224.pdf][Paper]]
 + [[https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Fei_13.pdf][Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection]] #CycleGAN #OutOfDomain
