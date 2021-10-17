@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://www.assemblyai.com/blog/deepspeech-for-dummies-a-tutorial-and-overview-part-1/][DeepSpeech for Dummies - A Tutorial and Overview]] #Audio #Gobierno
 + [[https://arxiv.org/pdf/2110.05025.pdf][Self-supervised Learning is More Robust to Dataset Imbalance]] #SelfSupervisedLearning #DatasetImbalance #OPTRetina
 + [[https://www.ujaen.es/centros/ceatic/noticias/ya-puedes-ver-el-video-de-la-charla-de-ana-freire-de-ayer][STOP: Estudiando problemas mentales en redes sociales mediante Inteligencia Artificial]]
 + [[https://arxiv.org/pdf/2106.10860.pdf][Multiplying Matrices Without Multiplying]] #MatrixMultiplication #DeepLearning
