@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2021
 
++ [[https://thegradient.pub/reflections-on-foundation-models/][Reflections on Foundation Models]]
 + [[https://www.nature.com/articles/s41592-021-01284-3.pdf][Avoiding a replication crisis in deep-learningbased bioimage analysis]] #DeepLearning #Microscope #Metrics
 + [[https://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html][Baselines for Uncertainty and Robustness in Deep Learning]] #Robustness
 + [[https://www.assemblyai.com/blog/deepspeech-for-dummies-a-tutorial-and-overview-part-1/][DeepSpeech for Dummies - A Tutorial and Overview]] #Audio #Gobierno
