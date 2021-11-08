@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#noviembre-2021][Noviembre 2021]]
   - [[#octubre-2021][Octubre 2021]]
   - [[#septiembre-2021][Septiembre 2021]]
   - [[#agosto-2021][Agosto 2021]]
@@ -36,6 +37,11 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2021
+
+** Noviembre 2021
+
++ [[https://link.springer.com/content/pdf/10.1007/s13748-021-00239-1.pdf][Deep limitations? Examining expert disagreement over deep learning]] #DeepLearning #AGI
++ [[https://theaisummer.com/transformers-computer-vision/][Transformers in computer vision: ViT architectures, tips, tricks and improvements]] #Transformers #ComputerVision
 
 ** Octubre 2021
 
