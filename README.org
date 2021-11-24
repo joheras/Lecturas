@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2021
 
++ [[https://ai.googleblog.com/2021/11/model-ensembles-are-faster-than-you.html][Model Ensembles Are Faster Than You Think]] #Ensemble
 + [[https://albumentations.ai/docs/autoalbument/introduction/][AutoAlbument]] #DataAugmentation
 + [[https://arxiv.org/pdf/2111.05464.pdf][Are Transformers More Robust Than CNNs?]] #Transformers #CNNs #Robustness
 + [[https://link.springer.com/content/pdf/10.1007/s13748-021-00239-1.pdf][Deep limitations? Examining expert disagreement over deep learning]] #DeepLearning #AGI
