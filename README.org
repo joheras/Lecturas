@@ -5,6 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#diciembre-2021][Diciembre 2021]]
   - [[#noviembre-2021][Noviembre 2021]]
   - [[#octubre-2021][Octubre 2021]]
   - [[#septiembre-2021][Septiembre 2021]]
@@ -37,6 +38,11 @@ Este repositorio es una recopilación de lecturas.
   
   
 * Lecturas del año 2021
+
+** Diciembre 2021
+
++ [[https://www.sciencedirect.com/science/article/pii/S0895435621003541?dgcid=author][Believing in black boxes: machine learning for healthcare does not need explainability to be evidence-based]] #Explainability #Healthcare
++ [[https://ai.googleblog.com/2021/10/practical-differentially-private.html][Practical Differentially Private Clustering]] #DifferentialPrivacy #Clustering
 
 ** Noviembre 2021
 
