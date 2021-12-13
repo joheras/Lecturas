@@ -41,6 +41,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2021
 
++ [[https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf][Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning]] #MachineLearning #Metrics #Failures
++ [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext][The false hope of current approaches to explainable artificial intelligence in health care]] #Explainability #Healthcare
 + [[https://www.sciencedirect.com/science/article/pii/S0895435621003541?dgcid=author][Believing in black boxes: machine learning for healthcare does not need explainability to be evidence-based]] #Explainability #Healthcare
 + [[https://ai.googleblog.com/2021/10/practical-differentially-private.html][Practical Differentially Private Clustering]] #DifferentialPrivacy #Clustering
 
