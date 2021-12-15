@@ -41,6 +41,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2021
 
++ [[https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html][A Call to Build Models Like We Build Open-Source Software]] #Reproducibility #MLOPs
++ [[https://arxiv.org/pdf/2111.11646.pdf][CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning]] #BioImage #Dataset
++ [[https://hal.inria.fr/hal-03427242/document][Scientific Visualization: Python + Matplotlib]] #Visualization
++ [[https://ai.google.com/research/NaturalQuestions][Open Domain Question Answering]] #NLP #QuestionAnswering
++ [[https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/][Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation]] #Ensemble #Distillation
++ [[https://arxiv.org/abs/2105.06224][LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment]] #CellDetection #Athento
 + [[https://arxiv.org/abs/2112.00725][Extrapolating from a Single Image to a Thousand Classes using Distillation]] #Ðistillation
 + [[https://deepmind.com/blog/article/language-modelling-at-scale][Language modelling at scale: Gopher, ethical considerations, and retrieval]] #LanguageModel #NLP
 + [[https://huggingface.co/blog/data-measurements-tool][Introducing the 🤗 Data Measurements Tool: an Interactive Tool for Looking at Datasets]] #Datasets
