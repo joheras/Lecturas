@@ -41,6 +41,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2021
 
++ [[https://www.youtube.com/playlist?list=PLo2EIpI_JMQvcXKx5RFReyg6Qd2UICAif][Hugging Face Course Event]] #HuggingFace #NLP #Course
++ [[https://arxiv.org/pdf/2111.09453.pdf][RoBERTuito: a pre-trained language model for social media text in Spanish]] #NLP #Spanish
 + [[https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html][A Call to Build Models Like We Build Open-Source Software]] #Reproducibility #MLOPs
 + [[https://arxiv.org/pdf/2111.11646.pdf][CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning]] #BioImage #Dataset
 + [[https://hal.inria.fr/hal-03427242/document][Scientific Visualization: Python + Matplotlib]] #Visualization
