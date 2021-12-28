@@ -41,6 +41,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2021
 
++ [[https://www.youtube.com/watch?v=ihkylUbqFMI&authuser=0][ADL4CV:DV - Semi-Supervised Learning]] #SemiSupervisedLearning
++ [[http://www.r2d3.us/][A VISUAL INTRODUCTION TO MACHINE LEARNING]]
 + [[https://www.bates.edu/mathematics/resources/latex-manual/][The Bates LaTeX Manual]] #Latex
 + [[https://www.youtube.com/playlist?list=PLo2EIpI_JMQvcXKx5RFReyg6Qd2UICAif][Hugging Face Course Event]] #HuggingFace #NLP #Course
 + [[https://arxiv.org/pdf/2111.09453.pdf][RoBERTuito: a pre-trained language model for social media text in Spanish]] #NLP #Spanish
