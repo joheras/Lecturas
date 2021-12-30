@@ -41,6 +41,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2021
 
++ [[https://arthurdouillard.com/deepcourse/][Deep Learning course for Vision]] #ComputerVision #DeepLearning #Course
 + [[https://arxiv.org/pdf/2005.10876.pdf][Unsupervised Domain Adaptation in Semantic Segmentation: a Review]] #DomainShift #SemanticSegmentation
 + [[https://www.youtube.com/watch?v=ihkylUbqFMI&authuser=0][ADL4CV:DV - Semi-Supervised Learning]] #SemiSupervisedLearning
 + [[http://www.r2d3.us/][A VISUAL INTRODUCTION TO MACHINE LEARNING]]
