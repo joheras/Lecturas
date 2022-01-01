@@ -4,6 +4,20 @@
 Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
+
+- [[#lecturas-del-año-2022][Lecturas del año 2022]]
+  - [[#diciembre-2022][Diciembre 2022]]
+  - [[#noviembre-2022][Noviembre 2022]]
+  - [[#octubre-2022][Octubre 2022]]
+  - [[#septiembre-2022][Septiembre 2022]]
+  - [[#agosto-2022][Agosto 2022]]
+  - [[#julio-2022][Julio 2022]]
+  - [[#junio-2022][Junio 2022]]
+  - [[#mayo-2022][Mayo 2022]]
+  - [[#abril-2022][Abril 2022]]
+  - [[#marzo-2022][Marzo 2022]]
+  - [[#febrero-2022][Febrero 2022]]
+  - [[#enero-2022][Enero 2022]]
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#diciembre-2021][Diciembre 2021]]
   - [[#noviembre-2021][Noviembre 2021]]
@@ -35,8 +49,14 @@ Este repositorio es una recopilación de lecturas.
   - [[#noviembre-2019][Noviembre 2019]]
   - [[#octubre-2019][Octubre 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
-  
-  
+
+
+* Lecturas del año 2022
+
+** Enero 2021
+
++ [[https://www.nature.com/articles/nature10836][The case for open code]] #OpenScience
+ 
 * Lecturas del año 2021
 
 ** Diciembre 2021
