@@ -55,7 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2021
 
-
++ [[https://pytorch.org/tutorials/beginner/nn_tutorial.html][WHAT IS TORCH.NN REALLY?]] #Pytorch #Tutorial
++ [[https://iterative-refinement.github.io/palette/][Palette: Image-to-Image Diffusion Models]] #DIffusionModels #ImageTranslation
 + [[https://arxiv.org/abs/2110.14711][A Survey of Self-Supervised and Few-Shot Object Detection]] #ObjectDetection #FewShotLearning #Survey
 + [[http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html][Training Machine Learning Models More Efficiently with Dataset Distillation]] #DatasetDistillation  #Sevilla 
 + [[https://www.nature.com/articles/nature10836][The case for open code]] #OpenScience
