@@ -55,7 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
-
++ [[https://youtu.be/kQ09eg513Nc][AugMax explained]] #DataAugmentation
 + [[http://jalammar.github.io/illustrated-retrieval-transformer/][The Illustrated Retrieval Transformer]] #Transformer #LanguageModel
 + [[https://rockt.github.io/2018/04/30/einsum][EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING]] #MatrixOperations
 + [[https://pytorch.org/tutorials/beginner/nn_tutorial.html][WHAT IS TORCH.NN REALLY?]] #Pytorch #Tutorial
