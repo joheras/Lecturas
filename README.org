@@ -53,8 +53,9 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
-** Enero 2021
+** Enero 2022
 
++ [[https://rockt.github.io/2018/04/30/einsum][EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING]] #MatrixOperations
 + [[https://pytorch.org/tutorials/beginner/nn_tutorial.html][WHAT IS TORCH.NN REALLY?]] #Pytorch #Tutorial
 + [[https://iterative-refinement.github.io/palette/][Palette: Image-to-Image Diffusion Models]] #DIffusionModels #ImageTranslation
 + [[https://arxiv.org/abs/2110.14711][A Survey of Self-Supervised and Few-Shot Object Detection]] #ObjectDetection #FewShotLearning #Survey
