@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://docs.fast.ai/distributed.html][Distributed Learning FastAI]] #DistributedLearning #FastAI
 + [[https://arxiv.org/abs/2106.13112][VOLO: Vision Outlooker for Visual Recognition]] #Transformer #ImageClassification
 + [[https://medmnist.com/][MedMNIST v2: A Large-Scale Lightweight Benchmark for 2D and 3D Biomedical Image Classification]] #Datasets #ImageClassification #Master
 + [[https://arxiv.org/abs/2110.11334][Generalized Out-of-Distribution Detection: A Survey]] #OutOfDistribution #AnomalyDetection #Survey
