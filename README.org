@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/pdf/2106.01834.pdf][Continual Learning in Deep Networks: an Analysis of the Last Layer]] #ContinualLearning
 + [[https://elvissaravia.substack.com/p/my-recommendations-for-getting-started][https://elvissaravia.substack.com/p/my-recommendations-for-getting-started]] #NLP
 + [[https://click.convertkit-mail.com/68uv053r88i8h3gxnxu9/6qhehoupodek47io/aHR0cHM6Ly9sZWFybm9wZW5jdi5jb20vdHJhbnNmZXItbGVhcm5pbmctZm9yLW1lZGljYWwtaW1hZ2VzLw==][transfer learning for medical imaging]] #TransferLearning #MedicalImaging
 + [[https://github.com/heejkoo/Awesome-Diffusion-Models][Diffusion Models and Score-matching Models]] #DiffusionModels
