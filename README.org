@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/abs/2201.03529][Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning]] #TransferLearning
 + [[https://arxiv.org/pdf/2201.03545.pdf][A ConvNet for the 2020s]] #ComputerVision #CNNs
 + [[https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial][Gradio + HuggingFace Spaces: A Tutorial]] #HuggingFace #Gradio
 + [[https://arxiv.org/pdf/2106.01834.pdf][Continual Learning in Deep Networks: an Analysis of the Last Layer]] #ContinualLearning
