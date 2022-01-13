@@ -55,6 +55,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://huggingface.co/blog][Huggingface blog]] #HuggingFace
++ [[https://keras.io/examples/vision/vit_small_ds/][Train a Vision Transformer on small datasets]] #Transformers #SmallDataset
++ [[https://huggingface.co/blog/wav2vec2-with-ngram][Boosting Wav2Vec2 with n-grams in 🤗 Transformers]] #Audio #GobiernoRioja
 + [[https://arxiv.org/abs/2201.04182][HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning]] #FewShotLearning
 + [[https://github.com/gradio-app/awesome-demos][Awesome Gradio Demos]] #Gradio #Demos
 + [[https://arxiv.org/abs/2201.03529][Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning]] #TransferLearning
