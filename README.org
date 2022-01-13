@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/abs/2201.04182][HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning]] #FewShotLearning
 + [[https://github.com/gradio-app/awesome-demos][Awesome Gradio Demos]] #Gradio #Demos
 + [[https://arxiv.org/abs/2201.03529][Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning]] #TransferLearning
 + [[https://arxiv.org/pdf/2201.03545.pdf][A ConvNet for the 2020s]] #ComputerVision #CNNs
