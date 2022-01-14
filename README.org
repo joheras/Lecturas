@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/?utm_source=drip&utm_medium=email&utm_campaign=Python+debugging+tools&utm_content=Python+debugging+tools][Anomaly Detection with Isolation Forest and Kernel Density Estimation]] #AnnomalyDetection
 + [[https://hci.stanford.edu/publications/2021/FnT_AuditingAlgorithms.pdf][Auditing Algorithms Understanding Algorithmic Systems from the Outside In]] #Ethics #Audits #Bikolabs
 + [[https://aditya-sengupta.github.io/coding/2022/01/13/wordle.html][Maximising Differential Entropy to Solve Wordle]] #Algorithms
 + [[https://huggingface.co/blog][Huggingface blog]] #HuggingFace
