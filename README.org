@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://aditya-sengupta.github.io/coding/2022/01/13/wordle.html][Maximising Differential Entropy to Solve Wordle]] #Algorithms
 + [[https://huggingface.co/blog][Huggingface blog]] #HuggingFace
 + [[https://keras.io/examples/vision/vit_small_ds/][Train a Vision Transformer on small datasets]] #Transformers #SmallDataset
 + [[https://huggingface.co/blog/wav2vec2-with-ngram][Boosting Wav2Vec2 with n-grams in 🤗 Transformers]] #Audio #GobiernoRioja
