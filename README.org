@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/abs/1811.12808][Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning]] #ModelEvaluation #DatasetSplit
 + [[https://arxiv.org/abs/2110.06207][Open-Set Recognition: A Good Closed-Set Classifier is All You Need]] #OpenSetRecognition #
 + [[https://arxiv.org/abs/2201.02028][A Light in the Dark: Deep Learning Practices for Industrial Computer Vision]] #ComputerVision #Industry
 + [[https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/?utm_source=drip&utm_medium=email&utm_campaign=Python+debugging+tools&utm_content=Python+debugging+tools][Anomaly Detection with Isolation Forest and Kernel Density Estimation]] #AnnomalyDetection
