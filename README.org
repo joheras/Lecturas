@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://github.com/Vaibhavs10/ml-with-audio][Hugging Face Machine Learning for Audio Study Group]] #Audio
 + [[https://arxiv.org/abs/1811.12808][Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning]] #ModelEvaluation #DatasetSplit
 + [[https://arxiv.org/abs/2110.06207][Open-Set Recognition: A Good Closed-Set Classifier is All You Need]] #OpenSetRecognition #
 + [[https://arxiv.org/abs/2201.02028][A Light in the Dark: Deep Learning Practices for Industrial Computer Vision]] #ComputerVision #Industry
