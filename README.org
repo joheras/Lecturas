@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://huggingface.co/tasks][HuggingFace Tasks]]
 + [[https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3][Transformers Explained Visually — Not Just How, but Why They Work So Well]] #Transformers
 + [[https://arxiv.org/pdf/2201.03898.pdf][An Introduction to AutoEncoders]] #AutoEncoders
 + [[https://github.com/Vaibhavs10/ml-with-audio][Hugging Face Machine Learning for Audio Study Group]] #Audio
