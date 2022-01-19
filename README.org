@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/abs/2201.02177][Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets]] #SmallDatasets #Overfitting
 + [[https://ffcv.io/][FFCV: an Optimized Data Pipeline for Accelerating ML Training]] #Fast #LibraryTraining
 + [[https://huggingface.co/tasks][HuggingFace Tasks]]
 + [[https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3][Transformers Explained Visually — Not Just How, but Why They Work So Well]] #Transformers
