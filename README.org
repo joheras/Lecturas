@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://poatek.com/2021/12/20/mlops-a-complete-and-hands-on-introduction-part-1/][MLOPS: A COMPLETE AND HANDS-ON INTRODUCTION]] [[https://poatek.com/2021/12/29/mlops-a-complete-and-hands-on-introduction-part-2/][Part2]] #MLOPS
++ [[https://queue.acm.org/detail.cfm?id=3511299][Interpretable Machine Learning]] #Interpretability
 + [[https://arxiv.org/pdf/2201.05867.pdf][Transferability in Deep Learning: A Survey]] #TransferLearning 
 + [[https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html][Introducing StylEx: A New Approach for Visual Explanation of Classifiers]] #Explainability
 + [[https://arxiv.org/abs/2201.02177][Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets]] #SmallDatasets #Overfitting
