@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://github.com/huggingface/transformers/tree/master/examples/research_projects/robust-speech-event#important-dates][Robust Speech Challange]] #SpeechRecognition #HuggingFace #Gobierno
 + [[https://ai.googleblog.com/2021/10/self-supervised-learning-advances.html][Self-Supervised Learning Advances Medical Image Classification]] #SelfSupervisedLearning #ImageClassification
 + [[https://ojs.aaai.org/index.php/aimagazine/article/view/18140][Deep Learning for Recommender Systems: A Netflix Case Study]] #RecommendationSystems
 + [[https://www.youtube.com/watch?v=8owQBFAHw7E][Intro to graph neural networks (ML Tech Talks)]] #GNN
