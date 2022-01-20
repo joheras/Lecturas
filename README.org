@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://www.youtube.com/watch?v=8owQBFAHw7E][Intro to graph neural networks (ML Tech Talks)]] #GNN
++ [[https://scikit-learn.org/stable/modules/outlier_detection.html][2.7. Novelty and Outlier Detection]] #AnomalyDetection #Sklearn
 + [[https://poatek.com/2021/12/20/mlops-a-complete-and-hands-on-introduction-part-1/][MLOPS: A COMPLETE AND HANDS-ON INTRODUCTION]] [[https://poatek.com/2021/12/29/mlops-a-complete-and-hands-on-introduction-part-2/][Part2]] #MLOPS
 + [[https://queue.acm.org/detail.cfm?id=3511299][Interpretable Machine Learning]] #Interpretability
 + [[https://arxiv.org/pdf/2201.05867.pdf][Transferability in Deep Learning: A Survey]] #TransferLearning 
