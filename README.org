@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/abs/2104.14294][Emerging Properties in Self-Supervised Vision Transformers]] #Transformers #SelfSupervisedLearning
 + [[https://arxiv.org/pdf/2201.09873v1.pdf#page=33&zoom=100,64,377][Transformers in Medical Imaging: A Survey]] #Transformers #MedicalImaging
 + [[https://github.com/paperswithcode/releasing-research-code][Tips for Publishing Research Code]] #Reproducibility
 + [[https://arxiv.org/abs/2103.13559][Rethinking Self-Supervised Learning: Small is Beautiful]] #SelfSupervisedLearning #SmallData
