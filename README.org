@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://arxiv.org/pdf/2201.09873v1.pdf#page=33&zoom=100,64,377][Transformers in Medical Imaging: A Survey]] #Transformers #MedicalImaging
 + [[https://github.com/paperswithcode/releasing-research-code][Tips for Publishing Research Code]] #Reproducibility
 + [[https://arxiv.org/abs/2103.13559][Rethinking Self-Supervised Learning: Small is Beautiful]] #SelfSupervisedLearning #SmallData
 + [[https://arxiv.org/pdf/2201.10728.pdf][Training Vision Transformers with Only 2040 Images]] #Transformers #SelfSupervisedLearning #SmallData
