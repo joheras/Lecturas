@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2022
 
++ [[https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989][Data Organization in Spreadsheets]] #Spreadsheets #Data
 + [[https://pythonspeed.com/articles/vectorization-python/][How vectorization speeds up your Python code]] #Python #Vectorization
 + [[https://www.nature.com/articles/s41591-021-01614-0][AI in health and medicine]] #AI #Medicine
 + [[https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text][The first high-performance self-supervised algorithm that works for speech, vision, and text]] #SelfSupervisedLearning #MultiModality #Vision #Text #Sound
