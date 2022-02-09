@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2022
 
++ [[https://twitter.com/omarsar0/status/1490276912601653248?s=20&t=-YwF6XNsPySPfoVGbFNR6Q][Graph neural networks resources]] #GNNs
 + [[https://uibakery.io/regex-library][UI Bakery RegEx Library]] #ExpresionesRegulares
  
 ** Enero 2022
