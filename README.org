@@ -53,6 +53,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Febrero 2022
+
++ [[https://uibakery.io/regex-library][UI Bakery RegEx Library]] #ExpresionesRegulares
+ 
 ** Enero 2022
 
 + [[https://keras.io/examples/keras_recipes/sample_size_estimate/?linkId=8029068][Estimating required sample size for model training]] #SampleSize #AP2122
