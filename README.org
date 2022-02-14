@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2022
 
++ [[https://towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055][Getting Started with PyTorch Image Models (timm): A Practitioner’s Guide]] #Timm
 + [[https://nlpoverview.com/#1][Modern Deep Learning Techniques Applied to Natural Language Processing]] #NLP
 + [[https://szeliski.org/Book/][Computer Vision: Algorithms and Applications, 2nd ed.]] #ComputerVision
 + [[https://twitter.com/omarsar0/status/1490276912601653248?s=20&t=-YwF6XNsPySPfoVGbFNR6Q][Graph neural networks resources]] #GNNs
