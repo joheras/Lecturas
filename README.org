@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2022
 
++ [[https://huggingface2.notion.site/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599][🤗 Education Toolkit]] #HuggingFace #Course
 + [[https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9][Building and Hosting Machine Learning Demos with Gradio & Hugging Face]] #Gracdio #HuggingFace
 + [[http://www.bertforhumanists.org/tutorials/][BERT for Humanists]] #NLP #MasterArista
 + [[https://towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055][Getting Started with PyTorch Image Models (timm): A Practitioner’s Guide]] #Timm
