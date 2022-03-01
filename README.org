@@ -53,6 +53,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Marzo 2022
+
++ [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]] #NLP #Course
+
 ** Febrero 2022
 
 + [[https://huggingface2.notion.site/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599][🤗 Education Toolkit]] #HuggingFace #Course
