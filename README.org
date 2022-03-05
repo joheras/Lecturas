@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://arxiv.org/pdf/2101.02118.pdf][Do We Really Need Deep Learning Models for Time Series Forecasting?]] #TimeSeries #Zataca
 + [[https://www.sciencedirect.com/science/article/pii/S1361841519301100][REFUGE Challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs]] #OPTRetina #Glaucoma
 + [[https://arxiv.org/abs/2202.06709v1][How Do Vision Transformers Work?]] #Transformers #Vision
 + [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]] #NLP #Course
