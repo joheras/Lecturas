@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://www.marekrei.com/blog/mphil-project-advice/][Advice for students doing research projects in ML/NLP]] #MLProjects
 + [[https://nlp-ensae.github.io/][NLP Course]] #NLP #MasterArista
 + [[https://snap.stanford.edu/graphlearning-workshop/][Stanford Graph Learning Workshop]] #GraphNeuralNetworks
 + [[https://huggingface.co/blog/bert-101][BERT 101 🤗 State Of The Art NLP Model Explained]] #NLP #MasterArista
