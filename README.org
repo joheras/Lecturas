@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://youtu.be/344w5h24-h8][Diffusion models explained. How does OpenAI's GLIDE work?]] #DifussionModels
 + [[https://www.youtube.com/watch?v=UQwWTykNFW0][MUESTREO DE DATOS: MUESTREO BASADO EN PERPLEJIDAD]] #NLP
 + [[https://www.youtube.com/watch?v=U8fig2fqrl8][Traducción Automática con Eva Martínez Garcia - Hackathon de NLP en Español]] #TraduccionAutomatica #MasterArista #NLP
 + [[https://www.marekrei.com/blog/mphil-project-advice/][Advice for students doing research projects in ML/NLP]] #MLProjects
