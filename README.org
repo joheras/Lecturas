@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://github.com/nathanhubens/fasterai][Fasterai: A library to make smaller and faster neural networks]] #Pruning #FastAI
 + [[https://horace.io/brrr_intro.html][Making Deep Learning Go Brrrr From First Principles]] #GPUs
 + [[https://huggingface.co/blog/decision-transformers][Introducing Decision Transformers on Hugging Face 🤗]] #ReinforcementLearning #HuggingFace
 + [[https://twitter.com/duygu_islakoglu/status/1505588164458692619?s=20&t=KchyJM1nAMvs-NpSXwHFbg][AI ethics collection]] #Ethics
