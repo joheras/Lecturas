@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://horace.io/brrr_intro.html][Making Deep Learning Go Brrrr From First Principles]] #GPUs
++ [[https://huggingface.co/blog/decision-transformers][Introducing Decision Transformers on Hugging Face 🤗]] #ReinforcementLearning #HuggingFace
 + [[https://twitter.com/duygu_islakoglu/status/1505588164458692619?s=20&t=KchyJM1nAMvs-NpSXwHFbg][AI ethics collection]] #Ethics
 + [[https://youtu.be/GX4l3WhOy4o][IA y PLN, una apasionante encrucijada]] #NLP #MasterArista
 + [[https://www.nih.gov/news-events/news-releases/attention-objects-peripheral-vision-not-driven-tiny-eye-movements][Attention to objects in peripheral vision is not driven by tiny eye movements]] #Vision
