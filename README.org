@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://youtu.be/GX4l3WhOy4o][IA y PLN, una apasionante encrucijada]] #NLP #MasterArista
 + [[https://www.nih.gov/news-events/news-releases/attention-objects-peripheral-vision-not-driven-tiny-eye-movements][Attention to objects in peripheral vision is not driven by tiny eye movements]] #Vision
 + [[https://youtu.be/344w5h24-h8][Diffusion models explained. How does OpenAI's GLIDE work?]] #DifussionModels
 + [[https://www.youtube.com/watch?v=UQwWTykNFW0][MUESTREO DE DATOS: MUESTREO BASADO EN PERPLEJIDAD]] #NLP
