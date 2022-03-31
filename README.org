@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2022
 
++ [[https://rish-16.github.io/posts/gnn-math/][Math Behind Graph Neural Networks]] #GraphNeuralNetworks #TFGRaquel
 + [[https://t.co/NGj1UmGFH1][Stanford Graph Learning Workshop]] #GraphNeuralNetworks
 + [[https://karpathy.github.io/2022/03/14/lecun1989/][Deep Neural Nets: 33 years ago and 33 years from now]] #DeepLearning
 + [[https://github.com/nathanhubens/fasterai][Fasterai: A library to make smaller and faster neural networks]] #Pruning #FastAI
