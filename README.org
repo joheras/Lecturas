@@ -53,6 +53,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Abril 2022
+
++ [[https://arxiv.org/abs/2203.02486][The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods]] #AnomalyDetection #OpenSet
+
+
 ** Marzo 2022
 
 + [[https://rish-16.github.io/posts/gnn-math/][Math Behind Graph Neural Networks]] #GraphNeuralNetworks #TFGRaquel
