@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://www.sciencedirect.com/science/article/pii/S2589750022000048][Validation and algorithmic audit of a deep learning system for the detection of proximal femoral fractures in patients in the emergency department: a diagnostic accuracy study]] #Audit #ArtificialIntelligence #Medicine
++ [[https://www.sciencedirect.com/science/article/pii/S2589750022000036][The medical algorithmic audit]] #Audit #ArtificialIntelligence #Medicine
 + [[https://arxiv.org/abs/2203.02486][The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods]] #AnomalyDetection #OpenSet
 
 
