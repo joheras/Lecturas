@@ -55,6 +55,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://arxiv.org/abs/1912.09363][Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] #TimeSeriesForecasting #Zataca
++ [[https://arxiv.org/abs/1703.07015][Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks]] #TimeSeriesForecasting #Zataca
++ [[https://arxiv.org/abs/1905.03806][Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting]] #TimeSeriesForecasting #Zataca
 + [[https://www.sciencedirect.com/science/article/pii/S2589750022000048][Validation and algorithmic audit of a deep learning system for the detection of proximal femoral fractures in patients in the emergency department: a diagnostic accuracy study]] #Audit #ArtificialIntelligence #Medicine
 + [[https://www.sciencedirect.com/science/article/pii/S2589750022000036][The medical algorithmic audit]] #Audit #ArtificialIntelligence #Medicine
 + [[https://arxiv.org/abs/2203.02486][The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods]] #AnomalyDetection #OpenSet
