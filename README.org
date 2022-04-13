@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://amitness.com/2020/05/data-augmentation-for-nlp/][A Visual Survey of Data Augmentation in NLP]] #NLP #DataAugmentation
 + [[https://arxiv.org/abs/1912.09363][Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] #TimeSeriesForecasting #Zataca
 + [[https://arxiv.org/abs/1703.07015][Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks]] #TimeSeriesForecasting #Zataca
 + [[https://arxiv.org/abs/1905.03806][Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting]] #TimeSeriesForecasting #Zataca
