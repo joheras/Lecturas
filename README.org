@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://ieeexplore.ieee.org/document/7966398][Monthly energy consumption forecast: A deep learning approach]] #Zataca 
 + [[https://innovations.bmj.com/content/bmjinnov/6/2/45.full.pdf][Bridging the implementation gap of machine learning in healthcare]] #MedicalAI 
 + [[https://amitness.com/2020/05/data-augmentation-for-nlp/][A Visual Survey of Data Augmentation in NLP]] #NLP #DataAugmentation
 + [[https://arxiv.org/abs/1912.09363][Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] #TimeSeriesForecasting #Zataca
