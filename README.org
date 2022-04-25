@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html][Pix2Seq: A New Language Interface for Object Detection]] #objectdetection  #nlp
 + [[https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/][Artificial intelligence is creating a new colonial world order]] #Ethics
 + [[https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/notebook][Getting started with Kaggle, NLP and HuggingFace for absolute beginners]] #Kaggle #NLP
 + [[https://www.kaggle.com/code/jhoward/iterate-like-a-grandmaster/notebook][Iterate like a grandmaster]] #Kaggle #NLP
