@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model][Tackling multiple tasks with a single visual language model]] #ComputerVision #NLP
 + [[https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394][ Beyond interpretability: developing a language to shape our relationships with AI]] #interpretability 
 + [[https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html][Pix2Seq: A New Language Interface for Object Detection]] #objectdetection  #nlp
 + [[https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/][Artificial intelligence is creating a new colonial world order]] #Ethics
