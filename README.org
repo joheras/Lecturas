@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/][How the AI industry profits from catastrophe]] #Ethics
++ [[https://dicksonneoh.com/portfolio/how_to_deploy_od_models_on_android_with_flutter/][How to Deploy Object Detection Models on Android with Flutter]] #Deployment #HuggingFace #Mobile #Gradio
 + [[https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model][Tackling multiple tasks with a single visual language model]] #ComputerVision #NLP
 + [[https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394][ Beyond interpretability: developing a language to shape our relationships with AI]] #interpretability 
 + [[https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html][Pix2Seq: A New Language Interface for Object Detection]] #objectdetection  #nlp
