@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2022
 
++ [[https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/][Deep Learning in Neuroimaging]] #NeuroImaging
 + [[https://github.com/huggingface/deep-rl-class][Reinforcement Learning course]] #ReinforcementLearning HuggingFace
 + [[https://huggingface.co/blog/fastai][Welcome fastai to the Hugging Face Hub]] #FastAI #HuggingFace
 + [[https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/][How the AI industry profits from catastrophe]] #Ethics
