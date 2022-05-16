@@ -53,6 +53,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Mayo 2022
+
++ [[https://arxiv.org/pdf/2006.06676.pdf][Training Generative Adversarial Networks with Limited Data]] #GANs #Retina [[https://github.com/NVlabs/stylegan2-ada-pytorch][Code]]
++ [[https://twitter.com/SomosNLP_/status/1525165918594158595][Hackaton NLP]] #NLP #Español #MasterArista
+
 ** Abril 2022
 
 + [[https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/][Deep Learning in Neuroimaging]] #NeuroImaging
