@@ -55,6 +55,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2022
 
++ [[https://developers.google.com/machine-learning/guides/text-classification/step-2-5][Text classification]] #NLP #MasterArista
++ [[https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6][Neural Sheaf Diffusion for deep learning on graphs]] #GNNs #Topology
++ [[https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf][A Generalist Agent]] #MultiModal
 + [[https://arxiv.org/pdf/2006.06676.pdf][Training Generative Adversarial Networks with Limited Data]] #GANs #Retina [[https://github.com/NVlabs/stylegan2-ada-pytorch][Code]]
 + [[https://twitter.com/SomosNLP_/status/1525165918594158595][Hackaton NLP]] #NLP #Español #MasterArista
 
