@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2022
 
++ [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][Tutorials for advanced natural language processing methods designed for computational social science research.]] #NLP #MasterArista
++ [[https://arxiv.org/abs/2205.06743][A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities]] #FewShotLearning #Survey
 + [[https://developers.google.com/machine-learning/guides/text-classification/step-2-5][Text classification]] #NLP #MasterArista
 + [[https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6][Neural Sheaf Diffusion for deep learning on graphs]] #GNNs #Topology
 + [[https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf][A Generalist Agent]] #MultiModal
