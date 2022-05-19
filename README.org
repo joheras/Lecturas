@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2022
 
++ [[https://www.fast.ai/2022/05/17/societal-harms/][AI Harms are Societal, Not Just Individual]] #Ethics
 + [[https://github.com/jdb78/pytorch-forecasting][PyTorch Forecasting]] #Zataca #Forecasting 
 + [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][Tutorials for advanced natural language processing methods designed for computational social science research.]] #NLP #MasterArista
 + [[https://arxiv.org/abs/2205.06743][A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities]] #FewShotLearning #Survey
