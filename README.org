@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2022
 
++ [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][NLP+CSS 201 Tutorials]] #MasterArista
++ [[https://sicss.io/curriculum][Open source teaching and learning resources for computational social science]] #MasterArista
 + [[https://sites.google.com/view/esslli2019-nlp/w1?authuser=0][Introduction to NLP with Python]] #NLP #MasterArista
 + [[https://hackingsemantics.xyz/2019/nlp4linguists/][How to teach NLP to non-CS-majors in 2 weeks?]] #NLP #MasterArista
 + [[https://www.fast.ai/2022/05/17/societal-harms/][AI Harms are Societal, Not Just Individual]] #Ethics
