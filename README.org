@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2022
 
++ [https://arxiv.org/abs/2112.13492[][Vision Transformer for Small-Size Datasets]] #Transformers #ComputerVision
++ [[https://jarvislabs.ai/blogs/hf-getting-started/][Huggingface 🤗 is all you need for NLP and beyond]] #NLP #MasterArista
 + [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]] #NLP
 + [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][NLP+CSS 201 Tutorials]] #MasterArista
 + [[https://sicss.io/curriculum][Open source teaching and learning resources for computational social science]] #MasterArista
