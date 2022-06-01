@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://dl.acm.org/doi/full/10.1145/3485128][Tackling Climate Change with Machine Learning]]
 + [[https://arxiv.org/pdf/2202.08978.pdf][Cyclical Focal Loss]] #ImbalancedData
 + [[https://arxiv.org/abs/2205.10337][UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes]] #ComputerVision
 + [[https://colab.research.google.com/github/gdsbook/book/blob/master/notebooks/08_point_pattern_analysis.ipynb#scrollTo=coated-terry][Point Pattern Analysis]] #Innozone
