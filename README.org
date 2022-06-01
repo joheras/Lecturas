@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://arxiv.org/abs/2205.10337][UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes]] #ComputerVision
 + [[https://colab.research.google.com/github/gdsbook/book/blob/master/notebooks/08_point_pattern_analysis.ipynb#scrollTo=coated-terry][Point Pattern Analysis]] #Innozone
 + [[https://github.com/allenai/acl2022-zerofewshot-tutorial][ACL 2022 Tutorial: Zero- and Few-Shot NLP with Pretrained Language Models]] #NLP
 
