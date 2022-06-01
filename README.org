@@ -53,6 +53,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Junio 2022
+
++ [[https://colab.research.google.com/github/gdsbook/book/blob/master/notebooks/08_point_pattern_analysis.ipynb#scrollTo=coated-terry][Point Pattern Analysis]] #Innozone
++ [[https://github.com/allenai/acl2022-zerofewshot-tutorial][ACL 2022 Tutorial: Zero- and Few-Shot NLP with Pretrained Language Models]] #NLP
+
 ** Mayo 2022
 
 + [https://arxiv.org/abs/2112.13492[][Vision Transformer for Small-Size Datasets]] #Transformers #ComputerVision
