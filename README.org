@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://github.com/Nixtla/neuralforecast][Deep Learning for time series]] #Zataca #Forecasting [[https://github.com/Nixtla/neuralforecast/blob/main/examples/mqnhits.ipynb][Repository]] [[https://github.com/Nixtla/neuralforecast][Example]]
 + [[https://dl.acm.org/doi/full/10.1145/3485128][Tackling Climate Change with Machine Learning]]
 + [[https://arxiv.org/pdf/2202.08978.pdf][Cyclical Focal Loss]] #ImbalancedData
 + [[https://arxiv.org/abs/2205.10337][UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes]] #ComputerVision
