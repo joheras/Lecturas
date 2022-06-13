@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://sebastianraschka.com/blog/2022/confidence-intervals-for-ml.html][Creating Confidence Intervals for Machine Learning Classifiers]] #ConfidenceIntervals #Statistics
 + [[https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks][Introduction to Deep Learning]] #DeepLearning #Course
 + [[https://arxiv.org/abs/2105.05837][When Does Contrastive Visual Representation Learning Work?]] #SelfSupervisedLearning
 + [[https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/][Multi-Step LSTM Time Series Forecasting Models for Power Usage]] #Zataca #Forecasting 
