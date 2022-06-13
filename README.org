@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/][Multi-Step LSTM Time Series Forecasting Models for Power Usage]] #Zataca #Forecasting 
 + [[http://www.phontron.com/class/multiling2022/schedule.html][CMU Multilingual NLP 2022]] #MasterArista [[https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7][Videos]]
 + [[https://github.com/Nixtla/neuralforecast][Deep Learning for time series]] #Zataca #Forecasting [[https://github.com/Nixtla/neuralforecast/blob/main/examples/mqnhits.ipynb][Repository]] [[https://github.com/Nixtla/neuralforecast][Example]]
 + [[https://dl.acm.org/doi/full/10.1145/3485128][Tackling Climate Change with Machine Learning]]
