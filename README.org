@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://www.kaggle.com/code/anmolgupta11090/jpx-tokyo-stock-prediction-with-nvidia-tspp][JPX Tokyo Stock Prediction with NVIDIA-TSPP]] #Zataca #Forecasting 
 + [[https://hal.archives-ouvertes.fr/hal-03682454v3/document][Evaluating machine learning models and their diagnostic value]] #Evaluation
 + [[https://sebastianraschka.com/blog/2022/confidence-intervals-for-ml.html][Creating Confidence Intervals for Machine Learning Classifiers]] #ConfidenceIntervals #Statistics
 + [[https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks][Introduction to Deep Learning]] #DeepLearning #Course
