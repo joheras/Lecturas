@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://github.com/huggingface/diffusers][Diffusers]] #Diffusion #Huggingface
 + [[https://www.analyticsinsight.net/top-10-python-libraries-for-time-series-analysis-in-2022/][TOP 10 PYTHON LIBRARIES FOR TIME SERIES ANALYSIS IN 2022]] #Zataca #Forecasting 
 + [[https://www.kaggle.com/code/anmolgupta11090/jpx-tokyo-stock-prediction-with-nvidia-tspp][JPX Tokyo Stock Prediction with NVIDIA-TSPP]] #Zataca #Forecasting 
 + [[https://hal.archives-ouvertes.fr/hal-03682454v3/document][Evaluating machine learning models and their diagnostic value]] #Evaluation
