@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://cvpr2022-tutorial-diffusion-models.github.io/][Denoising Diffusion-based Generative Modeling: Foundations and Applications]] #Denoising
++ [[https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning][The best vision models for fine-tuning]] #FastAI #Timm
 + [[https://www.nature.com/articles/s41598-017-17876-z][Leveraging uncertainty information from deep neural networks for disease detection]] #OPTRetina #OutOfDistribution
 + [[https://github.com/huggingface/diffusers][Diffusers]] #Diffusion #Huggingface
 + [[https://www.analyticsinsight.net/top-10-python-libraries-for-time-series-analysis-in-2022/][TOP 10 PYTHON LIBRARIES FOR TIME SERIES ANALYSIS IN 2022]] #Zataca #Forecasting 
