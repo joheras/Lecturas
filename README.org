@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://arxiv.org/pdf/2205.11423.pdf][Decoder Denoising Pretraining for Semantic Segmentation]] #SemanticSegmentation #DifussionModels #Pretraining
 + [[https://cvpr2022-tutorial-diffusion-models.github.io/][Denoising Diffusion-based Generative Modeling: Foundations and Applications]] #Denoising
 + [[https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning][The best vision models for fine-tuning]] #FastAI #Timm
 + [[https://www.nature.com/articles/s41598-017-17876-z][Leveraging uncertainty information from deep neural networks for disease detection]] #OPTRetina #OutOfDistribution
