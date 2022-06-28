@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://huggingface.co/blog/annotated-diffusion][The Annotated Diffusion Model]] #Diffusion
 + [[https://huggingface.co/blog/eval-on-the-hub][Announcing Evaluation on the Hub]] #HuggingFace #Evaluation
 + [[https://www.youtube.com/playlist?list=PLo2EIpI_JMQtyEr-sLJSy5_SnLCb4vtQf][Hugging Face Tasks]] #HuggingFace #MasterArista
 + [[https://keras.io/examples/nlp/active_learning_review_classification/][Review Classification using Active Learning]] #ActiveLearning
