@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2022
 
++ [[https://twitter.com/CamachoCollados/status/1542344272762003456][tweetnlp]] #NLP 
 + [[https://github.com/cbail/comp_soc_grad][computational social science course]] #MasterArista
 + [[https://huggingface.co/blog/annotated-diffusion][The Annotated Diffusion Model]] #Diffusion
 + [[https://huggingface.co/blog/eval-on-the-hub][Announcing Evaluation on the Hub]] #HuggingFace #Evaluation
