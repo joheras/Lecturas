@@ -53,6 +53,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Julio 2022
+
++ [[https://www.nature.com/articles/s41598-020-80839-4][Predicting intraocular pressure using systemic variables or fundus photography with deep learning in a health examination cohort]] #IOP #OPTRetina
+
 ** Junio 2022
 
 + [[https://twitter.com/CamachoCollados/status/1542344272762003456][tweetnlp]] #NLP 
