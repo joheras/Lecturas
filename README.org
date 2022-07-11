@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2022
 
++ [[https://github.com/cmhungsteve/Awesome-Transformer-Attention][Ultimate-Awesome-Transformer-Attention]] #Attention #Vision
 + [[https://laurenoakdenrayner.com/2022/07/04/no-doctor-required-autonomy-anomalies-and-magic-puddings/][No Doctor Required: Autonomy, Anomalies, and Magic Puddings]] #Ethics #AnomalyDetection
 + [[https://twitter.com/espejelomar/status/1544367888357658625?s=20&t=0FWH6Dh9HvHRd40fNNYejQ][Sentence transformers]] #SentenceEmbeddings #SemanticSearch #HuggingFace
 + [[https://www.nature.com/articles/s41598-020-80839-4][Predicting intraocular pressure using systemic variables or fundus photography with deep learning in a health examination cohort]] #IOP #OPTRetina
