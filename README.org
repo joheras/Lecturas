@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2022
 
++ [[https://www.sciencedirect.com/science/article/pii/S1568494621011303][End-to-end multi-task learning for simultaneous optic disc and cup segmentation and glaucoma classification in eye fundus images]] #MultiTaskLearning #Glaucoma
++ [[https://hal.archives-ouvertes.fr/hal-03590892/document][Multi-task deep learning for glaucoma detection from color fundus images]] #MultiTaskLearning #Glaucoma
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8001225/][Explainable Machine Learning Model for Glaucoma Diagnosis and Its Interpretation]] #OPTRetina #Glaucoma
 + [[https://arxiv.org/abs/2207.03620][More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity]] #Vision #CNNs
 + [[https://arxiv.org/abs/2207.02696][YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors]] #ObjectDetection
