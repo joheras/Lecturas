@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2022
 
++ [[https://arxiv.org/abs/2203.03605][DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection]] #ObjectDetection #Transformers
 + [[https://reproducible.cs.princeton.edu/][Leakage and the Reproducibility Crisis in ML-based Science]] #DataLeakage #Reproducibility
 + [[https://knowingmachines.org/reading-list][Critical Dataset Studies Reading List]] #Datasets
 + [[https://huggingface.co/blog/bloom-megatron-deepspeed][The Technology Behind BLOOM Training]] #HuggingFace #LanguageModels #Parallelism
