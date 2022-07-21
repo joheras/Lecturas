@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2022
 
++ [[https://www.nature.com/articles/s41746-022-00613-w][Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials]] #MultiModalLearning
 + [[https://arxiv.org/abs/2203.03605][DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection]] #ObjectDetection #Transformers
 + [[https://reproducible.cs.princeton.edu/][Leakage and the Reproducibility Crisis in ML-based Science]] #DataLeakage #Reproducibility
 + [[https://knowingmachines.org/reading-list][Critical Dataset Studies Reading List]] #Datasets
