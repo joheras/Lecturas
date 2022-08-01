@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2022
 
++ [[https://www.natalieparde.com/files/NLG4Health%20%40%20INLG%202022.pdf][ The AI Doctor is in]] #chatbot #healthcare 
 + [[https://arxiv.org/abs/2207.07048][Leakage and the Reproducibility Crisis in ML-based Science]] #Reproducibility #DataLeakage
 + [[https://arxiv.org/pdf/2207.09238.pdf][Formal Algorithms for Transformers]] #Transformers #Algorithms
 + [[https://www.nature.com/articles/s41746-022-00613-w][Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials]] #MultiModalLearning
