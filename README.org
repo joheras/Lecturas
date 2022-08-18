@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://arxiv.org/abs/2203.05482][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #Ensemble
 + [[https://t.co/SGKpqXAufF][using deep learning when class labels have an order]] #order
 + [[https://joinup.ec.europa.eu/collection/catalogue-services/document/study-natural-language-processing-public-services
 ][Study: Natural Language Processing for Public Services]] #NLP #Comunidad
