@@ -54,6 +54,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2022
 
 ** Agosto 2022
+
++ [[https://t.co/SGKpqXAufF][using deep learning when class labels have an order]] #order
 + [[https://joinup.ec.europa.eu/collection/catalogue-services/document/study-natural-language-processing-public-services
 ][Study: Natural Language Processing for Public Services]] #NLP #Comunidad
 
