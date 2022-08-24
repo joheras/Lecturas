@@ -54,7 +54,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2022
 
 ** Agosto 2022
-
++ [[https://mobile.twitter.com/VisionBernie/status/1562385340819820544][How to do research]] #phd
 + [[https://pyimagesearch.com/2022/08/10/computer-vision-and-deep-learning-for-agriculture/][Computer Vision and Deep Learning for Agriculture]] #agriculture #computervision #applications
 + [[https://arxiv.org/abs/2203.05482][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #Ensemble
 + [[https://t.co/SGKpqXAufF][using deep learning when class labels have an order]] #order
