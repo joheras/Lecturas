@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://pyimagesearch.com/2022/08/10/computer-vision-and-deep-learning-for-agriculture/][Computer Vision and Deep Learning for Agriculture]] #agriculture #computervision #applications
 + [[https://arxiv.org/abs/2203.05482][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #Ensemble
 + [[https://t.co/SGKpqXAufF][using deep learning when class labels have an order]] #order
 + [[https://joinup.ec.europa.eu/collection/catalogue-services/document/study-natural-language-processing-public-services
