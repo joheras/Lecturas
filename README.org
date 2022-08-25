@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://danielvanstrien.xyz/huggingface/huggingface-datasets/transformers/2022/08/16/detr-object-detection.html][Training an object detection model using Hugging Face]] #ObjectDetection #Transformers #HuggingFace
 + [[https://twitter.com/fede_gr/status/1559943993726832645?s=20&t=86pVLAoIIeyXfekf755aJA][StatsForecast Exponential Smoothing (ETS)]] #Forecasting #Zataca
 + [[https://fleuret.org/dlc/][DEEP LEARNING COURSE]] #DeepLearning #Course
 + [[https://sites.temple.edu/borguet/files/2020/09/1-s2.0-S0009912019312019-main.pdf][How to write (and how not to write) a scientific review article]] #Phd
