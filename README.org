@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://twitter.com/fede_gr/status/1559943993726832645?s=20&t=86pVLAoIIeyXfekf755aJA][StatsForecast Exponential Smoothing (ETS)]] #Forecasting #Zataca
++ [[https://fleuret.org/dlc/][DEEP LEARNING COURSE]] #DeepLearning #Course
 + [[https://sites.temple.edu/borguet/files/2020/09/1-s2.0-S0009912019312019-main.pdf][How to write (and how not to write) a scientific review article]] #Phd
 + [[https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1][Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification]] #MasterArista #ComputerVision
 + [[https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf][A course in Time Series Analysis]] #TimeSeries #Zataca
