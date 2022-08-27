@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://mobile.twitter.com/MushtaqBilalPhD/status/1562709453996060673][Zotero]] #phd
 + [[https://thesequence.substack.com/p/-natural-language-understanding-recap][Natural Language Understanding Recap]] #NLP
 + [[https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/][BlenderBot 3: A 175B parameter, publicly available chatbot that improves its skills and safety over time]] #ChatBot #NLP
 + [[https://thegradientpub.substack.com/p/the-future-of-speech-recognition?utm_source=substack&utm_medium=email][The Future of Speech Recognition: Where Will We Be in 2030?]] #SpeechRecognition #Comunidad
