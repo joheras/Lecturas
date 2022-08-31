@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2022
 
++ [[https://cse.msu.edu/~mayao4/dlg_book/][Deep Learning on Graphs]] #GraphNeuralNetworks #Book
 + [[https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM][FastAI live coding]] #tips #tricks #basics
 + [[https://arxiv.org/abs/1409.0473][Neural Machine Translation by Jointly Learning to Align and Translate]] #NLP #Translation
 + [[https://www.inference.vc/the-east-european-guide-to-writing-reference-letters/][Eastern European Guide to Writing Reference Letters]]
