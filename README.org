@@ -53,6 +53,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Septiembre 2022
+
++ [[https://github.com/RasaHQ/rasa][Rasa Open Source]] #Chatbots
+
 ** Agosto 2022
 
 + [[https://youtu.be/xSGX8gBQDO8][large language models for real world applications]] #nlp #LanguageModels 
