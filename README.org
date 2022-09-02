@@ -55,6 +55,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://bastian.rieck.me/blog/posts/2022/open_source/][Open Source and Academia]] #OpenSource
++ [[https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html][Pytorch to fastai, Bridging the Gap]] #Pytorch #FastAI
++ [[https://docs.fast.ai/examples/migrating_pytorch_verbose.html][Pytorch to fastai details]] #Pytorch #FastAI
 + [[https://github.com/RasaHQ/rasa][Rasa Open Source]] #Chatbots
 
 ** Agosto 2022
