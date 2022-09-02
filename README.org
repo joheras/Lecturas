@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://hal.archives-ouvertes.fr/hal-03723551][Why do tree-based models still outperform deep learning on tabular data?]] #TabularData #Trees #NNs
 + [[https://bastian.rieck.me/blog/posts/2022/open_source/][Open Source and Academia]] #OpenSource
 + [[https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html][Pytorch to fastai, Bridging the Gap]] #Pytorch #FastAI
 + [[https://docs.fast.ai/examples/migrating_pytorch_verbose.html][Pytorch to fastai details]] #Pytorch #FastAI
