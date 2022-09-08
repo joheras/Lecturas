@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://e2eml.school/transformers.html][Transformers from Scratch]] #Transformers #NLP
 + [[https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing#scrollTo=yMRl4sMSK0rh][Grokking Stable Diffusion]] #StableDifussion
 + [[https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/][Learn about ghapi, a new third-party Python client for the GitHub API]] #GitHub #Python
 + [[https://hal.archives-ouvertes.fr/hal-03723551][Why do tree-based models still outperform deep learning on tabular data?]] #TabularData #Trees #NNs
