@@ -55,7 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
-+ [[https://www.philschmid.de/fine-tuning-donut][Document AI: Fine-tuning Donut for document-parsing using Hugging Face Transformers]] #HuggingFace #NLP
++ [[https://www.philschmid.de/fine-tuning-donut][Document AI: Fine-tuning Donut for document-parsing using Hugging Face Transformers]] #HuggingFace #NLP #Recibos #Invoices
 + [[https://huggingface.co/blog/train-decision-transformers][Train your first Decision Transformer]] #Transformers #HuggingFace #ReinforcementLearning
 + [[https://dienhoa.github.io/dhblog/SSD_base.html][Object Detection - Single Shot Detector for fastai V2]] #ObjectDetection #FastAI
 + [[https://e2eml.school/transformers.html][Transformers from Scratch]] #Transformers #NLP
