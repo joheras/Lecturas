@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://huggingface.co/blog/train-decision-transformers][Train your first Decision Transformer]] #Transformers #HuggingFace #ReinforcementLearning
++ [[https://dienhoa.github.io/dhblog/SSD_base.html][Object Detection - Single Shot Detector for fastai V2]] #ObjectDetection #FastAI
 + [[https://e2eml.school/transformers.html][Transformers from Scratch]] #Transformers #NLP
 + [[https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing#scrollTo=yMRl4sMSK0rh][Grokking Stable Diffusion]] #StableDifussion
 + [[https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/][Learn about ghapi, a new third-party Python client for the GitHub API]] #GitHub #Python
