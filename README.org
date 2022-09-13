@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://huggingface.co/blog/diffusers-2nd-month][What's new in Diffusers? 🎨]] #DiffusionModels #HuggingFace
 + [[https://github.com/sharonzhou/long_stable_diffusion][Long Stable Diffusion: Long-form text to images]] #Diffusion #ImageGeneration
 + [[https://www.philschmid.de/fine-tuning-donut][Document AI: Fine-tuning Donut for document-parsing using Hugging Face Transformers]] #HuggingFace #NLP #Recibos #Invoices
 + [[https://huggingface.co/blog/train-decision-transformers][Train your first Decision Transformer]] #Transformers #HuggingFace #ReinforcementLearning
