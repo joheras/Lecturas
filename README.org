@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://transformer-circuits.pub/2022/toy_model/index.html][Toy Models of Superposition]] #Interpretability
 + [[https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2][Transformers]] #Transformers #Slides
 + [[https://arxiv.org/abs/2209.04836][Git Re-Basin: Merging Models modulo Permutation Symmetries]] #ModelCombination
 + [[https://huggingface.co/blog/diffusers-2nd-month][What's new in Diffusers? 🎨]] #DiffusionModels #HuggingFace
