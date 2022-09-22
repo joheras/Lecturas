@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://www.trustworthyml.org/resources][Trustworthy ML]] #Resources #Fairness #Interpretability
 + [[https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology][Find anything blazingly fast with Google's vector search technology]] #SemanticSearch
 + [[https://github.com/deepset-ai/haystack][HayStack]] #SemanticSearch #Library
 + [[https://transformer-circuits.pub/2022/toy_model/index.html][Toy Models of Superposition]] #Interpretability
