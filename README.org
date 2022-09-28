@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://huggingface.co/blog/accelerate-large-models][How 🤗 Accelerate runs very large models thanks to PyTorch]] #HuggingFace #Inference
 + [[https://huggingface.co/blog/setfit][SetFit: Efficient Few-Shot Learning Without Prompts]] #FewShotLearning #TextoClaro
 + [[https://cdn.openai.com/papers/whisper.pdf][Robust Speech Recognition via Large-Scale Weak Supervision]] #SpeechRecognition #Gobierno
 + [[https://www.trustworthyml.org/resources][Trustworthy ML]] #Resources #Fairness #Interpretability
