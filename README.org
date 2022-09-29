@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://huggingface.co/sentence-transformers][Sentence Transformers]] #SemanticSearch #Embeddings 
 + [[https://www.youtube.com/watch?v=AwJf8aQfChE][OpenAI Whisper: Robust Speech Recognition via Large-Scale Weak Supervision | Paper and Code]] #SpeechRecognition
 + [[https://arxiv.org/pdf/2209.12356.pdf][News Summarization and Evaluation in the Era of GPT-3]] #Summarization #TextoClaro
 + [[https://huggingface.co/blog/accelerate-large-models][How 🤗 Accelerate runs very large models thanks to PyTorch]] #HuggingFace #Inference
