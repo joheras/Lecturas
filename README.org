@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2022
 
++ [[https://github.com/NielsRogge/Transformers-Tutorials][Transformers Tutorials]] #Transformers #Tutorials
 + [[https://arxiv.org/pdf/1705.07750.pdf][Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]] #ActionRecognition
 + [[https://huggingface.co/inference-endpoints][Transformers in production: solved]] #Inference
 + [[https://huggingface.co/sentence-transformers][Sentence Transformers]] #SemanticSearch #Embeddings 
