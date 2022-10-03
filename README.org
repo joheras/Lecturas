@@ -53,9 +53,13 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Octubre 2022
+
++ [[https://www.wired.co.uk/article/mental-health-chatbots][The Problem With Mental Health Bots]] #Chatbots
++ [[https://cameronrwolfe.substack.com/p/vision-transformers][Vision Transformers ... is using them actually worth it?]] #Transformers
+
 ** Septiembre 2022
 
-+ [[https://cameronrwolfe.substack.com/p/vision-transformers][Vision Transformers ... is using them actually worth it?]] #Transformers
 + [[https://github.com/NielsRogge/Transformers-Tutorials][Transformers Tutorials]] #Transformers #Tutorials
 + [[https://arxiv.org/pdf/1705.07750.pdf][Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]] #ActionRecognition
 + [[https://huggingface.co/inference-endpoints][Transformers in production: solved]] #Inference
