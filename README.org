@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://erictopol.substack.com/p/the-amazing-power-of-machine-eyes][The amazing power of "machine eyes"]] #Retina #OPTRetina
 + [[https://www.youtube.com/watch?v=NcqfHa0_YmU][Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 11 - Question Answering]] #QuestionAnswering #Psicologos
 + [[https://jalammar.github.io/illustrated-stable-diffusion/][The Illustrated Stable Diffusion]] #Diffusion
 + [[https://dl.acm.org/doi/abs/10.1145/3546036][Interpretable machine learning: moving from mythos to diagnostics]] #Interpretability
