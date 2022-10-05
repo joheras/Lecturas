@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://www.youtube.com/watch?v=NcqfHa0_YmU][Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 11 - Question Answering]] #QuestionAnswering #Psicologos
 + [[https://jalammar.github.io/illustrated-stable-diffusion/][The Illustrated Stable Diffusion]] #Diffusion
 + [[https://dl.acm.org/doi/abs/10.1145/3546036][Interpretable machine learning: moving from mythos to diagnostics]] #Interpretability
 + [[https://arxiv.org/abs/2209.14974][Greybox XAI: a Neural-Symbolic learning framework to produce interpretable predictions for image classification]] #Interpretability
