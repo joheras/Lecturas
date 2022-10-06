@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor][Discovering novel algorithms with AlphaTensor]] #MatrixMultiplication #ReinforcementLearning
++ [[https://towardsdatascience.com/quantum-deep-learning-a-quick-guide-to-quantum-convolutional-neural-networks-d65284e21fc4][Quantum Deep Learning: A Quick Guide to Quantum Convolutional Neural Networks]] #QuantumComputing #DeepLearning
 + [[https://erictopol.substack.com/p/the-amazing-power-of-machine-eyes][The amazing power of "machine eyes"]] #Retina #OPTRetina
 + [[https://www.youtube.com/watch?v=NcqfHa0_YmU][Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 11 - Question Answering]] #QuestionAnswering #Psicologos
 + [[https://jalammar.github.io/illustrated-stable-diffusion/][The Illustrated Stable Diffusion]] #Diffusion
