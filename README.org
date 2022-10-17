@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://link.springer.com/chapter/10.1007/978-3-319-54181-5_14][FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-Based CNN Architecture]] #Depth #Segmentation #Roberto
 + [[https://huggingface.co/blog/introducing-doi][Introducing DOI: the Digital Object Identifier to Datasets and Models]] #DOIs
 + [[https://pyimagesearch.com/2022/10/17/thermal-vision-measuring-your-first-temperature-from-an-image-with-python-and-opencv/?utm_Source=Drip&utm_Medium=Email&utm_Campaign=WeeklyUpdate&utm_Content=17Oct2022NonUniv1][Thermal Vision: Measuring Your First Temperature from an Image with Python and OpenCV]] #ImagenesTermicas #Zataca
 + [[https://pyimagesearch.com/2022/10/10/introduction-to-infrared-vision-near-vs-mid-far-infrared-images/][Introduction to Infrared Vision: Near vs. Mid-Far Infrared Images]]  #ImagenesTermicas #Zataca
