@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://www.cs197.seas.harvard.edu/][AI Research Experiences Harvard CS197]] #Phd
++ [[https://docs.google.com/document/u/0/d/15pnUpD47S6mAM-g4fwQvc2klYIb-GKgWex1oOlmNjvg/mobilebasic?urp=gmail_link][CS197 Harvard: AI Research Experiences]] #PhD
 + [[https://users.soe.ucsc.edu/~milanfar/publications/journal/ModernTour.pdf][A tour of Modern Image Filtering]] #Filters #Denoising
 + [[https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor][Discovering novel algorithms with AlphaTensor]] #MatrixMultiplication #ReinforcementLearning
 + [[https://towardsdatascience.com/quantum-deep-learning-a-quick-guide-to-quantum-convolutional-neural-networks-d65284e21fc4][Quantum Deep Learning: A Quick Guide to Quantum Convolutional Neural Networks]] #QuantumComputing #DeepLearning
