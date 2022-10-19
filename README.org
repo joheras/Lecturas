@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://arxiv.org/abs/2202.08341][Anomalib: A Deep Learning Library for Anomaly Detection]] #AnomalyDetection #PabloAscorbe [[https://github.com/openvinotoolkit/anomalib][library]]
 + [[https://www.cognitivefactory.fr/fastaidocs/][FastAI Concepts]] #FastAI
 + [[https://arxiv.org/pdf/2103.10158.pdf][TrivialAugment: Tuning-free Yet State-of-the-Art Data Augmentation]] #DataAugmentation
 + [[https://link.springer.com/chapter/10.1007/978-3-319-54181-5_14][FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-Based CNN Architecture]] #Depth #Segmentation #Roberto
