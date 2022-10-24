@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://arxiv.org/pdf/2210.11416.pdf][Scaling Instruction-Finetuned Language Models]] #ZeroShotLearning
 + [[https://twitter.com/ai__pub/status/1584152707622846466?s=20&t=oA2kHVNl5dYpr-iyeircOw][Neural Radiance Fields (NeRFs), Explained]] #NERFS #Roberto
 + [[https://github.com/HenriquesLab/ZeroCostDL4Mic][ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy]] #Democratization #DeepLearning
 + [[https://arxiv.org/abs/2202.08341][Anomalib: A Deep Learning Library for Anomaly Detection]] #AnomalyDetection #PabloAscorbe [[https://github.com/openvinotoolkit/anomalib][library]]
