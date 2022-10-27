@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2022
 
++ [[https://www.sciencedirect.com/science/article/pii/S0002939420303846#appsec1][Retinal Vasculometry Associations With Glaucoma: Findings From the European Prospective Investigation of Cancer–Norfolk Eye Study]] #OPTRetina
 + [[https://arxiv.org/pdf/2210.11416.pdf][Scaling Instruction-Finetuned Language Models]] #ZeroShotLearning
 + [[https://twitter.com/ai__pub/status/1584152707622846466?s=20&t=oA2kHVNl5dYpr-iyeircOw][Neural Radiance Fields (NeRFs), Explained]] #NERFS #Roberto
 + [[https://github.com/HenriquesLab/ZeroCostDL4Mic][ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy]] #Democratization #DeepLearning
