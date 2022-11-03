@@ -53,6 +53,12 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Noviembre 2022
+
++ [[http://konect.cc/networks/eat/][Edinburgh Associative Thesaurus]]
++ [[https://ai.googleblog.com/2022/03/detecting-signs-of-disease-from.html][Detecting Signs of Disease from External Images of the Eye]] #UPRetina
++ [[https://ibm.github.io/model-recycling/][model-recycling page]] #NLP #TransferLearning
+
 ** Octubre 2022
 
 + [[https://www.sciencedirect.com/science/article/pii/S0002939420303846#appsec1][Retinal Vasculometry Associations With Glaucoma: Findings From the European Prospective Investigation of Cancer–Norfolk Eye Study]] #OPTRetina
