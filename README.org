@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2022
 
++ [[https://github.com/NVIDIA/NeMo][NVIDIA NeMo]] #SpeechRecognition #Mirari
 + [[https://huggingface.co/blog/fine-tune-whisper][Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers]] #SpeechRecognition #Mirari
 + [[https://txt.cohere.ai/introducing-sandbox-coheres-experimental-open-source-initiative/][Introducing Cohere Sandbox: Open-Source Libraries to Help Developers Experiment with Language AI]] #Psicologos #Chatbot [[https://github.com/cohere-ai/sandbox-accelerating-chatbot-training][repositorio1]] [[https://github.com/cohere-ai/sandbox-toy-semantic-search][repositorio2]]
 + [[http://konect.cc/networks/eat/][Edinburgh Associative Thesaurus]]
