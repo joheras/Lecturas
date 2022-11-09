@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2022
 
++ [[https://www.youtube.com/watch?v=Sv7rI-iFvXI][Accelerating ML Inference at Scale with ONNX, Triton and Seldon | PyData Global 2021]] #ONNX #Production #OPTRetina
 + [[https://community.wandb.ai/t/taking-fastai-to-production/1705][Taking FastAI to Production]] #FastAI #Production #OPTRetina
 + [[https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works][Scientists Increasingly Can’t Explain How AI Works]] #Explainability #Mapi
 + [[https://docs.fast.ai/tutorial.image_sequence.html][Image sequences]] #FastAI #Video
