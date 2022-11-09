@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2022
 
++ [[https://dl.acm.org/doi/pdf/10.1145/3374217][Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey]]
 + [[https://arxiv.org/abs/2005.05909][TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP]] #NLP #AdversarialAttacks #Mapi [[https://github.com/QData/TextAttack][libraryhttps://github.com/QData/TextAttack]]
 + [[https://www.youtube.com/watch?v=Sv7rI-iFvXI][Accelerating ML Inference at Scale with ONNX, Triton and Seldon | PyData Global 2021]] #ONNX #Production #OPTRetina
 + [[https://community.wandb.ai/t/taking-fastai-to-production/1705][Taking FastAI to Production]] #FastAI #Production #OPTRetina
