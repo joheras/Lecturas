@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2022
 
++ [[https://arxiv.org/abs/2211.00611][MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model]] #DiffusionModels #SemanticSegmentation
++ [[https://vincentlepetit.github.io/files/paper_writing.pdf][Writing a Good Research Paper]] #PhD
 + [[https://twitter.com/RisingSayak/status/1592389454026506240?s=20&t=PHSfKY-7qxQe2am2ez9Abw][Video Classification]] #VideoClassification
 + [[https://philippschmitt.com/blueprints-for-intelligence/][Blueprints for intelligence]] #History #Diagrams
 + [[https://dl.acm.org/doi/pdf/10.1145/3374217][Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey]]
