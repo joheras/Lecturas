@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2022
 
++ [[https://img.ly/blog/ultimate-guide-to-ffmpeg/][FFmpeg - The Ultimate Guide]] #Video
 + [[https://stability.ai/blog/stable-diffusion-v2-release][Stable Diffusion 2.0 Release]] #Diffusion
 + [[https://e-space.mmu.ac.uk/623484/1/clinicalNTS.pdf][Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table]] #TextSimplification #ClaraMED
 + [[https://developers.google.com/search/docs/appearance/ranking-systems-guide][A guide to Google Search ranking systems]] #SearchSystems
