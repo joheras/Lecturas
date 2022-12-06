@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://repositorio.uam.es/handle/10486/692479][Cómo construir un psicólogo-chatbot]] #PrevenIA
 + [[https://www.youtube.com/attribution_link?a=zuVCqqpo5nImhbLd&u=/watch%3Fv%3DfZMiD8sDzzg%26feature%3Dem-lbrm][Whisper Fine Tuning Event]] #ASR
 
 ** Noviembre 2022
