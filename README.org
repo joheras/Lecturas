@@ -53,6 +53,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2022
 
+** Diciembre 2022
+
++ [[https://www.youtube.com/attribution_link?a=zuVCqqpo5nImhbLd&u=/watch%3Fv%3DfZMiD8sDzzg%26feature%3Dem-lbrm][Whisper Fine Tuning Event]] #ASR
+
 ** Noviembre 2022
 
 + [[https://arxiv.org/pdf/2211.16158.pdf][Out-Of-Distribution Detection Is Not All You Need]] #OutOfDistribution
