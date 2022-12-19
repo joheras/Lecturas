@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://github.com/UKPLab/EasyNMT][EasyNMT - Easy to use, state-of-the-art Neural Machine Translation]] #MachineTranslation #MasterArista
 + [[https://www.nature.com/articles/s41598-021-89743-x][Predicting sex from retinal fundus photographs using automated deep learning]] #UPRetina
 + [[https://simplemlforsheets.com/tutorial.html][Simple ML for Sheets]] #Drive #MachineLearning
 + [[https://colab.research.google.com/drive/17Hu1pxqhfMisjkSgmM2CnZxfqDyn2hSY?usp=sharing][Fine-tuning or using Whisper, wav2vec2, HuBERT and others with SpeechBrain and HuggingFace]] #Whisper #FineTuning
