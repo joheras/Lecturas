@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb][Fine-tuning for Semantic Segmentation with 🤗 Transformers]] #SemanticSegmentation
 + [[https://aclanthology.org/2022.slpat-1.7/][On the Ethical Considerations of Text Simplification]] #TextSimplification #TextoClaro #ClaraMed
 + [[https://github.com/UKPLab/EasyNMT][EasyNMT - Easy to use, state-of-the-art Neural Machine Translation]] #MachineTranslation #MasterArista
 + [[https://www.nature.com/articles/s41598-021-89743-x][Predicting sex from retinal fundus photographs using automated deep learning]] #UPRetina
