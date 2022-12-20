@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://crfm.stanford.edu/2022/12/15/pubmedgpt.html][PubMedGPT 2.7B]] #TextoClaro #BiomedicalTexts 
++ [[https://www.mosaicml.com/blog/introducing-pubmed-gpt][PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text]] #TextoClaro #BiomedicalTexts 
 + [[https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb][Fine-tuning for Semantic Segmentation with 🤗 Transformers]] #SemanticSegmentation
 + [[https://aclanthology.org/2022.slpat-1.7/][On the Ethical Considerations of Text Simplification]] #TextSimplification #TextoClaro #ClaraMed
 + [[https://github.com/UKPLab/EasyNMT][EasyNMT - Easy to use, state-of-the-art Neural Machine Translation]] #MachineTranslation #MasterArista
