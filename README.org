@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://huggingface.co/spaces/society-ethics/disaggregators][Exploring Disaggregated Data with 🤗 Disaggregators]] #Ethics
++ [[https://docs.google.com/presentation/d/1LVnwWShIVNVBxA8eG017zsDioP7BnT7DHc8eU0NGC3E/edit#slide=id.g14ba08db4d3_0_164][Few-Shot Learning In Production]] #SetFit #FewShotLearning #Transformers
 + [[https://crfm.stanford.edu/2022/12/15/pubmedgpt.html][PubMedGPT 2.7B]] #TextoClaro #BiomedicalTexts 
 + [[https://www.mosaicml.com/blog/introducing-pubmed-gpt][PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text]] #TextoClaro #BiomedicalTexts 
 + [[https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb][Fine-tuning for Semantic Segmentation with 🤗 Transformers]] #SemanticSegmentation
