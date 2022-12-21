@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://huggingface.co/blog/clipseg-zero-shot][Zero-shot image segmentation with CLIPSeg]] #ZeroShotLearning #SemanticSegmentation
 + [[https://huggingface.co/blog/time-series-transformers][Probabilistic Time Series Forecasting with 🤗 Transformers]] #TimeSeries
 + [[https://arxiv.org/abs/2209.00626][The alignment problem from a deep learning perspective]] #Alignment #DeepLearning
 + [[https://arxiv.org/abs/2212.06727][What do Vision Transformers Learn? A Visual Exploration]] #VisionTransformers #Interpretation
