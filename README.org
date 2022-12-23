@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://colab.research.google.com/drive/1mnArj9S7cij3Ua-dHXoasKWqyNA-GCrT?usp=sharing][Audio classification with Vision Transformers]] #AudioClassification
 + [[https://arxiv.org/abs/2212.09748][Scalable Diffusion Models with Transformers]] #Transformers #Diffusion
 + [[https://aclanthology.org/2022.acl-long.458/][The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications]] #ChatBot #PrevenIA
 + [[https://huggingface.co/blog/clipseg-zero-shot][Zero-shot image segmentation with CLIPSeg]] #ZeroShotLearning #SemanticSegmentation
