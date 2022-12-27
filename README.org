@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://walkwithfastai.com/revisited/unknown.html][Recognizing Unknown Images, or the Unknown Label Problem]] #FastAI #OutOfDomain
 + [[https://speechbrain.github.io/index.html][SpeechBrain]] #Mirari
 + [[https://www.santiagomartin.dev/blog/resumico-el-bot-que-resume-audios-de-whatsapp-parte-uno][resumico, el bot que resume audios de WhatsApp]] #PrevenIA #Whatsapp
 + [[https://arxiv.org/pdf/1704.00051.pdf][Reading Wikipedia to Answer Open-Domain Questions]] #PrevenIA #QuestionAnswering
