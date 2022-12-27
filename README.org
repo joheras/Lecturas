@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://speechbrain.github.io/index.html][SpeechBrain]] #Mirari
 + [[https://www.santiagomartin.dev/blog/resumico-el-bot-que-resume-audios-de-whatsapp-parte-uno][resumico, el bot que resume audios de WhatsApp]] #PrevenIA #Whatsapp
 + [[https://arxiv.org/pdf/1704.00051.pdf][Reading Wikipedia to Answer Open-Domain Questions]] #PrevenIA #QuestionAnswering
 + [[https://colab.research.google.com/drive/1mnArj9S7cij3Ua-dHXoasKWqyNA-GCrT?usp=sharing][Audio classification with Vision Transformers]] #AudioClassification
