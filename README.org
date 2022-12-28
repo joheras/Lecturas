@@ -55,6 +55,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://colab.research.google.com/drive/1bOIxb8cnpTrpMtTSBArY9FJlL59Ar4K_#scrollTo=tkFEP9jVS9Q4][Prompt node]] #Prompt #SemanticSearch
++ [[https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline][Tutorial: Build Your First QA System]] #PrevenIA
++ [[https://ingenieriadesoftware.es/buscar-respuesta-documentos-qa-haystack/][COMO BUSCAR TU AGUJA EN UN PAJAR DE DATOS]] #PrevenIA
 + [[https://walkwithfastai.com/revisited/unknown.html][Recognizing Unknown Images, or the Unknown Label Problem]] #FastAI #OutOfDomain
 + [[https://speechbrain.github.io/index.html][SpeechBrain]] #Mirari
 + [[https://www.santiagomartin.dev/blog/resumico-el-bot-que-resume-audios-de-whatsapp-parte-uno][resumico, el bot que resume audios de WhatsApp]] #PrevenIA #Whatsapp
