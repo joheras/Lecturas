@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://aws-fortuna.readthedocs.io/en/latest/][A Library for Uncertainty Quantification]] #Uncertainty
 + [[https://colab.research.google.com/drive/1bOIxb8cnpTrpMtTSBArY9FJlL59Ar4K_#scrollTo=tkFEP9jVS9Q4][Prompt node]] #Prompt #SemanticSearch
 + [[https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline][Tutorial: Build Your First QA System]] #PrevenIA
 + [[https://ingenieriadesoftware.es/buscar-respuesta-documentos-qa-haystack/][COMO BUSCAR TU AGUJA EN UN PAJAR DE DATOS]] #PrevenIA
