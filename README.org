@@ -55,6 +55,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp][What Is Text Vectorization? Everything You Need to Know]] #PrevenIA 
++ [[https://twitter.com/lastpositivist/status/1607883482264666112][Ethics in AI Syllabus Liam Kofi Bright]] #Ethics
 + [[https://aws-fortuna.readthedocs.io/en/latest/][A Library for Uncertainty Quantification]] #Uncertainty
 + [[https://colab.research.google.com/drive/1bOIxb8cnpTrpMtTSBArY9FJlL59Ar4K_#scrollTo=tkFEP9jVS9Q4][Prompt node]] #Prompt #SemanticSearch
 + [[https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline][Tutorial: Build Your First QA System]] #PrevenIA
