@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2022
 
++ [[https://e2eml.school/transformers.html][Transformers from Scratch]] #Transformers
 + [[https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp][What Is Text Vectorization? Everything You Need to Know]] #PrevenIA 
 + [[https://twitter.com/lastpositivist/status/1607883482264666112][Ethics in AI Syllabus Liam Kofi Bright]] #Ethics
 + [[https://aws-fortuna.readthedocs.io/en/latest/][A Library for Uncertainty Quantification]] #Uncertainty
