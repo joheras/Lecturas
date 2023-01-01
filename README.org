@@ -51,6 +51,12 @@ Este repositorio es una recopilación de lecturas.
   - [[#septiembre-2019][Septiembre 2019]]
 
 
+* Lecturas del año 2023
+
+** Enero 2023
+
++ [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
+
 * Lecturas del año 2022
 
 ** Diciembre 2022
