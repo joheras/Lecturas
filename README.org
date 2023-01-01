@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://t.co/M5M7E2MPiF][Bonjour. مرحبا. Guten tag. Hola. Cohere's Multilingual Text Understanding Model is Now Available]] #SemanticSearch #prevenia
 + [[https://arxiv.org/abs/2202.00911][Active Multi-Task Representation Learning]] #ActiveLearning #MultiTaskLearning
 + [[https://huggingface.co/tasks/conversational][Conversational]] #chatbots #prevenia
 + [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
