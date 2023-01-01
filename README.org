@@ -5,6 +5,20 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 
+
+- [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#diciembre-2023][Diciembre 2023]]
+  - [[#noviembre-2023][Noviembre 2023]]
+  - [[#octubre-2023][Octubre 2023]]
+  - [[#septiembre-2023][Septiembre 2023]]
+  - [[#agosto-2023][Agosto 2023]]
+  - [[#julio-2023][Julio 2023]]
+  - [[#junio-2023][Junio 2023]]
+  - [[#mayo-2023][Mayo 2023]]
+  - [[#abril-2023][Abril 2023]]
+  - [[#marzo-2023][Marzo 2023]]
+  - [[#febrero-2023][Febrero 2023]]
+  - [[#enero-2023][Enero 2023]]
 - [[#lecturas-del-año-2022][Lecturas del año 2022]]
   - [[#diciembre-2022][Diciembre 2022]]
   - [[#noviembre-2022][Noviembre 2022]]
@@ -55,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://arxiv.org/abs/2202.00911][Active Multi-Task Representation Learning]] #ActiveLearning #MultiTaskLearning
 + [[https://huggingface.co/tasks/conversational][Conversational]] #chatbots #prevenia
 + [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
 
