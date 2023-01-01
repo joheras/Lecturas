@@ -55,6 +55,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://huggingface.co/tasks/conversational][Conversational]] #chatbots #prevenia
 + [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
 
 * Lecturas del año 2022
