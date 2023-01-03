@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://weaviate.io/blog/2023/01/Hybrid-Search-Explained.html][Hybrid Search Explained]] #SemanticSearch
 + [[https://arxiv.org/abs/2301.00808][ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders]] #Classification #CNN
 + [[https://arxiv.org/abs/2212.12189][Stop using the elbow criterion for k-means and how to choose the number of clusters instead]] #Clustering #MachineLearning #IA
 + [[https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9][Some remarks on Large Language Models]] #LanguageModels #ChatGPT
