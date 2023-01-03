@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9][Some remarks on Large Language Models]] #LanguageModels #ChatGPT
 + [[https://twitter.com/harishkgarg/status/1610202362358173696?s=20&t=E7WaIJPpYyiHoUIHU47jtg][Vector databases]] #SemanticSearch #PrevenIA
 + [[https://t.co/FSSpzATotz][Large Language Models Encode Clinical Knowledge]] #languagemodels #questionanswering #medicine
 + [[https://t.co/ASebqI7N4J][An overview of gradient descent optimization algorithms]] #machinelearning
