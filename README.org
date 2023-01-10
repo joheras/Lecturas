@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://developer.nvidia.com/blog/reducing-development-time-for-intelligent-virtual-assistants-in-contact-centers/][Reducing Development Time for Intelligent Virtual Assistants in Contact Centers]] #PrevenIA
 + [[https://huggingface.co/docs/transformers/main/en/tasks/object_detection][Object detection]] #ObjectDetection #Transformers
 + [[https://arxiv.org/pdf/2212.13138.pdf][Large Language Models Encode Clinical Knowledge]] #MedicalQuestionAnswering #InstructionTuned
 + [[https://twitter.com/shl/status/1610359557905346560?s=20&t=ySW40mDN_YudGF1LbnfQkA][Chatbot]] #PrevenIA
