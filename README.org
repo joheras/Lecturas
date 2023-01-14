@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://psynal.eu/mentescopia/][Educar en salud mental mejora la calidad de vida de las personas]] #PrevenIA
++ [[https://simonwillison.net/2023/Jan/13/semantic-search-answers/][How to implement Q&A against your documentation with GPT3, embeddings and Datasette]] #PrevenIA
 + [[https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf][BioMedIA: A Complete Voice-to-Voice Generative Question Answering System for the Biomedical Domain in Spanish]] #QuestionAnswering
 + [[https://learnopencv.com/ultralytics-yolov8/][Ultralytics YOLOv8: State-of-the-Art YOLO Models]] #ObjectDetection
 + [[https://developer.nvidia.com/blog/reducing-development-time-for-intelligent-virtual-assistants-in-contact-centers/][Reducing Development Time for Intelligent Virtual Assistants in Contact Centers]] #PrevenIA
