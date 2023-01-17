@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://blog.langchain.dev/langchain-chat/][LangChain Chat]] #PrevenIA #ChatBot
 + [[https://dsego.github.io/demystifying-fourier/][Demystifying Fourier analysis]] #Fourier
 + [[https://psynal.eu/mentescopia/][Educar en salud mental mejora la calidad de vida de las personas]] #PrevenIA
 + [[https://simonwillison.net/2023/Jan/13/semantic-search-answers/][How to implement Q&A against your documentation with GPT3, embeddings and Datasette]] #PrevenIA
