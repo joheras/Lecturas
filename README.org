@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://txt.cohere.ai/sentence-word-embeddings/][What Are Word and Sentence Embeddings?]] #NLP
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00213-8/fulltext#%20][A non-invasive artificial intelligence approach for the prediction of human blastocyst ploidy: a retrospective model development and validation study]] #TesisMaria
 + [[https://blog.langchain.dev/langchain-chat/][LangChain Chat]] #PrevenIA #ChatBot
 + [[https://dsego.github.io/demystifying-fourier/][Demystifying Fourier analysis]] #Fourier
