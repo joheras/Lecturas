@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext][Computational Social Science ≠ Computer Science + Social Data]] #CIAIS
 + [[https://huggingface.co/blog/mask2former][Universal Image Segmentation with Mask2Former and OneFormer]] #SemanticSegmentation #PanopticSegmentation
 + [[https://github.com/google-research/tuning_playbook][Deep Learning Tuning Playbook]] #HyperparameterTuning
 + [[https://txt.cohere.ai/sentence-word-embeddings/][What Are Word and Sentence Embeddings?]] #NLP
