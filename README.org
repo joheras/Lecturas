@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2023
 
++ [[https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20][Neural Search Frameworks: A Head-to-Head Comparison]] #SemanticSearch
 + [[https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext][Computational Social Science ≠ Computer Science + Social Data]] #CIAIS
 + [[https://huggingface.co/blog/mask2former][Universal Image Segmentation with Mask2Former and OneFormer]] #SemanticSegmentation #PanopticSegmentation
 + [[https://github.com/google-research/tuning_playbook][Deep Learning Tuning Playbook]] #HyperparameterTuning
