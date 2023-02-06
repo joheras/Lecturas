@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Febrero 2023
+
++ [[https://ljvmiranda921.github.io/notebook/2023/02/04/tagalog-pipeline/][Towards a Tagalog NLP pipeline]]
+
 ** Enero 2023
 
 + [[https://huggingface.co/blog/cv_state][The State of Computer Vision at Hugging Face 🤗]] #ComputerVision #HuggingFace
