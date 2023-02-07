@@ -69,6 +69,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2023
 
++ [[https://huggingface.co/blog/vision_language_pretraining][A Dive into Vision-Language Models]] #MultiModalLearning #ComputerVision #NLP
++ [[https://huggingface.co/spaces/kadirnar/BioGpt][M2M100 + BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining]] #HFSpace #BioQuestionAnswering
++ [[https://huggingface.co/spaces/vumichien/lip_movement_reading][Speech Recognition from Visual Lip Movement by Audio-Visual Hidden Unit BERT Model (AV-HuBERT)]] #LipMovementReading #HFSpace
++ [[https://huggingface.co/spaces/laion/CoCa][CoCa: Contrastive Captioners are Image-Text Foundation Models]] #CaptionGeneration #HFSpace
 + [[https://ljvmiranda921.github.io/notebook/2023/02/04/tagalog-pipeline/][Towards a Tagalog NLP pipeline]]
 
 ** Enero 2023
