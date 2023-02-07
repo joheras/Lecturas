@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2023
 
++ [[https://twitter.com/LiJunnan0409/status/1620259379223343107][BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]] #VisualQuestionAnswering
 + [[https://huggingface.co/blog/vision_language_pretraining][A Dive into Vision-Language Models]] #MultiModalLearning #ComputerVision #NLP
 + [[https://huggingface.co/spaces/kadirnar/BioGpt][M2M100 + BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining]] #HFSpace #BioQuestionAnswering
 + [[https://huggingface.co/spaces/vumichien/lip_movement_reading][Speech Recognition from Visual Lip Movement by Audio-Visual Hidden Unit BERT Model (AV-HuBERT)]] #LipMovementReading #HFSpace
