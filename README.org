@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2023
 
++ [[https://huggingface.co/spaces/whitead/paper-qa][Document Question and Answer]] #PrevenIA #HuggingFace
 + [[https://teachablemachine.withgoogle.com/][Teachable Machine]] #AutoML
 + [[https://github.com/m-bain/whisperX][WhisperX]] #SpeechRecognition #Diarization
 + [[https://twitter.com/LiJunnan0409/status/1620259379223343107][BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]] #VisualQuestionAnswering
