@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2023
 
++ [[https://huggingface.co/docs/transformers/main/en/tasks/image_captioning][Image captioning]] #ImageCaptioning
 + [[https://huggingface.co/blog/peft][PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware]] #Training #LanguageMondels
 + [[https://huggingface.co/spaces/whitead/paper-qa][Document Question and Answer]] #PrevenIA #HuggingFace
 + [[https://teachablemachine.withgoogle.com/][Teachable Machine]] #AutoML
