@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Marzo 2023
+
++ [[https://huggingface.co/datasets/society-ethics/lila_camera_traps][Ethics & Society at Hugging Face]] #CIAIS
+
 ** Febrero 2023
 
 + [[https://txt.cohere.ai/what-is-semantic-search/][What is semantic search?]] #SemanticSearch #PrevenIA
