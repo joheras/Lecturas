@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2023
 
++ [[https://www.philschmid.de/fine-tune-flan-t5-peft][Efficient Large Language Model training with LoRA and Hugging Face]] #FineTuning #LLMs
++ [[https://t.co/OijUQQHr5g][Generative AI Models: History, Costs and Risks]] #Ethics #CIAIS
 + [[https://shikun.io/projects/prismer][Prismer: A Vision-Language Model with Multi-Modal Experts]] #MultiModalLearning #ImageCaptioning
 + [[https://huggingface.co/datasets/society-ethics/lila_camera_traps][Ethics & Society at Hugging Face]] #CIAIS
 
