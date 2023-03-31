@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2023
 
++ [[https://www.sciencedirect.com/science/article/pii/S2589750023000225?via%3Dihub][A deep learning model for novel systemic biomarkers in photographs of the external eye: a retrospective study]] #OPTRetina
 + [[https://www.philschmid.de/fine-tune-flan-t5-peft][Efficient Large Language Model training with LoRA and Hugging Face]] #FineTuning #LLMs
 + [[https://t.co/OijUQQHr5g][Generative AI Models: History, Costs and Risks]] #Ethics #CIAIS
 + [[https://shikun.io/projects/prismer][Prismer: A Vision-Language Model with Multi-Modal Experts]] #MultiModalLearning #ImageCaptioning
