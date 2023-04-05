@@ -68,6 +68,10 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 
 ** Abril 2023
+
++ [[https://github.com/CarperAI/trlx][Transformer Reinforcement Learning X]] #RLHF #TextoClaro
++ [[https://huggingface.co/blog/rlhf][Illustrating Reinforcement Learning from Human Feedback (RLHF)]] #RLHF #TextoClaro
++ [[https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx][Understanding Reinforcement Learning from Human Feedback (RLHF): Part 1]] #RLHF
 + [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282416][A deep learning-based framework for retinal fundus image enhancement]] #ImageEnhancement #OPTRetina
 
 ** Marzo 2023
