@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://developer.nvidia.com/cuopt-logistics-optimization][NVIDIA cuOpt]] #OPTRetina #Planificacion
++ [[https://huggingface.co/spaces/merve/chatbot-blog][Ways to Improve Your Conversational Agents using Language Models]]
 + [[https://github.com/CarperAI/trlx][Transformer Reinforcement Learning X]] #RLHF #TextoClaro
 + [[https://huggingface.co/blog/rlhf][Illustrating Reinforcement Learning from Human Feedback (RLHF)]] #RLHF #TextoClaro
 + [[https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx][Understanding Reinforcement Learning from Human Feedback (RLHF): Part 1]] #RLHF
