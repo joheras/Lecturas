@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://segment-anything.com/][Introducing Segment Anything: Working toward the first foundation model for image segmentation]] #Segmentation
 + [[https://www.sciencedirect.com/science/article/pii/S001048252300046X#b28][CARES: A Corpus for classification of Spanish Radiological reports]] #ClinicalText
 + [[https://enchanting-trader-463.notion.site/Best-ChatGPT-Resources-101-94a7c6dbabcc4febbfb498c555d6ef5f][Best ChatGPT Resources 101]] #ChatGPT
 + [[https://mobile.twitter.com/DotCSV/status/1611325175626072064][Midjourney prompts]] #ImageGeneration
