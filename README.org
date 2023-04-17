@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5][LangChain]] #PrevenIA
 + [[https://huyenchip.com/2023/04/11/llm-engineering.html][Building LLM applications for production]] #LanguageModels #PrevenIA
 + [[https://arxiv.org/pdf/2303.01469.pdf][Consistency Models]] #ImageGeneration
 + [[https://arxiv.org/abs/2210.03347][Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding]] #VisuallySituatedLanguage
