@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/][DINOv2: State-of-the-art computer vision models with self-supervised learning]] #SelfSupervisedLearning
 + [[https://theconversation.com/la-dificultad-de-entender-el-lenguaje-que-utilizan-las-administraciones-publicas-203295][La dificultad de entender el lenguaje que utilizan las Administraciones públicas]] #TextoClaro
 + [[https://minigpt-4.github.io/][MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models]] #VisualQuestionAnswering
 + [[https://resources.nvidia.com/en-us-omniverse-industrial-digital-twins/omniverse-enterprise-5-steps?lx=deNrXD][5 Steps to Get Started with Digital Twins]] #DigitalTwin #PRIMA
