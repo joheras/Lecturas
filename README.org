@@ -69,6 +69,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://resources.nvidia.com/en-us-omniverse-industrial-digital-twins/omniverse-enterprise-5-steps?lx=deNrXD][5 Steps to Get Started with Digital Twins]] #DigitalTwin #PRIMA
++ [[https://www.nvidia.com/en-us/on-demand/playlist/playList-7e07006c-7b01-4714-a0a5-c627b3707602/][Omniverse Digital Twin playlist]] #DigitalTwin #PRIMA
++ [[https://huggingface.co/blog/graphml-classification][Graph classification with Transformers]] #GraphNeuralNetworks
++ [[https://huggingface.co/blog/intro-graphml][Introduction to Graph Machine Learning]] #GraphNeuralNetworks
 + [[https://link.springer.com/book/10.1007/978-3-319-78503-5][Clinical Text Mining]] #HistoriaClinica #AnaRosaTerroba
 + [[https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5][LangChain]] #PrevenIA
 + [[https://huyenchip.com/2023/04/11/llm-engineering.html][Building LLM applications for production]] #LanguageModels #PrevenIA
