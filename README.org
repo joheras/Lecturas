@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://blog.vespa.ai/improving-zero-shot-ranking-with-vespa-part-two/][Improving Zero-Shot Ranking with Vespa Hybrid Search - part two]] #SemanticSearch
 + [[https://www.promptingguide.ai/][Prompt Engineering Guide]] #PromptEngineering
 + [[https://blog.futuresmart.ai/semantic-search-using-llamaindex-and-langchain][Semantic Search using LlamaIndex and Langchain]] #Prevenia #SemanticSearch
 + [[https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/][DINOv2: State-of-the-art computer vision models with self-supervised learning]] #SelfSupervisedLearning
