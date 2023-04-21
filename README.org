@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://www.crowdcast.io/c/rh66hcwivly0][LangChain Document Question-Answering Webinar]] #PrevenIA
 + [[https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm?utm_source=substack&utm_medium=email][Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM]] #LLM #PrevenIA
 + [[https://python.langchain.com/en/latest/use_cases/evaluation/qa_generation.html][https://python.langchain.com/en/latest/use_cases/evaluation/qa_generation.html]] #QuestionAnswering
 + [[https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/][Alternatives to OpenAI GPT model: using an open-source Cerebras model with LangChain]] #PrevenIA
