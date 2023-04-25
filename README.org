@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2023
 
++ [[https://arxiv.org/abs/2304.11968][Track Anything: Segment Anything Meets Videos]] #Tracking
 + [[https://dl.acm.org/doi/10.1145/3544549.3585679][THERIF: Themes for Readability from Iterative Feedback]] #Readability
 + [[https://dl.acm.org/doi/10.1145/3544548.3581367][Digital Reading Rulers]] #Readability
 + [[https://github.com/freedmand/semantra][Semantra]] #SemanticSearch #PrevenIA
