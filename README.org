@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning][Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset]] #CLARA-Med #Fine-Tuning #LLMs
 + [[https://seeai.hashnode.dev/how-to-create-an-app-that-answers-questions-about-your-contract-using-embeddings-and-gpt][How to Create an App that Answers Questions About Your Contract Using Embeddings and GPT]] #PrevenIA
 
 ** Abril 2023
