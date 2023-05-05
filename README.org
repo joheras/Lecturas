@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://towardsdatascience.com/nlp-with-python-knowledge-graph-12b93146a458][NLP with Python: Knowledge Graph]] #KnowledgeGraph #M&M
 + [[https://www.fast.ai/posts/2023-05-03-mojo-launch.html][Mojo may be the biggest programming language advance in decades]] #Mojo #Parallelization
 + [[https://huggingface.co/transformers/v4.9.2/performance.html][Performance and Scalability: How To Fit a Bigger Model and Train It Faster]] #LLMs #BigModels
 + [[https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning][Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset]] #CLARA-Med #Fine-Tuning #LLMs #BigModels
