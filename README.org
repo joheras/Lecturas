@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://leo.andeol.eu/publication/andeol-2021-learning/][Learning Domain Invariant Representations by Joint Wasserstein Distance Minimization]] #SemiSupervisedLearning #CarmenVidaurre #DomainShift
 + [[https://speakerdeck.com/gpeyre/the-mathematics-of-neural-networks][The Mathematics of Neural Networks]]
 + [[https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/][The Full Story of Large Language Models and RLHF]] #LLMs #CursoPDI
 + [[https://towardsdatascience.com/nlp-with-python-knowledge-graph-12b93146a458][NLP with Python: Knowledge Graph]] #KnowledgeGraph #M&M
