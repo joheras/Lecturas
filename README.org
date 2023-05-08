@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://arxiv.org/abs/2202.13876][PMC-Patients: A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems]] #HistoriaClinica #AnaRosa
 + [[https://arxiv.org/abs/2305.03433][Towards Applying Powerful Large AI Models in Classroom Teaching: Opportunities, Challenges and Prospects]] #Teaching #ChatGPT
 + [[https://huyenchip.com/2023/05/02/rlhf.html][RLHF: Reinforcement Learning from Human Feedback]] #RLHF #ChatGPT
 + [[https://aclanthology.org/2023.findings-eacl.27/][Gauging the Gap Between Human and Machine Text Simplification Through Analytical Evaluation of Simplification Strategies and Errors]] #ClaraMed #QualitativeEvaluation
