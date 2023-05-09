@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://github.com/NielsRogge/Transformers-Tutorials/tree/master][Transformers-Tutorials]] #Tutorials #Transformers
 + [[https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/ViLT/Inference_with_ViLT_(visual_question_answering).ipynb][Performing visual question answering (VQA) with ViLT]] #VisualQuestionAnswering #Gobierno
 + [[https://arxiv.org/abs/2202.13876][PMC-Patients: A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems]] #HistoriaClinica #AnaRosa
 + [[https://arxiv.org/abs/2305.03433][Towards Applying Powerful Large AI Models in Classroom Teaching: Opportunities, Challenges and Prospects]] #Teaching #ChatGPT
