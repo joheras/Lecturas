@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning][Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset]] #FineTuning #LLMs #ClaraMed
 + [[https://learnprompting.org/docs/intro][Learn Prompting]] #Prompting #LLMs
 + [[https://github.com/NielsRogge/Transformers-Tutorials/tree/master][Transformers-Tutorials]] #Tutorials #Transformers
 + [[https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/ViLT/Inference_with_ViLT_(visual_question_answering).ipynb][Performing visual question answering (VQA) with ViLT]] #VisualQuestionAnswering #Gobierno
