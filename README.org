@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://sites.google.com/ecolint.ch/aiineducation/resources/teaching-resources?authuser=0][AI in Education]] #Education
 + [[https://huggingface.co/blog/text-to-video][Text-to-Video: The Task, Challenges and the Current State]] #Text2Video
 + [[https://huggingface.co/blog/starcoder][StarCoder: A State-of-the-Art LLM for Code]] #LLMs #Coding
 + [[https://arxiv.org/abs/2305.05665][ImageBind: One Embedding Space To Bind Them All]] #MultiModality
