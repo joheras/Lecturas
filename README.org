@@ -69,6 +69,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
+
++ [[https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/][Faiss: A library for efficient similarity search]] #PrevenIA #InformationRetrieval #FAISS
++ [[https://huggingface.co/docs/datasets/v1.0.1/faiss_and_ea.html][Adding a FAISS or Elastic Search index to a Dataset]] #PrevenIA #InformationRetrieval #FAISS #HuggingFace
++ [[https://towardsdatascience.com/understanding-dense-passage-retrieval-dpr-system-bce5aee4fd40][Understanding Dense Passage Retrieval (DPR) System]] #PrevenIA #InformationRetrieval
++ [[https://arxiv.org/abs/2305.06300][Evaluating Embedding APIs for Information Retrieval]] #PrevenIA #InformationRetrieval
 + [[https://sites.google.com/ecolint.ch/aiineducation/resources/teaching-resources?authuser=0][AI in Education]] #Education
 + [[https://huggingface.co/blog/text-to-video][Text-to-Video: The Task, Challenges and the Current State]] #Text2Video
 + [[https://huggingface.co/blog/starcoder][StarCoder: A State-of-the-Art LLM for Code]] #LLMs #Coding
