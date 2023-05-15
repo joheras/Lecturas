@@ -69,7 +69,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
-
++ [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]]  #LLMs #Optimization #Inference
++ [[https://huggingface.co/blog/chatbot-amd-gpu][Run a Chatgpt-like Chatbot on a Single GPU with ROCm]] #LLMs #Optimization
++ [[https://huggingface.co/blog/rwkv][Introducing RWKV - An RNN with the advantages of a transformer]] #LLMs #RNN
 + [[https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/#more-561][EU AI Act To Target US Open Source Software]] #CIAIS
 + [[https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/][Faiss: A library for efficient similarity search]] #PrevenIA #InformationRetrieval #FAISS
 + [[https://huggingface.co/docs/datasets/v1.0.1/faiss_and_ea.html][Adding a FAISS or Elastic Search index to a Dataset]] #PrevenIA #InformationRetrieval #FAISS #HuggingFace
