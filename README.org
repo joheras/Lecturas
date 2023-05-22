@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://towardsdatascience.com/hugging-face-transformers-agent-3a01cf3669ac][Hugging Face Transformers Agent]] #Agents
 + [[https://arxiv.org/abs/2305.06500][InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning]] #VisualQuestionAnswering
 + [[https://arxiv.org/abs/2305.11738][CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing]] #LLMs
 + [[https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/][Brain Activity Decoder Can Reveal Stories in People’s Minds]] #Neuro
