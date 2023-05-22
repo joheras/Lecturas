@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://arxiv.org/abs/2204.05044][From Modern CNNs to Vision Transformers: Assessing the Performance, Robustness, and Classification Strategies of Deep Learning Models in Histopathologyhttps://arxiv.org/abs/2204.05044]] #ImageClasssification
 + [[https://arxiv.org/abs/2305.07804][Dr. LLaMA: Improving Small Language Models on PubMedQA via Generative Data Augmentation]] #QuestionAnswering
 + [[https://towardsdatascience.com/hugging-face-transformers-agent-3a01cf3669ac][Hugging Face Transformers Agent]] #Agents
 + [[https://arxiv.org/abs/2305.06500][InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning]] #VisualQuestionAnswering
