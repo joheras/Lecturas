@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://rachel.fast.ai/posts/2023-05-16-ai-centralizes-power/][AI and Power: The Ethical Challenges of Automation, Centralization, and Scale]] #Ethics #CIAIS
 + [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]]  #LLMs #Optimization #Inference
 + [[https://huggingface.co/blog/chatbot-amd-gpu][Run a Chatgpt-like Chatbot on a Single GPU with ROCm]] #LLMs #Optimization
 + [[https://huggingface.co/blog/rwkv][Introducing RWKV - An RNN with the advantages of a transformer]] #LLMs #RNN
