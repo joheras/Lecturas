@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/][Brain Activity Decoder Can Reveal Stories in People’s Minds]] #Neuro
 + [[https://sambanova.ai/blog/introducing-bloomchat-176b-the-multilingual-chat-based-llm/][BLOOMChat: a New Open Multilingual Chat LLM]] #LLMs #ChatBot #PrevenIA
 + [[https://rachel.fast.ai/posts/2023-05-16-ai-centralizes-power/][AI and Power: The Ethical Challenges of Automation, Centralization, and Scale]] #Ethics #CIAIS
 + [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]]  #LLMs #Optimization #Inference
