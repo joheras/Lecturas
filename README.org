@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://arxiv.org/pdf/2305.11206.pdf][LIMA: Less Is More for Alignment]] #LLMs
 + [[https://ai.facebook.com/blog/multilingual-model-speech-recognition/?utm_source=twitter&utm_medium=organic_social&utm_campaign=blog&utm_content=card][Introducing speech-to-text, text-to-speech, and more for 1,100+ languages]] #Speech2Text #Text2Speech
 + [[https://arxiv.org/abs/2204.05044][From Modern CNNs to Vision Transformers: Assessing the Performance, Robustness, and Classification Strategies of Deep Learning Models in Histopathologyhttps://arxiv.org/abs/2204.05044]] #ImageClasssification #DomainShift #Robustness
 + [[https://arxiv.org/abs/2305.07804][Dr. LLaMA: Improving Small Language Models on PubMedQA via Generative Data Augmentation]] #QuestionAnswering
