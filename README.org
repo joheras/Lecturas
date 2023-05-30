@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://www.pinecone.io/learn/langchain/][LangChain AI Handbook]] #ChatBot #LangChain #PrevenIA
 + [[https://huggingface.co/blog/4bit-transformers-bitsandbytes][Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA]] #Quantization #PrevenIA
 + [[https://huggingface.co/blog/fl-with-flower][Federated Learning using Hugging Face and Flower]] #FederatedLearning
 + [[http://sltat.cs.depaul.edu/sltat_2023.htm][Eighth International Workshop on Sign Language Translation and Avatar Technology]] #LenguaSignos #Congreso
