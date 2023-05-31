@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2023
 
++ [[https://www.fast.ai/posts/2023-05-31-extinction.html][Is Avoiding Extinction from AI Really an Urgent Priority?]] #CIAIS
 + [[https://blog.google/technology/health/5-myths-about-medical-ai-debunked/?linkId=8780071][5 myths about medical AI, debunked]] #UPRetina
 + [[https://www.pinecone.io/learn/langchain/][LangChain AI Handbook]] #ChatBot #LangChain #PrevenIA
 + [[https://huggingface.co/blog/4bit-transformers-bitsandbytes][Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA]] #Quantization #PrevenIA
