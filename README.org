@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Junio 2023
+
++ [[https://link.springer.com/article/10.1007/s10209-021-00823-1][Machine translation from text to sign language: a systematic review]] #LenguaSignos
+
 ** Mayo 2023
 
 + [[https://twitter.com/EdenEmarco177/status/1664590786137137158][Summarization LangChain]] #Summarization #PrevenIA
