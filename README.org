@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://arxiv.org/abs/2306.00890][LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day]] #ChatBot #Biomedicine 
 + [[https://arxiv.org/pdf/2303.15647.pdf][Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning]] #FineTuning
 + [[https://www.cloudskillsboost.google/course_sessions/3200330/quizzes/379209][Create Image Captioning Models]] #Gobierno #ImageCaptioning
 + [[https://link.springer.com/article/10.1007/s10209-021-00823-1][Machine translation from text to sign language: a systematic review]] #LenguaSignos
