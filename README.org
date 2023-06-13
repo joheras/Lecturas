@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://forum.image.sc/t/introducing-the-java-deep-learning-library-jdll/82255][Introducing the Java Deep Learning Library - JDLL]] #ImageJ #Adrian
 + [[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2805759?guestAccessKey=eb14c3f5-b0be-4d44-9327-961db4bd3f00&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jamaophthalmology&utm_content=olf&utm_term=060823][Accuracy of Artificial Intelligence in Estimating Best-Corrected Visual Acuity From Fundus Photographs in Eyes With Diabetic Macular Edema]] #UPRetina
 + [[https://huggingface.co/blog/falcon][The Falcon has landed in the Hugging Face ecosystem]] #LLMs
 + [[https://arxiv.org/abs/2306.00890][LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day]] #ChatBot #Biomedicine 
