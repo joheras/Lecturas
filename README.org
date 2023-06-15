@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://arxiv.org/abs/2306.02022][ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation]] #HistoriaClinica #AnaRosa
++ [[https://arxiv.org/abs/2305.17364][An Investigation of Evaluation Metrics for Automated Medical Note Generation]] #Metrics #HistoriaClinica #AnaRosa
 + [[https://huggingface.co/learn/audio-course][Audio course]] #HuggingFace #Audio #Mirari
 + [[https://forum.image.sc/t/introducing-the-java-deep-learning-library-jdll/82255][Introducing the Java Deep Learning Library - JDLL]] #ImageJ #Adrian
 + [[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2805759?guestAccessKey=eb14c3f5-b0be-4d44-9327-961db4bd3f00&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jamaophthalmology&utm_content=olf&utm_term=060823][Accuracy of Artificial Intelligence in Estimating Best-Corrected Visual Acuity From Fundus Photographs in Eyes With Diabetic Macular Edema]] #UPRetina
