@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://arxiv.org/abs/2306.01744][Disproving XAI Myths with Formal Methods -- Initial Results]] #Interpretability
 + [[https://microsoft.github.io/AI-For-Beginners/?id=getting-started][Artificial Intelligence for Beginners - A Curriculum]] #InteligenciaArtificial #Curso
 + [[https://arxiv.org/abs/2306.06672][Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute]] #Audio
 + [[https://arxiv.org/abs/2301.08243][Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture]] #Pretraining #ImageClassification
