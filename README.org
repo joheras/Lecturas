@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://arxiv.org/abs/2301.08243][Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture]] #Pretraining #ImageClassification
 + [[https://arxiv.org/abs/2306.02022][ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation]] #HistoriaClinica #AnaRosa
 + [[https://arxiv.org/abs/2305.17364][An Investigation of Evaluation Metrics for Automated Medical Note Generation]] #Metrics #HistoriaClinica #AnaRosa
 + [[https://huggingface.co/learn/audio-course][Audio course]] #HuggingFace #Audio #Mirari
