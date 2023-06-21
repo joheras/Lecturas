@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2023
 
++ [[https://montoliu.naukas.com/2021/11/14/daltonismo-la-solucion-esta-en-el-morado-y-el-naranja/][Daltonismo: la solución está en el morado y el naranja]] #Accesibilidad #Mirari
 + [[https://deepmind-tapir.github.io/][TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement]] #Tracking
 + [[https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/][Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance]] #VoicenGeneration #Mirari
 + [[https://www.amazon.science/publications/web-scale-semantic-product-search-with-large-language-models][Web-scale semantic product search with large language models]] #SemanticSearch
