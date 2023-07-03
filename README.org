@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Julio 2023
+
++ [[https://t.co/5SJfuQVQxN][Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts]] #Teaching #ChatGPT
+
 ** Junio 2023
 
 + [[https://montoliu.naukas.com/2021/11/14/daltonismo-la-solucion-esta-en-el-morado-y-el-naranja/][Daltonismo: la solución está en el morado y el naranja]] #Accesibilidad #Mirari
