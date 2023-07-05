@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2023
 
++ [[https://editing-images-project.hf.space/index.html][LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance]] #ImageEditing #Difusion
 + [[https://arxiv.org/abs/2306.16410][Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language]] #Imagecaptioning
 + [[https://t.co/5SJfuQVQxN][Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts]] #Teaching #ChatGPT
 
