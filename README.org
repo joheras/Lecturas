@@ -69,6 +69,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2023
 
++ [[https://huggingface.co/blog/os-llms][Open-Source Text Generation & LLM Ecosystem at Hugging Face]] #LLMs 
++ [[https://huggingface.co/blog/mms_adapters][Fine-tuning MMS Adapter Models for Multi-Lingual ASR]] #ASR #Mirari
++ [[https://huggingface.co/blog/bridgetower][Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2]] #ProyectoIA 
++ [[https://huggingface.co/blog/llama2][Llama 2 is here - get it on Hugging Face]] #LLMs #PrevenIA
 + [[https://pyimagesearch.com/2023/06/19/fundamentals-of-recommendation-systems/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=19June2023NonUnivLink1EnrollInPyImageSearchUniversity][Fundamentals of Recommendation Systems]] #RecommendationSystems
 + [[https://editing-images-project.hf.space/index.html][LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance]] #ImageEditing #Difusion
 + [[https://arxiv.org/abs/2306.16410][Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language]] #Imagecaptioning
