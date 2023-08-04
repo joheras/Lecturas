@@ -68,6 +68,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 
 ** Agosto 2023
+
++ [[https://paperswithcode.com/dataset/pathvqa][PathVQA]] #ProyectoIA #Dataset #VisualQuestionAnswering
 + [[https://www.nejm.org/doi/full/10.1056/NEJMsr2214184][Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine]] #ProyectoIA #QuestionAnswering #Biomedical 
 + [[https://arxiv.org/pdf/2307.14334.pdf][Towards Generalist Biomedical AI]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
 + [[https://arxiv.org/abs/2307.05131][Overview of BioASQ 2023: The eleventh BioASQ challenge on Large-Scale Biomedical Semantic Indexing and Question Answering]] #ProyectoIA #QuestionAnswering #Biomedical
