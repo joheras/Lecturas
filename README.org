@@ -69,6 +69,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://arxiv.org/abs/2307.16877][Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering]] #ProyectoIA #Evaluación
++ [[https://arxiv.org/abs/2308.01320][DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales]] #ReinforcementLearning
++ [[https://medlineplus.gov/spanish/all_easytoread.html][Documentos de lectura fácil medline]] #ProyectoIA #LecturaFacil 
 + [[https://paperswithcode.com/dataset/pathvqa][PathVQA]] #ProyectoIA #Dataset #VisualQuestionAnswering
 + [[https://www.nejm.org/doi/full/10.1056/NEJMsr2214184][Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine]] #ProyectoIA #QuestionAnswering #Biomedical 
 + [[https://arxiv.org/pdf/2307.14334.pdf][Towards Generalist Biomedical AI]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
