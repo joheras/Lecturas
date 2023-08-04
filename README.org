@@ -67,6 +67,56 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Agosto 2023
++ [[https://www.nejm.org/doi/full/10.1056/NEJMsr2214184][Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine]] #ProyectoIA #QuestionAnswering #Biomedical 
++ [[https://arxiv.org/pdf/2307.14334.pdf][Towards Generalist Biomedical AI]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
++ [[https://arxiv.org/abs/2307.05131][Overview of BioASQ 2023: The eleventh BioASQ challenge on Large-Scale Biomedical Semantic Indexing and Question Answering]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://arxiv.org/pdf/2102.05281.pdf][Biomedical Question Answering: A Survey of Approaches and Challenges]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://www.nature.com/articles/s41597-023-02068-4][BioASQ-QA: A manually curated corpus for Biomedical Question Answering]] #ProyectoIA  #QuestionAnswering #Biomedical
++ [[https://link.springer.com/chapter/10.1007/978-3-030-11680-4_1][Clinical, Consumer Health, and Visual Question Answering]] #ProyectoIA  #VisualQuestionAnswering #Biomedical #MultiModal
++ [[https://arxiv.org/pdf/2102.05281.pdf][Biomedical Question Answering: A Survey of Approaches and Challenges]] #ProyectoIA  #QuestionAnswering #Biomedical #MultiModal
++ [[https://arxiv.org/abs/2303.00534][RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal #InformationRetrieval
++ [[https://arxiv.org/abs/2307.15189][Med-Flamingo: a Multimodal Medical Few-shot Learner]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
++ [[https://zenodo.org/record/5513237][Spanish Biomedical Crawled Corpus]] #ProyectoIA #Dataset
++ [[https://pubmed.ncbi.nlm.nih.gov/31438331/][Design and Evaluation of an Automatic Speech Recognition Model for Clinical Notes in Spanish in a Mobile Online Environment]] #ProyectoIA #SpeechRecognition
++ [[https://pubmed.ncbi.nlm.nih.gov/31438331/][Automatic Speech Recognition Model Adaptation to Medical Domain Using Untranscribed Audio]] #ProyectoIA #SpeechRecognition
++ [[https://arxiv.org/abs/2303.00091][Improving Medical Speech-to-Text Accuracy with Vision-Language Pre-training Model]] #ProyectoIA #SpeechRecognition
++ [[https://arxiv.org/abs/2303.17580][HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face]] #ProyectoIA #Agents
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10292051/#REF19][Embracing Large Language Models for Medical Applications: Opportunities and Challenges]] #ProyectoIA #Biomedical
++ [[https://arxiv.org/abs/2304.14204][Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
++ [[https://link.springer.com/chapter/10.1007/978-3-030-32251-9_57][Overcoming Data Limitation in Medical Visual Question Answering]] #ProyectoIA #VisualQuestionAnswering #Biomedical
++ [[https://dl.acm.org/doi/10.1561/1500000019][The Probabilistic Relevance Framework: BM25 and Beyond]] #ProyectoIA #InformationRetrieval
++ [[https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/][Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models]] #ProyectoIA #InformationRetrieval
++ [[https://huggingface.co/blog/ray-rag][Retrieval Augmented Generation with Huggingface Transformers and Ray]] #ProyectoIA #InformationRetrieval
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10187428/#R31][Almanac: Retrieval-Augmented Language Models for Clinical Medicine]] #ProyectoIA #InformationRetrieval #VisualQuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2002.08909][REALM: Retrieval-Augmented Language Model Pre-Training]] #ProyectoIA #InformationRetrieval
++ [[https://link.springer.com/article/10.1007/s11227-022-04474-8][Hybrid deep learning model for answering visual medical questions]] #ProyectoIA  #VisualQuestionAnswering #Biomedical
++ [[https://ieeexplore.ieee.org/abstract/document/10082873][Enhancing Biomedical ReQA With Adversarial Hard In-Batch Negative Samples]] #ProyectoIA #InformationRetrieval #QuestionAnswering #Biomedical
++ [[https://arxiv.org/pdf/2212.13138.pdf][Large Language Models Encode Clinical Knowledge]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://arxiv.org/pdf/2306.00890v1.pdf][LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day]] #ProyectoIA #VisualQuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2304.08247][MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2306.12174][OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue]] #ProyectoIA #VisualQuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2307.07518][CephGPT-4: An Interactive Multimodal Cephalometric Measurement and Diagnostic System with Visual Large Language Model]] #ProyectoIA #VisualQuestionAnswering #Biomedical
++ [[https://blog.allenai.org/vanilla-vqa-adcaaaa94336][Vanilla VQA]] #ProyectoIA  #VisualQuestionAnswering 
++ [[https://arxiv.org/abs/2307.16184][Unified Model for Image, Video, Audio and Language Tasks]] #ProyectoIA #MultiModal
++ [[https://ai.googleblog.com/2023/08/multimodal-medical-ai.html?linkId=8927847&m=1][Multimodal medical AI]] #ProyectoIA  #QuestionAnswering #Biomedical #MultiModal
++ [[https://lilianweng.github.io/posts/2020-10-29-odqa/][How to Build an Open-Domain Question Answering System?]] #ProyectoIA  #QuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2305.14458][Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA]] #ProyectoIA #TextSimplification #ClaraMed
++ [[https://arxiv.org/abs/2305.12532][Multilingual Simplification of Medical Texts]] #ProyectoIA #TextSimplification #CLaraMed
++ [[https://academic.oup.com/bioinformatics/article/27/14/2025/195171][Question answering systems in biology and medicine—the time is now]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://dl.acm.org/doi/10.1162/coli_a_00368][The Design and Implementation of XiaoIce, an Empathetic Social Chatbot]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://link.springer.com/article/10.1007/s00521-021-06748-3#citeas][Recent progress in leveraging deep learning methods for question answering]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://arxiv.org/pdf/2305.09617.pdf][Towards Expert-Level Medical Question Answering with Large Language Models]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://sites.research.google/med-palm/][Med-PaLM]] #ProyectoIA #MultiModal #QuestionAnswering #VisualQuestionAnsering #Biomedical
++ [[https://chqa.nlm.nih.gov/][CHiQA]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://arxiv.org/abs/2306.02022][ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation]] #ProyectoIA #ClinicalNotes
++ [[https://arxiv.org/abs/2305.17364][An Investigation of Evaluation Metrics for Automated Medical Note Generation]] #ProyectoIA #ClinicalNotes
++ [[https://link.springer.com/book/10.1007/978-3-319-78503-5][Clinical Text Mining]] #ProyectoIA #ClinicalNotes
++ [[https://zenodo.org/record/4279041#.Y_uCZh_MI2w][Dataset for Automated Medical Transcription]] #ProyectoIA #ClinicalNotes
+
+
+
+
 ** Julio 2023
 
 + [[https://huggingface.co/blog/os-llms][Open-Source Text Generation & LLM Ecosystem at Hugging Face]] #LLMs 
