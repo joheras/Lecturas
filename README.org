@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/][Large Language Models with Semantic Search]] #SemanticSearch #PrevenIA
 + [[https://arxiv.org/abs/2307.16877][Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering]] #ProyectoIA #Evaluación
 + [[https://arxiv.org/abs/2308.01320][DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales]] #ReinforcementLearning
 + [[https://medlineplus.gov/spanish/all_easytoread.html][Documentos de lectura fácil medline]] #ProyectoIA #LecturaFacil 
