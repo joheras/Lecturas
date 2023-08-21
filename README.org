@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://huyenchip.com/2023/08/16/llm-research-open-challenges.html][Open challenges in LLM research]] #LLMs
 + [[https://twitter.com/DotCSV/status/1691770359681294638?s=20][WhisperX]] #Speech2Text #Mirari
 + [[https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/][Large Language Models with Semantic Search]] #SemanticSearch #PrevenIA #Course
 + [[https://arxiv.org/abs/2307.16877][Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering]] #ProyectoIA #Evaluación
