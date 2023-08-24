@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808557?utm_source=substack&utm_medium=email][Comparison of Ophthalmologist and Large Language Model Chatbot Responses to Online Patient Eye Care Questions]] #ProyectoIA
 + [[https://clibrain.com/blog/llama-2-13b-pr?utm_source=twitter&utm_medium=feed&utm_campaign=llama-2-13b][Adaptación de Llama 2 13B de Meta para un mejor rendimiento en español]] #LLMs #PrevenIA
 + [[https://huyenchip.com/2023/08/16/llm-research-open-challenges.html][Open challenges in LLM research]] #LLMs
 + [[https://twitter.com/DotCSV/status/1691770359681294638?s=20][WhisperX]] #Speech2Text #Mirari
