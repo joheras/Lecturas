@@ -69,7 +69,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
-+ [[https://ai.meta.com/blog/seamless-m4t/][a foundational multimodal model for speech translation]] #speechtotext #texttospeech #mirari
++ [[https://helenajamborwrites.netlify.app/posts/image_cheatsheets/][CHEAT SHEETS FOR IMAGE PUBLISHING]] #ImagePublishing #PhD 
++ [[https://www.youtube.com/watch?v=OHZHM8hcyI4][BARK: Free Text to Speech & Voice Cloning]] #Text2Speech #Mirari
++ [[https://ai.meta.com/blog/seamless-m4t/][a foundational multimodal model for speech translation]] #speech2text #text2speech #Mirari
 + [[https://arxiv.org/abs/2307.16789][ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs]] #ProyectoIA 
 + [[https://link.springer.com/article/10.1007/s13748-023-00304-x?utm_source=toc&utm_medium=email&utm_campaign=toc_13748_12_3&utm_content=etoc_springer_20230811][An automated classification framework for glaucoma detection in fundus images using ensemble of dynamic selection methods]] #Glaucoma #OPTRetina
 + [[https://arxiv.org/abs/2308.05374][Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment]] #LLM #ProyectoIA #Evaluation
