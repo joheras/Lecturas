@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://link.springer.com/article/10.1007/s13748-023-00304-x?utm_source=toc&utm_medium=email&utm_campaign=toc_13748_12_3&utm_content=etoc_springer_20230811][An automated classification framework for glaucoma detection in fundus images using ensemble of dynamic selection methods]] #Glaucoma #OPTRetina
 + [[https://arxiv.org/abs/2308.05374][Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment]] #LLM #ProyectoIA #Evaluation
 + [[https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/][Evaluating RAG pipelines with Ragas + LangSmith]] #QuestionAnswering #ProyectoIA #PrevenIA
 + [[https://huggingface.co/blog/idefics][OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents]] #MultiModal #ProyectoIA
