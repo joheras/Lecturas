@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://arxiv.org/abs/2308.05374][Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment]] #LLM #ProyectoIA #Evaluation
++ [[https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/][Evaluating RAG pipelines with Ragas + LangSmith]] #QuestionAnswering #ProyectoIA #PrevenIA
 + [[https://huggingface.co/blog/idefics][OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents]] #MultiModal #ProyectoIA
 + [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808557?utm_source=substack&utm_medium=email][Comparison of Ophthalmologist and Large Language Model Chatbot Responses to Online Patient Eye Care Questions]] #ProyectoIA
 + [[https://clibrain.com/blog/llama-2-13b-pr?utm_source=twitter&utm_medium=feed&utm_campaign=llama-2-13b][Adaptación de Llama 2 13B de Meta para un mejor rendimiento en español]] #LLMs #PrevenIA
