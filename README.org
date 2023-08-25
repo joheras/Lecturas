@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f][Tips for Writing NLP Papers]] #PhD #Tips
 + [[https://arxiv.org/abs/2308.04948][Extrapolating Large Language Models to Non-English by Aligning Languages]] #LLMs #Multilingual
 + [[https://helenajamborwrites.netlify.app/posts/image_cheatsheets/][CHEAT SHEETS FOR IMAGE PUBLISHING]] #ImagePublishing #PhD 
 + [[https://www.youtube.com/watch?v=OHZHM8hcyI4][BARK: Free Text to Speech & Voice Cloning]] #Text2Speech #Mirari
