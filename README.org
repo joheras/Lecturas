@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://arxiv.org/abs/2308.04948][Extrapolating Large Language Models to Non-English by Aligning Languages]] #LLMs #Multilingual
 + [[https://helenajamborwrites.netlify.app/posts/image_cheatsheets/][CHEAT SHEETS FOR IMAGE PUBLISHING]] #ImagePublishing #PhD 
 + [[https://www.youtube.com/watch?v=OHZHM8hcyI4][BARK: Free Text to Speech & Voice Cloning]] #Text2Speech #Mirari
 + [[https://ai.meta.com/blog/seamless-m4t/][a foundational multimodal model for speech translation]] #speech2text #text2speech #Mirari
