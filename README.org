@@ -69,7 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
-+ [[https://github.com/NVlabs/neuralangelo][Neuralangelo: High-Fidelity Neural Surface Reconstruction]]
++ [[https://github.com/NVlabs/neuralangelo][Neuralangelo: High-Fidelity Neural Surface Reconstruction]] #3DReconstruction
 + [[https://www.iic.uam.es/noticias/lanzamos-nueva-version-modelo-lenguaje-rigoberta-2/][Lanzamos una nueva versión del modelo de lenguaje del IIC: RigoBERTa 2]] #LLM #Spanish #Encoderonly
 + [[https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f][Tips for Writing NLP Papers]] #PhD #Tips
 + [[https://arxiv.org/abs/2308.04948][Extrapolating Large Language Models to Non-English by Aligning Languages]] #LLMs #Multilingual
