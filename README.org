@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://www.kaggle.com/code/jhoward/getting-started-with-llms][Getting Started With LLMs]] #LLMs #Prompting #FastAI
 + [[https://github.com/McGill-NLP/instruct-qa][Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering]] #PrevenIA #ProyectoIA #QuestionAnswering
 + [[https://github.com/langchain-ai/langsmith-cookbook/blob/main/testing-examples/qa-correctness/qa-correctness.ipynb][Q&A System Correctness]] #QuestionAnswering #PrevenIA 
 + [[https://github.com/NVlabs/neuralangelo][Neuralangelo: High-Fidelity Neural Surface Reconstruction]] #3DReconstruction
