@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://acl2023-retrieval-lm.github.io/][Retrieval-based Language Models and Applications]] #ProyectoIA #PrevenIA
++ [[https://precisionhealthllm.github.io/][Precision Health in the Age of LLMs]] #ProyectoIA
 + [[https://www.kaggle.com/code/gusthema/asl-fingerspelling-recognition-w-tensorflow/notebook][ASL Fingerspelling Recognition w/ TensorFlow]] #LenguaSignos
 + [[https://github.com/huggingface/trl][TRL - Transformer Reinforcement Learning]] #ProyectoIA #CLARAMed
 + [[https://www.kaggle.com/code/jhoward/getting-started-with-llms][Getting Started With LLMs]] #LLMs #Prompting #FastAI
