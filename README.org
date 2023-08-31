@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://saco.csic.es/index.php/s/sCS9BbLNyRZzbWB][Bibliografía CLARA-MeD]] #CLARAMed
 + [[https://spj.science.org/doi/10.34133/plantphenomics.0073][Deep Learning Enables Instant and Versatile Estimation of Rice Yield Using Ground-Based RGB Images]] #PlantPhenomics #Usue
 + [[https://escuelapacientes.riojasalud.es/][Escuela de Pacientes]] #PrevenIA #ProyectoIA
 + [[https://acl2023-retrieval-lm.github.io/][Retrieval-based Language Models and Applications]] #ProyectoIA #PrevenIA
