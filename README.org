@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2023
 
++ [[https://huggingface.co/blog/dpo-trl][Fine-tune Llama 2 with DPO]] #ReinforcementLearning #PrevenIA #ProyectoIA
 + [[https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=blog&utm_content=video][Evaluating the fairness of computer vision models]] #ComputerVision
 + [[https://saco.csic.es/index.php/s/sCS9BbLNyRZzbWB][Bibliografía CLARA-MeD]] #CLARAMed
 + [[https://spj.science.org/doi/10.34133/plantphenomics.0073][Deep Learning Enables Instant and Versatile Estimation of Rice Yield Using Ground-Based RGB Images]] #PlantPhenomics #Usue
