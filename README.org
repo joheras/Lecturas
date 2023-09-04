@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://arxiv.org/abs/2309.00087][Large language models in medicine: the potentials and pitfalls]] #ProyectoIA #Medicine #LLM
 + [[https://arxiv.org/abs/2308.12966][Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities]] #ProyectoIA #MultiModal
 + [[https://arxiv.org/abs/2307.13528v2][FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios]] #LLM #Factuality
 + [[https://arxiv.org/abs/2308.09687v2][Graph of Thoughts: Solving Elaborate Problems with Large Language Models]] #LLMs #Prompting
