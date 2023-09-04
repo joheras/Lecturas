@@ -67,6 +67,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Septiembre 2023
+
+
++ [[https://arxiv.org/pdf/2308.16184v1.pdf][SAM-Med2D]] #Segmentation #Ruben
+
 ** Agosto 2023
 
 + [[https://arxiv.org/abs/2305.12031v2][Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding]] #MedicalLLM #ProyectoIA
