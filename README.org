@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://github.com/facebookresearch/muss][Multilingual Unsupervised Sentence Simplification]] #TextSimplfication #CLARAMED
++ [[https://medinform.jmir.org/2022/11/e38095#ref17][Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep Learning–Based Text Simplification Approach]] #TextSimplification #CLARAMED #ReinforcementLearning
 + [[https://github.com/asahi417/lm-question-generation][Question and Answer Generation with Language Models]] #PrevenIA #QuestionAnsweringGeneration
 + [[https://arxiv.org/abs/1905.02851][FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance]] #FAQRetrieval #PrevenIA
 + [[https://openai.com/blog/teaching-with-ai][Educator FAQ ChatGPT]] #Education #ChatGPT
