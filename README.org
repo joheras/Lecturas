@@ -69,6 +69,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://github.com/asahi417/lm-question-generation][Question and Answer Generation with Language Models]] #PrevenIA #QuestionAnsweringGeneration
++ [[https://arxiv.org/abs/1905.02851][FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance]] #FAQRetrieval #PrevenIA
++ [[https://openai.com/blog/teaching-with-ai][Educator FAQ ChatGPT]] #Education #ChatGPT
++ [[https://www.sciencedirect.com/science/article/pii/S0957417421016158][Preprocessing of normative documents for interactive question answering]]  #PrevenIA #DatasetGeneration
++ [[https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04751-6][CoQUAD: a COVID-19 question answering dataset system, facilitating research, benchmarking, and practice]] #PrevenIA #DatasetGeneration
 + [[https://link.springer.com/chapter/10.1007/978-3-031-42536-3_16][A Multimodal Dataset to Create Manufacturing Digital Twins]] #Dataset
 + [[https://arxiv.org/abs/2211.10154][CRAFT: Concept Recursive Activation FacTorization for Explainability]] #Explainability #ComputerVision #Master
 + [[https://arxiv.org/abs/2309.00087][Large language models in medicine: the potentials and pitfalls]] #ProyectoIA #Medicine #LLM
