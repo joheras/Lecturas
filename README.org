@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://huggingface.co/blog/falcon-180b][Spread Your Wings: Falcon 180B is here]] #LLM
++ [[https://haystack.deepset.ai/blog/talk-to-haystack-docs][Talk to Haystack Docs: Creating a Domain-Focused Q&A RAG Pipeline with WebRetriever]] #ProyectoIA #Retriever
 + [[https://github.com/facebookresearch/muss][Multilingual Unsupervised Sentence Simplification]] #TextSimplfication #CLARAMED
 + [[https://medinform.jmir.org/2022/11/e38095#ref17][Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep Learning–Based Text Simplification Approach]] #TextSimplification #CLARAMED #ReinforcementLearning
 + [[https://github.com/asahi417/lm-question-generation][Question and Answer Generation with Language Models]] #PrevenIA #QuestionAnsweringGeneration
