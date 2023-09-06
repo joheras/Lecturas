@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.fast.ai/posts/2023-09-04-learning-jumps/][Can LLMs learn from a single example?]] #LLM
 + [[https://huggingface.co/blog/falcon-180b][Spread Your Wings: Falcon 180B is here]] #LLM
 + [[https://haystack.deepset.ai/blog/talk-to-haystack-docs][Talk to Haystack Docs: Creating a Domain-Focused Q&A RAG Pipeline with WebRetriever]] #ProyectoIA #Retriever
 + [[https://github.com/facebookresearch/muss][Multilingual Unsupervised Sentence Simplification]] #TextSimplfication #CLARAMED
