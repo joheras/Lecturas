@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://arxiv.org/abs/2309.05542][Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications]] #PrevenIA #ProyectoIA #Tools
 + [[https://arxiv.org/abs/2106.11520][BARTScore: Evaluating Generated Text as Text Generation]] #CLARAMed
 + [[https://blog.langchain.dev/syncing-data-sources-to-vector-stores/][Syncing data sources to vector stores]] #PrevenIA
 + [[https://www.fast.ai/posts/2023-09-04-learning-jumps/][Can LLMs learn from a single example?]] #LLM
