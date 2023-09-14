@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://facebookresearch.github.io/nougat/][Nougat: Neural Optical Understanding for Academic Documents]] #OCR
 + [[https://arxiv.org/abs/2308.06259][Self-Alignment with Instruction Backtranslation]] #SemiSupervisedLearning
 + [[https://arxiv.org/abs/2308.15670v2][Multimodal Foundation Models For Echocardiogram Interpretation]] #MultiModal #Medicine #ProyectoIA
 + [[https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/designing-a-virtual-patient-dialogue-system-based-on-terminologyrich-resources-challenges-and-evaluation/CFCEE7294A86F77C0AD0E4F18D43E72A][Designing a Virtual Patient Dialogue System Based on Terminology-rich Resources: Challenges and Evaluation]] #PrevenIA #Evaluación
