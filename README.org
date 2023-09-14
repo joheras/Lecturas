@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.nature.com/articles/s41586-023-06555-x][A foundation model for generalizable disease detection from retinal images]] #OPTRetina #SelfSupervisedLearning [[https://github.com/rmaphoh/RETFound_MAE][Code]]
 + [[https://facebookresearch.github.io/nougat/][Nougat: Neural Optical Understanding for Academic Documents]] #OCR
 + [[https://arxiv.org/abs/2308.06259][Self-Alignment with Instruction Backtranslation]] #SemiSupervisedLearning
 + [[https://arxiv.org/abs/2308.15670v2][Multimodal Foundation Models For Echocardiogram Interpretation]] #MultiModal #Medicine #ProyectoIA
