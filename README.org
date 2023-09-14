@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://ceur-ws.org/Vol-2936/paper-11.pdf][Overview of BioASQ 2021-MESINESP track. Evaluation of advance hierarchical classification techniques for scientific literature, patents and clinical trials]] #MedicalDocuments #Database #ProyectoIA
 + [[https://developer.nvidia.com/blog/accelerating-vector-search-using-gpu-powered-indexes-with-rapids-raft/?ncid=so-nvsh-979215-vt27][Accelerating Vector Search: Using GPU-Powered Indexes with RAPIDS RAFT]] #VectorSearch #PrevenIA
 + [[https://arxiv.org/abs/2309.05542][Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications]] #PrevenIA #ProyectoIA #Tools
 + [[https://arxiv.org/abs/2106.11520][BARTScore: Evaluating Generated Text as Text Generation]] #CLARAMed
