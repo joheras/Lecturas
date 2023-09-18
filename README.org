@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/][Frontiers of multimodal learning: A responsible AI approach]] #MultiModal #Biases
 + [[https://arxiv.org/abs/2211.05776][High-Quality Entity Segmentation]] #Segmentation
 + [[https://arxiv.org/abs/2309.05519][NExT-GPT: Any-to-Any Multimodal LLM]] #MultiModal
 + [[https://dienhoa.github.io/dhblog/posts/finetune_clip.html][Why and How to Fine-tune CLIP]] #FineTuning
