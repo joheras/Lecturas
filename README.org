@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://huggingface.co/spaces/coqui/xtts][Coqui🐸 XTTS]] #Text2Speech #VoiceCloning
 + [[https://www.nature.com/articles/s41586-023-05881-4][Foundation models for generalist medical artificial intelligence]]  #ProyectoIA #MultiModal
 + [[https://arxiv.org/pdf/2308.02463.pdf][Towards Generalist Foundation Model for Radiology]]  #ProyectoIA #MultiModal
 + [[https://arxiv.org/abs/2306.07831][Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images]] #ProyectoIA #MultiModal
