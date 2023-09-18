@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/][Information for all: European standards for making information easy to read and understand]] #Accesibilidad #Mirari
 + [[https://huggingface.co/spaces/coqui/xtts][Coqui🐸 XTTS]] #Text2Speech #VoiceCloning
 + [[https://www.nature.com/articles/s41586-023-05881-4][Foundation models for generalist medical artificial intelligence]]  #ProyectoIA #MultiModal
 + [[https://arxiv.org/pdf/2308.02463.pdf][Towards Generalist Foundation Model for Radiology]]  #ProyectoIA #MultiModal
