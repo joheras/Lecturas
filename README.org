@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://dienhoa.github.io/dhblog/posts/finetune_clip.html][Why and How to Fine-tune CLIP]] #FineTuning
 + [[https://twitter.com/katieelink/status/1702331358742487402?s=20][Biomedical Computer Vision models]] #MedicalAI
 + [[https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/][Information for all: European standards for making information easy to read and understand]] #Accesibilidad #Mirari
 + [[https://huggingface.co/spaces/coqui/xtts][Coqui🐸 XTTS]] #Text2Speech #VoiceCloning
