@@ -69,6 +69,13 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.nature.com/articles/s41586-023-05881-4][Foundation models for generalist medical artificial intelligence]]  #ProyectoIA #MultiModal
++ [[https://arxiv.org/pdf/2308.02463.pdf][Towards Generalist Foundation Model for Radiology]]  #ProyectoIA #MultiModal
++ [[https://arxiv.org/abs/2306.07831][Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images]] #ProyectoIA #MultiModal
++ [[https://www.medrxiv.org/content/10.1101/2023.06.07.23291119v1][Fostering transparent medical image AI via an image-text foundation model grounded in medical literature]] #ProyectoIA #MultiModal
++ [[https://arxiv.org/abs/2008.06775][Model Patching: Closing the Subgroup Performance Gap with Data Augmentation]] #DataAuditing #Ruben
++ [[https://www.nature.com/articles/s41591-023-02504-3.epdf?sharing_token=2umlCrKLgEIF8vmuLpQ7AtRgN0jAjWel9jnR3ZoTv0NWSxjlTuWM3jUBxiqED7ai3ueIDYQ_xX2BBBGXn0IDY_RMdGid_ppbXRxR40prhjrWvtzO3o_QB1gW6NTYt8EB0UO5VjWecg4rWh3LM_L-Rf59L6s9Fx7yR521Lp3GfhU%3D][A visual–language foundation model for pathology image analysis using medical Twitter]] #ProyectoIA #MultiModal
++ [[https://arxiv.org/abs/2308.15670][Multimodal Foundation Models For Echocardiogram Interpretation]] #ProyectoIA #MultiModal
 + [[https://www.nature.com/articles/s41586-023-06555-x][A foundation model for generalizable disease detection from retinal images]] #OPTRetina #SelfSupervisedLearning [[https://github.com/rmaphoh/RETFound_MAE][Code]]
 + [[https://facebookresearch.github.io/nougat/][Nougat: Neural Optical Understanding for Academic Documents]] #OCR
 + [[https://arxiv.org/abs/2308.06259][Self-Alignment with Instruction Backtranslation]] #SemiSupervisedLearning
