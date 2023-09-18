@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://arxiv.org/abs/2309.05519][NExT-GPT: Any-to-Any Multimodal LLM]] #MultiModal
 + [[https://dienhoa.github.io/dhblog/posts/finetune_clip.html][Why and How to Fine-tune CLIP]] #FineTuning
 + [[https://twitter.com/katieelink/status/1702331358742487402?s=20][Biomedical Computer Vision models]] #MedicalAI
 + [[https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/][Information for all: European standards for making information easy to read and understand]] #Accesibilidad #Mirari
