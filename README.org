@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://dl.acm.org/doi/pdf/10.1145/3600211.3604681][AI Art and its Impact on Artists]] #CIAIS #Ethics
 + [[https://arxiv.org/abs/2309.03516][Topological fingerprints for audio identification]] #TDA
 + [[https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/][Frontiers of multimodal learning: A responsible AI approach]] #MultiModal #Biases
 + [[https://arxiv.org/abs/2211.05776][High-Quality Entity Segmentation]] #Segmentation
