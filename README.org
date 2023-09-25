@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://supervisely.com/blog/lessons-learned-from-training-a-segmentation-model-on-synthetic-data/][Lessons Learned From Training a Segmentation Model On Synthetic Data]] #Segmentation #SyntheticData
 + [[https://www.youtube.com/watch?v=jkrNMKz9pWU][A Hackers' Guide to Language Models]] #LLM #FastAI
 + [[https://huggingface.co/blog/gaussian-splatting][Introduction to 3D Gaussian Splatting]] #Graphics
 + [[https://huggingface.co/blog/optimize-llm][Optimizing your LLM in production]] #Optimizations #PrevenIA
