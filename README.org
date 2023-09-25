@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://gpt-index.readthedocs.io/en/latest/examples/embeddings/huggingface.html#optimumembedding][Optimum]] #Embeddings #PrevenIA
 + [[http://ai.stanford.edu/blog/retrieval-based-NLP/][Building Scalable, Explainable, and Adaptive NLP Models with Retrieval]] #InformationRetrieval #Prevenia
 + [[https://github.com/primeqa/primeqa][PrimeQA]] #InformationRetrieval #PrevenIA
 + [[https://www.researchgate.net/publication/370215194_Artificial_Intelligence_for_Sign_Language_Translation_-A_Design_Science_Research_Study][Artificial Intelligence for Sign Language Translation -A Design Science Research Study]] #LenguaSignos
