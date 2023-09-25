@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://huggingface.co/blog/optimize-llm][Optimizing your LLM in production]] #Optimizations #PrevenIA
 + [[https://www.sciencedirect.com/science/article/pii/S0885230823000864][Towards inclusive automatic speech recognition]] #SpeechRecognition #Mirari
 + [[https://gpt-index.readthedocs.io/en/latest/examples/embeddings/huggingface.html#optimumembedding][Optimum]] #Embeddings #PrevenIA
 + [[http://ai.stanford.edu/blog/retrieval-based-NLP/][Building Scalable, Explainable, and Adaptive NLP Models with Retrieval]] #InformationRetrieval #Prevenia
