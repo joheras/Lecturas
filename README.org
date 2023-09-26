@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.biorxiv.org/content/10.1101/2023.09.12.557460v1][BrainLM: A foundation model for brain activity recordings]] #FoundationalModel #Brain #CarmenVidaurre
++ [[https://pytorch.org/blog/inside-the-matrix/?utm_content=265147245&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024][Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond]] #Visualisations
 + [[https://supervisely.com/blog/lessons-learned-from-training-a-segmentation-model-on-synthetic-data/][Lessons Learned From Training a Segmentation Model On Synthetic Data]] #Segmentation #SyntheticData
 + [[https://www.youtube.com/watch?v=jkrNMKz9pWU][A Hackers' Guide to Language Models]] #LLM #FastAI
 + [[https://huggingface.co/blog/gaussian-splatting][Introduction to 3D Gaussian Splatting]] #Graphics
