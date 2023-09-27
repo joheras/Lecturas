@@ -69,7 +69,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
-
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42280-5_12][Towards an Automatic Easy-to-Read Adaptation of Morphological Features in Spanish Texts]] #TextoClaro
++ [[https://dl.acm.org/doi/10.1145/3373625.3418006][EASIER system. Language resources for cognitive accessibility]] #LecturaFacil #Mirari
++ [[https://dl.acm.org/doi/10.1145/2738046][Making It Simplext: Implementation and Evaluation of a Text Simplification System for Spanish]] #LecturaFacil #Mirari
++ [[https://aclanthology.org/C12-1023.pdf][Can Spanish Be Simpler? LexSiS]] #LecturaFacil #Mirari
 + [[https://rua.ua.es/dspace/bitstream/10045/30664/1/PLN_51_23.pdf][DysWebxia: Textos m´as Accesibles para Personas con Dislexia]] #TextoClaro #Dislexia
 + [[https://arasaac.org/pictograms/search/sport%20events][Search Pictograms]] #Pictograms
 + [[https://planetafacil.plenainclusion.org/][Planeta fácil]] #LecturaFacil #Mirari
