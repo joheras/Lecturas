@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.ifla.org/wp-content/uploads/2019/05/assets/hq/publications/professional-report/120-es.pdf][Directrices para materiales de lectura fácil]] #LecturaFacil #Mirari
 + [[https://link.springer.com/chapter/10.1007/978-3-031-42280-5_12][Towards an Automatic Easy-to-Read Adaptation of Morphological Features in Spanish Texts]] #TextoClaro
 + [[https://dl.acm.org/doi/10.1145/3373625.3418006][EASIER system. Language resources for cognitive accessibility]] #LecturaFacil #Mirari
 + [[https://dl.acm.org/doi/10.1145/2738046][Making It Simplext: Implementation and Evaluation of a Text Simplification System for Spanish]] #LecturaFacil #Mirari
