@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://ig.ft.com/generative-ai/][Generative AI exists because of the transformer]] #Transformers #Explanation
 + [[https://github.com/ixa-ehu/antidote-casimedicos/tree/main][Antidote CasiMedicos Datasets]] #ProyectoIA
 + [[https://arxiv.org/abs/2306.03189][Easy-to-Read in Germany: A Survey on its Current State and Available Resources]] #LecturaFacil #Mirari
 + [[https://arxiv.org/pdf/2309.14052.pdf][Single Image Test-Time Adaptation for Segmentation]] #DomainAdaption
