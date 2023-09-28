@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://arxiv.org/pdf/2309.14052.pdf][Single Image Test-Time Adaptation for Segmentation]] #DomainAdaption
 + [[https://www.plenainclusion.org/publicaciones/buscador/?_sf_s=lectura%20f%C3%A1cil&sort_order=_sfm_fecha_publicacion+desc+date][Recursos lectura fácil]] #LecturaFacil #Mirari
 + [[https://daisy.org/activities/standards/daisy/daisy-3/][Daisy format]] #Accesibilidad #Mirari
 + [[http://www.sidar.org/recur/desdi/pau/directriceseuropeas%20para%20facilitar%20la%20lectura.pdf][El Camino Más Fácil]] #LecturaFacil #Mirari
