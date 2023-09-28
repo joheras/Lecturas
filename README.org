@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://www.sciencedirect.com/science/article/pii/S2666379123003646?via%3Dihub#mmc1][An artificial intelligence system for the whole process from diagnosis to treatment suggestion of ischemic retinal diseases]] #OPTRetina
 + [[https://www.tanishq.ai/blog/posts/ddpo.html][Reinforcement Learning for Diffusion Models from Scratch]] #ReinforcementLearning #DifussionModels
 + [[https://ig.ft.com/generative-ai/][Generative AI exists because of the transformer]] #Transformers #Explanation
 + [[https://github.com/ixa-ehu/antidote-casimedicos/tree/main][Antidote CasiMedicos Datasets]] #ProyectoIA
