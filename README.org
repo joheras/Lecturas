@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2023
 
++ [[https://github.com/ixa-ehu/antidote-casimedicos/tree/main][Antidote CasiMedicos Datasets]] #ProyectoIA
 + [[https://arxiv.org/abs/2306.03189][Easy-to-Read in Germany: A Survey on its Current State and Available Resources]] #LecturaFacil #Mirari
 + [[https://arxiv.org/pdf/2309.14052.pdf][Single Image Test-Time Adaptation for Segmentation]] #DomainAdaption
 + [[https://www.plenainclusion.org/publicaciones/buscador/?_sf_s=lectura%20f%C3%A1cil&sort_order=_sfm_fecha_publicacion+desc+date][Recursos lectura fácil]] #LecturaFacil #Mirari
