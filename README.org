@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Octubre 2023
+
++ [[https://arxiv.org/abs/2307.02792v2][What Should Data Science Education Do with Large Language Models?]] #DataScience #Education #ChatGPT
+
 ** Septiembre 2023
 
 + [[https://www.sciencedirect.com/science/article/pii/S2666379123003646?via%3Dihub#mmc1][An artificial intelligence system for the whole process from diagnosis to treatment suggestion of ischemic retinal diseases]] #OPTRetina
