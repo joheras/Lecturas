@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://arxiv.org/abs/2309.17428][CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets]] #ProyectoIA
 + [[https://www.youtube.com/watch?v=O8WYUJTX5iM][The Relationship Between Drone Flying Height and Pixel Size]] #Usue #Drones
 + [[https://ieeexplore.ieee.org/document/9854763/authors#authors][Deep Dirichlet Uncertainty for Unsupervised Out-of-Distribution Detection of Eye Fundus Photographs in Glaucoma Screening]] #OPTRetina #OOD
 + [[https://arxiv.org/abs/2307.02792v2][What Should Data Science Education Do with Large Language Models?]] #DataScience #Education #ChatGPT
