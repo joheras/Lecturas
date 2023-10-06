@@ -69,6 +69,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://link.springer.com/article/10.1007/s10579-023-09670-3][MarIA and BETO are sexist: evaluating gender bias in large language models for Spanish]] #Bias
++ [[https://optuna.readthedocs.io/en/stable/tutorial/index.html][OPTuna]] #HyperparamenterTuning
++ [[https://ceur-ws.org/Vol-3496/][Early detection of mental disorders risk in Spanish (MentalRiskES)]] #Proceedings #PrevenIA
++ [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6550][LyricSIM: A novel dataset and benchmark for similarity detection in Spanish song lyrics]] #Corpus
++ [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6548/3948][Catalan Parliamentary Plenary Session Transcriptions from 2015 to 2022. The ParlaMintCAT Corpus]] #Corpus
 + [[https://arxiv.org/abs/2309.17428][CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets]] #ProyectoIA #LiteratureReview 
 + [[https://www.youtube.com/watch?v=O8WYUJTX5iM][The Relationship Between Drone Flying Height and Pixel Size]] #Usue #Drones
 + [[https://ieeexplore.ieee.org/document/9854763/authors#authors][Deep Dirichlet Uncertainty for Unsupervised Out-of-Distribution Detection of Eye Fundus Photographs in Glaucoma Screening]] #OPTRetina #OOD
