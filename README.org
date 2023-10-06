@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://docs.google.com/presentation/d/1v7T6ejrSo87ndGeGC7tt6zeq-cftu03WWw7WL8Jskug/edit#slide=id.p][Evaluating and Optimizing your RAG App]] #PrevenIA #RAG
 + [[https://developer.nvidia.com/blog/preventing-health-data-leaks-with-federated-learning-using-nvidia-flare/?mkt_tok=MTU2LU9GTi03NDIAAAGOoFx0OyiM1rBsWvytCA4cq3d4WsrQpNzmVlU_Q57BP8G8hN85gYDrDDzjwf0P92snOvXvXlQ2J_NpRMNswAu2lOlTUYr_YHsjuwqbiJ7vliO7dEbkjQ][Preventing Health Data Leaks with Federated Learning Using NVIDIA FLARE]] #FederatedLearning
 + [[https://developer.nvidia.com/blog/accelerated-vector-search-approximating-with-rapids-raft-ivf-flat/?mkt_tok=MTU2LU9GTi03NDIAAAGOoFx0Ojl6-4voujswneRKI4VEOectfY9Pmne-BJGLqWcA7XXxgVeKQshA4VLdy0uApAhHgvgnwHB6DWNubRWEMavU9C6dqya-vToR0rJNNRQVS085YA][Accelerated Vector Search: Approximating with RAPIDS RAFT IVF-Flat]] #VectorSearch #PrevenIA
 + [[https://link.springer.com/article/10.1007/s10579-023-09670-3][MarIA and BETO are sexist: evaluating gender bias in large language models for Spanish]] #Bias
