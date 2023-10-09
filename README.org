@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://www.discapnet.es/vida-independiente/accesibilidad-de-comunicacion/lectura-facil][Lectura fácil]] #LecturaFacil #Mirari
 + [[https://arxiv.org/abs/2211.07624][Semantic Similarity Models for Depression Severity Estimation]] #PrevenIA
 + [[https://www.nature.com/articles/s41598-023-42384-8][Humans inherit artificial intelligence biases]] #Bias
 + [[https://hitz-zentroa.github.io/GoLLIE/][GoLLIE: Guideline-following Large Language Model for Information Extraction]] #InformationExtraction
