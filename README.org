@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://miccai2023-reproducibility-tutorial.github.io/][Reproducibility]] #Reproducibility #Checklist
 + [[https://arxiv.org/abs/2303.05977][Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models]] #MedicalVQA #ProyectoIA
 + [[https://tsar-workshop.github.io/program/papers/espinosa-zaragoza-etal-2023-automatic.pdf][Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the ClearText Project]] #LecturaFacil
 + [[https://arxiv.org/pdf/2310.03744.pdf][Improved Baselines with Visual Instruction Tuning]] #ProyectoIA
