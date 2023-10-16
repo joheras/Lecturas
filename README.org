@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://arxiv.org/abs/2310.06825][Mistral 7B]] #LLM #Pablo #GuardRails
 + [[https://restofworld.org/2023/ai-image-stereotypes/][https://restofworld.org/2023/ai-image-stereotypes/]] #CIAIS #Bias
 + [[https://arxiv.org/abs/2309.07124][RAIN: Your Language Models Can Align Themselves without Finetuning]] #SelfAlignment #LLMs
 + [[https://www.sciencedirect.com/science/article/pii/S2352340923006650][ChatSubs: A dataset of dialogues in Spanish, Catalan, Basque and Galician extracted from movie subtitles for developing advanced conversational models]] #Datasets
