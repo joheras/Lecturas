@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://www.nature.com/articles/s44159-023-00241-5][Using large language models in psychology]] #psychology
 + [[https://huggingface.co/docs/transformers/main/en/tasks/prompting][LLM prompting guide]] #Prompting
 + [[https://arxiv.org/abs/2310.06825][Mistral 7B]] #LLM #Pablo #GuardRails
 + [[https://restofworld.org/2023/ai-image-stereotypes/][https://restofworld.org/2023/ai-image-stereotypes/]] #CIAIS #Bias
