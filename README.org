@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://huggingface.co/blog/Andyrasika/samantha-and-mistral-7b][Samantha and Mistral 7B: A Powerful and Versatile Language Model Duo]] #PrevenIA #Pablo
 + [[https://www.adept.ai/blog/fuyu-8b][Fuyu-8B: A Multimodal Architecture for AI Agents]] #MultiModality
 + [[https://lawsofux.com/es/][Laws of UX]] #Usabilidad
 + [[https://thesequence.substack.com/p/inside-opro-google-deepminds-new?utm_source=post-email-title&publication_id=54309&post_id=138099496&utm_campaign=email-post-title&isFreemail=false&r=f2umh&utm_medium=email][Inside OPRO: Google DeepMind’s New Method that Optimizes Prompts Better than Humans]] #PromptEngineering
