@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://arxiv.org/pdf/2305.06813.pdf][Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models]] #OPTRetina #DifussionModels
 + [[https://selfrag.github.io/][Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflections]] #RAG #PrevenIA #Pablo
 + [[https://huggingface.co/blog/gradio-lite][Gradio-Lite: Serverless Gradio Running Entirely in Your Browser]] #Master #Gradio #Interfaces
 + [[https://huggingface.co/blog/Andyrasika/samantha-and-mistral-7b][Samantha and Mistral 7B: A Powerful and Versatile Language Model Duo]] #PrevenIA #Pablo
