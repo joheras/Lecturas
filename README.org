@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://lawsofux.com/es/][Laws of UX]] #Usabilidad
 + [[https://thesequence.substack.com/p/inside-opro-google-deepminds-new?utm_source=post-email-title&publication_id=54309&post_id=138099496&utm_campaign=email-post-title&isFreemail=false&r=f2umh&utm_medium=email][Inside OPRO: Google DeepMind’s New Method that Optimizes Prompts Better than Humans]] #PromptEngineering
 + [[https://www.nature.com/articles/s44159-023-00241-5][Using large language models in psychology]] #psychology
 + [[https://huggingface.co/docs/transformers/main/en/tasks/prompting][LLM prompting guide]] #Prompting
