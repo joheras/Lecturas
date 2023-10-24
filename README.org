@@ -67,7 +67,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
-** Octubre 2023
+** Octubre 2023 
 
 + [[https://ceur-ws.org/Vol-3516/paper19.pdf][CLEAR.TEXT Enhancing the Modernization Public Sector Organizations by Deploying Natural Language Processing to Make Their Digital Content CLEARER to Those with Cognitive Disabilities]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper13.pdf][IRAZ: Easy-to-Read Content Generation via Automated Text Simplification]] #LecturaFacil #Mirari
