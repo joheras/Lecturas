@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023
 
++ [[https://ceur-ws.org/Vol-3516/paper19.pdf][CLEAR.TEXT Enhancing the Modernization Public Sector Organizations by Deploying Natural Language Processing to Make Their Digital Content CLEARER to Those with Cognitive Disabilities]] #LecturaFacil #Mirari
++ [[https://ceur-ws.org/Vol-3516/paper13.pdf][IRAZ: Easy-to-Read Content Generation via Automated Text Simplification]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper01.pdf][OBSER‐MENH: Digital OBSERvatory of MENtal Health in Social Networks for Healthcare Institutions Based on Language Technologies]] #PrevenIA #Pablo
 + [[https://arxiv.org/pdf/2305.06813.pdf][Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models]] #OPTRetina #DifussionModels
 + [[https://selfrag.github.io/][Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflections]] #RAG #PrevenIA #Pablo
