@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023 
 
++ [[https://github.com/run-llama/llama_index/blob/main/docs/examples/multi_modal/llava_multi_modal_tesla_10q.ipynb][Retrieval-Augmented Image Captioning]] #RAG #ImageCaptioning #MultiModal
 + [[https://dataprovenance.org/][Data Provenance Explorer]] #DataProvenance
 + [[https://ceur-ws.org/Vol-3516/paper19.pdf][CLEAR.TEXT Enhancing the Modernization Public Sector Organizations by Deploying Natural Language Processing to Make Their Digital Content CLEARER to Those with Cognitive Disabilities]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper13.pdf][IRAZ: Easy-to-Read Content Generation via Automated Text Simplification]] #LecturaFacil #Mirari
