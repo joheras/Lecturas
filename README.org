@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023 
 
++ [[https://dataprovenance.org/][Data Provenance Explorer]] #DataProvenance
 + [[https://ceur-ws.org/Vol-3516/paper19.pdf][CLEAR.TEXT Enhancing the Modernization Public Sector Organizations by Deploying Natural Language Processing to Make Their Digital Content CLEARER to Those with Cognitive Disabilities]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper13.pdf][IRAZ: Easy-to-Read Content Generation via Automated Text Simplification]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper01.pdf][OBSER‐MENH: Digital OBSERvatory of MENtal Health in Social Networks for Healthcare Institutions Based on Language Technologies]] #PrevenIA #Pablo
