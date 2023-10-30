@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2023 
 
++ [[https://github.com/coqui-ai/TTS/tree/v0.19.0][Coqui TTS]] #Text2Speech #Mirari
 + [[https://praeclarumjj3.github.io/oneformer/][OneFormer: One Transformer to Rule Universal Image Segmentation]] #SemanticSegmentation
 + [[https://arxiv.org/pdf/2102.06171.pdf][High-Performance Large-Scale Image Recognition Without Normalization]] #ImageClassificaiton
 + [[https://simonwillison.net/2023/Oct/23/embeddings/][Embeddings: What they are and why they matter]] #Embeddings #Pablo #Master
