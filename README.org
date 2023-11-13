@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://stop-project.github.io/][STOP: Suicide prevenTion in sOcial Platforms]] #SUicidio #Pablo 
 + [[https://www.gladia.io/blog/gladia-speech-to-text-api-speaker-diarization][Gladia Speech-to-Text API: Speaker Diarization]] #Diarization #Mirari
 
 ** Octubre 2023 
