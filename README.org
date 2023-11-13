@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Noviembre 2023
+
++ [[https://www.gladia.io/blog/gladia-speech-to-text-api-speaker-diarization][Gladia Speech-to-Text API: Speaker Diarization]] #Diarization #Mirari
+
 ** Octubre 2023 
 
 + [[https://huggingface.co/models?other=metaclip][MetaClip]] #ImageCaptioning #Embeddings
