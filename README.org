@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://github.com/run-llama/llama_index/tree/main/docs/examples][Llama index examples]] #Tutorials #LLMs
 + [[https://huggingface.co/blog/JMJM/giskard-llm-testing-and-debugging-hf][Introducing the Giskard Bot: Enhancing LLM Testing & Debugging on Hugging Face]] #Vulnerabilities #LLMDebugging
 + [[https://garibida.github.io/cross-image-attention/][Cross-Image Attention for Zero-Shot Appearance Transfer]] #Manu #StyleTransfer
 + [[https://stop-project.github.io/][STOP: Suicide prevenTion in sOcial Platforms]] #SUicidio #Pablo 
