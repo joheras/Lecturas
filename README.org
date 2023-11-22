@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://menhir-project.eu/index.php/links/][Proyecto Menhir]] #PrevenIA #Pablo
 + [[https://arxiv.org/abs/2310.15135][Quantifying the Dialect Gap and its Correlates Across Languages]] #ASR #Mirari
 + [[https://www.nature.com/articles/s41467-023-42664-x][Evolutionary design of explainable algorithms for biomedical image segmentation]] #ImageProcessing #Segmentation #EvolutionaryAlgorithms
 + [[https://github.com/run-llama/llama_index/tree/main/docs/examples][Llama index examples]] #Tutorials #LLMs
