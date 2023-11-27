@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://arxiv.org/abs/2311.11077][Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning]] #FineTuning #NLP
 + [[https://odsc.com/blog/building-named-entity-recognition-and-relationship-extraction-components-with-huggingface-transformers/?utm_campaign=Learning%20Posts&utm_content=200655503&utm_medium=social&utm_source=twitter&hss_channel=tw-1357730263481122817][Building Named Entity Recognition and Relationship Extraction Components with HuggingFace Transformers]] #NER #ER #ClaraMed
 + [[https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.13529][Retina pathology as a target for biomarkers for Alzheimer's disease: Current status, ophthalmopathological background, challenges, and future directions]] #OPTRetina #Alzheimer
 + [[https://weaviate.io/blog/rag-evaluation][An Overview on RAG Evaluation]] #RAG #Pablo
