@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://ieeexplore.ieee.org/abstract/document/9892285][Named Entity Recognition for Audio De-Identification]] #Mirari #Anonimization
 + [[https://github.com/feldberlin/timething][Timething]] #Mirari #TextAlignment
 + [[https://blog.langchain.dev/applying-openai-rag/][Applying OpenAI's RAG Strategies]] #RAG #Pablo
 + [[https://arxiv.org/abs/2311.11077][Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning]] #FineTuning #NLP
