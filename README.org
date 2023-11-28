@@ -69,6 +69,10 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://medium.com/@sangotechnology1/chat-with-your-youtube-video-78a463776528][Chat with your Youtube video]] #Adrian #YoutubeChat
++ [[https://betterprogramming.pub/youtube-chatbot-using-langchain-and-openai-f8faa8f34929][YouTube Chatbot using LangChain and OpenAI]] #Adrian #YoutubeChat
++ [[https://github.com/emmethalm/youtube-to-chatbot][Youtube to chatbot]] #Adrian #YoutubeChat
++ [[https://escueladepacientes.es/mi-enfermedad/ostomias/colostomias-e-ileostomias][Escuela de pacientes]] #Adrian #YoutubeChat 
 + [[https://huggingface.co/papers/2311.16079][MEDITRON-70B: Scaling Medical Pretraining for Large Language Models]] #ProyectOIA
 + [[https://arxiv.org/abs/2311.04886][SEMQA: Semi-Extractive Multi-Source Question Answering]] #QuestionAnswering #RAG
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8999113&casa_token=aTTC32z3P5YAAAAA:SEBGfTGb2fa2HaFDyOpNz3u2G9VfU21RNSY4Bqt5ki5GzhdcpqA7-J62T_ecSP_8fJ6CxAUhC7M&tag=1][Comprehend Medical: a Named Entity Recognition and Relationship Extraction Web Service]] #ClaraMed #EntityRelation
