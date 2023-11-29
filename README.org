@@ -69,6 +69,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://signon-project.eu/wp-content/uploads/2021/06/DeCoster_Isolated_CVPRW_2021_OpenAccess.pdf][Isolated Sign Recognition from RGB Video using Pose Flow and Self-Attention]] #LenguaSignos [[https://cvml.ankara.edu.tr/datasets/][Dataset]]
++ [[https://signon-project.eu/wp-content/uploads/2022/01/AICS2021_paper_final.pdf][Sign Language Fingerspelling Recognition using
+Synthetic Data]] #LenguaSignos
++ [[http://www.lrec-conf.org/proceedings/lrec2020/workshops/SIGN2020/pdf/2020.signlanglrec-1.8.pdf][LSE_UVIGO: A Multi-source Database for Spanish Sign Language Recognition]] #LenguaSignos #Dataset
++ [[https://www.sciencedirect.com/science/article/pii/S0957417422020115][A survey on Sign Language machine translation]] #LenguaSignos #Survey
 + [[https://www.youtube.com/watch?v=vZTvzEuOhMk][Great Practices for Retrieval Augmented Generation (RAG) in Production]] #RAG #Pablo
 + [[https://medium.com/@sangotechnology1/chat-with-your-youtube-video-78a463776528][Chat with your Youtube video]] #Adrian #YoutubeChat
 + [[https://betterprogramming.pub/youtube-chatbot-using-langchain-and-openai-f8faa8f34929][YouTube Chatbot using LangChain and OpenAI]] #Adrian #YoutubeChat
