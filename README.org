@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://twitter.com/yoachlacombe/status/1729873482975170920][Finetuning TTS]] #Text2Speech #Mirari
++ [[https://huggingface.co/collections/ylacombe/text-to-speech-datasets-65674c292d738342786b4528][Text-To-Speech datasets]] #Text2Speech #Mirari
 + [[https://signon-project.eu/wp-content/uploads/2021/06/DeCoster_Isolated_CVPRW_2021_OpenAccess.pdf][Isolated Sign Recognition from RGB Video using Pose Flow and Self-Attention]] #LenguaSignos [[https://cvml.ankara.edu.tr/datasets/][Dataset]]
 + [[https://signon-project.eu/wp-content/uploads/2022/01/AICS2021_paper_final.pdf][Sign Language Fingerspelling Recognition using
 Synthetic Data]] #LenguaSignos
