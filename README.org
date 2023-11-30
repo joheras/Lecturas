@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2023
 
++ [[https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/][Millions of new materials discovered with deep learning]] #Science #GNN [[https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/][Paper]]
 + [[https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/mobilepresent?slide=id.g16197112905_0_0][Some intuitions about large language models]] #LLM 
 + [[https://twitter.com/yoachlacombe/status/1729873482975170920][Finetuning TTS]] #Text2Speech #Mirari
 + [[https://huggingface.co/collections/ylacombe/text-to-speech-datasets-65674c292d738342786b4528][Text-To-Speech datasets]] #Text2Speech #Mirari
