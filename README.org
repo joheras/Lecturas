@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://blog.langchain.dev/deconstructing-rag/][Deconstructing RAG]] #Pablo #RAG
 + [[https://huggingface.co/collections/facebook/seamless-communication-6568d486ef451c6ba62c7724][Seamless Communication]] #Mirari #Speech2Speech #Speech2Text
 
 ** Noviembre 2023
