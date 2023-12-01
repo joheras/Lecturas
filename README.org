@@ -67,6 +67,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Diciembre 2023
+
++ [[https://huggingface.co/collections/facebook/seamless-communication-6568d486ef451c6ba62c7724][Seamless Communication]] #Mirari #Speech2Speech #Speech2Text
+
 ** Noviembre 2023
 
 + [[https://www.trulens.org/][Evaluate and Track LLM Applications]] #Pablo #RAG #Evaluation
