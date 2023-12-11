@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://huggingface.co/blog/moe][Mixture of Experts Explained]] #LLM #Pablo
 + [[https://www.nature.com/articles/s41592-022-01655-4][PyImageJ: A library for integrating ImageJ and Python]] #ImageJ #Arrate #Adrian
 + [[https://www.retinalphysician.com/issues/2023/october-2023/updates-in-the-diabetic-retinopathy-screening-land][Updates in the Diabetic Retinopathy Screening Landscape]] #OPTRetina
 + [[https://ieeexplore.ieee.org/abstract/document/9815506][Full-Resolution Network and Dual-Threshold Iteration for Retinal Vessel and Coronary Angiograph Segmentation]] #OPTRetina [[https://github.com/lseventeen/FR-UNet][Code]]
