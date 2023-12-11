@@ -69,6 +69,11 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://www.retinalphysician.com/issues/2023/october-2023/updates-in-the-diabetic-retinopathy-screening-land][Updates in the Diabetic Retinopathy Screening Landscape]] #OPTRetina
++ [[https://ieeexplore.ieee.org/abstract/document/9815506][Full-Resolution Network and Dual-Threshold Iteration for Retinal Vessel and Coronary Angiograph Segmentation]] #OPTRetina [[https://github.com/lseventeen/FR-UNet][Code]]
++ [[https://www.mdpi.com/2504-2289/7/1/25][A Novel Approach for Diabetic Retinopathy Screening Using Asymmetric Deep Learning Features]] #OPTRetina
++ [[https://www.sciencedirect.com/science/article/pii/S0957417423000581][Diabetic retinopathy identification using parallel convolutional neural network based feature extractor and ELM classifier]] #OPTRetina
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10145952/][Retinal Disease Detection Using Deep Learning Techniques: A Comprehensive Review]] #OPTRetina
 + [[https://mistral.ai/news/mixtral-of-experts/][Mixtral of experts A high quality Sparse Mixture-of-Experts.]] #LLM
 + [[https://github.com/royerlab/napari-chatgpt][napari-chatgpt]] #Adrian #Agente
 + [[https://autelsinsights.es/claves-para-la-gobernanza-de-sistemas-de-inteligencia-artificial/][Claves para la Gobernanza de sistemas de Inteligencia Artificial]] #Gobernanza #ProyectoNacional
