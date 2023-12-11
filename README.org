@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://mistral.ai/news/mixtral-of-experts/][Mixtral of experts A high quality Sparse Mixture-of-Experts.]] #LLM
 + [[https://github.com/royerlab/napari-chatgpt][napari-chatgpt]] #Adrian #Agente
 + [[https://autelsinsights.es/claves-para-la-gobernanza-de-sistemas-de-inteligencia-artificial/][Claves para la Gobernanza de sistemas de Inteligencia Artificial]] #Gobernanza #ProyectoNacional
 + [[https://arxiv.org/abs/2311.16079][MEDITRON-70B: Scaling Medical Pretraining for Large Language Models]] #ProyectoIA [[https://t.co/JWUFy2i384][trainer code]] #Corpus
