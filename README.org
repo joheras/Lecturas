@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://weaviate.io/blog/multimodal-rag][Multimodal Retrieval Augmented Generation(RAG)]] #MultiModal #RAG
 + [[https://huggingface.co/blog/optimum-nvidia][Optimum-NVIDIA on Hugging Face enables blazingly fast LLM inference in just 1 line of code]] #LLM #Efficiency #Pablo
 + [[https://huggingface.co/blog/mixtral][Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face]] #Pablo
 + [[https://arxiv.org/abs/2306.11925][LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching]] #ProyectoIA #SelfSupervisedLearning #OPTRetina
