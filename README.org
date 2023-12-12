@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://lightning.ai/pages/community/tutorial/pytorch-memory-vit-llm/][Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch - Lightning AI]] #Optimization #Training
 + [[https://weaviate.io/blog/multimodal-rag][Multimodal Retrieval Augmented Generation(RAG)]] #MultiModal #RAG
 + [[https://huggingface.co/blog/optimum-nvidia][Optimum-NVIDIA on Hugging Face enables blazingly fast LLM inference in just 1 line of code]] #LLM #Efficiency #Pablo
 + [[https://huggingface.co/blog/mixtral][Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face]] #Pablo
