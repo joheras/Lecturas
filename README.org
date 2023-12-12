@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://huggingface.co/blog/mixtral][Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face]] #Pablo
 + [[https://arxiv.org/abs/2306.11925][LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching]] #ProyectoIA #SelfSupervisedLearning #OPTRetina
 + [[https://huggingface.co/blog/moe][Mixture of Experts Explained]] #LLM #Pablo
 + [[https://www.nature.com/articles/s41592-022-01655-4][PyImageJ: A library for integrating ImageJ and Python]] #ImageJ #Arrate #Adrian
