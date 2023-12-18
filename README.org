@@ -69,7 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
-+ [[https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01372-6][Segmentation, tracking and cell cycle analysis of live-cell imaging data with Cell-ACDC]] #CellSegmentation #Maria
++ [[https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01372-6][Segmentation, tracking and cell cycle analysis of live-cell imaging data with Cell-ACDC]] #CellSegmentation #Maria [[https://github.com/SchmollerLab/Cell_ACDC][Software]]
 + [[https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/][The Power of Prompting]] #Prompting #Pablo
 + [[https://github.com/microsoft/promptbase][promptbase]] #Prompting
 + [[https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/][Steering at the Frontier: Extending the Power of Prompting]] #Prompting
