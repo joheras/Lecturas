@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://mbzuai-oryx.github.io/GeoChat/][GeoChat: Grounded Large Vision-Language Model for Remote Sensing]] #ProyectoIA
 + [[https://www.nature.com/articles/s41592-023-02083-8][Uncovering developmental time and tempo using deep learning]] #Maria
 + [[https://www.nature.com/articles/s41592-023-01873-4][EmbryoNet: using deep learning to link embryonic phenotypes to signaling pathways]] #Maria
 + [[https://www.nature.com/collections/ejcfiieddc][Method of the Year 2023: Methods for modeling development]] #Maria
