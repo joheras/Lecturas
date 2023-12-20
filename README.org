@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://arxiv.org/abs/2311.05112][A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges]] #ProyectoIA
 + [[https://arxiv.org/abs/2312.07814][A Foundational Multimodal Vision Language AI Assistant for Human Pathology]] #ProyectoIA
 + [[https://www.sciencedirect.com/science/article/pii/S1361841522003322?via%3Dihub#sec3][Data synthesis and adversarial networks: A review and meta-analysis in cancer imaging]] #DataSinthesis #Manuel #GANS
 + [[https://vgel.me/posts/faster-inference/][How to make LLMs go fast]] #Optimizations #Transformers
