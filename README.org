@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://arxiv.org/abs/2312.04746][Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos]] #ProyectoIA
 + [[https://mbzuai-oryx.github.io/GeoChat/][GeoChat: Grounded Large Vision-Language Model for Remote Sensing]] #ProyectoIA
 + [[https://www.nature.com/articles/s41592-023-02083-8][Uncovering developmental time and tempo using deep learning]] #Maria
 + [[https://www.nature.com/articles/s41592-023-01873-4][EmbryoNet: using deep learning to link embryonic phenotypes to signaling pathways]] #Maria
