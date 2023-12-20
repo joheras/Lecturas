@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]] #Optimization #Pablo
 + [[https://huggingface.co/blog/whisper-speculative-decoding][Speculative Decoding for 2x Faster Whisper Inference]] #Optimization #Mirari #Pablo
 + [[https://arxiv.org/abs/2311.05112][A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges]] #ProyectoIA
 + [[https://arxiv.org/abs/2312.07814][A Foundational Multimodal Vision Language AI Assistant for Human Pathology]] #ProyectoIA
