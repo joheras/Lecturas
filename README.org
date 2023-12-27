@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812964][Development of Deep Ensembles to Screen for Autism and Symptom Severity Using Retinal Photographs]] #OPTRetina
 + [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]] #Optimization #Pablo
 + [[https://huggingface.co/blog/whisper-speculative-decoding][Speculative Decoding for 2x Faster Whisper Inference]] #Optimization #Mirari #Pablo
 + [[https://arxiv.org/abs/2311.05112][A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges]] #ProyectoIA
