@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://arxiv.org/abs/2311.16452][Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine]] #ProyectoIA #Pablo #Prompting
 + [[https://stability.ai/research/adversarial-diffusion-distillation][Adversarial Diffusion Distillation]] #Distillation #DataGeneration
 + [[https://arxiv.org/abs/2312.06709][AM-RADIO: Agglomerative Model -- Reduce All Domains Into One]] #Distillation #VisualFundationModel #ProyectoIA
 + [[https://arxiv.org/abs/2312.06635][Gated Linear Attention Transformers with Hardware-Efficient Training]] #Transformers
