@@ -69,6 +69,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://arxiv.org/abs/2312.06709][AM-RADIO: Agglomerative Model -- Reduce All Domains Into One]] #Distillation #VisualFundationModel #ProyectoIA
++ [[https://arxiv.org/abs/2312.06635][Gated Linear Attention Transformers with Hardware-Efficient Training]] #Transformers
 + [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812964][Development of Deep Ensembles to Screen for Autism and Symptom Severity Using Retinal Photographs]] #OPTRetina
 + [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]] #Optimization #Pablo
 + [[https://huggingface.co/blog/whisper-speculative-decoding][Speculative Decoding for 2x Faster Whisper Inference]] #Optimization #Mirari #Pablo
