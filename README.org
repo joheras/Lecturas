@@ -69,6 +69,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2023
 
++ [[https://www.frontiersin.org/articles/10.3389/frai.2023.1323924/full][Development and evaluation of multimodal AI for diagnosis and triage of ophthalmic diseases using ChatGPT and anterior segment images: protocol for a two-stage cross-sectional study]] #ProyectoIA #OPTRetina
 + [[https://arxiv.org/abs/2311.17136][UniIR: Training and Benchmarking Universal Multimodal Information Retrievers]] #Retrieval #MultiModal
 + [[https://arxiv.org/abs/2311.16452][Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine]] #ProyectoIA #Pablo #Prompting
 + [[https://stability.ai/research/adversarial-diffusion-distillation][Adversarial Diffusion Distillation]] #Distillation #DataGeneration
