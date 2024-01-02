@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://osf.io/preprints/socarxiv/jqxb6][Pygmalion Displacement: When Humanising AI Dehumanises Women]] #CIAIS
 + [[https://arxiv.org/abs/2310.16764][ConvNets Match Vision Transformers at Scale]] #NFNet #ComputerVision
 + [[https://arxiv.org/abs/2311.11045?utm_source=substack&utm_medium=email][Orca 2: Teaching Small Language Models How to Reason]] #LanguageModel #Prompting
 + [[https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6][Advanced RAG Techniques: an Illustrated Overview]] #RAG #Pablo
