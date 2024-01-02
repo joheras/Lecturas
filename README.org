@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://github.com/valeman/awesome-conformal-prediction][Awesome Conformal Prediction]] #ConformalPrediction
 + [[https://twitter.com/reach_vb/status/1742075640990322689][OpenVoice]] #Mirari
 
 ** Diciembre 2023
