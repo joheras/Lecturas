@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.plenainclusionlarioja.org/publicaciones/publicaciones-plena-inclusion-la-rioja][Publicaciones Plena Inclusión]] #LecturaFacil
 + [[https://huggingface.co/papers/2312.17120][Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math]] #Dataset #ProyectoIA
 + [[https://pubmed.ncbi.nlm.nih.gov/33219237/][The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading]] #OPTRetina #Segmentation [[https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1][Dataset]]
 + [[https://github.com/valeman/awesome-conformal-prediction][Awesome Conformal Prediction]] #ConformalPrediction
