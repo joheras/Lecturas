@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://pubmed.ncbi.nlm.nih.gov/33219237/][The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading]] #OPTRetina #Segmentation [[https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1][Dataset]]
 + [[https://github.com/valeman/awesome-conformal-prediction][Awesome Conformal Prediction]] #ConformalPrediction
 + [[https://twitter.com/reach_vb/status/1742075640990322689][OpenVoice]] #Mirari
 
