@@ -5,7 +5,19 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 
-
+- [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#diciembre-2024][Diciembre 2024]]
+  - [[#noviembre-2024][Noviembre 2024]]
+  - [[#octubre-2024][Octubre 2024]]
+  - [[#septiembre-2024][Septiembre 2024]]
+  - [[#agosto-2024][Agosto 2024]]
+  - [[#julio-2024][Julio 2024]]
+  - [[#junio-2024][Junio 2024]]
+  - [[#mayo-2024][Mayo 2024]]
+  - [[#abril-2024][Abril 2024]]
+  - [[#marzo-2024][Marzo 2024]]
+  - [[#febrero-2024][Febrero 2024]]
+  - [[#enero-2024][Enero 2024]]
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
   - [[#diciembre-2023][Diciembre 2023]]
   - [[#noviembre-2023][Noviembre 2023]]
@@ -66,6 +78,10 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del año 2023
+
+** Enero 2024
+
++ [[https://twitter.com/reach_vb/status/1742075640990322689][OpenVoice]] #Mirari
 
 ** Diciembre 2023
 
