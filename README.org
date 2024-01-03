@@ -81,6 +81,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.tandfonline.com/doi/abs/10.1080/17686733.2019.1619355][Exploring deep learning networks for tumour segmentation in infrared images]] #Zataca #ThermalImaging
++ [[https://link.springer.com/article/10.1007/s00521-021-06372-1][Thermal-based early breast cancer detection using inception V3, inception V4 and modified inception MV4]] #Zataca #ThermalImaging
++ [[https://ieeexplore.ieee.org/abstract/document/9261422][A Systematic Review of Breast Cancer Detection Using Thermography and Neural Networks]] #Zataca #ThermalImaging
 + [[https://huggingface.co/papers/2401.01055][LLaMA Beyond English: An Empirical Study on Language Capability Transfer]] #MultiLingual #NLP
 + [[https://www.sciencedirect.com/science/article/pii/S1568494621011303?via%3Dihub#fig3][End-to-end multi-task learning for simultaneous optic disc and cup segmentation and glaucoma classification in eye fundus images]] #OPTRetina #Angela
 + [[https://osf.io/preprints/socarxiv/jqxb6][Pygmalion Displacement: When Humanising AI Dehumanises Women]] #CIAIS
