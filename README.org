@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://huggingface.co/papers/2401.01055][LLaMA Beyond English: An Empirical Study on Language Capability Transfer]] #MultiLingual #NLP
 + [[https://www.sciencedirect.com/science/article/pii/S1568494621011303?via%3Dihub#fig3][End-to-end multi-task learning for simultaneous optic disc and cup segmentation and glaucoma classification in eye fundus images]] #OPTRetina #Angela
 + [[https://osf.io/preprints/socarxiv/jqxb6][Pygmalion Displacement: When Humanising AI Dehumanises Women]] #CIAIS
 + [[https://arxiv.org/abs/2310.16764][ConvNets Match Vision Transformers at Scale]] #NFNet #ComputerVision
