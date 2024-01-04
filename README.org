@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
+
++ [[https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/][The Random Transformer]] #Transformers
 + [[https://arxiv.org/abs/2401.00908][DocLLM: A layout-aware generative language model for multimodal document understanding]] #Documents #MultiModal
 + [[https://www.tandfonline.com/doi/abs/10.1080/17686733.2019.1619355][Exploring deep learning networks for tumour segmentation in infrared images]] #Zataca #ThermalImaging
 + [[https://link.springer.com/article/10.1007/s00521-021-06372-1][Thermal-based early breast cancer detection using inception V3, inception V4 and modified inception MV4]] #Zataca #ThermalImaging
