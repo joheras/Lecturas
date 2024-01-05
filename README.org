@@ -81,7 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
-
++ [[https://sander.ai/2014/08/05/spotify-cnns.html][Recommending music on Spotify with deep learning]] #Audio #RecommendationSystems
 + [[https://biii.eu/cellpose][cellpose]] [[https://www.nature.com/articles/s41592-020-01018-x][Cellpose: a generalist algorithm for cellular segmentation]] [[https://github.com/MouseLand/cellpose][GitHub]] #SueAnn
 + [[https://arxiv.org/abs/2305.18290][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] #Training #PreferenceModels
 + [[https://arxiv.org/abs/2401.00368][Improving Text Embeddings with Large Language Models]] #TextEmbeddings
