@@ -81,6 +81,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
+
++ [[https://biii.eu/cellpose][cellpose]] [[https://www.nature.com/articles/s41592-020-01018-x][Cellpose: a generalist algorithm for cellular segmentation]] [[https://github.com/MouseLand/cellpose][GitHub]] #SueAnn
++ [[https://arxiv.org/abs/2305.18290][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] #Training #PreferenceModels
 + [[https://arxiv.org/abs/2401.00368][Improving Text Embeddings with Large Language Models]] #TextEmbeddings
 + [[https://huggingface.co/blog/red-teaming][Red-Teaming Large Language Models]] #Pablo #RedTeaming
 + [[https://arxiv.org/abs/2307.09288][Llama 2: Open Foundation and Fine-Tuned Chat Models]] #RedTeaming #LLMs
