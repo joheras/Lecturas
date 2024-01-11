@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelMerge
 + [[https://aijblog.notion.site/Intro-to-ColBERT-v2-e1620a3c5e8747cd9f52ef8bbd5538bf][Intro to ColBERT - v2]] #Retrieval #Pablo
 + [[https://github.com/bclavie/RAGatouille][Welcome to RAGatouille]] #Retrieval #Pablo
 + [[https://sander.ai/2014/08/05/spotify-cnns.html][Recommending music on Spotify with deep learning]] #Audio #RecommendationSystems
