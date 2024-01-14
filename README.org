@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.nature.com/articles/s41591-023-02702-z?utm_source=substack&utm_medium=email][A deep learning system for predicting time to progression of diabetic retinopathy]] #OPTRetina #RetinalProgression
 + [[https://huggingface.co/posts/osanseviero/691474247332404][Merge Large Language Models with mergekit comparison]] #ModelMerge
 + [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelMerge
 + [[https://aijblog.notion.site/Intro-to-ColBERT-v2-e1620a3c5e8747cd9f52ef8bbd5538bf][Intro to ColBERT - v2]] #Retrieval #Pablo
