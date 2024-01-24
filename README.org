@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.philschmid.de/fine-tune-llms-in-2024-with-trl][How to Fine-Tune LLMs in 2024 with Hugging Face]] #FineTuning #LLM
++ [[https://huggingface.co/zero-gpu-explorers][ZeroGPU Spaces]] #Hardware #HuggingFace
 + [[https://www.nature.com/articles/s41591-023-02702-z?utm_source=substack&utm_medium=email][A deep learning system for predicting time to progression of diabetic retinopathy]] #OPTRetina #RetinalProgression
 + [[https://huggingface.co/posts/osanseviero/691474247332404][Merge Large Language Models with mergekit comparison]] #ModelMerge
 + [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelMerge
