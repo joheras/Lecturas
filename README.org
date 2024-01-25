@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00529-3][The impact of AI errors in a human-in-the-loop process]] #CIAIS #Bias #HumanInTheLoop
 + [[https://twitter.com/yoachlacombe/status/1744447885255614661][Text to Speech]] #Text2Speech #TTS #Mirari #Leo
 + [[https://twitter.com/predict_addict/status/1740642688829944049?s=20][TSPP: A Unified Benchmarking Tool for Time-series Forecasting]] #TimeSeriesForecasting #Neuroenergía
 + [[https://arxiv.org/abs/2107.13586][Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]] #Prompting
