@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://twitter.com/predict_addict/status/1740642688829944049?s=20][TSPP: A Unified Benchmarking Tool for Time-series Forecasting]] #TimeSeriesForecasting #Neuroenergía
 + [[https://arxiv.org/abs/2107.13586][Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]] #Prompting
 + [[https://www.philschmid.de/fine-tune-llms-in-2024-with-trl][How to Fine-Tune LLMs in 2024 with Hugging Face]] #FineTuning #LLM
 + [[https://huggingface.co/zero-gpu-explorers][ZeroGPU Spaces]] #Hardware #HuggingFace
