@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://arxiv.org/abs/2401.08417][Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation]] #Translation #ClaraMED
 + [[https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00529-3][The impact of AI errors in a human-in-the-loop process]] #CIAIS #Bias #HumanInTheLoop
 + [[https://twitter.com/yoachlacombe/status/1744447885255614661][Text to Speech]] #Text2Speech #TTS #Mirari #Leo
 + [[https://twitter.com/predict_addict/status/1740642688829944049?s=20][TSPP: A Unified Benchmarking Tool for Time-series Forecasting]] #TimeSeriesForecasting #Neuroenergía
