@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.ub.edu/edap/?page_id=2898][MANIFIESTO POR UN LENGUAJE CLARO EN LA ADMINISTRACIÓN]] #LenguajeClaro
 + [[https://arxiv.org/pdf/2306.11644.pdf][Textbooks Are All You Need]] #ProyectoNacional
 + [[https://academic.oup.com/bioinformatics/article/37/21/3856/6313159?login=true][Medical concept normalization in clinical trials with drug and disease representation learning ]] #Leo #Normalization
 + [[https://huggingface.co/papers/2401.10225][ChatQA: Building GPT-4 Level Conversational QA Models]] #Pablo #ChatBots
