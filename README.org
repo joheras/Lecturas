@@ -381,7 +381,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://dl.acm.org/doi/10.1561/1500000019][The Probabilistic Relevance Framework: BM25 and Beyond]] #ProyectoIA #InformationRetrieval
 + [[https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/][Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models]] #ProyectoIA #InformationRetrieval
 + [[https://huggingface.co/blog/ray-rag][Retrieval Augmented Generation with Huggingface Transformers and Ray]] #ProyectoIA #InformationRetrieval
-+ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10187428/#R31][Almanac: Retrieval-Augmented Language Models for Clinical Medicine]] #ProyectoIA #InformationRetrieval #VisualQuestionAnswering #Biomedical
++ [[https://ai.nejm.org/doi/full/10.1056/AIoa2300068][Almanac: Retrieval-Augmented Language Models for Clinical Medicine]] #ProyectoIA #InformationRetrieval #VisualQuestionAnswering #Biomedical
 + [[https://arxiv.org/abs/2002.08909][REALM: Retrieval-Augmented Language Model Pre-Training]] #ProyectoIA #InformationRetrieval
 + [[https://link.springer.com/article/10.1007/s11227-022-04474-8][Hybrid deep learning model for answering visual medical questions]] #ProyectoIA  #VisualQuestionAnswering #Biomedical
 + [[https://ieeexplore.ieee.org/abstract/document/10082873][Enhancing Biomedical ReQA With Adversarial Hard In-Batch Negative Samples]] #ProyectoIA #InformationRetrieval #QuestionAnswering #Biomedical
