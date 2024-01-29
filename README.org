@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://academic.oup.com/bioinformatics/article/37/21/3856/6313159?login=true][Medical concept normalization in clinical trials with drug and disease representation learning ]] #Leo #Normalization
 + [[https://huggingface.co/papers/2401.10225][ChatQA: Building GPT-4 Level Conversational QA Models]] #Pablo #ChatBots
 + [[https://arxiv.org/abs/2401.08417][Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation]] #Translation #ClaraMED
 + [[https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00529-3][The impact of AI errors in a human-in-the-loop process]] #CIAIS #Bias #HumanInTheLoop
