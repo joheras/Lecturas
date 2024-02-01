@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://pubmed.ncbi.nlm.nih.gov/35280929/][How Useful Is Image-Based Active Learning for Plant Organ Segmentation?]] #ActiveLearning
++ [[https://arxiv.org/abs/2302.04075][Best Practices in Active Learning for Semantic Segmentation]] #ActiveLearning 
 + [[https://justraigs.grand-challenge.org/][Justified Referral in AI Glaucoma Screening]] #OPTRetina
 + [[https://www.youtube.com/watch?v=nOxKexn3iBo][Getting Started With CUDA for Python Programmers]] #CUDA
 + [[https://www.sciencedirect.com/science/article/pii/S2666914523000325][Characteristics of a Large, Labeled Data Set for the Training of Artificial Intelligence for Glaucoma Screening with Fundus Photographs]] #OPTRetina #Glaucoma
