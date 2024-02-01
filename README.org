@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://huggingface.co/blog/patchtsmixer][PatchTSMixer in HuggingFace - Getting Started]] #Neuroenergia
++ [[https://huggingface.co/blog/patchtst][Patch Time Series Transformer in Hugging Face - Getting Started]] #Neuroenergia
 + [[https://huggingface.co/papers/2401.02994][Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM]] #Chats
 + [[https://wanglab.ai/u-mamba.html][U-Mamba Enhancing Long-range Dependency for Biomedical Image Segmentation]] #Segmentation
 + [[https://pubmed.ncbi.nlm.nih.gov/35280929/][How Useful Is Image-Based Active Learning for Plant Organ Segmentation?]] #ActiveLearning
