@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Enero 2024
 
++ [[https://www.youtube.com/watch?v=nOxKexn3iBo][Getting Started With CUDA for Python Programmers]] #CUDA
 + [[https://www.sciencedirect.com/science/article/pii/S2666914523000325][Characteristics of a Large, Labeled Data Set for the Training of Artificial Intelligence for Glaucoma Screening with Fundus Photographs]] #OPTRetina #Glaucoma
 + [[https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/][Sentence Embeddings. Cross-encoders and Re-ranking]] #Embeddings #Pablo
 + [[https://www.ub.edu/edap/?page_id=2898][MANIFIESTO POR UN LENGUAJE CLARO EN LA ADMINISTRACIÓN]] #LenguajeClaro
