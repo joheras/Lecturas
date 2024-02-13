@@ -79,6 +79,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Febrero 2024
+
++ [[https://www.biorxiv.org/content/10.1101/2024.02.03.576026v1.full.pdf][BiaPy: A unified framework for versatile bioimage analysis with deep learning]] #Arrate #Adrian
+
 ** Enero 2024
 
 + [[https://huggingface.co/blog/constitutional_ai][Constitutional AI]] #Pablo #Guardrails
