@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2024
 
++ [[https://arxiv.org/abs/2402.13616][YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information]] #ObjectDetection
++ [[https://www.mdpi.com/1424-8220/24/5/1472][Synthetic Corpus Generation for Deep Learning-Based Translation of Spanish Sign Language]] #LenguaSignos
 + [[https://ai4k12.org/][The Artificial Intelligence (AI) for K-12 initiative (AI4K12) is jointly sponsored by AAAI and CSTA]] #ArtificialIntelligence #Courses
 + [[https://speechbrain.github.io/index.html][SpeechBrain Open-Source Conversational AI for Everyone]] #Audio #Mirari
 + [[https://www.biorxiv.org/content/10.1101/2024.02.10.579780v1][Cellpose3: one-click image restoration for improved cellular segmentation]] #Arrate #Segmentación #Adrián
