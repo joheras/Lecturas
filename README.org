@@ -79,6 +79,13 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Marzo 2024
+
++ [[https://comunicacionclara.com/docs/guia-comunicacion-clara-prodigioso-volcan.pdf][El derecho a entender]] #LecturaFacil #Mirari
++ [[https://www.iso.org/obp/ui/en/#iso:std:iso-iec:23859:ed-1:v1:en][ISO/IEC 23859:2023(en) Information technology — User interfaces — Requirements and recommendations on making written text easy to read and understand]] #LecturaFacil #Mirari
++ [[https://www.iso.org/obp/ui/en/#iso:std:iso:24495:-1:ed-1:v1:en][ISO 24495-1:2023(en) Plain language — Part 1: Governing principles and guidelines]] #LecturaFacil #Mirari
++ [[https://olgacarreras.blogspot.com/2024/02/libro-accesibilidad-web-wcag-22-de.html][Libro "Accesibilidad Web. WCAG 2.2 de forma sencilla". Descarga gratuita.]] #AccesibilidadWeb #LecturaFacil #Mirari
+
 ** Febrero 2024
 
 + [[https://arxiv.org/abs/2402.13616][YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information]] #ObjectDetection
