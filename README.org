@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2024
 
++ [[https://huggingface.co/blog/watermarking][AI Watermarking 101: Tools and Techniques]] #watermarking #CIAIS
 + [[https://huggingface.co/blog/how-to-generate][How to generate text: using different decoding methods for language generation with Transformers]] #Transformers #Decoding #Master
 + [[https://comunicacionclara.com/docs/guia-comunicacion-clara-prodigioso-volcan.pdf][El derecho a entender]] #LecturaFacil #Mirari
 + [[https://www.iso.org/obp/ui/en/#iso:std:iso-iec:23859:ed-1:v1:en][ISO/IEC 23859:2023(en) Information technology — User interfaces — Requirements and recommendations on making written text easy to read and understand]] #LecturaFacil #Mirari
