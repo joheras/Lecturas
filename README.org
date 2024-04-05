@@ -79,6 +79,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Abril 2024
+
++ [[https://huggingface.co/blog/cosmopedia][Cosmopedia: how to create large-scale synthetic data for pre-training]] #SyntheticData #NLP
+
 ** Marzo 2024
 
 + [[https://vickiboykis.com/what_are_embeddings/][What are embeddings]] #Embeddings
