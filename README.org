@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://www.crue.org/publicacion/la-inteligencia-artificial-generativa-en-la-docencia-universitaria/][La Inteligencia Artificial Generativa en la Docencia Universitaria]] #IA #Docencia
 + [[https://huggingface.co/blog/quanto-introduction][Quanto: a pytorch quantization toolkit]] #quantization
 + [[https://huggingface.co/blog/arena-lighthouz][Introducing the Chatbot Guardrails Arena]] #GuardRails #Evaluation
 + [[https://huggingface.co/docs/transformers/main/en/model_doc/llava_next][LLaVA-NeXT]] #ProyectoIA #Accesibilidad 
