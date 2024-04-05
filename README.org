@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://huggingface.co/blog/arena-lighthouz][Introducing the Chatbot Guardrails Arena]] #GuardRails #Evaluation
 + [[https://huggingface.co/docs/transformers/main/en/model_doc/llava_next][LLaVA-NeXT]] #ProyectoIA #Accesibilidad 
 + [[https://huggingface.co/blog/cosmopedia][Cosmopedia: how to create large-scale synthetic data for pre-training]] #SyntheticData #NLP
 
