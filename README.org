@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930][Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation]] #RAG #Pablo
 + [[https://vickiboykis.com/what_are_embeddings/][What are embeddings?]] #Embeddings
 + [[https://www.crue.org/publicacion/la-inteligencia-artificial-generativa-en-la-docencia-universitaria/][La Inteligencia Artificial Generativa en la Docencia Universitaria]] #IA #Docencia
 + [[https://huggingface.co/blog/quanto-introduction][Quanto: a pytorch quantization toolkit]] #quantization
