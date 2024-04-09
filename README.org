@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://huggingface.co/spaces/prs-eth/marigold-lcm][Marigold-LCM Depth Estimation]] #DepthEstimation #Angela
 + [[https://arxiv.org/abs/2306.14824][Kosmos-2: Grounding Multimodal Large Language Models to the World]] #Accesibilidad #ProyectoIA #Mirari
 + [[https://arxiv.org/abs/2311.05550][Towards End-to-End Spoken Grammatical Error Correction]] #ASR #Mirari
 + [[https://www.biorxiv.org/content/10.1101/2024.04.06.587952v1][Transformers do not outperform Cellpose]] #CellSegmentation #HackathonMadrid
