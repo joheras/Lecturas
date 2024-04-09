@@ -81,6 +81,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://arxiv.org/abs/2311.05550][Towards End-to-End Spoken Grammatical Error Correction]] #ASR #Mirari
++ [[https://www.biorxiv.org/content/10.1101/2024.04.06.587952v1][Transformers do not outperform Cellpose]] #CellSegmentation #HackathonMadrid
++ [[https://www.972mag.com/lavender-ai-israeli-army-gaza/][Lavender’: The AI machine directing Israel’s bombing spree in Gaza]] #CIAIS
 + [[https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930][Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation]] #RAG #Pablo
 + [[https://vickiboykis.com/what_are_embeddings/][What are embeddings?]] #Embeddings
 + [[https://www.crue.org/publicacion/la-inteligencia-artificial-generativa-en-la-docencia-universitaria/][La Inteligencia Artificial Generativa en la Docencia Universitaria]] #IA #Docencia
