@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360969/#rmb212331-bib-0003][Development of an automated two pronuclei detection system on time‐lapse embryo images using deep learning techniques]] #María
 + [[https://www.youtube.com/watch?v=eMlx5fFNoYc][Visualizing Attention]] #LLM #Docencia
 + [[https://stability.ai/news/introducing-stable-lm-2-12b][Introducing Stable LM 2 12B]] #Pablo #LLM
 + [[https://proceedings.neurips.cc/paper_files/paper/2023/hash/47f30d67bce3e9824928267e9355420f-Abstract-Conference.html][LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation]] #Image2Text #Evaluation
