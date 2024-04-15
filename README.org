@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://coconut-mode.com/posts/ring-attention/][Ring Attention Explained]] #LLM
 + [[https://huggingface.co/blog/vlms][Vision Language Models Explained]] #VisionModels #Mirari #Accesibilidad
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360969/#rmb212331-bib-0003][Development of an automated two pronuclei detection system on time‐lapse embryo images using deep learning techniques]] #María
 + [[https://www.youtube.com/watch?v=eMlx5fFNoYc][Visualizing Attention]] #LLM #Docencia
