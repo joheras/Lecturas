@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://huggingface.co/blog/vlms][Vision Language Models Explained]] #VisionModels
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360969/#rmb212331-bib-0003][Development of an automated two pronuclei detection system on time‐lapse embryo images using deep learning techniques]] #María
 + [[https://www.youtube.com/watch?v=eMlx5fFNoYc][Visualizing Attention]] #LLM #Docencia
 + [[https://stability.ai/news/introducing-stable-lm-2-12b][Introducing Stable LM 2 12B]] #Pablo #LLM
