@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://github.com/openvinotoolkit/anomalib/blob/main/README.md][A library for benchmarking, developing and deploying deep learning anomaly detection algorithms]] #AnomalyDetection #Bruno
 + [[https://huggingface.co/blog/idefics2][Introducing Idefics2: A Powerful 8B Vision-Language Model for the community]] #ImageCaptioning #VisionModels #Mirari #Accesibilidad
 + [[https://coconut-mode.com/posts/ring-attention/][Ring Attention Explained]] #LLM
 + [[https://huggingface.co/blog/vlms][Vision Language Models Explained]] #VisionModels #Mirari #Accesibilidad
