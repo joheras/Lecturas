@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://weaviate.io/blog/dspy-optimizers][Your Language Model Deserves Better Prompting]] #Prompting #Pablo
 + [[https://huggingface.co/projecte-aina/FlorRAG][FLOR-6.3B Model optimized for Retrieval Augmented Generation]] #Rag #Pablo
 + [[https://huggingface.co/blog/gigant/vlm-design][Design choices for Vision Language Models in 2024]] #VisionLanguageModels #ProyectoIA
 + [[https://arxiv.org/pdf/2404.08940.pdf][Introducing Super RAGs in Mistral 8x7B-v1]] #Pablo #RAG #ProyectoIA
