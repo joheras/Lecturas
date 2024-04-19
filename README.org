@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deae064/7643856?login=true][Generative artificial intelligence to produce high-fidelity blastocyst-stage embryo images ]] #Maria
 + [[https://weaviate.io/blog/dspy-optimizers][Your Language Model Deserves Better Prompting]] #Prompting #Pablo
 + [[https://huggingface.co/projecte-aina/FlorRAG][FLOR-6.3B Model optimized for Retrieval Augmented Generation]] #Rag #Pablo
 + [[https://huggingface.co/blog/gigant/vlm-design][Design choices for Vision Language Models in 2024]] #VisionLanguageModels #ProyectoIA
