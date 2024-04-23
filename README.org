@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2024
 
++ [[https://arxiv.org/abs/2404.08676][ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming]] #RedTeaming #Pablo #Evaluacion
 + [[https://arxiv.org/abs/2404.12272][Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences]] #Pablo #LLM #Validation
 + [[https://academic.oup.com/humrep/article/37/10/2275/6659059][Embryologist agreement when assessing blastocyst implantation probability: is data-driven prediction the solution to embryo assessment subjectivity?]] #Maria
 + [[https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deae064/7643856?login=true][Generative artificial intelligence to produce high-fidelity blastocyst-stage embryo images ]] #Maria
