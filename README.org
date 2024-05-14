@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://arxiv.org/abs/2405.07988][A Generalist Learner for Multifaceted Medical Image Interpretation]] #ProyectoIA 
++ [[https://arxiv.org/abs/2405.07960][AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments]] #ProyectoIA 
 + [[https://twitter.com/HugoLaurencon/status/1787500741071880677][ Idefics2 ]] #ProyectoIA #VisualLanguageModel
 
 ** Abril 2024
