@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://huggingface.co/blog/paligemma][PaliGemma – Google's Cutting-Edge Open Vision Language Model]] #Vision
 + [[https://glosario.pikaramagazine.com/inicio.php?lg=es&sec=inicio][Glosario Lengua de Signos Española]] #LSE #Mirari #LecturaFacil
 + [[https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B][Meta Llama Guard 2]] #Pablo #Guards
 + [[https://twitter.com/__kolesnikov__/status/1790464234330972239][Finetune PaliGemma]] #Vision #ImageCaptioning #PlenaInclusion #Mirari
