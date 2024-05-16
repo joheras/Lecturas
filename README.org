@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://twitter.com/__kolesnikov__/status/1790464234330972239][Finetune PaliGemma]] #Vision #ImageCaptioning #PlenaInclusion #Mirari
 + [[https://github.com/huggingface/diarizers][Diarizers]] #Diarization #Mirari #Sara
 + [[https://arxiv.org/abs/2405.07988][A Generalist Learner for Multifaceted Medical Image Interpretation]] #ProyectoIA 
 + [[https://arxiv.org/abs/2405.07960][AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments]] #ProyectoIA 
