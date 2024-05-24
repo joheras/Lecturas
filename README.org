@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://www.inclusion-europe.eu/wp-content/uploads/2017/06/ES_Information_for_all.pdf][Información para todos Las reglas europeas para hacer información fácil de leer y comprender]] #Mirari #PlenaInclusion
 + [[https://arxiv.org/abs/2212.09720][The case for 4-bit precision: k-bit Inference Scaling Laws]] #Quantization
 + [[https://www.accessible-social.com/][Accessible Social]] #Accesibilidad #Mirari
 + [[https://huggingface.co/blog/danaaubakirova/doc-augmentation][Multimodal Augmentation for Documents: Recovering “Comprehension” in “Reading and Comprehension” task]] #DocumentAnalysis
