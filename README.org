@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818881][Use of Artificial Intelligence Chatbots in Interpretation of Pathology Reports]] #TextoClaro #Leo
 + [[https://github.com/TMElyralab/MusePose?tab=readme-ov-file][MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation]] #LenguaSignos #ProyectoINDRA
 + [[https://arxiv.org/pdf/2405.10718][SignLLM: Sign Languages Production Large Language Models]] [[https://signllm.github.io/][GitHub]] #LenguaSignos #ProyectoINDRA
 + [[https://www.inclusion-europe.eu/wp-content/uploads/2017/06/ES_Information_for_all.pdf][Información para todos Las reglas europeas para hacer información fácil de leer y comprender]] #Mirari #PlenaInclusion
