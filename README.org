@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2024
 
++ [[https://arxiv.org/abs/2405.17247][An Introduction to Vision-Language Modeling]] #VisionLanguageModels #ProyectoIA
 + [[https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024][CRAG: Comprehensive RAG Benchmark]] #RAG #Pablo
 + [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818881][Use of Artificial Intelligence Chatbots in Interpretation of Pathology Reports]] #TextoClaro #Leo
 + [[https://github.com/TMElyralab/MusePose?tab=readme-ov-file][MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation]] #LenguaSignos #ProyectoINDRA
