@@ -79,6 +79,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Junio 2024
+
++ [[https://colab.research.google.com/github/kamilakesbi/notebooks/blob/main/synthetic_pipeline_diarizers.ipynb#scrollTo=jA0Rh26gpxU7][🤗 Generate synthetic speaker diarization datas with Diarizers]] #Diarization #Mirari
+
 ** Mayo 2024
 
 + [[https://arxiv.org/abs/2405.17247][An Introduction to Vision-Language Modeling]] #VisionLanguageModels #ProyectoIA
