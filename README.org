@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://huggingface.co/blog/NicoNico/green-bit-llm][GPU Poor Savior: Revolutionizing Low-Bit Open Source LLMs and Cost-Effective Edge Computing]] #LanguageModels #Quantization #FineTuning
 + [[https://huggingface.co/blog/falcon2-11b][Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages]] #LanguageModel #VisualLanguageModel #ProyectoIA
 + [[https://colab.research.google.com/github/kamilakesbi/notebooks/blob/main/synthetic_pipeline_diarizers.ipynb#scrollTo=jA0Rh26gpxU7][🤗 Generate synthetic speaker diarization datas with Diarizers]] #Diarization #Mirari
 
