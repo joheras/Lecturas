@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://medium.com/decodingml/llm-twin-course/home][Production-Ready LLM Twin Course]] #LanguageModels #Pablo
 + [[https://www.youtube.com/watch?v=hDa-M91MSGU][Fine-tune PaliGemma for image to JSON use cases]] #VisualLanguageModels #ProyectoIA
 + [[https://arxiv.org/abs/2405.15007][RE-Adapt: Reverse Engineered Adaptation of Large Language Models]] #InstructionTuning
 + [[https://huggingface.co/blog/NicoNico/green-bit-llm][GPU Poor Savior: Revolutionizing Low-Bit Open Source LLMs and Cost-Effective Edge Computing]] #LanguageModels #Quantization #FineTuning
