@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://www.youtube.com/watch?v=hDa-M91MSGU][Fine-tune PaliGemma for image to JSON use cases]] #VisualLanguageModels #ProyectoIA
 + [[https://arxiv.org/abs/2405.15007][RE-Adapt: Reverse Engineered Adaptation of Large Language Models]] #InstructionTuning
 + [[https://huggingface.co/blog/NicoNico/green-bit-llm][GPU Poor Savior: Revolutionizing Low-Bit Open Source LLMs and Cost-Effective Edge Computing]] #LanguageModels #Quantization #FineTuning
 + [[https://huggingface.co/blog/falcon2-11b][Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages]] #LanguageModel #VisualLanguageModel #ProyectoIA
