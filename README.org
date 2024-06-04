@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2344355][An Empathic GPT-Based Chatbot to Talk About Mental Disorders With Spanish Teenagers]] #Pablo #Estancia
 + [[https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1][https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1]] #Datasets
 + [[https://medium.com/decodingml/llm-twin-course/home][Production-Ready LLM Twin Course]] #LanguageModels #Pablo
 + [[https://www.youtube.com/watch?v=hDa-M91MSGU][Fine-tune PaliGemma for image to JSON use cases]] #VisualLanguageModels #ProyectoIA
