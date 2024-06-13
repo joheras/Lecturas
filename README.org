@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://qwenlm.github.io/blog/qwen2/][Hello Qwen2]] #LLM #Pablo #Prevenia
 + [[https://link.springer.com/article/10.1007/s11517-024-03131-x][Automatic text classification of prostate cancer malignancy scores in radiology reports using NLP models]] #TextClassification #Leo
 + [[https://github.com/huggingface/optimum-nvidia][https://github.com/huggingface/optimum-nvidia]] #Pablo #LLM #Optimization
 + [[https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2344355][An Empathic GPT-Based Chatbot to Talk About Mental Disorders With Spanish Teenagers]] #Pablo #Estancia
