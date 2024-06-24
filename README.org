@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://github.com/ganeshsar/UnityPythonMediaPipeAvatar][Unity + Python Google MediaPipe Avatar]] #LSEAvatar #ProyectoIndra
 + [[https://www.spreadthesign.com/es.es/search/][Spreadthesign]] #LSEAvatar #ProyectoIndra
 + [[https://unianimate.github.io/][Unianimate]] #LSEAvatar #ProyectoIndra
 + [[https://www.nature.com/articles/s41597-023-02182-3][An annotated human blastocyst dataset to benchmark deep learning architectures for in vitro fertilization]] #Dataset #Maria [[https://figshare.com/articles/figure/Blastocyst_dataset_zip/20123153/3][Enlace]]
