@@ -81,6 +81,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://www.youtube.com/watch?v=IoGaGfU1CIg][multimodal AI. open-source. in a nutshell.]] #MultiModal #ProyectoIA
++ [[https://www.youtube.com/watch?v=QaqX9B3jqYI][Supercharging RAG with Generative Feedback Loops from Weaviate]] #RAG
 + [[https://huggingface.co/papers/2311.06242][Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks]] #VisionLanguageModel #ProyectoIA
 + [[https://github.com/ganeshsar/UnityPythonMediaPipeAvatar][Unity + Python Google MediaPipe Avatar]] #LSEAvatar
 + [[https://arxiv.org/abs/2405.19660][PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals]] #Pablo #Chatbots #PrevenIA
