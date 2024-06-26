@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2024
 
++ [[https://arxiv.org/abs/2405.19660][PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals]] #Pablo #Chatbots #PrevenIA
 + [[https://github.com/ganeshsar/UnityPythonMediaPipeAvatar][Unity + Python Google MediaPipe Avatar]] #LSEAvatar #ProyectoIndra
 + [[https://www.spreadthesign.com/es.es/search/][Spreadthesign]] #LSEAvatar #ProyectoIndra
 + [[https://unianimate.github.io/][Unianimate]] #LSEAvatar #ProyectoIndra
