@@ -79,6 +79,12 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2023
 
+** Julio 2024
+
++ [[https://www.philschmid.de/fine-tune-embedding-model-for-rag][Fine-tune Embedding models for Retrieval Augmented Generation (RAG)]] #Pablo #RAG #PrevenIA
+
+
+
 ** Junio 2024
 
 + [[https://www.youtube.com/watch?v=IoGaGfU1CIg][multimodal AI. open-source. in a nutshell.]] #MultiModal #ProyectoIA
