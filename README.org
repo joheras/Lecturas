@@ -82,7 +82,7 @@ Este repositorio es una recopilación de lecturas.
 ** Julio 2024
 
 + [[https://www.philschmid.de/fine-tune-embedding-model-for-rag][Fine-tune Embedding models for Retrieval Augmented Generation (RAG)]] #Pablo #RAG #PrevenIA
-
++ [[https://www.20minutos.es/noticia/5524396/0/importancia-lengua-signos-terapia-sesiones-mas-didacticas-mas-fluidas-mas-completas/][La importancia de la lengua de signos en terapia: sesiones más didácticas, más fluidas y más completas]] #LSEAvatar #TecnologiasAccesibles
 
 
 ** Junio 2024
