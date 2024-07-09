@@ -81,6 +81,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Española en redes informáticas]] #LSEAvatar #TecnologiasAccesibles
++ [[https://www.rpdiscapacidad.gob.es/actualidad/noticias/0-504.htm][guías para elaborar materiales educativos accesibles]] #TecnologiasAccesibles
++ [[https://www.rpdiscapacidad.gob.es/estudios-publicaciones/2024_GuiaVideo.htm][Guía 6. Vídeos accesibles con subtitulado, audiodescripción y lengua de signos]] #LSEAvatar #TecnologiasAccesibles
 + [[https://x.com/akshay_pachaar/status/1808840963961598311][Faster RAG]] #RAG #Pablo
 + [[https://huggingface.co/papers/2304.08069][DETRs Beat YOLOs on Real-time Object Detection]] #ObjectDetection #RealTime
 + [[https://www.philschmid.de/fine-tune-embedding-model-for-rag][Fine-tune Embedding models for Retrieval Augmented Generation (RAG)]] #Pablo #RAG #PrevenIA
