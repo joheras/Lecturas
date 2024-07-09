@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://huggingface.co/spaces/KwaiVGI/LivePortrait][LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control]] #LSEAvatar #CopiaExpresiones 
 + [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Española en redes informáticas]] #LSEAvatar #TecnologiasAccesibles
 + [[https://www.rpdiscapacidad.gob.es/actualidad/noticias/0-504.htm][guías para elaborar materiales educativos accesibles]] #TecnologiasAccesibles
 + [[https://www.rpdiscapacidad.gob.es/estudios-publicaciones/2024_GuiaVideo.htm][Guía 6. Vídeos accesibles con subtitulado, audiodescripción y lengua de signos]] #LSEAvatar #TecnologiasAccesibles
