@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://link.springer.com/article/10.1007/s13748-024-00326-z#Sec11][Advanced deep learning and large language models for suicide ideation detection on social media]] #SuicideIdeation #PrevenIA #Pablo
 + [[https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf][What Goes Around Comes Around... And Around...]] #Databases
 + [[https://huggingface.co/spaces/KwaiVGI/LivePortrait][LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control]] #LSEAvatar #CopiaExpresiones 
 + [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Española en redes informáticas]] #LSEAvatar #TecnologiasAccesibles
