@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://huggingface.co/blog/presidio-pii-detection][Experimenting with Automatic PII Detection on the Hub using Presidio]] #CIAIS #PersonallyIdentifyingInformation
 + [[https://ollama.com/][Ollama: Get up and running with large language models.]] #LLMs #Inference
 + [[https://huggingface.co/blog/dpo_vlm][Preference Optimization for Vision Language Models with TRL]] #ProyectoIA #VisualLanguageModels
 + [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305362][Building a framework for fake news detection in the health domain]] #MedicalFactChecking #Leo
