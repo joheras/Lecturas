@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://huggingface.co/blog/dpo_vlm][Preference Optimization for Vision Language Models with TRL]] #VLM #ProyectoIA
 + [[https://huggingface.co/blog/winning-aimo-progress-prize][How NuminaMath Won the 1st AIMO Progress Prize]] #Mathematics #LLMs
 + [[https://huggingface.co/blog/presidio-pii-detection][Experimenting with Automatic PII Detection on the Hub using Presidio]] #CIAIS #PersonallyIdentifyingInformation
 + [[https://ollama.com/][Ollama: Get up and running with large language models.]] #LLMs #Inference
