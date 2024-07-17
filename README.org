@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://github.com/stanfordnlp/dspy/blob/main/intro.ipynb][DSPy: Programming with Foundation Models]] #LanguageModels
 + [[https://arxiv.org/abs/2407.11144][YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus]] #LSEAvatar
 + [[https://huggingface.co/blog/argilla-chatbot][How we leveraged distilabel to create an Argilla 2.0 Chatbot]] #Chatbot #Fine-Tuning #Pablo #PrevenIA
 + [[https://arxiv.org/pdf/1712.09923][What do we need to build explainable AI systems for the medical domain?]] #Explainability
