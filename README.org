@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2024
 
++ [[https://www.nationalgeographic.es/ciencia/2024/07/inteligencia-artificial-problemas-salud-mental-peligros-oportunidades-uso-chatbots][Cada vez más personas usan chatbots de inteligencia artificial para problemas de salud mental]] #Pablo #PrevenIA
 + [[https://github.com/stanfordnlp/dspy/blob/main/intro.ipynb][DSPy: Programming with Foundation Models]] #LanguageModels
 + [[https://arxiv.org/abs/2407.11144][YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus]] #LSEAvatar
 + [[https://huggingface.co/blog/argilla-chatbot][How we leveraged distilabel to create an Argilla 2.0 Chatbot]] #Chatbot #Fine-Tuning #Pablo #PrevenIA
