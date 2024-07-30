@@ -78,9 +78,11 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del año 2023
++ [[][]]
 
 ** Julio 2024
 
++ [[https://ai.meta.com/blog/segment-anything-2/][Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images]] #segmentation #videos
 + [[https://huggingface.co/blog/smollm][SmolLM - blazingly fast and remarkably powerful]] #SmallLanguageModels
 + [[https://www.nationalgeographic.es/ciencia/2024/07/inteligencia-artificial-problemas-salud-mental-peligros-oportunidades-uso-chatbots][Cada vez más personas usan chatbots de inteligencia artificial para problemas de salud mental]] #Pablo #PrevenIA
 + [[https://github.com/stanfordnlp/dspy/blob/main/intro.ipynb][DSPy: Programming with Foundation Models]] #LanguageModels
