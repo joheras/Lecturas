@@ -81,6 +81,7 @@ Este repositorio es una recopilación de lecturas.
 + [[][]]
 
 ** Julio 2024
++ [[https://arxiv.org/abs/2407.20046][Exploring Large Language Models to generate Easy to Read content]] #Easy2Read #Mirari #PlenaInclusion
 + [[https://arxiv.org/html/2310.02567v2][Improving Automatic VQA Evaluation Using Large Language Models]] #leo #prevenia #Pablo #metrics #Alignment 
 + [[https://ai.meta.com/blog/segment-anything-2/][Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images]] #segmentation #videos
 + [[https://huggingface.co/blog/smollm][SmolLM - blazingly fast and remarkably powerful]] #SmallLanguageModels
