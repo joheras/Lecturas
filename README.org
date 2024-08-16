@@ -80,6 +80,10 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 + [[][]]
 
+** Agosto 2024
+
++ [[https://huggingface.co/docs/transformers/en/tasks/image_text_to_text][Image, text to text]] #VisualLanguageModels #ProyectoIA
+
 ** Julio 2024
 + [[https://arxiv.org/abs/2407.20046][Exploring Large Language Models to generate Easy to Read content]] #Easy2Read #Mirari #PlenaInclusion
 + [[https://arxiv.org/html/2310.02567v2][Improving Automatic VQA Evaluation Using Large Language Models]] #leo #prevenia #Pablo #metrics #Alignment 
