@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://huggingface.co/blog/unsung-heroes][The 5 Most Under-Rated Tools on Hugging Face]] #HuggingFace #Clases
 + [[https://huggingface.co/docs/transformers/en/tasks/monocular_depth_estimation][Monocular depth estimation]] #DepthEstimation
 + [[https://huggingface.co/docs/transformers/en/tasks/image_text_to_text][Image, text to text]] #VisualLanguageModels #ProyectoIA
 
