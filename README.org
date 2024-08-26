@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://blog.isaacmiller.dev/posts/dspy][Why I bet on DSPy]] #promptoptimization 
 + [[https://t.co/b8w40b6NIr][DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search]] #TheoremProving #lean #ReinforcementLearning
 + [[https://airisk.mit.edu/][What are the risks from Artificial Intelligence?]] #CIAIS #Ética #Riesgos
 + [[https://arxiv.org/abs/2408.12637][Building and better understanding vision-language models: insights and future directions]] #VLM #ProyectoIA
