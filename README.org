@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://qwenlm.github.io/blog/qwen2-audio/][Qwen2-Audio: Chat with Your Voice!]] #Audio #Mirari
 + [[https://huggingface.co/docs/diffusers/main/en/using-diffusers/loading_adapters][Adapting diffusion models]] #DiffusionModels #Personalization
 + [[https://blog.isaacmiller.dev/posts/dspy][Why I bet on DSPy]] #promptoptimization 
 + [[https://t.co/b8w40b6NIr][DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search]] #TheoremProving #lean #ReinforcementLearning
