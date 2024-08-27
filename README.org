@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://fireworks.ai/blog/fireworks-quantization][How Fireworks evaluates quantization precisely and interpretably]] #Quantization #Evaluation 
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state][A Visual Guide to Mamba and State Space Models]] #Mamba #Architecture
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization][A Visual Guide to Quantization]] #Quantization
 + [[https://qwenlm.github.io/blog/qwen2-audio/][Qwen2-Audio: Chat with Your Voice!]] #Audio #Mirari
