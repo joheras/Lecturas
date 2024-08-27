@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://martinfowler.com/articles/2024-restrict-algorithm.html][Instead of restricting AI and algorithms, make them explainable]] #CIAIS #Explicabilidad
 + [[https://fireworks.ai/blog/fireworks-quantization][How Fireworks evaluates quantization precisely and interpretably]] #Quantization #Evaluation 
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state][A Visual Guide to Mamba and State Space Models]] #Mamba #Architecture
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization][A Visual Guide to Quantization]] #Quantization
