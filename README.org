@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://arxiv.org/abs/2406.18682][The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm]]  #Multilingual #RedTeaming #HarmReduction
 + [[https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb][Direct Preference Optimization (DPO) for LLM Alignment (From Scratch)]] #LLMs #Alignment #DPO
 + [[https://arxiv.org/abs/2403.03893][From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models]] #ToxicityDetection #Multilingual
 + [[https://openai.com/index/gpt-4o-system-card/][GPT-4o System Card]] #modelcard #redteaming #seguridad
