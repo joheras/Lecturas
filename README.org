@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://arxiv.org/abs/2403.03893][From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models]] #ToxicityDetection #Multilingual
 + [[https://openai.com/index/gpt-4o-system-card/][GPT-4o System Card]] #modelcard #redteaming #seguridad
 + [[https://huggingface.co/papers/2408.08872][xGen-MM (BLIP-3): A Family of Open Large Multimodal Models]] #LMM #proyectoIA
 + [[https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html][Small but Mighty: Introducing answerai-colbert-small]] #InformationRetrieval #Rerankers #Pablo
