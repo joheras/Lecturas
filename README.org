@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://eugeneyan.com/writing/llm-evaluators/][Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)]] #llm #Evaluation #pablo
 + [[https://www.vanderschaar-lab.com/why-tabular-foundation-models-should-be-a-research-priority/][Why Tabular Foundation Models Should Be a Research Priority]] #FoundationModels #TabularData
 + [[https://arxiv.org/abs/2406.18682][The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm]]  #Multilingual #RedTeaming #HarmReduction
 + [[https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb][Direct Preference Optimization (DPO) for LLM Alignment (From Scratch)]] #LLMs #Alignment #DPO
