@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2024
 
++ [[https://huggingface.co/yifeihu/TB-OCR-preview-0.1][TB-OCR: an end-to-end OCR model handling text, math latex, and markdown formats all at once]] #OCR
 + [[https://amaarora.github.io/posts/2024-06-28%20ml-4M.html#image-retrieval-using-4m-21][Image retrieval app using Apple’s 4M-21 any-to-any vision model]] #imageretrieval #multimodality
 + [[https://eugeneyan.com/writing/llm-evaluators/][Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)]] #llm #Evaluation #pablo
 + [[https://www.vanderschaar-lab.com/why-tabular-foundation-models-should-be-a-research-priority/][Why Tabular Foundation Models Should Be a Research Priority]] #FoundationModels #TabularData
