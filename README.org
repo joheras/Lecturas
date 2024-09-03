@@ -80,6 +80,12 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 + [[][]]
 
+** Septiembre 2024
+
++ [[https://huggingface.co/learn/audio-course/chapter0/introduction][Welcome to the Hugging Face Audio course!]] #Audio #Mirari
++ [[https://huggingface.co/learn/audio-course/chapter7/transcribe-meeting][Transcribe a meeting]] #Diarization #Mirari
++ [[https://blog.haizelabs.com/posts/dspy/][Red-Teaming Language Models with DSPy]] #RedTeaming #DSPY #ProgrammingPromptEngineering
+
 ** Agosto 2024
 
 + [[https://huggingface.co/blog/synthetic-data-save-costs][Synthetic data: save money, time and carbon with open source]]  #SyntheticData #Mapi
