@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://openreview.net/forum?id=1cq9pmwRgG][Towards Safe Large Language Models for Medicine]] #LLM #Pablo
 + [[https://huggingface.co/learn/audio-course/chapter0/introduction][Welcome to the Hugging Face Audio course!]] #Audio #Mirari
 + [[https://huggingface.co/learn/audio-course/chapter7/transcribe-meeting][Transcribe a meeting]] #Diarization #Mirari
 + [[https://blog.haizelabs.com/posts/dspy/][Red-Teaming Language Models with DSPy]] #RedTeaming #DSPY #ProgrammingPromptEngineering
