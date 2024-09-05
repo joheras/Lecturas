@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://huangzhii.github.io/nuclei-HAI/][A pathologist–AI collaboration framework for enhancing diagnostic accuracies and efficiencies]] #Bruno #ActiveLearning #Pathology
 + [[https://huggingface.co/blog/anakin87/spectrum][Selective fine-tuning of Language Models with Spectrum]] #FineTuning #LLMs #Selective
 + [[https://github.com/huggingface/trl][TRL - Transformer Reinforcement Learning]] #ReinforcementLearning
 + [[https://openreview.net/forum?id=1cq9pmwRgG][Towards Safe Large Language Models for Medicine]] #LLM #Pablo
