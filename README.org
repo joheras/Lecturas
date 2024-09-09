@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://ec.europa.eu/commission/presscorner/detail/es/ip_24_4123][Entrada en vigor de la Ley Europea de Inteligencia Artificial]] #CIAIS
 + [[https://github.com/merveenoyan/smol-vision][Smol Vision 🐣]] #ComputerVision #Optimisation #SmallModels
 + [[https://huangzhii.github.io/nuclei-HAI/][A pathologist–AI collaboration framework for enhancing diagnostic accuracies and efficiencies]] #Bruno #ActiveLearning #Pathology
 + [[https://huggingface.co/blog/anakin87/spectrum][Selective fine-tuning of Language Models with Spectrum]] #FineTuning #LLMs #Selective
