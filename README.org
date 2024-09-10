@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://www.esade.edu/ecpol/es/publicaciones/cuando-la-ia-generativa-incrementa-la-desigualdad-evidencia-experimental-de-una-competicion-de-debates-universitarios/][Cuando la IA generativa incrementa la desigualdad: evidencia experimental de una competición de debates universitarios]] #ChatGPT #CIAIS
 + [[https://arxiv.org/pdf/2407.16117][A Logic for Veracity: Development and Implementation]] #Coq #Provenance
 + [[https://www.nature.com/articles/s42256-024-00889-5#data-availability][Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling]] #Bruno #Histopathology #SyntheticImages
 + [[https://ec.europa.eu/commission/presscorner/detail/es/ip_24_4123][Entrada en vigor de la Ley Europea de Inteligencia Artificial]] #CIAIS
