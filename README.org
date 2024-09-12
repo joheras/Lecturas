@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://link.springer.com/article/10.1007/s13748-024-00325-0][Self-supervised approach for diabetic retinopathy severity detection using vision transformer]] #SelfSupervisedLearning #OPTRetina
 + [[https://arxiv.org/pdf/2408.16725][Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming]] #OmniModels
 + [[https://x.com/petebankhead/status/1833945619481985405][InstanSeg]] #Bioimage #Segmentation
 + [[https://huggingface.co/mistral-community/pixtral-12b-240910][pixtral-12b-240910 ]] #VLA
