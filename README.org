@@ -82,6 +82,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://arxiv.org/pdf/2408.16725][Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming]] #OmniModels
++ [[https://x.com/petebankhead/status/1833945619481985405][InstanSeg]] #Bioimage #Segmentation
 + [[https://huggingface.co/mistral-community/pixtral-12b-240910][pixtral-12b-240910 ]] #VLA
 + [[https://scopeblog.stanford.edu/2024/03/26/ai-large-language-models-doctors-patients/][Large language models in the clinic: AI enters the physician-patient mix]] #ProyectoIA
 + [[https://arxiv.org/abs/2409.06666][LLaMA-Omni: Seamless Speech Interaction with Large Language Models]] #OmniModels
