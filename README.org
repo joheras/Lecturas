@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://arxiv.org/abs/2409.06666][LLaMA-Omni: Seamless Speech Interaction with Large Language Models]] #OmniModels
 + [[https://aitp-conference.org/2024/slides/SW.pdf][A Few Open Problems in Neural Theorem Proving]] #TheoremProving #Lean
 + [[https://www.youtube.com/watch?v=wuZtUMEiKWY&list=PLZCA39VpuaZZ1cjH4vEIdXIb0dCpZs3Y5][YOLOv8: How to Train for Object Detection on a Custom Dataset]] #ObjectDetection
 + [[https://www.esade.edu/ecpol/es/publicaciones/cuando-la-ia-generativa-incrementa-la-desigualdad-evidencia-experimental-de-una-competicion-de-debates-universitarios/][Cuando la IA generativa incrementa la desigualdad: evidencia experimental de una competición de debates universitarios]] #ChatGPT #CIAIS
