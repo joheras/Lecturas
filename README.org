@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://scopeblog.stanford.edu/2024/03/26/ai-large-language-models-doctors-patients/][Large language models in the clinic: AI enters the physician-patient mix]] #ProyectoIA
 + [[https://arxiv.org/abs/2409.06666][LLaMA-Omni: Seamless Speech Interaction with Large Language Models]] #OmniModels
 + [[https://aitp-conference.org/2024/slides/SW.pdf][A Few Open Problems in Neural Theorem Proving]] #TheoremProving #Lean
 + [[https://www.youtube.com/watch?v=wuZtUMEiKWY&list=PLZCA39VpuaZZ1cjH4vEIdXIb0dCpZs3Y5][YOLOv8: How to Train for Object Detection on a Custom Dataset]] #ObjectDetection
