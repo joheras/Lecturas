@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://colab.research.google.com/github/datacommonsorg/llm-tools/blob/master/notebooks/datagemma_rig.ipynb#scrollTo=tWMgvkQRHSet][Grounding LLM statistics facts using Retrieval Interleaved Generation (RIG)]] #RIG #Provenance 
 + [[https://aclanthology.org/2021.acl-long.88/][Explainable Prediction of Text Complexity: The Missing Preliminaries for Text Simplification]] #TextSimplification #Explainability
 + [[https://link.springer.com/article/10.1007/s13748-024-00325-0][Self-supervised approach for diabetic retinopathy severity detection using vision transformer]] #SelfSupervisedLearning #OPTRetina
 + [[https://arxiv.org/pdf/2408.16725][Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming]] #OmniModels
