@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://arxiv.org/abs/2409.07314][MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications]] #ProyectoIA #LLMs #Evaluation
 + [[https://mental.jmir.org/2024/1/e59479][The Opportunities and Risks of Large Language Models in Mental Health]] #Pablo #MentalHealth #Chatbot
 + [[https://blog.google/technology/health/google-ai-and-health/mental-health-google-ai-principles/?linkId=10939736][4 principles to guide AI in supporting mental health]] #Pablo #MentalHealth #Chatbot
 + [[https://colab.research.google.com/github/datacommonsorg/llm-tools/blob/master/notebooks/datagemma_rig.ipynb#scrollTo=tWMgvkQRHSet][Grounding LLM statistics facts using Retrieval Interleaved Generation (RIG)]] #RIG #Provenance 
