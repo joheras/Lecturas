@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://huggingface.co/blog/community-tools][Introducing Community Tools]]
 + [[https://www.rungalileo.io/hallucinationindex][A Ranking & Evaluation Framework For LLM Hallucinations]] #Pablo #RAG #LLMs
 + [[https://www.answer.ai/posts/2024-09-16-rerankers.html][rerankers: A Lightweight Python Library to Unify Ranking Methods]] #Pablo #Reranking #RAG
 + [[https://arxiv.org/abs/2409.07314][MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications]] #ProyectoIA #LLMs #Evaluation
