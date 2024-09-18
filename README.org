@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://huggingface.co/blog/sql-console][Introducing the SQL Console on Datasets]]
 + [[https://huggingface.co/papers/2409.10516][RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval]] #RAG #LongContext
 + [[https://huggingface.co/blog/community-tools][Introducing Community Tools]]
 + [[https://www.rungalileo.io/hallucinationindex][A Ranking & Evaluation Framework For LLM Hallucinations]] #Pablo #RAG #LLMs
