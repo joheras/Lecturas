@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://danielvanstrien.xyz/posts/post-with-code/colpali/2024-09-23-generate_colpali_dataset.html][Generating a dataset of queries for training and fine-tuning ColPali models on a UFO dataset]] #VLM #ProyectoIA #MultiModalRAG
 + [[https://github.com/dleemiller/WordLlama/tree/main][WordLlama]] #Embeddings #NLP #Pablo
 + [[https://research.google/blog/heal-a-framework-for-health-equity-assessment-of-machine-learning-performance/][HEAL: A framework for health equity assessment of machine learning performance]] #Ethics #Evaluation 
 + [[https://huggingface.co/blog/sql-console][Introducing the SQL Console on Datasets]]
