@@ -82,6 +82,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
+
++ [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6611][Adaptación de ASR al habla de personas con síndrome de Down]] #ASR #Mirari #Accesibilidad
 + [[https://danielvanstrien.xyz/posts/post-with-code/colpali/2024-09-23-generate_colpali_dataset.html][Generating a dataset of queries for training and fine-tuning ColPali models on a UFO dataset]] #VLM #ProyectoIA #MultiModalRAG
 + [[https://github.com/dleemiller/WordLlama/tree/main][WordLlama]] #Embeddings #NLP #Pablo
 + [[https://research.google/blog/heal-a-framework-for-health-equity-assessment-of-machine-learning-performance/][HEAL: A framework for health equity assessment of machine learning performance]] #Ethics #Evaluation 
