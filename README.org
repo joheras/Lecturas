@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://huggingface.co/blog/fine-video][FineVideo: behind the scenes]] #Video #DatasetConstruction
 + [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610][NoticIA: A Clickbait Article Summarization Dataset in Spanish]] #TeAhorroUnClick
 + [[https://arxiv.org/abs/2311.11077][Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning]] #FineTuning
 + [[https://arxiv.org/abs/2203.16082][Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition]] #Adapters #CatastrophicForgetting #ASR
