@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://huggingface.co/papers/2409.16235][EuroLLM: Multilingual Language Models for Europe]] #LLMs #Multilingual
 + [[https://huggingface.co/papers/2409.12941][Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation]] #RAG #Pablo #Evaluation
 + [[https://arxiv.org/abs/2409.11242v1][Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse]] #RAG #Pablo #Evaluation
 + [[https://huggingface.co/blog/fine-video][FineVideo: behind the scenes]] #Video #DatasetConstruction
