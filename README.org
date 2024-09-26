@@ -82,6 +82,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/][Llama 3.2: Revolutionizing edge AI and vision with open, customizable models]] #LLM #VLM
++ [[https://blog.google/intl/es-es/productos/presentamos-youtube-health-en-espana-para-conectar-a-las-personas-con-fuentes-sanitarias-autorizadas/][YouTube Health en España conecta a las personas con fuentes sanitarias autorizadas]] #ProyectoIA 
 + [[https://huggingface.co/papers/2409.16235][EuroLLM: Multilingual Language Models for Europe]] #LLMs #Multilingual
 + [[https://huggingface.co/papers/2409.12941][Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation]] #RAG #Pablo #Evaluation
 + [[https://arxiv.org/abs/2409.11242v1][Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse]] #RAG #Pablo #Evaluation
