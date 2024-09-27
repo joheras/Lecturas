@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://arxiv.org/pdf/2409.14988][Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs]] #MedicalLLMs #FineTuning #Prompting
 + [[https://www.arxiv.org/abs/2409.15334][Evaluating Large Language Models with Tests of Spanish as a Foreign Language: Pass or Fail?]] #ProyectoSara #SpanishEvaluation
 + [[https://www.arxiv.org/abs/2406.17789][Spanish and LLM Benchmarks: is MMLU Lost in Translation?]] #MachineTranslation #Limitations #ProyectoSara
 + [[https://arxiv.org/pdf/2409.15127][Boosting Healthcare LLMs Through Retrieved Context]] #MedicalLLMs #ProyectoIA
