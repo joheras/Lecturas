@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://www.arxiv.org/abs/2406.17789][Spanish and LLM Benchmarks: is MMLU Lost in Translation?]] #MachineTranslation #Limitations #ProyectoSara
 + [[https://arxiv.org/pdf/2409.15127][Boosting Healthcare LLMs Through Retrieved Context]] #MedicalLLMs #ProyectoIA
 + [[https://m.youtube.com/watch?v=bq1Plo2RhYI][Reliable, fully local RAG agents with LLaMA3.2-3b]] #RAG #Pablo #langgraph
 + [[https://arxiv.org/pdf/2409.14160][Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI]] #CIAIS
