@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2024
 
++ [[https://arxiv.org/pdf/2409.11355][Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think]] #DepthEstimation #DiffusionModels
 + [[https://www.nature.com/articles/s41746-024-01258-7][A framework for human evaluation of large language models in healthcare derived from literature review]] #LLM #HumanEvaluation #Healthcare #ProyectoIA
 + [[https://besaya.infor.uva.es/sepln24/paper17.pdf][First Attempt to an Automatic Adaptation of Explanatory Structures in Spanish to Easy-to-Read]] #Easy2Read #PlenaInclusion #Mirari
 + [[https://arxiv.org/pdf/2409.14988][Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs]] #MedicalLLMs #FineTuning #Prompting
