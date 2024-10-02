@@ -80,6 +80,13 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 + [[][]]
 
+
+** Octubre 2024
+
+
++ [[https://link.springer.com/article/10.1007/s10815-023-02973-y][Artificial intelligence in time-lapse system: advances, applications, and future perspectives in reproductive medicine]] #Maria #IVF #TimeLapse
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732604/pdf/nihms-1648710.pdf][Automated Measurements of Key Morphological Features of Human Embryos for IVF]] #Maria #IVF
+
 ** Septiembre 2024
 
 + [[https://www.philschmid.de/fine-tune-multimodal-llms-with-trl][How to Fine-Tune Multimodal Models or VLMs with Hugging Face TRL]] #Accesibilidad #VLMs
