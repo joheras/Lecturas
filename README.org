@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://parlance-labs.com/education/][Educational resources on LLMs]] #LLMs #Course
 + [[https://arxiv.org/pdf/2407.07726][PaliGemma: A versatile 3B VLM for transfer]] #VLM
 + [[https://arxiv.org/abs/2310.18351][BioImage.IO Chatbot: A Community-Driven AI Assistant for Integrative Computational Bioimaging]] #Agents #Bioimage
 + [[https://link.springer.com/article/10.1007/s10815-023-02973-y][Artificial intelligence in time-lapse system: advances, applications, and future perspectives in reproductive medicine]] #Maria #IVF #TimeLapse
