@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://research.sign.mt/][Sign Language Processing]] #LSEAvatar
 + [[https://parlance-labs.com/education/][Educational resources on LLMs]] #LLMs #Course
 + [[https://arxiv.org/pdf/2407.07726][PaliGemma: A versatile 3B VLM for transfer]] #VLM
 + [[https://arxiv.org/abs/2310.18351][BioImage.IO Chatbot: A Community-Driven AI Assistant for Integrative Computational Bioimaging]] #Agents #Bioimage
