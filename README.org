@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://github.com/QwenLM/Qwen2-VL][Qwen2-VL]] #VLM
 + [[https://llava-vl.github.io/blog/2024-10-03-llava-critic/][LLaVA-Critic: Learning to Evaluate Multimodal Models]] #LLMAsaJudge #Multimodal
 + [[https://research.sign.mt/][Sign Language Processing]] #LSEAvatar
 + [[https://parlance-labs.com/education/][Educational resources on LLMs]] #LLMs #Course
