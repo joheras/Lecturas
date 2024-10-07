@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://llava-vl.github.io/blog/2024-10-03-llava-critic/][LLaVA-Critic: Learning to Evaluate Multimodal Models]] #LLMAsaJudge #Multimodal
 + [[https://research.sign.mt/][Sign Language Processing]] #LSEAvatar
 + [[https://parlance-labs.com/education/][Educational resources on LLMs]] #LLMs #Course
 + [[https://arxiv.org/pdf/2407.07726][PaliGemma: A versatile 3B VLM for transfer]] #VLM
