@@ -83,6 +83,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://github.com/huggingface/evaluation-guidebook][The LLM Evaluation guidebook ⚖️]]  #Evaluation #Pablo
++ [[https://ehudreiter.com/2022/06/01/error-annotations-to-evaluate/][Lets use error annotations to evaluate systems!]] #Evaluation #Pablo
 + [[https://arxiv.org/html/2303.05499v5][Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection]] #OpenSet #ObjectDetection
 + [[https://arxiv.org/pdf/2401.14159][Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks]] #OpenSet #SemanticSegmentation
 + [[https://digital-cousins.github.io/][ACDC: Automated Creation of Digital Cousins for Robust Policy Learning]] #DigitalCousins
