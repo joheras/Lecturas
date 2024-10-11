@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://digital-cousins.github.io/][ACDC: Automated Creation of Digital Cousins for Robust Policy Learning]] #DigitalCousins
 + [[https://arxiv.org/abs/2410.04289][Self-Supervised Anomaly Detection in the Wild: Favor Joint Embeddings Methods]] #SelfSupervisedLearning #AnomalyDetection #Joaquin #ProyectoADER
 + [[https://github.com/rhymes-ai/Aria?tab=readme-ov-file][ARIA : An Open Multimodal Native Mixture-of-Experts Model]] #Multimodal #MOE #VLM
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts][A Visual Guide to Mixture of Experts]] #LLMs #MOE
