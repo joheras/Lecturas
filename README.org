@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://arxiv.org/abs/2409.02897][LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA]] #LongContext #RAG [[https://x.com/rasbt/status/1845468766118850862][twitter]]
 + [[https://homebrew.ltd/blog/llama-learns-to-talk][🍓 Ichigo: Llama Learns to Talk]] #MultiModal
 + [[https://github.com/huggingface/evaluation-guidebook][The LLM Evaluation guidebook ⚖️]]  #Evaluation #Pablo
 + [[https://ehudreiter.com/2022/06/01/error-annotations-to-evaluate/][Lets use error annotations to evaluate systems!]] #Evaluation #Pablo
