@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://www.answer.ai/posts/2024-10-15-how-to-synthesize-data.html][How To T̶r̶a̶i̶n̶ Synthesize Your D̶r̶a̶g̶o̶n̶ Data]] #SyntheticData #Mirari #PlenaInclusion
 + [[https://aclanthology.org/2024.findings-acl.198.pdf][Red Teaming Visual Language Models]] #RedTeaming #Pablo #VLM 
 + [[https://github.com/huggingface/evaluation-guidebook][LLM Evaluation Guidebook]] #LLMEvaluation #Pablo
 + [[https://arxiv.org/abs/2409.02897][LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA]] #LongContext #RAG [[https://x.com/rasbt/status/1845468766118850862][twitter]]
