@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://huggingface.co/blog/abhinand/medembed-finetuned-embedding-models-for-medical-ir][MedEmbed: Fine-Tuned Embedding Models for Medical / Clinical IR]] #Embedding #MedicalData #SyntheticData
 + [[https://huggingface.co/blog/sdiazlor/custom-text-classifier-ai-human-feedback][How to build a custom text classifier without days of human labeling]] #TextClassification #DataLabelling #MasterNLP
 + [[https://www.answer.ai/posts/2024-10-15-how-to-synthesize-data.html][How To T̶r̶a̶i̶n̶ Synthesize Your D̶r̶a̶g̶o̶n̶ Data]] #SyntheticData #Mirari #PlenaInclusion
 + [[https://aclanthology.org/2024.findings-acl.198.pdf][Red Teaming Visual Language Models]] #RedTeaming #Pablo #VLM 
