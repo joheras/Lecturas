@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_vlms][Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)]] #MultiModalRAG #VLMs 
 + [[https://huggingface.co/HiTZ/EriBERTa-base][EriBERTa A Bilingual Pre-Trained Language Model for Clinical Natural Language Processing]] #MedicalLLM #ProyectoIA
 + [[https://huggingface.co/blog/abhinand/medembed-finetuned-embedding-models-for-medical-ir][MedEmbed: Fine-Tuned Embedding Models for Medical / Clinical IR]] #Embedding #MedicalData #SyntheticData
 + [[https://huggingface.co/blog/sdiazlor/custom-text-classifier-ai-human-feedback][How to build a custom text classifier without days of human labeling]] #TextClassification #DataLabelling #MasterNLP
