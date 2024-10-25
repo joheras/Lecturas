@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://arxiv.org/abs/2410.02707][LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations]] #Hallucinations
 + [[https://arxiv.org/abs/2410.07514][O1O: Grouping of Known Classes to Identify Unknown Objects as Odd-One-Out]] #ObjectDetection #UnknownObjects #IterativeLearning
 + [[https://huggingface.co/blog/cinepile2][CinePile 2.0 - making stronger datasets with adversarial refinement]] #VideoQA
 + [[https://huggingface.co/blog/synthid-text][Introducing SynthID Text]] #Watermarking #FakeDetection
