@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://arxiv.org/abs/2410.13458][MedINST: Meta Dataset of Biomedical Instructions]] #MedicalLLM #ProyectoIA
 + [[https://ollama.com/blog/tool-support][Ollama Tool support]] #Tools #Agents
 + [[https://arxiv.org/abs/2410.02707][LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations]] #Hallucinations
 + [[https://arxiv.org/abs/2410.07514][O1O: Grouping of Known Classes to Identify Unknown Objects as Odd-One-Out]] #ObjectDetection #UnknownObjects #IterativeLearning
