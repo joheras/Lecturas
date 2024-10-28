@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://arxiv.org/abs/2410.05993][Aria: An Open Multimodal Native Mixture-of-Experts Model]] #MultiModal #ProyectoIA
 + [[https://stable-diffusion-art.com/animatediff-morphing-transition-video-comfyui/][AnimateDiff morphing transition video (ComfyUI)]] #Morphing
 + [[https://arxiv.org/abs/2410.13458][MedINST: Meta Dataset of Biomedical Instructions]] #MedicalLLM #ProyectoIA
 + [[https://ollama.com/blog/tool-support][Ollama Tool support]] #Tools #Agents
