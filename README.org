@@ -83,6 +83,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2024
 
++ [[https://github.com/argilla-io/distilabel][distilabel: Synthesize data for AI and add feedback on the fly!]] #DataSynthesis #Pablo
 + [[https://huggingface.co/blog/universal_assisted_generation][Universal Assisted Generation: Faster Decoding with Any Assistant Model]] #LLMs #Decoding
 + [[https://huggingface.co/blog/mlabonne/decoding-strategies][Decoding Strategies in Large Language Models]] #LLMs #Decoding
 + [[https://huggingface.co/blog/digital-green-llm-judge][Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge]] #Evaluation #LLMJudge #Pablo
