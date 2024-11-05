@@ -82,6 +82,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/][How I finally got agentic RAG to work right]] #Agents #RAG #ProyectoIA
++ [[https://weaviate.io/blog/what-is-agentic-rag][What is Agentic RAG]] #Agents #RAG #ProyectoIA
 + [[https://medask.tech/blogs/introducing-symptomcheck-bench/][Introducing SymptomCheck Bench]] #Evaluation #Agent
 + [[https://arxiv.org/abs/2305.01275][Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation]] #SAM #SemiSupervised #Adrian
 + [[https://arxiv.org/abs/2305.05803][Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation]] #SAM #SemiSupervised #Adrian
