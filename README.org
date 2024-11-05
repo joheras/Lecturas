@@ -80,6 +80,11 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 + [[][]]
 
+** Noviembre 2024
+
++ [[https://medask.tech/blogs/introducing-symptomcheck-bench/][Introducing SymptomCheck Bench]] #Evaluation #Agent
++ [[https://arxiv.org/abs/2305.01275][Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation]] #SAM #SemiSupervised #Adrian
++ [[https://arxiv.org/abs/2305.05803][Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation]] #SAM #SemiSupervised #Adrian
 
 ** Octubre 2024
 
