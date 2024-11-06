@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://vectorize.io/multimodal-rag-patterns/][Multimodal RAG Patterns Every AI Developer Should Know]] #MultiModal #RAG #ProyectoIA
 + [[https://accedacris.ulpgc.es/handle/10553/134597][Lectura Fácil: Procesos y entornos de una nueva modalidad de traducción]] #LecturaFacil #Mirari #PlenaInclusion
 + [[https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/][How I finally got agentic RAG to work right]] #Agents #RAG #ProyectoIA
 + [[https://weaviate.io/blog/what-is-agentic-rag][What is Agentic RAG]] #Agents #RAG #ProyectoIA
