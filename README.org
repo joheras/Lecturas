@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://accedacris.ulpgc.es/handle/10553/134597][Lectura Fácil: Procesos y entornos de una nueva modalidad de traducción]] #LecturaFacil #Mirari #PlenaInclusion
 + [[https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/][How I finally got agentic RAG to work right]] #Agents #RAG #ProyectoIA
 + [[https://weaviate.io/blog/what-is-agentic-rag][What is Agentic RAG]] #Agents #RAG #ProyectoIA
 + [[https://medask.tech/blogs/introducing-symptomcheck-bench/][Introducing SymptomCheck Bench]] #Evaluation #Agent
