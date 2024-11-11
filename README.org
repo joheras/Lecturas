@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://developers.googleblog.com/es/introducing-mediapipe-solutions-for-on-device-machine-learning/][Presentamos las soluciones de MediaPipe para el aprendizaje automático integrado en el dispositivo]] #MediaPipe #LSEAvatar
 + [[https://ollama.com/blog/llama3.2-vision][Llama 3.2 Vision]] #Ollama #LVM #ProyectoIA
 + [[https://magazine.sebastianraschka.com/p/understanding-multimodal-llms][Understanding Multimodal LLMs]] #MultiModalLLM #ProyectoIA
 + [[https://vectorize.io/multimodal-rag-patterns/][Multimodal RAG Patterns Every AI Developer Should Know]] #MultiModal #RAG #ProyectoIA
