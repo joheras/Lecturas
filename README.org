@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://microsoft.github.io/presidio/][Presidio: Data Protection and De-identification SDK]]  #Anonimización #Mirari #ProyectoSara
 + [[https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/][Day 3 - Building an agent with LangGraph]] #Agents #ProyectoIA
 + [[https://www.kaggle.com/whitepaper-agents][Agents]] #Agents #ProyectoIA
 + [[https://learnopencv.com/lightrag/][LightRAG: Simple and Fast Retrieval-Augmented Generation for Legal Doc Analysis]] #GraphLLM #Retrieval #RAG
