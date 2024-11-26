@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2024
 
++ [[https://haystack.deepset.ai/blog/swarm-of-agents][Create a Swarm of Agents]] #Agents
 + [[https://aclanthology.org/2024.tsar-1.7.pdf][Society of Medical Simplifiers]] #Agents #TextSimplification #Leo
 + [[https://huggingface.co/blog/smolvlm][SmolVLM - small yet mighty Vision Language Model]] #VisualLanguageModel #ProyectoIA
 + [[https://microsoft.github.io/presidio/][Presidio: Data Protection and De-identification SDK]]  #Anonimización #Mirari #ProyectoSara
