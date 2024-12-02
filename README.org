@@ -80,6 +80,10 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2023
 + [[][]]
 
+** Diciembre 2024
+
++ [[https://www.nature.com/articles/s41746-024-01344-w][The path forward for large language models in medicine is open]] #LLMs #ProyectoNacional2024
+
 ** Noviembre 2024
 
 + [[https://haystack.deepset.ai/blog/swarm-of-agents][Create a Swarm of Agents]] #Agents
