@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://arxiv.org/pdf/2405.12971][BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once]] #SemanticSegmentation #ImageParsing
 + [[https://www.nature.com/articles/s41746-024-01344-w][The path forward for large language models in medicine is open]] #LLMs #ProyectoNacional2024
 
 ** Noviembre 2024
