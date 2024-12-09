@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://huggingface.co/blog/paligemma2][Welcome PaliGemma 2 – New vision language models by Google]] #VisualLanguageModels
 + [[https://ollama.com/blog/structured-outputs][Structured outputs]] #Ollama #JSON
 + [[https://github.com/yformer/EfficientTAM?tab=readme-ov-file][Efficient Track Anything Model]] #Tracking #Maria
 + [[https://huggingface.co/blog/cfm-case-study][Investing in Performance: Fine-tune small models with LLM insights - a CFM case study]] #NER #Annotation
