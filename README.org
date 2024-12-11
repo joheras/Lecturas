@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/][Introducing Gemini 2.0: our new AI model for the agentic era]] #Agents
 + [[https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/][The Shift from Models to Compound AI Systems]]  #Nacional2024 #Agents
 + [[https://huggingface.co/blog/paligemma2][Welcome PaliGemma 2 – New vision language models by Google]] #VisualLanguageModels
 + [[https://ollama.com/blog/structured-outputs][Structured outputs]] #Ollama #JSON
