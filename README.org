@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://queue.acm.org/detail.cfm?id=3704442][The State of Digital Accessibility]] #Accesibility #Mirari
 + [[https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/][FACTS Grounding: A new benchmark for evaluating the factuality of large language models]] #Factuality
 + [[https://huggingface.co/learn/cookbook/agent_rag][Agentic RAG: turbocharge your RAG with query reformulation and self-query! 🚀]] #RAG #Agents #ProyectoIA
 + [[https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_reranker_and_vlms][Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs]] #VisualLanguageModels #RAG
