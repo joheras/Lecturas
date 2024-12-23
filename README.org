@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://huggingface.co/blog/modernbert][Finally, a Replacement for BERT]] #ModernBERT #Encoder
 + [[https://huggingface.co/blog/logits-processor-zoo][Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo]] #LLMs #Generation
 + [[https://www.philschmid.de/fine-tune-llms-in-2025][How to fine-tune open LLMs in 2025 with Hugging Face]] #LLMs #FineTuning
 + [[https://carlo.ai/posts/fastcore-quantum][Fastcore Transform x QuantumFastcore Transform x Quantum]] #Cuantica
