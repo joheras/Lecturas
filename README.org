@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://huggingface.co/blog/train_memory][Visualize and understand GPU memory in PyTorch]] #GPU #Master
 + [[https://huggingface.co/papers/2412.15484][Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage]] #ImageCaptioning #Agents
 + [[https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute][Scaling test-time compute with open models]] #TestTimeCompute
 + [[https://huggingface.co/blog/modernbert][Finally, a Replacement for BERT]] #ModernBERT #Encoder
