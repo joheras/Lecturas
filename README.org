@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00224-3/fulltext][Tackling algorithmic bias and promoting transparency in health datasets: the STANDING Together consensus recommendations]] #MedicalDatasets #Provenance
 + [[https://huggingface.co/blog/merve/quantization][Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳]] #Quantization
 + [[https://supermedintel.github.io/Medical-SAM2/][Medical SAM 2: Segment medical images as video via Segment Anything Model 2]] #SemanticSegmentation
 + [[https://nexa.ai/blogs/omniaudio-2.6b][OmniAudio-2.6B: World's Fastest Audio Language Model for Edge Deployment]] #AudioLanguageModel
