@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://nexa.ai/blogs/omniaudio-2.6b][OmniAudio-2.6B: World's Fastest Audio Language Model for Edge Deployment]] #AudioLanguageModel
 + [[https://huggingface.co/blog/bamba][Bamba: Inference-Efficient Hybrid Mamba2 Model 🐍]] #Mamba
 + [[https://huggingface.co/blog/big-bench-audio-release][Evaluating Audio Reasoning with Big Bench Audio]] #Audio
 + [[https://huggingface.co/blog/train_memory][Visualize and understand GPU memory in PyTorch]] #GPU #Master
