@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://arxiv.org/abs/2309.07864][The Rise and Potential of Large Language Model Based Agents: A Survey]] #Agents #ProyectoNacional2024
 + [[https://arxiv.org/abs/2408.04650][Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools]] #Pablo #PrevenIA
 + [[https://arxiv.org/abs/2412.07769][BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities]] #MedicalLLM #ProyectoIA
 + [[https://huggingface.co/blog/dpo_vlm][Preference Optimization for Vision Language Models with TRL]] #VLM #Quantization
