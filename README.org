@@ -82,6 +82,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2024
 
++ [[https://arxiv.org/abs/2412.07769][BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities]] #MedicalLLM #ProyectoIA
 + [[https://huggingface.co/blog/dpo_vlm][Preference Optimization for Vision Language Models with TRL]] #VLM #Quantization
 + [[https://realpython.com/podcasts/rpp/232/][Episode 232: Exploring Modern Sentiment Analysis Approaches in Python]] #SentimentAnalysis #MasterNLP
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00224-3/fulltext][Tackling algorithmic bias and promoting transparency in health datasets: the STANDING Together consensus recommendations]] #MedicalDatasets #Provenance
