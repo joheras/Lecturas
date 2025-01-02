@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://medium.com/@elisowski/ai-agents-vs-agentic-ai-whats-the-difference-and-why-does-it-matter-03159ee8c2b4][AI Agents vs Agentic AI: What’s the Difference and Why Does It Matter?]] #Agents #ProyectoNacional2024
 + [[https://huggingface.co/blog/smolagents][Introducing smolagents, a simple library to build agents]] #Agents #ProyectoNacional2024
 
 ** Diciembre 2024
