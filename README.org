@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://arxiv.org/abs/2311.07397][AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation]] #Hallucinations #MultiModal
 + [[https://github.com/huggingface/smol-course/tree/main][a smol course]] #Course #HuggingFace #LanguageModels
 + [[https://github.com/huggingface/smol-course/blob/main/6_synthetic_datasets/instruction_datasets.md][Generating Instruction Datasets]] #SyntheticData
 + [[https://www.madrimasd.org/blogs/matematicas/2024/12/30/150806][Historias de la IA: los autómatas]] #Automatas
