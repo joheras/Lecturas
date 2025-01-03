@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/papers/2501.01149][A3: Android Agent Arena for Mobile GUI Agents]] #ProyectoNacional #Agents
 + [[https://github.com/tonywu71/colpali-cookbooks/blob/main/examples/use_transformers_native_colpali.ipynb][Use the 🤗 transformers-native implementation of ColPali]] #VisualQuestionAnswering #VisualRetrieval
 + [[https://arxiv.org/abs/2311.07397][AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation]] #Hallucinations #MultiModal
 + [[https://github.com/huggingface/smol-course/tree/main][a smol course]] #Course #HuggingFace #LanguageModels
