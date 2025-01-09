@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huyenchip.com//2025/01/07/agents.html][Agents]] #ProyectoNacional #Agents 
 + [[https://aiguide.substack.com/p/did-openai-just-solve-abstract-reasoning][Did OpenAI Just Solve Abstract Reasoning?]] #AbstractReasoning #OpenAI
 + [[https://www.gradio.app/guides/agents-and-tool-usage#building-with-visibly-thinking-llms][Building a UI for an LLM Agent]] #ProyectoNacional #Agents #Interfaz
 + [[https://huggingface.co/papers/2501.01149][A3: Android Agent Arena for Mobile GUI Agents]] #ProyectoNacional #Agents
