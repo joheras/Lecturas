@@ -93,7 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
-+ [[https://x.com/NirDiamantAI/status/1875964427922702731][Controllable RAG Agent]] #RAG #Agents #Pablo
++ [[https://x.com/NirDiamantAI/status/1875964427922702731][Controllable RAG Agent]] #RAG #Agents #Pablo [[https://github.com/NirDiamant/Controllable-RAG-Agent][GitHub]]
 + [[https://github.com/virattt/ai-hedge-fund][AI Hedge Fund]] #Agents #JesusVillota
 + [[https://towardsdatascience.com/multi-agentic-rag-with-hugging-face-code-agents-005822122930][Multi-Agentic RAG with Hugging Face Code Agents]] #Agents #Mirari #ProyectoIA
 + [[https://arxiv.org/abs/2501.04001][Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos]] #MLLM
