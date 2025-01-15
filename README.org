@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/blog/ethics-soc-7][AI Agents Are Here. What Now?]] #Agents #Mirari #ProyectoIA
 + [[https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips][NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips]] #GPUs #ProyectoNacional
 + [[https://x.com/NirDiamantAI/status/1875964427922702731][Controllable RAG Agent]] #RAG #Agents #Pablo [[https://github.com/NirDiamant/Controllable-RAG-Agent][GitHub]]
 + [[https://github.com/virattt/ai-hedge-fund][AI Hedge Fund]] #Agents #JesusVillota
