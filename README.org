@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/blog/static-embeddings][Train 400x faster Static Embedding Models with Sentence Transformers]] #Embeddings
 + [[https://huggingface.co/blog/timm-transformers][Timm ❤️ Transformers: Use any timm model with transformers]] [[https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/image_classification.ipynb][Image Classification HuggingFace]] #ImageClassification
 + [[https://huggingface.co/blog/ethics-soc-7][AI Agents Are Here. What Now?]] #Agents #Mirari #ProyectoIA
 + [[https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips][NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips]] #GPUs #ProyectoNacional
