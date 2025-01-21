@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/learn/cookbook/search_and_learn][Scaling Test-Time Compute for Longer Thinking in LLMs]] #TestTimeCompute #LLMs
 + [[https://www.sciencedirect.com/science/article/pii/S0952197624021547][An effective skeleton-based approach for multilingual sign language recognition]] #LSEAvatar
 + [[https://huggingface.co/blog/leaderboard-emissions-analysis][CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard]] #CIAIS #Felix #CO2
 + [[https://huggingface.co/blog/vdr-2b-multilingual][Visual Document Retrieval Goes Multilingual]] #DocumentRetrieval #SyntheticData
