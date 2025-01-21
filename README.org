@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/blog/leaderboard-emissions-analysis][CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard]] #CIAIS #Felix #CO2
 + [[https://huggingface.co/blog/vdr-2b-multilingual][Visual Document Retrieval Goes Multilingual]] #DocumentRetrieval #SyntheticData
 + [[https://www.synthlabs.ai/research/meta-chain-of-thought][Meta Chain-of-Thought: Unlocking System 2 Reasoning in LLMs]] #LLMs #CoT
 + [[https://huggingface.co/blog/static-embeddings][Train 400x faster Static Embedding Models with Sentence Transformers]] #Embeddings
