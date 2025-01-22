@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://sakana.ai/transformer-squared/][Transformer²: Self-Adaptive LLMs]] #LLMs
 + [[https://github.com/NirDiamant/Controllable-RAG-Agent][Sophisticated Controllable Agent for Complex RAG Tasks 🧠📚]] #RAG #Pablo #Agents
 + [[https://github.com/bRAGAI/bRAG-langchain][Retrieval-Augmented Generation (RAG) Project]] #RAG #Pablo
 + [[https://huggingface.co/learn/cookbook/rag_with_knowledge_graphs_neo4j][Enhancing RAG Reasoning with Knowledge Graphs]] #RAG #Graphs #Pablo
