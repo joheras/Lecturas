@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://arxiv.org/pdf/2501.05441][The GAN is dead; long live the GAN! A Modern Baseline GAN]] #GANs
 + [[https://jamanetwork.com/journals/jama/fullarticle/2814246?utm_source=silverchair&utm_campaign=jama_network&utm_content=article_alert-jama_ai&utm_medium=email&adv=][AI’s Threat to the Medical Profession]] #CIAIS #Medicine
 + [[https://sakana.ai/transformer-squared/][Transformer²: Self-Adaptive LLMs]] #LLMs
 + [[https://github.com/NirDiamant/Controllable-RAG-Agent][Sophisticated Controllable Agent for Complex RAG Tasks 🧠📚]] #RAG #Pablo #Agents
