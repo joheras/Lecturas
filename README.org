@@ -93,6 +93,8 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://www.sciencedirect.com/science/article/pii/S1361841524001269][A comprehensive survey on deep active learning in medical image analysis]] #ActiveLearning #Joaquin #Adrian
++ [[https://www.sciencedirect.com/science/article/pii/S0952197623009892#sec3][Density-based one-shot active learning for image segmentation]] #ActiveLearning #Joaquin #Adrian
 + [[https://arxiv.org/pdf/2501.05441][The GAN is dead; long live the GAN! A Modern Baseline GAN]] #GANs
 + [[https://jamanetwork.com/journals/jama/fullarticle/2814246?utm_source=silverchair&utm_campaign=jama_network&utm_content=article_alert-jama_ai&utm_medium=email&adv=][AI’s Threat to the Medical Profession]] #CIAIS #Medicine
 + [[https://sakana.ai/transformer-squared/][Transformer²: Self-Adaptive LLMs]] #LLMs
