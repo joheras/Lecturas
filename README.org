@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://www.dataprovenance.org/Multimodal_Data_Provenance.pdf][BRIDGING THE DATA PROVENANCE GAP ACROSS TEXT, SPEECH, AND VIDEO]] #DataProvenance #ProyectoNacional2024
 + [[https://blogs.upm.es/iayaccesibilidadcognitiva/produccion-cientifica/publicaciones-en-revista/][Inteligencia Artificial y Accesibilidad Cognitiva]] #LecturaFacil #Mirari #PlenaInclusion
 + [[https://huggingface.co/blog/smolervlm][SmolVLM Grows Smaller – Introducing the 250M & 500M Models!]] #ProyectoIA #VLM
 + [[https://www.sciencedirect.com/science/article/pii/S1361841524001269][A comprehensive survey on deep active learning in medical image analysis]] #ActiveLearning #Joaquin #Adrian
