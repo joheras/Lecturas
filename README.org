@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/papers/2501.12948][DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]] #ReinforcementLearning #Reasoning
 + [[https://huggingface.co/papers/2501.04001][Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos]] #Videos 
 + [[https://cohere.com/blog/towards-fair-and-comprehensive-multilingual-and-multicultural-llm-benchmarking][Towards fair and comprehensive multilingual and multicultural LLM benchmarking]] #LLMs #Evaluation
 + [[https://huggingface.co/blog/asoria/datadreamer-datasets][Exploring Synthetic Data Generation with DataDreamer]] #SyntheticData
