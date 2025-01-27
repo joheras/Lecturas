@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://colab.research.google.com/drive/1Eq9trtE2FFG9KKXwvHBvUAtMJkhxVBtV#scrollTo=dd2LpXrvgYGB][Graph RAG with Unstructured and AstraDB]] #GraphRAG #Pablo
 + [[https://huggingface.co/papers/2501.03895?utm_source=digest-papers&utm_medium=email&utm_campaign=2025-01-08][LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token]] #VLM
 + [[https://www.nature.com/articles/s44401-024-00004-1][Retrieval-augmented generation for generative artificial intelligence in health care]] #RAG #Medicine #Pablo
 + [[https://huggingface.co/papers/2501.12948][DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]] #ReinforcementLearning #Reasoning
