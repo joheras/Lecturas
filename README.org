@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://huggingface.co/blog/open-r1][Open-R1: a fully open reproduction of DeepSeek-R1]] #DeepSeek #ReinforcementLearning
 + [[https://huggingface.co/blog/inference-providers][Welcome to Inference Providers on the Hub 🔥]] #Inference
 + [[https://arxiv.org/abs/2407.08223][Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting]] #RAG #Pablo #Agents
 + [[https://huggingface.co/blog/video_gen][State of open video generation models in Diffusers]] #VideoGeneration
