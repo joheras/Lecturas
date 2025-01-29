@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://danielvanstrien.xyz/posts/2025/deepseek/distil-deepseek-modernbert.html][Distiling DeepSeek reasoning to ModernBERT classifiers]] #SyntheticData
 + [[https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1][The Illustrated DeepSeek-R1]] #DeepSeek
 + [[https://huggingface.co/blog/open-r1][Open-R1: a fully open reproduction of DeepSeek-R1]] #DeepSeek #ReinforcementLearning
 + [[https://huggingface.co/blog/inference-providers][Welcome to Inference Providers on the Hub 🔥]] #Inference
