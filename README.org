@@ -93,6 +93,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del año 2025
 ** Enero 2025
 
++ [[https://arxiv.org/abs/2501.15654][People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text]] #AIDetection
 + [[https://github.com/roboflow/notebooks][Roboflow notebooks]] #Teaching #ComputerVision
 + [[https://danielvanstrien.xyz/posts/2025/deepseek/distil-deepseek-modernbert.html][Distiling DeepSeek reasoning to ModernBERT classifiers]] #SyntheticData
 + [[https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1][The Illustrated DeepSeek-R1]] #DeepSeek
