@@ -91,6 +91,12 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del año 2025
+
+** Febrero 2025
+
++ [[https://arxiv.org/abs/2409.06790][Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts]] #TraduccionAutomatica #Chistera
+
+
 ** Enero 2025
 
 + [[https://arxiv.org/abs/2501.15654][People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text]] #AIDetection
