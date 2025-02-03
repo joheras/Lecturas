@@ -94,7 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
-
++ [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al español con fines prácticos y recursos limitados]] #LLMs #RigoChat
 + [[https://huggingface.co/blog/open-r1/update-1][Open-R1: Update #1]] #DeepSeek
 + [[https://arxiv.org/abs/2409.06790][Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts]] #TraduccionAutomatica #Chistera
 
