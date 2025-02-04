@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://huggingface.co/papers/2501.18492][GuardReasoner: Towards Reasoning-based LLM Safeguards]] #GuardRails
 + [[https://huggingface.co/blog/ai-art-newsletter-jan-25][The AI tools for Art Newsletter]] #ImageGeneration #VideoGeneration #AudioGeneration
 + [[http://mt-class.org/jhu/syllabus.html][Machine Translation]] #TraduccionAutomatica #Clases
 + [[https://arxiv.org/abs/2501.18362][MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding]] #Chistera #Dataset
