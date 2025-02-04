@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://huggingface.co/blog/ai-art-newsletter-jan-25][The AI tools for Art Newsletter]] #ImageGeneration #VideoGeneration #AudioGeneration
 + [[http://mt-class.org/jhu/syllabus.html][Machine Translation]] #TraduccionAutomatica #Clases
 + [[https://arxiv.org/abs/2501.18362][MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding]] #Chistera #Dataset
 + [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al español con fines prácticos y recursos limitados]] #LLMs #RigoChat
