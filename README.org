@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://huggingface.co/blog/billion-classifications][1 Billion Classifications]] #CostEstimation
 + [[https://huggingface.co/blog/vid_ds_scripts][Build awesome datasets for video generation]] #VideoDataset
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms][A Visual Guide to Reasoning LLMs]] #Reasoning #DeepSeek
 + [[https://unfoldai.com/reasoning-in-a-non-english-language/][Reasoning model in a non-English language using GRPO trainer (TRL) and Unsloth]] #GRPO #Reasoning #DeepSeek
