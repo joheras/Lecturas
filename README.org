@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://x.com/reach_vb/status/1889015111890997479][Zonos Text to Speech]] #TextToSpeech
 + [[https://github.com/facebookresearch/mils?tab=readme-ov-file][LLMs can see and hear without any training]] #MultiModal #Reasoning
 + [[https://huggingface.co/papers/2502.05163][DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails]] #GuardRails #MultiLingual #Pablo
 + [[https://x.com/NielsRogge/status/1889362871995474212][RT-DETRv2]] #ObjectDetection
