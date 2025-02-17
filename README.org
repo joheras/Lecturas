@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://huggingface.co/papers/2502.05163][DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails]] #GuardRails #MultiLingual #Pablo
 + [[https://x.com/NielsRogge/status/1889362871995474212][RT-DETRv2]] #ObjectDetection
 + [[https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro][Depth Pro]] #LSEAvatar #DepthEstimation
 + [[https://github.com/qubvel/rt-pose][RT-Pose]] #LSEAvatar #Pose 
