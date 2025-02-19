@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://langchain-ai.github.io/langgraph/tutorials/workflows/][Workflows and Agents]] #Agents #Chistera
 + [[https://huggingface.co/papers/2502.02737][SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model]] #SmallLLM
 + [[https://huggingface.co/blog/dabstep][DABStep: Data Agent Benchmark for Multi-step Reasoning]] #Agents #Reasoning
 + [[https://magazine.sebastianraschka.com/p/understanding-reasoning-llms?utm_campaign=email-half-post&r=f2umh&utm_source=substack&utm_medium=email][Understanding Reasoning LLMs]] #Reasoning
