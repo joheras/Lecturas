@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://arxiv.org/abs/2501.19393][s1: Simple test-time scaling]] #TestTimeScaling
 + [[https://arxiv.org/abs/2501.18099][Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge]] #LLMasaJudge
 + [[https://langchain-ai.github.io/langgraph/tutorials/workflows/][Workflows and Agents]] #Agents #Chistera
 + [[https://huggingface.co/papers/2502.02737][SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model]] #SmallLLM
