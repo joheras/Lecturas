@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://blogs.nvidia.com/blog/ai-sign-language/][It’s a Sign: AI Platform for Teaching American Sign Language Aims to Bridge Communication Gaps]] #LenguaSignos
 + [[https://link.springer.com/article/10.1007/s00417-023-06101-5][Insights into artificial intelligence in myopia management: from a data perspective]] #Miopia #Elena
 + [[https://arxiv.org/abs/2501.19393][s1: Simple test-time scaling]] #TestTimeScaling
 + [[https://arxiv.org/abs/2501.18099][Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge]] #LLMasaJudge
