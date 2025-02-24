@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2025
 
++ [[https://github.com/octotools/octotools][OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning]] #Agents #Chistera
 + [[https://huggingface.co/blog/siglip2][SigLIP 2: A better multilingual vision language encoder]] #VisualEncoder
 + [[https://blogs.nvidia.com/blog/ai-sign-language/][It’s a Sign: AI Platform for Teaching American Sign Language Aims to Bridge Communication Gaps]] #LenguaSignos
 + [[https://link.springer.com/article/10.1007/s00417-023-06101-5][Insights into artificial intelligence in myopia management: from a data perspective]] #Miopia #Elena
