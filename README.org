@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/blog/aya-vision][A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality]] #Multilingual #MultiModal #Chistera
++ [[https://www.scienceopen.com/document?vid=353ffdd6-2872-4fc5-9525-5b5fd6c36cec][Applications of Large Language Models in the Field of Suicide Prevention: Scoping Review]] #Pablo #Review
 + [[https://www.tanishq.ai/blog/posts/llm-medical-evals][LLMs in medicine: evaluations, advances, and the future]] #LLMs #Medicine
 + [[https://opentelemetry.io/docs/what-is-opentelemetry/][OpenTelemetry]] #ChistERA
 
