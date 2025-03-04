@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Marzo 2025
+
++ [[https://opentelemetry.io/docs/what-is-opentelemetry/][OpenTelemetry]] #ChistERA
+
 ** Febrero 2025
 
 + [[https://github.com/octotools/octotools][OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning]] #Agents #Chistera
