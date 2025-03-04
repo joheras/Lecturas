@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://www.tanishq.ai/blog/posts/llm-medical-evals][LLMs in medicine: evaluations, advances, and the future]] #LLMs #Medicine
 + [[https://opentelemetry.io/docs/what-is-opentelemetry/][OpenTelemetry]] #ChistERA
 
 ** Febrero 2025
