@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/blog/EuroBERT/release][Introducing EuroBERT: A High-Performance Multilingual Encoder Model]] #ChistERA #Embedding
 + [[https://huggingface.co/blog/adaamko/lettucedetect][LettuceDetect: A Hallucination Detection Framework for RAG Applications]] #Hallucinations #RAG
 + [[https://jamanetwork.com/journals/jama/fullarticle/2831048][Researcher Proposes New Framework for Language Equity in Health Technology]] #Chistera
 + [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/detection-of-suicidality-from-medical-text-using-privacypreserving-large-language-models/75E6B08AECDF68443C2594F421805FD9?utm_campaign=shareaholic&utm_medium=email_this&utm_source=email][Detection of suicidality from medical text using privacy-preserving large language models]] #Pablo
