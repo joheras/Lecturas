@@ -94,6 +94,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/papers/2503.00865][Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers]] #MultiLingual #Chistera
++ [[https://huggingface.co/blog/llm-inference-on-edge][LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!]] #Inference  #Phones
++ [[https://huggingface.co/blog/jfrog][Hugging Face and JFrog partner to make AI Security more transparent]] #ModelSafety
 + [[https://huggingface.co/blog/mlabonne/abliteration][Uncensor any LLM with abliteration]] #Jailbreaking
 + [[https://arxiv.org/abs/2503.10970][TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools]] #Agents #CHISTERA
 + [[https://www.sciencedirect.com/science/article/pii/S2352340925001696#sec0005][TELEIA: A Spanish language dataset for evaluating artificial intelligence models]] #Dataset #Sara #Manu #Mirari
