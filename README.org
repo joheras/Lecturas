@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/blog/xet-on-the-hub][Xet is on the Hub]] #Chistera #DataStorage
 + [[https://huggingface.co/datasets/praiselab-picuslab/MMMED][MMMED: Multilingual Medical Visual Question Answering Dataset]] #Dataset #Chistera
 + [[https://huggingface.co/datasets/lewoniewski/wikipedia_quality_wikirank][WikiRank]] #Dataset
 + [[https://karpathy.bearblog.dev/digital-hygiene/][Digital hygiene]]
