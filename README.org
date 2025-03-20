@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://hackernoon.com/ai-chatbots-are-getting-too-good-at-making-you-say-yes][AI Chatbots Are Getting Too Good at Making You Say ‘Yes’]] #CIAIS #EmpathicChatbots
 + [[https://huggingface.co/blog/EuroBERT/release][Introducing EuroBERT: A High-Performance Multilingual Encoder Model]] #ChistERA #Embedding
 + [[https://huggingface.co/blog/adaamko/lettucedetect][LettuceDetect: A Hallucination Detection Framework for RAG Applications]] #Hallucinations #RAG
 + [[https://jamanetwork.com/journals/jama/fullarticle/2831048][Researcher Proposes New Framework for Language Equity in Health Technology]] #Chistera
