@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/blog/mlabonne/abliteration][Uncensor any LLM with abliteration]] #Jailbreaking
 + [[https://arxiv.org/abs/2503.10970][TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools]] #Agents #CHISTERA
 + [[https://www.sciencedirect.com/science/article/pii/S2352340925001696#sec0005][TELEIA: A Spanish language dataset for evaluating artificial intelligence models]] #Dataset #Sara #Manu #Mirari
 + [[https://huggingface.co/blog/xet-on-the-hub][Xet is on the Hub]] #Chistera #DataStorage
