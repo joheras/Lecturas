@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://huggingface.co/coqui/XTTS-v2][coqui/XTTS-v2]] #TextToSpeech #Chistera
 + [[https://diamantai.substack.com/p/building-an-ai-agent-with-memory?r=336pe4&utm_campaign=post&utm_medium=web&triedRedirect=true][Building an AI Agent with Memory and Adaptability]] #Agents #Memory
 + [[https://huggingface.co/papers/2503.00865][Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers]] #MultiLingual #Chistera
 + [[https://huggingface.co/blog/llm-inference-on-edge][LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!]] #Inference  #Phones
