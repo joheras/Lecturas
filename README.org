@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://www.polibits.cidetec.ipn.mx/ojs/index.php/CyS/article/view/5538][Automatic Translation of Sentences to Mexican Sign Language: Rule-based Machine Translation and Animation Synthesis in Avatar]] #LSEAvatar
 + [[https://huggingface.co/blog/train-reranker][Training and Finetuning Reranker Models with Sentence Transformers v4]] #Pablo #PrevenIA
 + [[https://www.anthropic.com/research/tracing-thoughts-language-model][Tracing the thoughts of a large language model]] #Interpretability
 + [[https://static.makehumancommunity.org/makehuman.html][MAKEHUMAN]] #Blender #Avatar #LenguaSignos
