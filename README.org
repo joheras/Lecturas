@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2025
 
++ [[https://www.anthropic.com/research/tracing-thoughts-language-model][Tracing the thoughts of a large language model]] #Interpretability
 + [[https://static.makehumancommunity.org/makehuman.html][MAKEHUMAN]] #Blender #Avatar #LenguaSignos
 + [[https://huggingface.co/coqui/XTTS-v2][coqui/XTTS-v2]] #TextToSpeech #Chistera
 + [[https://diamantai.substack.com/p/building-an-ai-agent-with-memory?r=336pe4&utm_campaign=post&utm_medium=web&triedRedirect=true][Building an AI Agent with Memory and Adaptability]] #Agents #Memory
