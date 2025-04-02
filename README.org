@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://arxiv.org/abs/2503.18813][Defeating Prompt Injections by Design]] #Security #LLMs
 + [[https://isshikihugh.github.io/HSMR/][Reconstructing Humans with a Biomechanically Accurate Skeleton]] #LSEAvatar
 + [[https://humansensinglab.github.io/Hamba/][Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba]] #LSEAvatar
 + [[https://arxiv.org/abs/2402.15350][Farsight: Fostering Responsible AI Awareness During AI Application Prototyping]] #CIAIS #Safeness
