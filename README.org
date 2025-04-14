@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://contextual.ai/blog/is-rag-dead-yet/][RAG is dead, long live RAG!]] #RAG
 + [[https://www.pikaramagazine.com/2025/04/cuando-interesan-nuestros-cuerpos-a-la-ia/][¿Cuándo interesan nuestros cuerpos a la IA?]] #CIAIS
 + [[https://arxiv.org/abs/2503.18813][Defeating Prompt Injections by Design]] #Security #LLMs
 + [[https://isshikihugh.github.io/HSMR/][Reconstructing Humans with a Biomechanically Accurate Skeleton]] #LSEAvatar
