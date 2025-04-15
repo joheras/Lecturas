@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://huggingface.co/papers/2504.05305?utm_source=digest-papers&utm_medium=email&utm_campaign=2025-04-08][URECA: Unique Region Caption Anything]] #ImageCaptioning
 + [[https://huggingface.co/papers/2504.05298][One-Minute Video Generation with Test-Time Training]] #VideoGeneration
 + [[https://huggingface.co/papers/2504.05299?utm_source=digest-papers&utm_medium=email&utm_campaign=2025-04-08][SmolVLM: Redefining small and efficient multimodal models]] #VLM #Chistera
 + [[https://contextual.ai/blog/is-rag-dead-yet/][RAG is dead, long live RAG!]] #RAG
