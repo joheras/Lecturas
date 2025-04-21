@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training?utm_campaign=post][The State of Reinforcement Learning for LLM Reasoning]] #ReinforcementLearning
 + [[https://huggingface.co/blog/helmet][Introducing HELMET: Holistically Evaluating Long-context Language Models]] #Evaluation #LongContext
 + [[https://mirage-bench.github.io/][MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems]] #Júlia #RAG #Evaluation 
 + [[https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/?utm_source=ai-report.kdnuggets.com&utm_medium=newsletter&utm_campaign=building-ai-agents-just-got-easier][Agent Development Kit: Making it easy to build multi-agent applications]] #Agents #Chistera
