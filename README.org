@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://huggingface.co/papers/2504.11544][NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes]] #GraphRAG #Júlia #Multihop
 + [[https://huggingface.co/papers/2504.10479?utm_source=digest-papers&utm_medium=email&utm_campaign=2025-04-15][InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models]] #MultiModal #MLLM
 + [[https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training?utm_campaign=post][The State of Reinforcement Learning for LLM Reasoning]] #ReinforcementLearning
 + [[https://huggingface.co/blog/helmet][Introducing HELMET: Holistically Evaluating Long-context Language Models]] #Evaluation #LongContext
