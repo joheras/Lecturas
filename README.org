@@ -94,7 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
-
++ [[https://link.springer.com/article/10.1007/s00146-025-02340-8][Bullshit universities: the future of automated education]] #CIAIS
 + [[https://arxiv.org/abs/2504.15205][Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges]]  #Júlia #RAG
 + [[https://arxiv.org/abs/2411.08275][A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look]] #Júlia #RAG
 + [[https://arxiv.org/abs/2411.09607][Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework]] #Júlia #RAG
