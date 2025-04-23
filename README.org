@@ -94,6 +94,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://arxiv.org/abs/2310.13960][Linguistically Motivated Sign Language Segmentation]] #LSEAvatar 
++ [[https://arxiv.org/abs/2504.10822][IlluSign: Illustrating Sign Language Videos by Leveraging the Attention Mechanism]]
++ [[https://github.com/sign-language-processing][Sign Language Processing]] #LSEAvatar 
 + [[https://link.springer.com/article/10.1007/s00146-025-02340-8][Bullshit universities: the future of automated education]] #CIAIS
 + [[https://arxiv.org/abs/2504.15205][Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges]]  #Júlia #RAG
 + [[https://arxiv.org/abs/2411.08275][A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look]] #Júlia #RAG
