@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Abril 2025
 
++ [[https://huggingface.co/blog/llama-guard-4][Welcoming Llama Guard 4 on Hugging Face Hub]] #Safety #PrevenIA
 + [[https://www.ncbi.nlm.nih.gov/books/NBK602381/][Chatbots in Health Care: Connecting Patients to Information]] #PrevenIA #ChistERA
 + [[https://arxiv.org/abs/2504.11833][Could Thinking Multilingually Empower LLM Reasoning?]] #Multilingual #Reasoning #Chistera
 + [[https://huggingface.co/blog/Kseniase/mcp][🦸🏻#14: What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?]] #MCP #Agents #Tools #Chistera
