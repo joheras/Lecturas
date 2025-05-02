@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Mayo 2025
+
++ [[https://huggingface.co/blog/eurollm-team/eurollm-9b][EuroLLM-9B]] #Chist-ERA
+
 ** Abril 2025
 
 + [[https://huggingface.co/blog/gradio-mcp][How to Build an MCP Server in 5 Lines of Python]] #MCP 
