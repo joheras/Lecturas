@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://datos.gob.es/es/blog/como-elegir-el-grafico-correcto-para-visualizar-datos-abiertos][Cómo elegir el gráfico correcto para visualizar datos abiertos]] #Visualización
 + [[https://huggingface.co/collections/Unbabel/xcomet-659eca973b3be2ae4ac023bb][xCOMET]] #Chist-ERA
 + [[https://huggingface.co/collections/Unbabel/tower-659eaedfe36e6dd29eb1805c][Tower]] #Chist-ERA
 + [[https://huggingface.co/blog/eurollm-team/eurollm-9b][EuroLLM-9B]] #Chist-ERA
