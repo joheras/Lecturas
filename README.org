@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://ai.meta.com/blog/meta-fair-updates-perception-localization-reasoning/?utm_source=twitter&utm_medium=organic%20social&utm_content=video&utm_campaign=fair][Advancing AI systems through progress in perception, localization, and reasoning]] #Agents #Imaging
 + [[https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb][ColBERTv2: Indexing & Search Notebook]] #ColBERT #PrevenIA
 + [[https://huggingface.co/jinaai/jina-colbert-v2][JinaColBERT V2: A General-Purpose Multilingual Late Interaction Retriever]] #ColBERT #PrevenIA
 + [[https://www.lighton.ai/lighton-blogs/pylate-flexible-training-and-retrieval-for-late-interaction-models][PyLate: Flexible Training and Retrieval for ColBERT Models]] #ColBERT #PrevenIA
