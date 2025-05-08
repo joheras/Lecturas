@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1.full.pdf][Cellpose-SAM: superhuman generalization for cellular segmentation]] #CellSegmentation #Arrate
 + [[https://cacm.acm.org/research/envisioning-recommendations-on-an-llm-based-agent-platform/#F3][Envisioning Recommendations on an LLM-Based Agent Platform]] #Agents #ChistERA #RecommendationSystems
 + [[https://ai.meta.com/blog/meta-fair-updates-perception-localization-reasoning/?utm_source=twitter&utm_medium=organic%20social&utm_content=video&utm_campaign=fair][Advancing AI systems through progress in perception, localization, and reasoning]] #Agents #Imaging
 + [[https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb][ColBERTv2: Indexing & Search Notebook]] #ColBERT #PrevenIA
