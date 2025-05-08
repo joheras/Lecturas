@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/DFine_finetune_on_a_custom_dataset.ipynb][Fine-tuning D-Fine on a custom dataset]] #ObjectDetection #Master 
 + [[https://huggingface.co/blog/sasha/reduce-reuse-recycle][Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability]] #CIAIS #Felix
 + [[https://datos.gob.es/es/blog/como-elegir-el-grafico-correcto-para-visualizar-datos-abiertos][Cómo elegir el gráfico correcto para visualizar datos abiertos]] #Visualización
 + [[https://huggingface.co/collections/Unbabel/xcomet-659eca973b3be2ae4ac023bb][xCOMET]] #Chist-ERA
