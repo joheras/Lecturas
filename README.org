@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://huggingface.co/docs/transformers/model_doc/grounding-dino][Grounding DINO]] #instancesegmentation #Joaquín #ObjectDetection
 + [[https://huggingface.co/blog/whitecircle-ai/circleguardbench][CircleGuardBench: New Standard for Evaluating AI Moderation Models]] #Guards #prevenia 
 + [[https://shap.readthedocs.io/en/latest/text_examples.html#sentiment-analysis][Explicabilidad Análisis Sentimiento]] #SentimentAnalysis #MasterNLP #Explicabilidad
 + [[https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1.full.pdf][Cellpose-SAM: superhuman generalization for cellular segmentation]] #CellSegmentation #Arrate
