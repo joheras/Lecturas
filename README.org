@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://github.com/guardrails-ai/guardrails?tab=readme-ov-file][Guardrails AI]] #GuardRails #Pablo
 + [[https://huggingface.co/docs/transformers/model_doc/grounding-dino][Grounding DINO]] #instancesegmentation #Joaquín #ObjectDetection
 + [[https://huggingface.co/blog/whitecircle-ai/circleguardbench][CircleGuardBench: New Standard for Evaluating AI Moderation Models]] #Guards #prevenia 
 + [[https://shap.readthedocs.io/en/latest/text_examples.html#sentiment-analysis][Explicabilidad Análisis Sentimiento]] #SentimentAnalysis #MasterNLP #Explicabilidad
