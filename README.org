@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://huggingface.co/lightonai/Reason-ModernColBERT][Reason-ModernColBERT]] #Chistera #Retrieval
 + [[https://developers.google.com/health-ai-developer-foundations/medgemma/model-card][MedGemma]] #Chistera
 + [[https://github.com/weaviate/recipes/blob/main/weaviate-features/multi-vector/reason_moderncolbert.ipynb][Multi-vector embeddings with Reasoning-ModernColBERT]] #Retrieval #Reasoning #RAG #Chistera
 + [[https://huggingface.co/spaces/google/rad_explain][Medgemma demo]] #CienciaEnClaro 
