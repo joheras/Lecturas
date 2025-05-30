@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://huggingface.co/blog/autoround][What is AutoRound?]] #Quantization
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00042-1/fulltext][FaceAge, a deep learning system to estimate biological age from face photographs to improve prognostication: a model development and validation study]] #Medicine
 + [[https://huggingface.co/blog/vlms-2025][Vision Language Models (Better, Faster, Stronger)]] #VLM
 + [[https://ollama.com/blog/multimodal-models][Ollama's new engine for multimodal models]] #MultiModal
