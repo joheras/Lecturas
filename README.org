@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://huggingface.co/blog/vlms-2025][Vision Language Models (Better, Faster, Stronger)]] #VLM
++ [[https://ollama.com/blog/multimodal-models][Ollama's new engine for multimodal models]] #MultiModal
 + [[https://huggingface.co/lightonai/Reason-ModernColBERT][Reason-ModernColBERT]] #Chistera #Retrieval
 + [[https://developers.google.com/health-ai-developer-foundations/medgemma/model-card][MedGemma]] #Chistera
 + [[https://github.com/weaviate/recipes/blob/main/weaviate-features/multi-vector/reason_moderncolbert.ipynb][Multi-vector embeddings with Reasoning-ModernColBERT]] #Retrieval #Reasoning #RAG #Chistera
