@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00040-8/fulltext][Non-invasive biopsy diagnosis of diabetic kidney disease via deep learning applied to retinal images: a population-based study]] #OPTRetina
 + [[https://huggingface.co/blog/diffusers-quantization][Exploring Quantization Backends in Diffusers]] #Quantization
 + [[https://huggingface.co/blog/python-tiny-agents][Tiny Agents in Python: an MCP-powered agent in ~70 lines of code]] #Agents
 + [[https://www.lmms-lab.com/posts/aero_audio/][Aero-1-Audio]] #Audio #ASR #Mirari
