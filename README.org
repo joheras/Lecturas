@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Mayo 2025
 
++ [[https://huggingface.co/blog/python-tiny-agents][Tiny Agents in Python: an MCP-powered agent in ~70 lines of code]] #Agents
 + [[https://www.lmms-lab.com/posts/aero_audio/][Aero-1-Audio]] #Audio #ASR #Mirari
 + [[https://huggingface.co/blog/autoround][What is AutoRound?]] #Quantization
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00042-1/fulltext][FaceAge, a deep learning system to estimate biological age from face photographs to improve prognostication: a model development and validation study]] #Medicine
