@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Junio 2025
+
++ [[https://arxiv.org/abs/2505.24478][Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning]] #GraphRAG #Pablo
+
 ** Mayo 2025
 
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00040-8/fulltext][Non-invasive biopsy diagnosis of diabetic kidney disease via deep learning applied to retinal images: a population-based study]] #OPTRetina
