@@ -94,7 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2025
 
-
++ [[https://arxiv.org/abs/2501.03200][The FACTS Grounding Leaderboard: Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input]] #Júlia #Factuality
 + [[https://riuma.uma.es/xmlui/bitstream/handle/10630/37603/Ana%CC%81lisis%20de%20sentimiento%20del%20espan%CC%83ol%20basado%20en%20corpus%20%282%29.pdf?sequence=6&isAllowed=y][Análisis de sentimiento del español basado en corpus]] #AnalisisSentimientos #MasterNLP
 + [[https://arxiv.org/abs/2505.24478][Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning]] #GraphRAG #Pablo
 
