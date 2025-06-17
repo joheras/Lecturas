@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2025
 
++ [[https://datos.gob.es/es/blog/inteligencia-artificial-sostenible-como-minimizar-el-impacto-ambiental-de-la-ia][Inteligencia artificial sostenible: cómo minimizar el impacto ambiental de la IA]] #CIAIS
 + [[https://huggingface.co/papers/2506.09513][ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning]] #Chistera #Dataset #Medicine
 + [[https://mistral.ai/news/magistral][Stands to reason. Magistral]] #Chistera #Multilingual #Reasoning
 + [[https://arxiv.org/abs/2501.03200][The FACTS Grounding Leaderboard: Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input]] #Júlia #Factuality
