@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Junio 2025
 
++ [[https://github.com/confident-ai/deepeval?tab=readme-ov-file][DeepEval. The LLM Evaluation Framework]] #Júlia #Evaluation
 + [[https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706][II-Medical-8B: Medical Reasoning Model]] #Chistera #Model
 + [[https://med-miriad.github.io/][MIRIAD: Augmenting LLMs with millions of medical query-response pairs]] #Chistera #Dataset
 + [[https://hazyresearch.stanford.edu/blog/2025-05-12-security][Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat]] #Security #Privacy
