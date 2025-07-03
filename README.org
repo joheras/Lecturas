@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Julio 2025
+
++ [[https://arxiv.org/abs/2505.21344][The Multilingual Divide and Its Impact on Global AI Safety]] #Multilingual #Chistera
+
 ** Junio 2025
 
 + [[https://github.com/confident-ai/deepeval?tab=readme-ov-file][DeepEval. The LLM Evaluation Framework]] #Júlia #Evaluation
