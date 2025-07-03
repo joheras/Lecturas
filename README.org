@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=150872633#gid=150872633][Anthropic's Prompt Engineering Interactive Tutorial]] #Prompting
 + [[https://github.com/unslothai/notebooks/?tab=readme-ov-file][📒 Fine-tuning Notebooks]] #Learning
 + [[https://github.com/NazirNayal8/UEM-likelihood-ratio][A Likelihood Ratio-Based Approach to Segmenting Unknown Objects (IJCV 2025)]] #Segmentation #OOD
 + [[https://www.iic.uam.es/procesamiento-del-lenguaje-natural/llms-como-sintetizadores-de-respuestas/][LLMs como sintetizadores de respuestas]] #Júlia
