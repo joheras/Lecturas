@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://github.com/unslothai/notebooks/?tab=readme-ov-file][📒 Fine-tuning Notebooks]] #Learning
++ [[https://github.com/NazirNayal8/UEM-likelihood-ratio][A Likelihood Ratio-Based Approach to Segmenting Unknown Objects (IJCV 2025)]] #Segmentation #OOD
 + [[https://www.iic.uam.es/procesamiento-del-lenguaje-natural/llms-como-sintetizadores-de-respuestas/][LLMs como sintetizadores de respuestas]] #Júlia
 + [[https://arxiv.org/abs/2505.21344][The Multilingual Divide and Its Impact on Global AI Safety]] #Multilingual #Chistera
 
