@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://hamel.dev/blog/posts/evals-faq/][Frequently Asked Questions (And Answers) About AI Evals]] #RAG #Júlia
++ [[https://jxnl.co/writing/2025/05/19/there-are-only-6-rag-evals/][There Are Only 6 RAG Evals]] #RAG #Júlia
 + [[https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view][Agents Companion]] #Agents
 + [[https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=150872633#gid=150872633][Anthropic's Prompt Engineering Interactive Tutorial]] #Prompting
 + [[https://github.com/unslothai/notebooks/?tab=readme-ov-file][📒 Fine-tuning Notebooks]] #Learning
