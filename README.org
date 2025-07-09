@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://arxiv.org/abs/2203.05482v3][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #ModelSoups #Joaquin
++ [[https://huggingface.co/blog/smollm3][SmolLM3: smol, multilingual, long-context reasoner]] #Reasoning #Multilingual
 + [[https://huggingface.co/blog/structured-codeagent][CodeAgents + Structure: A Better Way to Execute Actions]] #CodeAgents
 + [[https://hamel.dev/blog/posts/evals-faq/][Frequently Asked Questions (And Answers) About AI Evals]] #RAG #Júlia
 + [[https://jxnl.co/writing/2025/05/19/there-are-only-6-rag-evals/][There Are Only 6 RAG Evals]] #RAG #Júlia
