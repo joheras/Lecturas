@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://hamel.dev/notes/llm/rag/p2-evals.html][Modern IR Evals For RAG]] #Julia
 + [[https://arxiv.org/abs/2203.05482v3][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #ModelSoups #Joaquin
 + [[https://huggingface.co/blog/smollm3][SmolLM3: smol, multilingual, long-context reasoner]] #Reasoning #Multilingual
 + [[https://huggingface.co/blog/structured-codeagent][CodeAgents + Structure: A Better Way to Execute Actions]] #CodeAgents
