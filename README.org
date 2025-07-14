@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://arxiv.org/abs/2403.10131v1][RAFT: Adapting Language Model to Domain Specific RAG]] #Pablo #RAG
 + [[https://arxiv.org/abs/2501.11929v1][ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation]] #Pablo #RAG
 + [[https://arxiv.org/abs/2505.24478][Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning]] #GraphRAG #LLMs #Pablo #Júlia
 + [[https://hamel.dev/notes/llm/rag/p2-evals.html][Modern IR Evals For RAG]] #Julia
