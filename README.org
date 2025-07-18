@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://dl.acm.org/doi/10.1145/3726302.3729882][A New HOPE:Domain-agnostic Automatic Evaluation of Text Chunking]] #Júlia #RAG #Metrics
 + [[https://dl.acm.org/doi/10.1145/3726302.3730221][Limitations of Automatic Relevance Assessments with Large Language Models for Fair and Reliable Retrieval Evaluation]] #Júlia #LLM-as-a-judge
 + [[https://huggingface.co/blog/manu/colqwen-omni-omnimodal-retrieval][Introducing ColQwen-Omni: Retrieve in every modality]] #Sara #MultiModal #RAG
 + [[https://papers.miccai.org/miccai-2024/paper/3154_paper.pdf][FissionFusion: Fast Geometric Generation and Hierarchical Souping for Medical Image Analysis]] #ModelSoups #Joaquin
