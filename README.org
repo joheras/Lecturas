@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://huggingface.co/learn/cookbook/fine_tuning_vlm_object_detection_grounding][Fine tuning a VLM for Object Detection Grounding using TRL]] #ObjectDetection #Grounding
++ [[https://aclanthology.org/2024.findings-acl.658/][On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey]] #Júlia #SyntheticData
 + [[https://arxiv.org/abs/2209.01975][Selective Annotation Makes Language Models Better Few-Shot Learners]] #ActiveLearning #Joaquin
 + [[https://dl.acm.org/doi/10.1145/3726302.3729882][A New HOPE:Domain-agnostic Automatic Evaluation of Text Chunking]] #Júlia #RAG #Metrics
 + [[https://dl.acm.org/doi/10.1145/3726302.3730221][Limitations of Automatic Relevance Assessments with Large Language Models for Fair and Reliable Retrieval Evaluation]] #Júlia #LLM-as-a-judge
