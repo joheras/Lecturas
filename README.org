@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://dl.acm.org/doi/10.1145/3726302.3729931][Combining Evidence and Reasoning for Biomedical Fact-Checking]] #Chistera
 + [[https://huggingface.co/learn/cookbook/fine_tuning_vlm_object_detection_grounding][Fine tuning a VLM for Object Detection Grounding using TRL]] #ObjectDetection #Grounding
 + [[https://aclanthology.org/2024.findings-acl.658/][On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey]] #Júlia #SyntheticData
 + [[https://arxiv.org/abs/2209.01975][Selective Annotation Makes Language Models Better Few-Shot Learners]] #ActiveLearning #Joaquin
