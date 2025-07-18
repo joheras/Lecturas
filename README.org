@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://huggingface.co/blog/manu/colqwen-omni-omnimodal-retrieval][Introducing ColQwen-Omni: Retrieve in every modality]] #Sara #MultiModal #RAG
 + [[https://papers.miccai.org/miccai-2024/paper/3154_paper.pdf][FissionFusion: Fast Geometric Generation and Hierarchical Souping for Medical Image Analysis]] #ModelSoups #Joaquin
 + [[https://huggingface.co/blog/ettin][Ettin Suite: SoTA Paired Encoders and Decoders]] #LLMs #Encoder #Decoder
 + [[https://openreview.net/forum?id=j3totqf8xW][Position: Beyond Assistance – Reimagining LLMs as Ethical and Adaptive Co-Creators in Mental Health Care]] #Pablo #Evaluation
