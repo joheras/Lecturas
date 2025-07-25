@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://arxiv.org/pdf/2507.11299][Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian]] #Chistera #DSPY
 + [[https://arxiv.org/pdf/2507.15245][SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search]] #Chistera
 + [[https://arxiv.org/pdf/2412.13091][LMUNIT: Fine-grainedEvaluationwithNaturalLanguageUnitTests]] #Júlia #Evaluation
 + [[https://dl.acm.org/doi/10.1145/3726302.3729931][Combining Evidence and Reasoning for Biomedical Fact-Checking]] #Chistera
