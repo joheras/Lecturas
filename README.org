@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://boxiyu.github.io/assets/pdf/DSPy_Guardrails.pdf][DSPy Guardrails: Building Safe LLM Applications via Self-Refining Language Model Pipelines]] #dspy #guardrails #pablo
 + [[https://arxiv.org/pdf/2506.21734][Hierarchical Reasoning Model]] #Reasoning
 + [[https://arxiv.org/pdf/2507.11299][Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian]] #Chistera #DSPY
 + [[https://arxiv.org/pdf/2507.15245][SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search]] #Chistera
