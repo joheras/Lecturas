@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Julio 2025
 
++ [[https://arxiv.org/abs/2408.08849][ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis]] #multimodal
 + [[https://arxiv.org/abs/2507.03152][Expert-level validation of AI-generated medical text with scalable language models]] #Julia #dspy #SyntheticData
 + [[https://boxiyu.github.io/assets/pdf/DSPy_Guardrails.pdf][DSPy Guardrails: Building Safe LLM Applications via Self-Refining Language Model Pipelines]] #dspy #guardrails #pablo
 + [[https://arxiv.org/pdf/2506.21734][Hierarchical Reasoning Model]] #Reasoning
