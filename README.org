@@ -95,7 +95,7 @@ Este repositorio es una recopilación de lecturas.
 ** Agosto 2025
 
 + [[https://huggingface.co/blog/aisheets][Introducing AI Sheets: a tool to work with datasets using open AI models!]] #Pablo #Júlia
-+ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua española: revisión crítica de métricas y propuesta de nuevas variables] #lecturabilidad #Mirari 
++ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua española: revisión crítica de métricas y propuesta de nuevas variables]] #lecturabilidad #Mirari 
 
 ** Julio 2025
 
