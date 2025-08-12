@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://www.databricks.com/blog/unpacking-function-calling-eval][Beyond the Leaderboard: Unpacking Function Calling Evaluation]] #Júlia #Evaluation #functioncalling
 + [[https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating-fine-tuned-models-for-function-calling-beyond-input-output-metrics/4363864][Evaluating Fine-Tuned Models for Function-Calling: Beyond Input-Output Metrics]] #Júlia #Evaluation #functioncalling
 + [[https://huggingface.co/blog/welcome-openai-gpt-oss][Welcome GPT OSS, the new open-source model family from OpenAI!]] #Pablo
 + [[https://huggingface.co/blog/aisheets][Introducing AI Sheets: a tool to work with datasets using open AI models!]] #Pablo #Júlia
