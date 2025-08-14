@@ -94,13 +94,14 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://huggingface.co/blog/trackio][Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face]] #Tracking
 + [[https://arxiv.org/abs/2506.19234][Quantitative Benchmarking of Anomaly Detection Methods in Digital Pathology]] #Bruno #Joaquín #AnomalyDetection #SpectralGeo
 + [[https://research.google/blog/helping-everyone-build-ai-for-healthcare-applications-with-open-foundation-models/][Helping everyone build AI for healthcare applications with open foundation models]] #Bruno #Joaquin
 + [[https://neulab.github.io/CulturalGround/][CulturalGround Grounding Multilingual Multimodal LLMs With Cultural Knowledge]] #chistera #dataset #multimodal
 + [[https://www.dropbox.com/scl/fi/t8d59wupeeb3bdldhbq6o/Beyond-Naive-RAG-Practical-Advanced-Methods.pdf?ajs_uid=720146&rlkey=y0aawyxocpadmq461h752xrg0&e=3&st=i341qxc4&dl=0][Beyond naive RAG]] #rag #pablo #Júlia 
 + [[https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html][🦍 Gorilla: Large Language Model Connected with Massive APIs]] #Júlia #Evaluation #functioncalling
 + [[https://www.databricks.com/blog/unpacking-function-calling-eval][Beyond the Leaderboard: Unpacking Function Calling Evaluation]] #Júlia #Evaluation #functioncalling
-+ [[https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating-fine-tuned-models-for-function-calling-beyond-input-output-metrics/4363864][Evaluating Fine-Tuned Models for Function-Calling: Beyond Input-Output Metrics]] #Júlia #Evaluation #functioncalling
++ [[https://techcommunity.microsoft.com/blog/azure]]-ai-foundry-blog/evaluating-fine-tuned-models-for-function-calling-beyond-input-output-metrics/4363864][Evaluating Fine-Tuned Models for Function-Calling: Beyond Input-Output Metrics]] #Júlia #Evaluation #functioncalling
 + [[https://huggingface.co/blog/welcome-openai-gpt-oss][Welcome GPT OSS, the new open-source model family from OpenAI!]] #Pablo
 + [[https://huggingface.co/blog/aisheets][Introducing AI Sheets: a tool to work with datasets using open AI models!]] #Pablo #Júlia
 + [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua española: revisión crítica de métricas y propuesta de nuevas variables]]] #lecturabilidad #Mirari 
