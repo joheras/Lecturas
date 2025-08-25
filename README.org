@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://onlinelibrary.wiley.com/doi/10.1002/ima.70185][GlaucoDiff: A Framework for Generating Balanced Glaucoma Fundus Images and Improving Diagnostic Performance]] #Elena #Adrián 
 + [[https://www.sciencedirect.com/science/article/pii/S0148296321003155][How to conduct a bibliometric analysis: An overview and guidelines]] #bibliometricAnalysis #Júlia 
 + [[https://huggingface.co/blog/trackio][Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face]] #Tracking
 + [[https://arxiv.org/abs/2506.19234][Quantitative Benchmarking of Anomaly Detection Methods in Digital Pathology]] #Bruno #Joaquín #AnomalyDetection #SpectralGeo
