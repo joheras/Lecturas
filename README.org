@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://arxiv.org/pdf/2505.09970][Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents]] #Júlia
 + [[https://arxiv.org/abs/2408.02865][VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge]] #optretina
 + [[https://arxiv.org/abs/2311.12983][GAIA: a benchmark for General AI Assistants]] #Júlia #Dataset
 + [[https://huggingface.co/nvidia/canary-1b-v2][🐤 Canary 1B v2: Multitask Speech Transcription and Translation Model]] #mirari #Sara #ASR
