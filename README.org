@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://arxiv.org/abs/2406.06608][The Prompt Report: A Systematic Survey of Prompt Engineering Techniques]] #Prompting #DSPY #PrevenIA #Pablo
 + [[https://www.bmj.com/content/372/bmj.n71][The PRISMA 2020 statement: an updated guideline for reporting systematic reviews]] #SystematicReview #Júlia
 + [[https://arxiv.org/pdf/2401.12178][In-Context Learning for Extreme Multi-Label Classification]] #DSPY #Mirari
 + [[https://arxiv.org/pdf/2508.15882][Beyond Transcription: Mechanistic Interpretability in ASR]] #ASR #Interpretability
