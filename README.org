@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://www.sciencedirect.com/science/article/pii/S2643651524002103?via%3Dihub][One to All: Toward a Unified Model for Counting Cereal Crop Heads Based on Few-Shot Learning]] #SAM #FewShot #ComputerVision
 + [[https://arxiv.org/abs/2406.06608][The Prompt Report: A Systematic Survey of Prompt Engineering Techniques]] #Prompting #DSPY #PrevenIA #Pablo
 + [[https://www.bmj.com/content/372/bmj.n71][The PRISMA 2020 statement: an updated guideline for reporting systematic reviews]] #SystematicReview #Júlia
 + [[https://arxiv.org/pdf/2401.12178][In-Context Learning for Extreme Multi-Label Classification]] #DSPY #Mirari
