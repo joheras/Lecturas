@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Agosto 2025
 
++ [[https://arxiv.org/pdf/2401.12178][In-Context Learning for Extreme Multi-Label Classification]] #DSPY #Mirari
 + [[https://arxiv.org/pdf/2508.15882][Beyond Transcription: Mechanistic Interpretability in ASR]] #ASR #Interpretability
 + [[https://arxiv.org/pdf/2505.09970][Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents]] #Júlia
 + [[https://arxiv.org/abs/2408.02865][VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge]] #optretina
