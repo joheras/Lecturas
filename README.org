@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Septiembre 2025
+
++ [[https://occiglot.eu/][Occiglot]] #LLM #Júlia #Chistera
+
 ** Agosto 2025
 
 + [[https://www.sciencedirect.com/science/article/pii/S2643651524002103?via%3Dihub][One to All: Toward a Unified Model for Counting Cereal Crop Heads Based on Few-Shot Learning]] #SAM #FewShot #ComputerVision
