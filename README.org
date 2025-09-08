@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://github.com/resemble-ai/chatterbox?tab=readme-ov-file][Chatterbox TTS]] #SpeechToText #MultiLingual #Chist-ERA
 + [[https://occiglot.eu/][Occiglot]] #LLM #Júlia #Chistera
 
 ** Agosto 2025
