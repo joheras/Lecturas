@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://arxiv.org/abs/2507.19457][GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning]] #DSPY #PromptOptimization
 + [[https://www.youtube.com/watch?v=H4o7h6ZbA4o][Ejemplo de DSPy GEPA: reordenador por lista]] #DSPY #AnalisisSentimientos #Pablo
 + [[https://arxiv.org/abs/2506.02153][Small Language Models are the Future of Agentic AI]] #Agents #Mirari #Chist-ERA
 + [[https://github.com/resemble-ai/chatterbox?tab=readme-ov-file][Chatterbox TTS]] #SpeechToText #MultiLingual #Chist-ERA
