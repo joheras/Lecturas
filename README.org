@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/][Defeating Nondeterminism in LLM Inference]] #LLMs
 + [[https://www.vanderschaar-lab.com/ai-agents/][AI Agents: Past, Present, and Future ]] #Agents #ChistERA
 + [[https://huggingface.co/blog/mmbert][mmBERT: ModernBERT goes Multilingual]] #Bert #Leo #Multilingual #ChistERA
 + [[https://huggingface.co/blog/embeddinggemma][Welcome EmbeddingGemma, Google's new efficient embedding model]] #Embeddings #Multilingual #ChistERA #Pablo
