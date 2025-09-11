@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://www.langtrace.ai/blog/build-a-reliable-summarization-system-using-dspy-and-langtrace][Build a reliable Summarization system using DSPy and Langtrace]] #DSPY #Mirari
 + [[https://psychiatryonline.org/doi/10.1176/appi.ps.20250086][Evaluation of Alignment Between Large Language Models and Expert Clinicians in Suicide Risk Assessment]] #Pablo #Prevenia
 + [[https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/][Defeating Nondeterminism in LLM Inference]] #LLMs
 + [[https://www.vanderschaar-lab.com/ai-agents/][AI Agents: Past, Present, and Future ]] #Agents #ChistERA
