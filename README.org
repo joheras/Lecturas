@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://amaarora.github.io/posts/2025-09-14-llms-agentic.html][What Makes Modern Day LLMs Agentic]] #Agents #ToolCalling
 + [[https://huggingface.co/blog/dvilasuero/choosing-best-open-source-ai-models][How to Choose the Best Open Source LLM for Your Project in 2025]] #AISheets #LLMs
 + [[https://www.langtrace.ai/blog/build-a-reliable-summarization-system-using-dspy-and-langtrace][Build a reliable Summarization system using DSPy and Langtrace]] #DSPY #Mirari
 + [[https://psychiatryonline.org/doi/10.1176/appi.ps.20250086][Evaluation of Alignment Between Large Language Models and Expert Clinicians in Suicide Risk Assessment]] #Pablo #Prevenia
