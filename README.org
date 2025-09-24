@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://qwen.ai/blog?id=e199227023e8ebaac5f348f97fa804d1858ffc8a&from=research.research-list][Qwen3 ASR: Hear clearly, transcribe smartly]] #ASR #Chistera
 + [[https://qwen.ai/blog?id=f0bbad0677edf58ba93d80a1e12ce458f7a80548&from=research.research-list][Qwen3Guard: Real-time Safety for Your Token Stream]] #Guardrails #Pablo #PrevenIA
 + [[https://mistral.ai/news/magistral][Stands to reason. Magistral]] #chistera #Júlia 
 + [[https://www.hcompany.ai/blog/holo-1-5][Holo1.5 - Open Foundation Models for Computer Use Agents]] #Agents #ComputerUse
