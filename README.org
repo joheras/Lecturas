@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Septiembre 2025
 
++ [[https://huggingface.co/papers/2509.20354][EmbeddingGemma: Powerful and Lightweight Text Representations]] #embeddings #Pablo #chistera
 + [[https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/basketball-ai-how-to-detect-track-and-identify-basketball-players.ipynb#scrollTo=aS25QDv1a8_W][Basketball AI: How to Detect, Track, and Identify Basketball Players]] #Detection #Tracking #VLMs
 + [[https://qwen.ai/blog?id=e199227023e8ebaac5f348f97fa804d1858ffc8a&from=research.research-list][Qwen3 ASR: Hear clearly, transcribe smartly]] #ASR #Chistera
 + [[https://qwen.ai/blog?id=f0bbad0677edf58ba93d80a1e12ce458f7a80548&from=research.research-list][Qwen3Guard: Real-time Safety for Your Token Stream]] #Guardrails #Pablo #PrevenIA
