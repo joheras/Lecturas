@@ -92,6 +92,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Octubre 2025
+
++ [[https://huggingface.co/blog/rteb][Introducing RTEB: A New Standard for Retrieval Evaluation]] #Retrieval #Júlia
++ [[https://arxiv.org/abs/2502.13595][MMTEB: Massive Multilingual Text Embedding Benchmark]] #Dataset #Embeddings #Júlia
+
 ** Septiembre 2025
 
 + [[https://arxiv.org/pdf/2509.18234][The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks]] #MultiModal #Medical #Benchmark
