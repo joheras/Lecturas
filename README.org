@@ -169,7 +169,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://dl.acm.org/doi/10.1145/3726302.3730221][Limitations of Automatic Relevance Assessments with Large Language Models for Fair and Reliable Retrieval Evaluation]] #Júlia #LLM-as-a-judge
 + [[https://huggingface.co/blog/manu/colqwen-omni-omnimodal-retrieval][Introducing ColQwen-Omni: Retrieve in every modality]] #Sara #MultiModal #RAG
 + [[https://papers.miccai.org/miccai-2024/paper/3154_paper.pdf][FissionFusion: Fast Geometric Generation and Hierarchical Souping for Medical Image Analysis]] #ModelSoups #Joaquin
-+ [][https://huggingface.co/blog/ettin][Ettin Suite: SoTA Paired Encoders and Decoders]] #LLMs #Encoder #Decoder
++ [[https://huggingface.co/blog/ettin][Ettin Suite: SoTA Paired Encoders and Decoders]] #LLMs #Encoder #Decoder
 + [[https://openreview.net/forum?id=j3totqf8xW][Position: Beyond Assistance – Reimagining LLMs as Ethical and Adaptive Co-Creators in Mental Health Care]] #Pablo #Evaluation
 + [[https://arxiv.org/abs/2403.10131v1][RAFT: Adapting Language Model to Domain Specific RAG]] #Pablo #RAG
 + [[https://arxiv.org/abs/2501.11929v1][ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation]] #Pablo #RAG
@@ -1419,7 +1419,7 @@ Synthetic Data]] #LenguaSignos
 
 ** Mayo 2022
 
-+ [https://arxiv.org/abs/2112.13492[][Vision Transformer for Small-Size Datasets]] #Transformers #ComputerVision
++ [[https://arxiv.org/abs/2112.13492][Vision Transformer for Small-Size Datasets]] #Transformers #ComputerVision
 + [[https://jarvislabs.ai/blogs/hf-getting-started/][Huggingface 🤗 is all you need for NLP and beyond]] #NLP #MasterArista
 + [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]] #NLP
 + [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][NLP+CSS 201 Tutorials]] #MasterArista
