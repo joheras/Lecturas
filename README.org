@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://thinkingmachines.ai/blog/lora/][LoRA Without Regret]]  #TFM #Elena #Fine-tuning
++ [[https://huggingface.co/docs/trl/main/en/lora_without_regret][LoRA Without Regret]] #TFM #Elena #Fine-tuning
 + [[https://huggingface.co/blog/rteb][Introducing RTEB: A New Standard for Retrieval Evaluation]] #Retrieval #Júlia
 + [[https://arxiv.org/abs/2502.13595][MMTEB: Massive Multilingual Text Embedding Benchmark]] #Dataset #Embeddings #Júlia
 
