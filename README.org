@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2510.01179][TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments]] #Júlia #Dataset #ToolCalling
 + [[https://huggingface.co/blog/paultltc/modernvbert][ModernVBERT: Towards Smaller Visual Document Retrievers]] #Retrieval #VisualEncoder
 + [[https://thinkingmachines.ai/blog/lora/][LoRA Without Regret]]  #TFM #Elena #Fine-tuning
 + [[https://huggingface.co/docs/trl/main/en/lora_without_regret][LoRA Without Regret]] #TFM #Elena #Fine-tuning
