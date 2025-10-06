@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://www.lesswrong.com/posts/bALBxf3yGGx4bvvem/prompt-optimization-can-enable-ai-control-research][Prompt optimization can enable AI control research]] #DSPY #Safety
 + [[https://arxiv.org/pdf/2509.20328][Video models are zero-shot learners and reasoners]] #VideoModels #FoundationalModel
 + [[https://arxiv.org/abs/2510.01179][TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments]] #Júlia #Dataset #ToolCalling
 + [[https://huggingface.co/blog/paultltc/modernvbert][ModernVBERT: Towards Smaller Visual Document Retrievers]] #Retrieval #VisualEncoder
