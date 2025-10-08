@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2312.06648][Dense X Retrieval: What Retrieval Granularity Should We Use?]] #Pablo #PrevenIA #Retrieval
++ [[https://arxiv.org/abs/2509.04492][Learned Hallucination Detection in Black-Box LLMs using Token-level Entropy Production Rate]] #Hallucination #Pablo #PrevenIA
 + [[https://www.lesswrong.com/posts/bALBxf3yGGx4bvvem/prompt-optimization-can-enable-ai-control-research][Prompt optimization can enable AI control research]] #DSPY #Safety
 + [[https://arxiv.org/pdf/2509.20328][Video models are zero-shot learners and reasoners]] #VideoModels #FoundationalModel
 + [[https://arxiv.org/abs/2510.01179][TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments]] #Júlia #Dataset #ToolCalling
