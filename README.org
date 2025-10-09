@@ -94,6 +94,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://blog.langchain.com/query-transformations/][Query Transformations]] #Pablo #RAG #QueryTransformation
++ [[https://medium.com/@adityabbsharma/unlocking-the-power-of-query-transformation-in-retrieval-augmented-generation-rag-fbe461c354d6][Unlocking the Power of Query Transformation in Retrieval-Augmented Generation (RAG)]] #Pablo #RAG #QueryTransformation
++ [[https://arxiv.org/pdf/2503.10654][Improving RAG Retrieval via Propositional Content Extraction: a Speech Act Theory Approach]] #Pablo #RAG #Propositions
 + [[https://arxiv.org/abs/2312.06648][Dense X Retrieval: What Retrieval Granularity Should We Use?]] #Pablo #PrevenIA #Retrieval
 + [[https://arxiv.org/abs/2509.04492][Learned Hallucination Detection in Black-Box LLMs using Token-level Entropy Production Rate]] #Hallucination #Pablo #PrevenIA
 + [[https://www.lesswrong.com/posts/bALBxf3yGGx4bvvem/prompt-optimization-can-enable-ai-control-research][Prompt optimization can enable AI control research]] #DSPY #Safety
