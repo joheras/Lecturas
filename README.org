@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://civio.es/sanidad/2025/10/09/cuando-tu-medica-es-una-ia/][Cuando tu médica es una IA]] #CIAIS
 + [[https://blog.langchain.com/query-transformations/][Query Transformations]] #Pablo #RAG #QueryTransformation
 + [[https://medium.com/@adityabbsharma/unlocking-the-power-of-query-transformation-in-retrieval-augmented-generation-rag-fbe461c354d6][Unlocking the Power of Query Transformation in Retrieval-Augmented Generation (RAG)]] #Pablo #RAG #QueryTransformation
 + [[https://arxiv.org/pdf/2503.10654][Improving RAG Retrieval via Propositional Content Extraction: a Speech Act Theory Approach]] #Pablo #RAG #Propositions
