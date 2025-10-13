@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://gregorygundersen.com/blog/2025/10/01/large-language-models/][A History of Large Language Models]] #LLMs
 + [[https://arxiv.org/abs/2406.15627][Benchmarking Uncertainty Quantification Methods for Large Language Models with LM-Polygraph]] #ChistERA #Pablo #Hallucinations
 + [[https://smithery.ai/][Your Agent's Gateway to the World]] #MCP #Júlia
 + [[https://civio.es/sanidad/2025/10/09/cuando-tu-medica-es-una-ia/][Cuando tu médica es una IA]] #CIAIS
