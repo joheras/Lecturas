@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://www.modaic.dev/us][Building the Hugging Face for AI Agents]] #DSPY
 + [[https://www.sciencedirect.com/science/article/pii/S0925231225021423][Heterogeneous federated semantic segmentation]] #ModelSoup #FederatedLearning #Joaquin
 + [[https://github.com/ubc-tea/FedSoup/tree/main][FedSoup: Improving Generalization and Personalization in Federated Learning via Selective Model Interpolation]] #ModelSoup #FederatedLearning #Joaquin
 + [[https://gregorygundersen.com/blog/2025/10/01/large-language-models/][A History of Large Language Models]] #LLMs
