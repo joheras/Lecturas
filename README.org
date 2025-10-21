@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://research.google/blog/a-collaborative-approach-to-image-generation/][A collaborative approach to image generation]] #ImageGeneration #Agent
 + [[https://arxiv.org/pdf/2510.03458][Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video]] #MultiModalRetrieval
 + [[https://alexzhang13.github.io/blog/2025/rlm/][Recursive Language Models]] #LLMs
 + [[http://huggingface.co/blog/prithivMLmods/image-guard-models][Image-Guard-2.0: A SigLIP 2 Based Image Safety Classification Model]] #ImageGuard
