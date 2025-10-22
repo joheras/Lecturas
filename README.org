@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2506.09147][LLM-as-a-qualitative-judge: automating error analysis in natural language generation]] #LLMasJudge
 + [[https://www.nature.com/articles/s41550-025-02670-z#data-availability][Textual interpretation of transient image classifications from large language models]] #FewShotLearning #OPTRetina
 + [[https://research.google/blog/a-collaborative-approach-to-image-generation/][A collaborative approach to image generation]] #ImageGeneration #Agent
 + [[https://arxiv.org/pdf/2510.03458][Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video]] #MultiModalRetrieval
