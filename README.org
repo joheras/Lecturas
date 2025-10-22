@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://research.google/blog/the-anatomy-of-a-personal-health-agent/][The anatomy of a personal health agent]] #Agents
 + Host Your Own Ollama Models for Free in [[https://medium.com/data-science-collective/create-a-remote-llm-server-using-kaggle-notebooks-and-ollama-acb299ead1e5][Kaggle]] and in [[https://medium.com/data-science-collective/unleash-the-power-of-ai-host-your-own-ollama-models-for-free-with-google-colab-0aac5f237a9f][Colab]] #Ollama
 + [[https://arxiv.org/abs/2402.18041][Datasets for Large Language Models: A Comprehensive Survey]] #Júlia #Dataset 
 + [[https://www.iic.uam.es/procesamiento-del-lenguaje-natural/creacion-de-corpus-orientados-a-sistemas-rag-y-su-uso-en-evaluacion/][Creación de corpus orientados a sistemas RAG y su uso en evaluación]] #Júlia #Dataset #RAG
