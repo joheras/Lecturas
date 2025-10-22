@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2402.18041][Datasets for Large Language Models: A Comprehensive Survey]] #Júlia #Dataset 
++ [[https://www.iic.uam.es/procesamiento-del-lenguaje-natural/creacion-de-corpus-orientados-a-sistemas-rag-y-su-uso-en-evaluacion/][Creación de corpus orientados a sistemas RAG y su uso en evaluación]] #Júlia #Dataset #RAG
 + [[https://arxiv.org/abs/2506.09147][LLM-as-a-qualitative-judge: automating error analysis in natural language generation]] #LLMasJudge
 + [[https://www.nature.com/articles/s41550-025-02670-z#data-availability][Textual interpretation of transient image classifications from large language models]] #FewShotLearning #OPTRetina
 + [[https://research.google/blog/a-collaborative-approach-to-image-generation/][A collaborative approach to image generation]] #ImageGeneration #Agent
