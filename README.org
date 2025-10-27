@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://docs.camel-ai.org/cookbooks/data_generation/data_gen_with_real_function_calls_and_hermes_format][Real Function Calls and Hermes Format Data Generation]] #Camel #Júlia
 + [[https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/][A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums]] #SyntheticData
 + [[https://research.google/blog/the-anatomy-of-a-personal-health-agent/][The anatomy of a personal health agent]] #Agents
 + Host Your Own Ollama Models for Free in [[https://medium.com/data-science-collective/create-a-remote-llm-server-using-kaggle-notebooks-and-ollama-acb299ead1e5][Kaggle]] and in [[https://medium.com/data-science-collective/unleash-the-power-of-ai-host-your-own-ollama-models-for-free-with-google-colab-0aac5f237a9f][Colab]] #Ollama
