@@ -190,8 +190,8 @@ Este repositorio es una recopilación de lecturas.
 + [[https://boxiyu.github.io/assets/pdf/DSPy_Guardrails.pdf][DSPy Guardrails: Building Safe LLM Applications via Self-Refining Language Model Pipelines]] #dspy #guardrails] #pablo
 + [[https://arxiv.org/pdf/2506.21734][Hierarchical Reasoning Model]] #Reasoning
 + [[https://arxiv.org/pdf/2507.11299][Dr.Copilot: A M]]ulti-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian]] #Chistera #DSPY
-+ [[h]ttps://arxiv.org/pdf/2507.15245][SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search]] #Chistera
-+ ]][[https://arxiv.org/pdf/2412.13091][LMUNIT: Fine-grainedEvaluationwithNaturalLanguageUnitTests]]]#Júlia #Evaluation
++ [[https://arxiv.org/pdf/2507.15245][SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search]] #Chistera
++ [[https://arxiv.org/pdf/2412.13091][LMUNIT: Fine-grainedEvaluationwithNaturalLanguageUnitTests]]#Júlia #Evaluation
 + [[https://dl.acm.org/doi/10.1145/3726302.3729931][Combining Evidence and Reasoning for Biomedical Fact-Checking]] #Chistera
 + [[https://huggingface.co/learn/cookbook/fine_tuning_vlm_object_detection_grounding][Fine tuning a VLM for Object Detection Grounding using TRL]] #ObjectDetection #Grounding
 + [[https://aclanthology.org/2024.findings-acl.658/][On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Su]rvey]] #Júlia #SyntheticData
