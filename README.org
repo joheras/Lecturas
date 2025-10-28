@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2505.07891v2][TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking]] #FactChecking #CienciaEnClaro #GraphRAG
 + [[https://docs.camel-ai.org/cookbooks/data_generation/data_gen_with_real_function_calls_and_hermes_format][Real Function Calls and Hermes Format Data Generation]] #Camel #Júlia
 + [[https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/][A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums]] #SyntheticData
 + [[https://research.google/blog/the-anatomy-of-a-personal-health-agent/][The anatomy of a personal health agent]] #Agents
