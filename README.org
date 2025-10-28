@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://arxiv.org/abs/2510.19806][The Art of Asking: Multilingual Prompt Optimization for Synthetic Data]] #SyntheticData  #Júlia #Multilingual
 + [[https://huggingface.co/blog/aisheets-unlock-images][Unlock the power of images with AI Sheets]] #Datasets
 + [[https://arxiv.org/abs/2505.07891v2][TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking]] #FactChecking #CienciaEnClaro #GraphRAG
 + [[https://docs.camel-ai.org/cookbooks/data_generation/data_gen_with_real_function_calls_and_hermes_format][Real Function Calls and Hermes Format Data Generation]] #Camel #Júlia
