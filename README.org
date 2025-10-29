@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://huggingface.co/blog/voice-consent-gate][Voice Cloning with Consent]] #VoiceCloning #Ethics
 + [[https://www.liquid.ai/blog/lfm2-colbert-350m-one-model-to-embed-them-all][LFM2-ColBERT-350M: One Model to Embed Them All]] #Embedding #MultiLingual
 + [[https://martinfowler.com/articles/agentic-ai-security.html][Agentic AI and Security]] #Agents #Security #ProyectoNacional
 + [[https://arxiv.org/abs/2510.19806][The Art of Asking: Multilingual Prompt Optimization for Synthetic Data]] #SyntheticData  #Júlia #Multilingual
