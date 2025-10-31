@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Octubre 2025
 
++ [[https://huggingface.co/docs/trl/main/example_overview][TFL VLM examples]] #OPTRetina #Elena
 + [[https://arxiv.org/abs/2510.01171][Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity]] #Prompting #Júlia
 + [[https://arxiv.org/abs/2305.06590][FactKG: Fact Verification via Reasoning on Knowledge Graphs]] #FactChecking
 + [[https://arxiv.org/abs/2510.24702][Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents]] #Júlia #Dataset
