@@ -92,6 +92,10 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del año 2025
 
+** Noviembre 2025
+
++ [[https://deepmind.google/models/gemma/medgemma/][MedGemma: A Gemma 3 variant optimized for medical text and image comprehension.]] #Elena
+
 ** Octubre 2025
 
 + [[https://huggingface.co/docs/trl/main/example_overview][TFL VLM examples]] #OPTRetina #Elena
