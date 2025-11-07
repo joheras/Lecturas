@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://allenai.org/blog/olmoearth][Introducing OlmoEarth Platform: Powerful open infrastructure for planetary insights]] #Adrian #SatelliteImaging
 + [[https://deepmind.google/models/gemma/medgemma/][MedGemma: A Gemma 3 variant optimized for medical text and image comprehension.]] #Elena
 
 ** Octubre 2025
