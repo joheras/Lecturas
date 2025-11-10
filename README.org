@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://magazine.sebastianraschka.com/p/beyond-standard-llms][Beyond Standard LLMs]] #LLMs
 + [[https://contextual.ai/blog/rerank-v2][Open-Sourcing Reranker v2]] #RAG #Retrieval
 + [[https://www.sciencedirect.com/science/article/pii/S2352711025003978][WATCHED: A Web AI Agent Tool for Combating Hate speech by Expanding Data]] #Agents #HateSpeech #Software
 + [[https://allenai.org/blog/olmoearth][Introducing OlmoEarth Platform: Powerful open infrastructure for planetary insights]] #Adrian #SatelliteImaging
