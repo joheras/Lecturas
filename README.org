@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://github.com/OpenGVLab/efficient-video-recognition][Frozen CLIP models are Efficient Video Learners]] #VideoClassification #Maria
 + [[https://arxiv.org/pdf/2511.00916][Fleming-VL: Towards Universal Medical Visual Understanding with Multimodal LLMs]] #MLLM #Elena #Maria
 + [[https://github.com/emo-box/EmoBox][EmoBox]] #AnalisisSentimientos #Sara #Audio
 + [[https://github.com/FunAudioLLM/SenseVoice][SenseVoice]] #AnalisisSentimientos #Sara #Audio
