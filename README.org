@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_trl_lora_qlora.ipynb][Supervised Fine-Tuning (SFT) with LoRA/QLoRA using TRL — on a Free Colab Notebook]] #FineTuning #LORA
 + [[https://peerj.com/articles/cs-3112/#p-10][SignVLM: a pre-trained large video model for sign language recognition]] #LenguaSignos
 + [[https://magazine.sebastianraschka.com/p/beyond-standard-llms][Beyond Standard LLMs]] #LLMs
 + [[https://contextual.ai/blog/rerank-v2][Open-Sourcing Reranker v2]] #RAG #Retrieval
