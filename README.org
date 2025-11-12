@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://github.com/Liquid4All/cookbook/tree/main/examples/car-maker-identification][Fine tuning LFM2-VL to identify car makers from images]] #LORA #VLM #OPTRetina
 + [[https://weaviate.io/blog/muvera][More efficient multi-vector embeddings with MUVERA]] #Embedding #RAG
 + [[https://github.com/OpenGVLab/efficient-video-recognition][Frozen CLIP models are Efficient Video Learners]] #VideoClassification #Maria
 + [[https://arxiv.org/pdf/2511.00916][Fleming-VL: Towards Universal Medical Visual Understanding with Multimodal LLMs]] #MLLM #Elena #Maria
