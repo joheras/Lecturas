@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelSoups #Joaquin
 + [[https://huggingface.co/merve/smol-vision/blob/main/Image_Search_with_MetaCLIP2.ipynb][Use MetaCLIP2 for Image Search]] #ImageSearch #Embeddings
 + [[https://github.com/Liquid4All/cookbook/tree/main/examples/car-maker-identification][Fine tuning LFM2-VL to identify car makers from images]] #LORA #VLM #OPTRetina
 + [[https://weaviate.io/blog/muvera][More efficient multi-vector embeddings with MUVERA]] #Embedding #RAG
