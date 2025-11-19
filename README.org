@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://link.springer.com/article/10.1007/s10579-024-09751-x#Sec14][Spoken Spanish PoS tagging: gold standard dataset]] #Sara
 + [[https://github.com/roboflow/notebooks?tab=readme-ov-file][roboflow notebooks]] #ComputerVision #Notebooks
 + [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelSoups #Joaquin
 + [[https://huggingface.co/merve/smol-vision/blob/main/Image_Search_with_MetaCLIP2.ipynb][Use MetaCLIP2 for Image Search]] #ImageSearch #Embeddings
