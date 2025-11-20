@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://ai.meta.com/blog/segment-anything-model-3/][Introducing Meta Segment Anything Model 3 and Segment Anything Playground]] #SemanticSegmentation #Adrian #Joaquin
 + [[https://link.springer.com/article/10.1007/s10579-024-09751-x#Sec14][Spoken Spanish PoS tagging: gold standard dataset]] #Sara
 + [[https://github.com/roboflow/notebooks?tab=readme-ov-file][roboflow notebooks]] #ComputerVision #Notebooks
 + [[https://huggingface.co/blog/mlabonne/merge-models][Merge Large Language Models with mergekit]] #ModelSoups #Joaquin
