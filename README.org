@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://research.google/blog/real-time-speech-to-speech-translation/][Real-time speech-to-speech translation]] #Speech2Speech
 + [[https://arxiv.org/abs/2410.04201][Idempotent Test-Time Training]] #OOD
 + [[https://allenai.org/blog/olmo3][Olmo 3: Charting a path through the model flow to lead open-source AI]] #LLMs #Pablo
 + [[https://huggingface.co/blog/open-asr-leaderboard][Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks]] #ASR #Sara
