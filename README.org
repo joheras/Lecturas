@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1015/paper.pdf][In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models]] #Joaquin #Adrian
 + [[https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_502/paper.pdf][DefectGPT: Towards Multi-Class Defect Detection with Limited Electrical Samples]] #AnomalyDetection #SpectralGeo
 + [[https://arxiv.org/abs/2310.18961][Anomalyclip: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection]] #AnomalyDetection #SpectralGeo
 + [[https://research.google/blog/real-time-speech-to-speech-translation/][Real-time speech-to-speech translation]] #Speech2Speech
