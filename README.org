@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://huggingface.co/blog/open-asr-leaderboard][Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks]] #ASR #Sara
++ [[https://huggingface.co/blog/rapidfireai][20x Faster TRL Fine-tuning with RapidFire AI]] #Joaquin
 + [[https://sophont.med/blog/openmidnight#introduction][How to Train a State-of-the-Art Pathology Foundation Model with $1.6k]] #Bruno
 + [[https://ai.meta.com/blog/sam-3d/][Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images]] #LSEAvatar
 + [[https://ai.meta.com/blog/segment-anything-model-3/][Introducing Meta Segment Anything Model 3 and Segment Anything Playground]] #SemanticSegmentation #Adrian #Joaquin
