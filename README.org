@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://arxiv.org/abs/2505.02830][AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation]] #Elena
 + [[https://jitinjami.github.io/stratify/index.html][Stratify or Die: Rethinking Data Splits in Image Segmentation]] #Segmentation #Joaquin
 + [[https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1121/paper.pdf][MIAS-SAM: Medical Image Anomaly Segmentation without thresholding]] #AnomalyDetection #SpectralGeo
 + [[https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1015/paper.pdf][In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models]] #Joaquin #Adrian
