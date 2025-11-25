@@ -94,7 +94,9 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
-+ [[https://openreview.net/forum?id=GMR9BUsPbq][BANZ-FS: BANZSL Fingerspelling Dataset]]
++ [[https://aclanthology.org/2024.signlang-1.43.pdf][SignaMed: a Cooperative Bilingual LSE-Spanish Dictionary in the Healthcare Domain]] #LenguaSignos
++ [[https://link.springer.com/article/10.1007/s00521-024-10776-0#Fun][A real-time platform for Spanish Sign Language interpretation]] #LenguaSignos
++ [[https://openreview.net/forum?id=GMR9BUsPbq][BANZ-FS: BANZSL Fingerspelling Dataset]] #LenguaSignos
 + [[https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b][LLaVA-Med]] #Elena
 + [[https://github.com/snap-stanford/med-flamingo/tree/master][Med-Flamingo]] #Elena
 + [[https://ai.google.dev/gemma/docs/core/huggingface_vision_finetune_qlora][Fine-Tune Gemma for Vision Tasks using Hugging Face Transformers and QLoRA]] #OPTRetina
