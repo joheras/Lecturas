@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b][LLaVA-Med]] #Elena
++ [[https://github.com/snap-stanford/med-flamingo/tree/master][Med-Flamingo]] #Elena
 + [[https://ai.google.dev/gemma/docs/core/huggingface_vision_finetune_qlora][Fine-Tune Gemma for Vision Tasks using Hugging Face Transformers and QLoRA]] #OPTRetina
 + [[https://arxiv.org/abs/2505.02830][AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation]] #Elena
 + [[https://jitinjami.github.io/stratify/index.html][Stratify or Die: Rethinking Data Splits in Image Segmentation]] #Segmentation #Joaquin
