@@ -94,6 +94,12 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[https://arxiv.org/abs/2506.01942][OD3: Optimization-free Dataset Distillation for Object Detection]] #DatasetDistillation #Joaquin
++ [[https://github.com/Guang000/Awesome-Dataset-Distillation][Awesome Dataset Distillation]] #DatasetDistillation #Joaquin
++ [[https://arxiv.org/pdf/2204.08499][DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning]]
++ [[https://arxiv.org/abs/2404.09161][Coreset Selection for Object Detection]] #DataPruning #Joaquin
++ [[https://dl.acm.org/doi/10.1145/3664647.3681592][Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification]] #DataPruning #Joaquin
++ [[https://www.arxiv.org/pdf/2503.00828][Training-Free Dataset Pruning for Instance Segmentation]] #DataPruning #Joaquin
 + [[https://aclanthology.org/2024.signlang-1.43.pdf][SignaMed: a Cooperative Bilingual LSE-Spanish Dictionary in the Healthcare Domain]] #LenguaSignos
 + [[https://link.springer.com/article/10.1007/s00521-024-10776-0#Fun][A real-time platform for Spanish Sign Language interpretation]] #LenguaSignos
 + [[https://openreview.net/forum?id=GMR9BUsPbq][BANZ-FS: BANZSL Fingerspelling Dataset]] #LenguaSignos
