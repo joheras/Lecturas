@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Noviembre 2025
 
++ [[http://lse-sign.bcbl.eu/web-busqueda/][LSE-Sign]] #LSEAvatar
 + [[https://huggingface.co/blog/continuous_batching][Continuous batching]] #LLM #Optimization
 + [[https://huggingface.co/blog/flux-2][Welcome FLUX.2 - BFL’s new open image generation model 🤗]] #ImageGeneration
 + [[https://arxiv.org/abs/2506.01942][OD3: Optimization-free Dataset Distillation for Object Detection]] #DatasetDistillation #Joaquin
