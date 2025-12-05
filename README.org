@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety][Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications]] #Pablo #safety
 + [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_ministral3_vl.ipynb][Supervised Fine-Tuning (SFT) Ministral-3 with QLoRA using TRL]] #OPTRetina #Elena
 + [[https://arxiv.org/abs/2507.10492][BenchReAD: A Systematic Benchmark for Retinal Anomaly Detection]] #AnomalyDetection #OPTRetina #SpectralGeo
 + [[https://www.nature.com/articles/s41598-025-25091-4][Large-scale remote sensing model enables an integrated monitoring approach for high-resolution tracking pest vole populations]] #ImagenAerea #Adrián #Galicia
@@ -106,7 +107,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2506.01942][OD3: Optimization-free Dataset Distillation for Object Detection]] #DatasetDistillation #Joaquin
 + [[https://github.com/Guang000/Awesome-Dataset-Distillation][Awesome Dataset Distillation]] #DatasetDistillation #Joaquin
 + [[https://arxiv.org/pdf/2204.08499][DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning]]
-+ [[https://arxiv.org/abs/2404.09161][Coreset Selection for Object Detection]] #DataPruning #Joaquin
++ [[https://arxiv.org/abs/240161][Coreset Selection for Object Detection]] #DataPruning #Joaquin
 + [[https://dl.acm.org/doi/10.1145/3664647.3681592][Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification]] #DataPruning #Joaquin
 + [[https://www.arxiv.org/pdf/2503.00828][Training-Free Dataset Pruning for Instance Segmentation]] #DataPruning #Joaquin
 + [[https://aclanthology.org/2024.signlang-1.43.pdf][SignaMed: a Cooperative Bilingual LSE-Spanish Dictionary in the Healthcare Domain]] #LenguaSignos
