@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00549-X][An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care]] #Elena #optretina
 + [[https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety][Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications]] #Pablo #safety
 + [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_ministral3_vl.ipynb][Supervised Fine-Tuning (SFT) Ministral-3 with QLoRA using TRL]] #OPTRetina #Elena
 + [[https://arxiv.org/abs/2507.10492][BenchReAD: A Systematic Benchmark for Retinal Anomaly Detection]] #AnomalyDetection #OPTRetina #SpectralGeo
