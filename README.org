@@ -108,7 +108,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/flux-2][Welcome FLUX.2 - BFL’s new open image generation model 🤗]] #ImageGeneration
 + [[https://arxiv.org/abs/2506.01942][OD3: Optimization-free Dataset Distillation for Object Detection]] #DatasetDistillation #Joaquin
 + [[https://github.com/Guang000/Awesome-Dataset-Distillation][Awesome Dataset Distillation]] #DatasetDistillation #Joaquin
-+ [[https://arxiv.org/pdf/2204.08499][DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning]]
++ [[https://arxiv.org/pdf/2204.08499][DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning]] #DataPruning #Joaquin
 + [[https://arxiv.org/abs/240161][Coreset Selection for Object Detection]] #DataPruning #Joaquin
 + [[https://dl.acm.org/doi/10.1145/3664647.3681592][Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification]] #DataPruning #Joaquin
 + [[https://www.arxiv.org/pdf/2503.00828][Training-Free Dataset Pruning for Instance Segmentation]] #DataPruning #Joaquin
