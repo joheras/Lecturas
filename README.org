@@ -94,6 +94,8 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models][Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models Enterprise + Article]] #Agents
++ [[https://allenai.org/blog/bolmo][Introducing Bolmo: Byteifying the next generation of language models]] #LLM #ByteTokenizer
 + [[https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/][A differentially private framework for gaining insights into AI chatbot use]] #Privacy #Chatbots
 + [[https://huggingface.co/spaces/OpenEvals/evaluation-guidebook][The LLM Evaluation Guidebook]] #Júlia #Evaluation 
 + [[https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00549-X][An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care]] #Elena #optretina
