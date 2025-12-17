@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://ai.meta.com/samaudio/][Introducing Meta Segment Anything Model Audio (SAM Audio)]] #Audio #Segmentation
 + [[https://huggingface.co/blog/eurollm-team/eurollm-22b][EuroLLM-22B]] #ChistERA
 + [[https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models][Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models Enterprise + Article]] #Agents
 + [[https://allenai.org/blog/bolmo][Introducing Bolmo: Byteifying the next generation of language models]] #LLM #ByteTokenizer
