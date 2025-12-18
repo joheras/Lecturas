@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://escueladoctorado.unizar.es/sites/escueladoctorado/files/users/docto/docs/IA/jorbienvenidaeduz_24-25_conferenciaia_ana_gracia-gil.pdf][IA en la investigación doctoral: oportunidades, límites y responsabilidad]] #IA #Doctorado
 + [[https://ai.meta.com/samaudio/][Introducing Meta Segment Anything Model Audio (SAM Audio)]] #Audio #Segmentation
 + [[https://huggingface.co/blog/eurollm-team/eurollm-22b][EuroLLM-22B]] #ChistERA
 + [[https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models][Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models Enterprise + Article]] #Agents
