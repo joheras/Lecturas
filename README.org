@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://docs.unsloth.ai/new/deploy-llms-phone][How to Run and Deploy LLMs on your iOS or Android Phone]] #Phone #LLMs
 + [[https://huggingface.co/blog/tokenizers][Tokenization in Transformers v5: Simpler, Clearer, and More Modular]] #Tokenizers
 + [[https://elite-ai-assisted-coding.dev/p/most-rag-systems-have-a-context-problem][Most RAG systems have a context problem]] #RAG #Pablo
 + [[https://escueladoctorado.unizar.es/sites/escueladoctorado/files/users/docto/docs/IA/jorbienvenidaeduz_24-25_conferenciaia_ana_gracia-gil.pdf][IA en la investigación doctoral: oportunidades, límites y responsabilidad]] #IA #Doctorado
