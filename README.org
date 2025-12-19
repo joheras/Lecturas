@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior][Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior]] #Interpretability #LLMs
 + [[https://hms.harvard.edu/news/researchers-discover-bias-ai-models-analyze-pathology-samples][Researchers Discover Bias in AI Models That Analyze Pathology Samples]] #Pathology #Bruno #Bias
 + [[https://www.nature.com/articles/s41746-025-01751-7][A cross population study of retinal aging biomarkers with longitudinal pre-training and label distribution learning]] #Elena #UPRetina
 + [[https://docs.unsloth.ai/new/deploy-llms-phone][How to Run and Deploy LLMs on your iOS or Android Phone]] #Phone #LLMs
