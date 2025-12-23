@@ -103,7 +103,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://docs.unsloth.ai/new/deploy-llms-phone][How to Run and Deploy LLMs on your iOS or Android Phone]] #Phone #LLMs
 + [[https://huggingface.co/blog/tokenizers][Tokenization in Transformers v5: Simpler, Clearer, and More Modular]] #Tokenizers
 + [[https://elite-ai-assisted-coding.dev/p/most-rag-systems-have-a-context-problem][Most RAG systems have a context problem]] #RAG #Pablo
-+ [[https://escueladoctorado.unizar.es/sites/escueladoctorado/files/users/docto/docs/IA/jorbienvenidaeduz_24-25_conferenciaia_ana_gracia-gil.pdf][IA en la investigacion doctoral: oportunidades, li­mites y responsabilidad]] #IA #Doctorado
++ [[https://escueladoctorado.unizar.es/sites/escueladoctorado/files/users/docto/docs/IA/jorbienvenidaeduz_24-25_conferenciaia_ana_gracia-gil.pdf][IA en la investigacion doctoral: oportunidades, liÂ­mites y responsabilidad]] #IA #Doctorado
 + [[https://ai.meta.com/samaudio/][Introducing Meta Segment Anything Model Audio (SAM Audio)]] #Audio #Segmentation
 + [[https://huggingface.co/blog/eurollm-team/eurollm-22b][EuroLLM-22B]] #ChistERA
 + [[https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models][Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models Enterprise + Article]] #Agents
@@ -114,7 +114,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety][Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications]] #Pablo #safety
 + [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_ministral3_vl.ipynb][Supervised Fine-Tuning (SFT) Ministral-3 with QLoRA using TRL]] #OPTRetina #Elena
 + [[https://arxiv.org/abs/2507.10492][BenchReAD: A Systematic Benchmark for Retinal Anomaly Detection]] #AnomalyDetection #OPTRetina #SpectralGeo
-+ [[https://www.nature.com/articles/s41598-025-25091-4][Large-scale remote sensing model enables an integrated monitoring approach for high-resolution tracking pest vole populations]] #ImagenAerea #Adrii¡n #Galicia
++ [[https://www.nature.com/articles/s41598-025-25091-4][Large-scale remote sensing model enables an integrated monitoring approach for high-resolution tracking pest vole populations]] #ImagenAerea #AdriiÂ¡n #Galicia
 
 + [[https://medium.com/neuml/training-tiny-language-models-with-token-hashing-b744aa7eb931][Training Tiny Language Models with Token Hashing | by David Mezzetti | NeuML | Medium]] #LLM #Tiny
 + [[https://sophont.med/blog/medmarks#introduction][Medmarks v0.1, a new LLM benchmark suite of medical tasks]] #Medical #LLM #Benchmark
@@ -161,7 +161,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://arxiv.org/pdf/2511.00916][Fleming-VL: Towards Universal Medical Visual Understanding with Multimodal LLMs]] #MLLM #Elena #Maria
 + [[https://github.com/emo-box/EmoBox][EmoBox]] #AnalisisSentimientos #Sara #Audio
 + [[https://github.com/FunAudioLLM/SenseVoice][SenseVoice]] #AnalisisSentimientos #Sara #Audio
-+ [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_trl_lora_qlora.ipynb][Supervised Fine-Tuning (SFT) with LoRA/QLoRA using TRL ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â on a Free Colab Notebook]] #FineTuning #LORA
++ [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/sft_trl_lora_qlora.ipynb][Supervised Fine-Tuning (SFT) with LoRA/QLoRA using TRL ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ on a Free Colab Notebook]] #FineTuning #LORA
 + [[https://peerj.com/articles/cs-3112/#p-10][SignVLM: a pre-trained large video model for sign language recognition]] #LenguaSignos
 + [[https://magazine.sebastianraschka.com/p/beyond-standard-llms][Beyond Standard LLMs]] #LLMs
 + [[https://contextual.ai/blog/rerank-v2][Open-Sourcing Reranker v2]] #RAG #Retrieval
@@ -200,7 +200,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://gregorygundersen.com/blog/2025/10/01/large-language-models/][A History of Large Language Models]] #LLMs
 + [[https://arxiv.org/abs/2406.15627][Benchmarking Uncertainty Quantification Methods for Large Language Models with LM-Polygraph]] #ChistERA #Pablo #Hallucinations
 + [[https://smithery.ai/][Your Agent's Gateway to the World]] #MCP #Julia
-+ [[https://civio.es/sanidad/2025/10/09/cuando-tu-medica-es-una-ia/][Cuando tu mi©dica es una IA]] #CIAIS
++ [[https://civio.es/sanidad/2025/10/09/cuando-tu-medica-es-una-ia/][Cuando tu miÂ©dica es una IA]] #CIAIS
 + [[https://blog.langchain.com/query-transformations/][Query Transformations]] #Pablo #RAG #QueryTransformation
 + [[https://medium.com/@adityabbsharma/unlocking-the-power-of-query-transformation-in-retrieval-augmented-generation-rag-fbe461c354d6][Unlocking the Power of Query Transformation in Retrieval-Augmented Generation (RAG)]] #Pablo #RAG #QueryTransformation
 + [[https://arxiv.org/pdf/2503.10654][Improving RAG Retrieval via Propositional Content Extraction: a Speech Act Theory Approach]] #Pablo #RAG #Propositions
@@ -252,10 +252,10 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://arxiv.org/abs/2408.02865][VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge]] #optretina
 + [[https://arxiv.org/abs/2311.12983][GAIA: a benchmark for General AI Assistants]] #Julia #Dataset
 + [[https://huggingface.co/nvidia/canary-1b-v2][Canary 1B v2: Multitask Speech Transcription and Translation Model]] #mirari #Sara #ASR
-+ [[https://onlinelibrary.wiley.com/doi/10.1002/ima.70185][GlaucoDiff: A Framework for Generating Balanced Glaucoma Fundus Images and Improving Diagnostic Performance]] #Elena #Adrii¡n #retina
++ [[https://onlinelibrary.wiley.com/doi/10.1002/ima.70185][GlaucoDiff: A Framework for Generating Balanced Glaucoma Fundus Images and Improving Diagnostic Performance]] #Elena #AdriiÂ¡n #retina
 + [[https://www.sciencedirect.com/science/article/pii/S0148296321003155][How to conduct a bibliometric analysis: An overview and guidelines]] #bibliometricAnalysis #Julia 
 + [[https://huggingface.co/blog/trackio][Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face]] #Tracking
-+ [[https://arxiv.org/abs/2506.19234][Quantitative Benchmarking of Anomaly Detection Methods in Digital Pathology]] #Bruno #Joaqui­n #AnomalyDetection #SpectralGeo
++ [[https://arxiv.org/abs/2506.19234][Quantitative Benchmarking of Anomaly Detection Methods in Digital Pathology]] #Bruno #JoaquiÂ­n #AnomalyDetection #SpectralGeo
 + [[https://research.google/blog/helping-everyone-build-ai-for-healthcare-applications-with-open-foundation-models/][Helping everyone build AI for healthcare applications with open foundation models]] #Bruno #Joaquin
 + [[https://neulab.github.io/CulturalGround/][CulturalGround Grounding Multilingual Multimodal LLMs With Cultural Knowledge]] #chistera #dataset #multimodal
 + [[https://www.dropbox.com/scl/fi/t8d59wupeeb3bdldhbq6o/Beyond-Naive-RAG-Practical-Advanced-Methods.pdf?ajs_uid=720146&rlkey=y0aawyxocpadmq461h752xrg0&e=3&st=i341qxc4&dl=0][Beyond naive RAG]] #rag #pablo #Julia 
@@ -264,7 +264,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://techcommunity.microsoft.com/blog/azure]]-ai-foundry-blog/evaluating-fine-tuned-models-for-function-calling-beyond-input-output-metrics/4363864][Evaluating Fine-]]Tuned Models for Function-Calling: Beyond Input-Output Metrics]] #Julia #Evaluation #functioncalling
 + [[https://huggingface.co/blog/welcome-openai-gpt-oss][Welcome GPT OSS, the new open-source model family from OpenAI!]] #Pablo
 + [[https://huggingface.co/blog/aisheets][Introducing AI Sheets: a tool to work with datasets using open AI models!]] #Pablo #Julia
-+ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua espyearla: revision cri­tica de mi©tricas y propuesta de nuevas variables]]] #lecturabilidad #Mirari 
++ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua espyearla: revision criÂ­tica de miÂ©tricas y propuesta de nuevas variables]]] #lecturabilidad #Mirari 
 
 ** Julio 2025
 
@@ -311,7 +311,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/papers/2506.09513][ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning]] #Chistera #Dataset #Medicine
 + [[https://mistral.ai/news/magistral][Stands to reason. Magistral]] #Chistera #Multilingual #Reasoning
 + [[https://arxiv.org/abs/2501.03200][The FACTS Grounding Leaderboard: Benchmarking LLMs Ability to Ground Responses to Long-Form Input]] #Julia #Factuality
-+ [[https://riuma.uma.es/xmlui/bitstream/handle/10630/37603/Ana%CC%81lisis%20de%20sentimiento%20del%20espan%CC%83ol%20basado%20en%20corpus%20%282%29.pdf?sequence=6&isAllowed=y][Ani¡lisis de sentimiento del espyearl basado en corpus]] #AnalisisSentimientos #MasterNLP
++ [[https://riuma.uma.es/xmlui/bitstream/handle/10630/37603/Ana%CC%81lisis%20de%20sentimiento%20del%20espan%CC%83ol%20basado%20en%20corpus%20%282%29.pdf?sequence=6&isAllowed=y][AniÂ¡lisis de sentimiento del espyearl basado en corpus]] #AnalisisSentimientos #MasterNLP
 + [[https://arxiv.org/abs/2505.24478][Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning]] #GraphRAG #Pablo
 
 ** Mayo 2025
@@ -330,9 +330,9 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/spaces/google/rad_explain][Medgemma demo]] #CienciaEnClaro 
 + [[https://huggingface.co/collections/google/medgemma-release-680aade845f90bec6a3f60c4][MedGemma]] #Chistera #Leo 
 + [[https://github.com/guardrails-ai/guardrails?tab=readme-ov-file][Guardrails AI]] #GuardRails #Pablo
-+ [[https://huggingface.co/docs/transformers/model_doc/grounding-dino][Grounding DINO]] #instancesegmentation #Joaqui­n #ObjectDetection
++ [[https://huggingface.co/docs/transformers/model_doc/grounding-dino][Grounding DINO]] #instancesegmentation #JoaquiÂ­n #ObjectDetection
 + [[https://huggingface.co/blog/whitecircle-ai/circleguardbench][CircleGuardBench: New Standard for Evaluating AI Moderation Models]] #Guards #prevenia 
-+ [[https://shap.readthedocs.io/en/latest/text_examples.html#sentiment-analysis][Explicabilidad Ani¡lisis Sentimiento]] #SentimentAnalysis #MasterNLP #Explicabilidad
++ [[https://shap.readthedocs.io/en/latest/text_examples.html#sentiment-analysis][Explicabilidad AniÂ¡lisis Sentimiento]] #SentimentAnalysis #MasterNLP #Explicabilidad
 + [[https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1.full.pdf][Cellpose-SAM: superhuman generalization for cellular segmentation]] #CellSegmentation #Arrate
 + [[https://cacm.acm.org/research/envisioning-recommendations-on-an-llm-based-agent-platform/#F3][Envisioning Recommendations on an LLM-Based Agent Platform]] #Agents #ChistERA #RecommendationSystems
 + [[https://ai.meta.com/blog/meta-fair-updates-perception-localization-reasoning/?utm_source=twitter&utm_medium=organic%20social&utm_content=video&utm_campaign=fair][Advancing AI systems through progress in perception, localization, and reasoning]] #Agents #Imaging
@@ -341,7 +341,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://www.lighton.ai/lighton-blogs/pylate-flexible-training-and-retrieval-for-late-interaction-models][PyLate: Flexible Training and Retrieval for ColBERT Models]] #ColBERT #PrevenIA
 + [[https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/DFine_finetune_on_a_custom_dataset.ipynb][Fine-tuning D-Fine on a custom dataset]] #ObjectDetection #Master 
 + [[https://huggingface.co/blog/sasha/reduce-reuse-recycle][Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability]] #CIAIS #Felix
-+ [[https://datos.gob.es/es/blog/como-elegir-el-grafico-correcto-para-visualizar-datos-abiertos][Como elegir el gri¡fico correcto para visualizar datos abiertos]] #Visualizacion
++ [[https://datos.gob.es/es/blog/como-elegir-el-grafico-correcto-para-visualizar-datos-abiertos][Como elegir el griÂ¡fico correcto para visualizar datos abiertos]] #Visualizacion
 + [[https://huggingface.co/collections/Unbabel/xcomet-659eca973b3be2ae4ac023bb][xCOMET]] #Chist-ERA
 + [[https://huggingface.co/collections/Unbabel/tower-659eaedfe36e6dd29eb1805c][Tower]] #Chist-ERA
 + [[https://huggingface.co/blog/eurollm-team/eurollm-9b][EuroLLM-9B]] #Chist-ERA
@@ -370,7 +370,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/papers/2504.05298][One-Minute Video Generation with Test-Time Training]] #VideoGeneration
 + [[https://huggingface.co/papers/2504.05299?utm_source=digest-papers&utm_medium=email&utm_campaign=2025-04-08][SmolVLM: Redefining small and efficient multimodal models]] #VLM #Chistera
 + [[https://contextual.ai/blog/is-rag-dead-yet/][RAG is dead, long live RAG!]] #RAG
-+ [[https://www.pikaramagazine.com/2025/04/cuando-interesan-nuestros-cuerpos-a-la-ia/][¿Cui¡ndo interesan nuestros cuerpos a la IA?]] #CIAIS
++ [[https://www.pikaramagazine.com/2025/04/cuando-interesan-nuestros-cuerpos-a-la-ia/][Â¿CuiÂ¡ndo interesan nuestros cuerpos a la IA?]] #CIAIS
 + [[https://arxiv.org/abs/2503.18813][Defeating Prompt Injections by Design]] #Security #LLMs
 + [[https://isshikihugh.github.io/HSMR/][Reconstructing Humans with a Biomechanically Accurate Skeleton]] #LSEAvatar
 + [[https://humansensinglab.github.io/Hamba/][Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba]] #LSEAvatar
@@ -436,7 +436,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/blog/ai-art-newsletter-jan-25][The AI tools for Art Newsletter]] #ImageGeneration #VideoGeneration #AudioGeneration
 + [[http://mt-class.org/jhu/syllabus.html][Machine Translation]] #TraduccionAutomatica #Clases
 + [[https://arxiv.org/abs/2501.18362][MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding]] #Chistera #Dataset
-+ [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al espyearl con fines pri¡cticos y recursos limitados]] #LLMs #RigoChat
++ [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al espyearl con fines priÂ¡cticos y recursos limitados]] #LLMs #RigoChat
 + [[https://huggingface.co/blog/open-r1/update-1][Open-R1: Update #1]] #DeepSeek
 + [[https://arxiv.org/abs/2409.06790][Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts]] #TraduccionAutomatica #Chistera
 
@@ -522,7 +522,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_reranker_and_vlms][Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs]] #VisualLanguageModels #RAG
 + [[https://link.springer.com/article/10.1007/s00521-024-10776-0][A real-time platform for Spanish Sign Language interpretation]] #LenguaSignos #Manu #Mirari
 + [[https://blog.roboflow.com/fine-tune-paligemma-2/][How to Fine-tune PaliGemma 2]] #VLM #LORA #FineTuning
-+ [[https://huggingface.co/blog/image-preferences][Open Preference Dataset for Text-to-Image Generation by the  Community]] #ImageDataset #ImageGeneration
++ [[https://huggingface.co/blog/image-preferences][Open Preference Dataset for Text-to-Image Generation by the Â Community]] #ImageDataset #ImageGeneration
 + [[https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/][Introducing Gemini 2.0: our new AI model for the agentic era]] #Agents
 + [[https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/][The Shift from Models to Compound AI Systems]]  #Nacional2024 #Agents
 + [[https://huggingface.co/blog/paligemma2][Welcome PaliGemma 2  New vision language models by Google]] #VisualLanguageModels
@@ -542,11 +542,11 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/][Day 3 - Building an agent with LangGraph]] #Agents #ProyectoIA
 + [[https://www.kaggle.com/whitepaper-agents][Agents]] #Agents #ProyectoIA
 + [[https://learnopencv.com/lightrag/][LightRAG: Simple and Fast Retrieval-Augmented Generation for Legal Doc Analysis]] #GraphLLM #Retrieval #RAG
-+ [[https://developers.googleblog.com/es/introducing-mediapipe-solutions-for-on-device-machine-learning/][Presentamos las soluciones de MediaPipe para el aprendizaje automi¡tico integrado en el dispositivo]] #MediaPipe #LSEAvatar
++ [[https://developers.googleblog.com/es/introducing-mediapipe-solutions-for-on-device-machine-learning/][Presentamos las soluciones de MediaPipe para el aprendizaje automiÂ¡tico integrado en el dispositivo]] #MediaPipe #LSEAvatar
 + [[https://ollama.com/blog/llama3.2-vision][Llama 3.2 Vision]] #Ollama #LVM #ProyectoIA
 + [[https://magazine.sebastianraschka.com/p/understanding-multimodal-llms][Understanding Multimodal LLMs]] #MultiModalLLM #ProyectoIA
 + [[https://vectorize.io/multimodal-rag-patterns/][Multimodal RAG Patterns Every AI Developer Should Know]] #MultiModal #RAG #ProyectoIA
-+ [[https://accedacris.ulpgc.es/handle/10553/134597][Lectura Fi¡cil: Procesos y entornos de una nueva modalidad de traduccion]] #LecturaFacil #Mirari #PlenaInclusion
++ [[https://accedacris.ulpgc.es/handle/10553/134597][Lectura FiÂ¡cil: Procesos y entornos de una nueva modalidad de traduccion]] #LecturaFacil #Mirari #PlenaInclusion
 + [[https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/][How I finally got agentic RAG to work right]] #Agents #RAG #ProyectoIA
 + [[https://weaviate.io/blog/what-is-agentic-rag][What is Agentic RAG]] #Agents #RAG #ProyectoIA
 + [[https://medask.tech/blogs/introducing-symptomcheck-bench/][Introducing SymptomCheck Bench]] #Evaluation #Agent
@@ -610,7 +610,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://m.youtube.com/watch?v=bq1Plo2RhYI][Reliable, fully local RAG agents with LLaMA3.2-3b]] #RAG #Pablo #langgraph
 + [[https://arxiv.org/pdf/2409.14160][Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI]] #CIAIS
 + [[https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/][Llama 3.2: Revolutionizing edge AI and vision with open, customizable models]] #LLM #VLM
-+ [[https://blog.google/intl/es-es/productos/presentamos-youtube-health-en-espana-para-conectar-a-las-personas-con-fuentes-sanitarias-autorizadas/][YouTube Health en Espai±a conecta a las personas con fuentes sanitarias autorizadas]] #ProyectoIA 
++ [[https://blog.google/intl/es-es/productos/presentamos-youtube-health-en-espana-para-conectar-a-las-personas-con-fuentes-sanitarias-autorizadas/][YouTube Health en EspaiÂ±a conecta a las personas con fuentes sanitarias autorizadas]] #ProyectoIA 
 + [[https://huggingface.co/papers/2409.16235][EuroLLM: Multilingual Language Models for Europe]] #LLMs #Multilingual
 + [[https://huggingface.co/papers/2409.12941][Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation]] #RAG #Pablo #Evaluation
 + [[https://arxiv.org/abs/2409.11242v1][Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse]] #RAG #Pablo #Evaluation
@@ -618,7 +618,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610][NoticIA: A Clickbait Article Summarization Dataset in Spanish]] #TeAhorroUnClick
 + [[https://arxiv.org/abs/2311.11077][Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning]] #FineTuning
 + [[https://arxiv.org/abs/2203.16082][Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition]] #Adapters #CatastrophicForgetting #ASR
-+ [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6611][Adaptacion de ASR al habla de personas con si­ndrome de Down]] #ASR #Mirari #Accesibilidad
++ [[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6611][Adaptacion de ASR al habla de personas con siÂ­ndrome de Down]] #ASR #Mirari #Accesibilidad
 + [[https://danielvanstrien.xyz/posts/post-with-code/colpali/2024-09-23-generate_colpali_dataset.html][Generating a dataset of queries for training and fine-tuning ColPali models on a UFO dataset]] #VLM #ProyectoIA #MultiModalRAG
 + [[https://github.com/dleemiller/WordLlama/tree/main][WordLlama]] #Embeddings #NLP #Pablo
 + [[https://research.google/blog/heal-a-framework-for-health-equity-assessment-of-machine-learning-performance/][HEAL: A framework for health equity assessment of machine learning performance]] #Ethics #Evaluation 
@@ -644,8 +644,8 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://arxiv.org/pdf/2407.16117][A Logic for Veracity: Development and Implementation]] #Coq #Provenance
 + [[https://www.nature.com/articles/s42256-024-00889-5#data-availability][Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling]] #Bruno #Histopathology #SyntheticImages
 + [[https://ec.europa.eu/commission/presscorner/detail/es/ip_24_4123][Entrada en vigor de la Ley Europea de Inteligencia Artificial]] #CIAIS
-+ [[https://github.com/merveenoyan/smol-vision][Smol Vision ÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â£]] #ComputerVision #Optimisation #SmallModels
-+ [[https://huangzhii.github.io/nuclei-HAI/][A pathologistÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“AI collaboration framework for enhancing diagnostic accuracies and efficiencies]] #Bruno #ActiveLearning #Pathology
++ [[https://github.com/merveenoyan/smol-vision][Smol Vision ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂÃâÃÂ£]] #ComputerVision #Optimisation #SmallModels
++ [[https://huangzhii.github.io/nuclei-HAI/][A pathologistÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃâAI collaboration framework for enhancing diagnostic accuracies and efficiencies]] #Bruno #ActiveLearning #Pathology
 + [[https://huggingface.co/blog/anakin87/spectrum][Selective fine-tuning of Language Models with Spectrum]] #FineTuning #LLMs #Selective
 + [[https://github.com/huggingface/trl][TRL - Transformer Reinforcement Learning]] #ReinforcementLearning
 + [[https://openreview.net/forum?id=1cq9pmwRgG][Towards Safe Large Language Models for Medicine]] #LLM #Pablo
@@ -688,7 +688,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://arxiv.org/html/2310.02567v2][Improving Automatic VQA Evaluation Using Large Language Models]] #leo #prevenia #Pablo #metrics #Alignment 
 + [[https://ai.meta.com/blog/segment-anything-2/][Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images]] #segmentation #videos
 + [[https://huggingface.co/blog/smollm][SmolLM - blazingly fast and remarkably powerful]] #SmallLanguageModels
-+ [[https://www.nationalgeographic.es/ciencia/2024/07/inteligencia-artificial-problemas-salud-mental-peligros-oportunidades-uso-chatbots][Cada vez mi¡s personas usan chatbots de inteligencia artificial para problemas de salud mental]] #Pablo #PrevenIA
++ [[https://www.nationalgeographic.es/ciencia/2024/07/inteligencia-artificial-problemas-salud-mental-peligros-oportunidades-uso-chatbots][Cada vez miÂ¡s personas usan chatbots de inteligencia artificial para problemas de salud mental]] #Pablo #PrevenIA
 + [[https://github.com/stanfordnlp/dspy/blob/main/intro.ipynb][DSPy: Programming with Foundation Models]] #LanguageModels
 + [[https://arxiv.org/abs/2407.11144][YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus]] #LSEAvatar
 + [[https://huggingface.co/blog/argilla-chatbot][How we leveraged distilabel to create an Argilla 2.0 Chatbot]] #Chatbot #Fine-Tuning #Pablo #PrevenIA
@@ -703,13 +703,13 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://link.springer.com/article/10.1007/s13748-024-00326-z#Sec11][Advanced deep learning and large language models for suicide ideation detection on social media]] #SuicideIdeation #PrevenIA #Pablo
 + [[https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf][What Goes Around Comes Around... And Around...]] #Databases
 + [[https://huggingface.co/spaces/KwaiVGI/LivePortrait][LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control]] #LSEAvatar #CopiaExpresiones 
-+ [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Espyearla en redes informi¡ticas]] #LSEAvatar #TecnologiasAccesibles
-+ [[https://www.rpdiscapacidad.gob.es/actualidad/noticias/0-504.htm][gui­as para elaborar materiales educativos accesibles]] #TecnologiasAccesibles
-+ [[https://www.rpdiscapacidad.gob.es/estudios-publicaciones/2024_GuiaVideo.htm][Gui­a 6. Vi­deos accesibles con subtitulado, audiodescripcion y lengua de signos]] #LSEAvatar #TecnologiasAccesibles
++ [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Espyearla en redes informiÂ¡ticas]] #LSEAvatar #TecnologiasAccesibles
++ [[https://www.rpdiscapacidad.gob.es/actualidad/noticias/0-504.htm][guiÂ­as para elaborar materiales educativos accesibles]] #TecnologiasAccesibles
++ [[https://www.rpdiscapacidad.gob.es/estudios-publicaciones/2024_GuiaVideo.htm][GuiÂ­a 6. ViÂ­deos accesibles con subtitulado, audiodescripcion y lengua de signos]] #LSEAvatar #TecnologiasAccesibles
 + [[https://x.com/akshay_pachaar/status/1808840963961598311][Faster RAG]] #RAG #Pablo
 + [[https://huggingface.co/papers/2304.08069][DETRs Beat YOLOs on Real-time Object Detection]] #ObjectDetection #RealTime
 + [[https://www.philschmid.de/fine-tune-embedding-model-for-rag][Fine-tune Embedding models for Retrieval Augmented Generation (RAG)]] #Pablo #RAG #PrevenIA
-+ [[https://www.20minutos.es/noticia/5524396/0/importancia-lengua-signos-terapia-sesiones-mas-didacticas-mas-fluidas-mas-completas/][La importancia de la lengua de signos en terapia: sesiones mi¡s didi¡cticas, mi¡s fluidas y mi¡s completas]] #LSEAvatar #TecnologiasAccesibles
++ [[https://www.20minutos.es/noticia/5524396/0/importancia-lengua-signos-terapia-sesiones-mas-didacticas-mas-fluidas-mas-completas/][La importancia de la lengua de signos en terapia: sesiones miÂ¡s didiÂ¡cticas, miÂ¡s fluidas y miÂ¡s completas]] #LSEAvatar #TecnologiasAccesibles
 
 
 ** Junio 2024
@@ -743,10 +743,10 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818881][Use of Artificial Intelligence Chatbots in Interpretation of Pathology Reports]] #TextoClaro #Leo
 + [[https://github.com/TMElyralab/MusePose?tab=readme-ov-file][MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation]] #LenguaSignos #ProyectoINDRA
 + [[https://arxiv.org/pdf/2405.10718][SignLLM: Sign Languages Production Large Language Models]] [[https://signllm.github.io/][GitHub]] #LenguaSignos #ProyectoINDRA
-+ [[https://www.inclusion-europe.eu/wp-content/uploads/2017/06/ES_Information_for_all.pdf][Informacion para todos Las reglas europeas para hacer informacion fi¡cil de leer y comprender]] #Mirari #PlenaInclusion
++ [[https://www.inclusion-europe.eu/wp-content/uploads/2017/06/ES_Information_for_all.pdf][Informacion para todos Las reglas europeas para hacer informacion fiÂ¡cil de leer y comprender]] #Mirari #PlenaInclusion
 + [[https://arxiv.org/abs/2212.09720][The case for 4-bit precision: k-bit Inference Scaling Laws]] #Quantization
 + [[https://www.accessible-social.com/][Accessible Social]] #Accesibilidad #Mirari
-+ [[https://huggingface.co/blog/danaaubakirova/doc-augmentation][Multimodal Augmentation for Documents: Recovering Reading and Comprehension task]] #DocumentAnalysis
++ [[https://huggingface.co/blog/danaaubakirova/doc-augmentation][Multimodal Augmentation for Documents: Recovering Reading and ComprehensionÂ task]] #DocumentAnalysis
 + [[https://huggingface.co/blog/paligemma][PaliGemma Google's Cutting-Edge Open Vision Language Model]] #Vision
 + [[https://glosario.pikaramagazine.com/inicio.php?lg=es&sec=inicio][Glosario Lengua de Signos Espyearla]] #LSE #Mirari #LecturaFacil
 + [[https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B][Meta Llama Guard 2]] #Pablo #Guards
@@ -772,7 +772,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/blog/idefics2][Introducing Idefics2: A Powerful 8B Vision-Language Model for the community]] #ImageCaptioning #VisionModels #Mirari #Accesibilidad
 + [[https://coconut-mode.com/posts/ring-attention/][Ring Attention Explained]] #LLM
 + [[https://huggingface.co/blog/vlms][Vision Language Models Explained]] #VisionModels #Mirari #Accesibilidad
-+ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360969/#rmb212331-bib-0003][Development of an automated two pronuclei detection system on timelapse embryo images using deep learning techniques]] #Mari­a
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360969/#rmb212331-bib-0003][Development of an automated two pronuclei detection system on timeÂlapse embryo images using deep learning techniques]] #MariÂ­a
 + [[https://www.youtube.com/watch?v=eMlx5fFNoYc][Visualizing Attention]] #LLM #Docencia
 + [[https://stability.ai/news/introducing-stable-lm-2-12b][Introducing Stable LM 2 12B]] #Pablo #LLM
 + [[https://proceedings.neurips.cc/paper_files/paper/2023/hash/47f30d67bce3e9824928267e9355420f-Abstract-Conference.html][LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation]] #Image2Text #Evaluation
@@ -781,7 +781,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://arxiv.org/abs/2306.14824][Kosmos-2: Grounding Multimodal Large Language Models to the World]] #Accesibilidad #ProyectoIA #Mirari
 + [[https://arxiv.org/abs/2311.05550][Towards End-to-End Spoken Grammatical Error Correction]] #ASR #Mirari
 + [[https://www.biorxiv.org/content/10.1101/2024.04.06.587952v1][Transformers do not outperform Cellpose]] #CellSegmentation #HackathonMadrid
-+ [[https://www.972mag.com/lavender-ai-israeli-army-gaza/][Lavender: The AI machine directing IsraelÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s bombing spree in Gaza]] #CIAIS
++ [[https://www.972mag.com/lavender-ai-israeli-army-gaza/][Lavender: The AI machine directing IsraelÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s bombing spree in Gaza]] #CIAIS
 + [[https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930][Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation]] #RAG #Pablo
 + [[https://vickiboykis.com/what_are_embeddings/][What are embeddings?]] #Embeddings
 + [[https://www.crue.org/publicacion/la-inteligencia-artificial-generativa-en-la-docencia-universitaria/][La Inteligencia Artificial Generativa en la Docencia Universitaria]] #IA #Docencia
@@ -798,8 +798,8 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://huggingface.co/blog/watermarking][AI Watermarking 101: Tools and Techniques]] #watermarking #CIAIS
 + [[https://huggingface.co/blog/how-to-generate][How to generate text: using different decoding methods for language generation with Transformers]] #Transformers #Decoding #Master
 + [[https://comunicacionclara.com/docs/guia-comunicacion-clara-prodigioso-volcan.pdf][El derecho a entender]] #LecturaFacil #Mirari
-+ [[https://www.iso.org/obp/ui/en/#iso:std:iso-iec:23859:ed-1:v1:en][ISO/IEC 23859:2023(en) Information technology ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â User interfaces ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Requirements and recommendations on making written text easy to read and understand]] #LecturaFacil #Mirari
-+ [[https://www.iso.org/obp/ui/en/#iso:std:iso:24495:-1:ed-1:v1:en][ISO 24495-1:2023(en) Plain language ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Part 1: Governing principles and guidelines]] #LecturaFacil #Mirari
++ [[https://www.iso.org/obp/ui/en/#iso:std:iso-iec:23859:ed-1:v1:en][ISO/IEC 23859:2023(en) Information technology ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ User interfaces ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Requirements and recommendations on making written text easy to read and understand]] #LecturaFacil #Mirari
++ [[https://www.iso.org/obp/ui/en/#iso:std:iso:24495:-1:ed-1:v1:en][ISO 24495-1:2023(en) Plain language ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Part 1: Governing principles and guidelines]] #LecturaFacil #Mirari
 + [[https://olgacarreras.blogspot.com/2024/02/libro-accesibilidad-web-wcag-22-de.html][Libro "Accesibilidad Web. WCAG 2.2 de forma sencilla". Descarga gratuita.]] #AccesibilidadWeb #LecturaFacil #Mirari
 
 ** Febrero 2024
@@ -808,7 +808,7 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://www.mdpi.com/1424-8220/24/5/1472][Synthetic Corpus Generation for Deep Learning-Based Translation of Spanish Sign Language]] #LenguaSignos
 + [[https://ai4k12.org/][The Artificial Intelligence (AI) for K-12 initiative (AI4K12) is jointly sponsored by AAAI and CSTA]] #ArtificialIntelligence #Courses
 + [[https://speechbrain.github.io/index.html][SpeechBrain Open-Source Conversational AI for Everyone]] #Audio #Mirari
-+ [[https://www.biorxiv.org/content/10.1101/2024.02.10.579780v1][Cellpose3: one-click image restoration for improved cellular segmentation]] #Arrate #Segmentacion #Adrii¡n
++ [[https://www.biorxiv.org/content/10.1101/2024.02.10.579780v1][Cellpose3: one-click image restoration for improved cellular segmentation]] #Arrate #Segmentacion #AdriiÂ¡n
 + [[https://www.biorxiv.org/content/10.1101/2024.02.03.576026v1.full.pdf][BiaPy: A unified framework for versatile bioimage analysis with deep learning]] #Arrate #Adrian
 
 ** Enero 2024
@@ -824,14 +824,14 @@ Este repositorio es una recopilacion de lecturas.
 + [[https://www.youtube.com/watch?v=nOxKexn3iBo][Getting Started With CUDA for Python Programmers]] #CUDA
 + [[https://www.sciencedirect.com/science/article/pii/S2666914523000325][Characteristics of a Large, Labeled Data Set for the Training of Artificial Intelligence for Glaucoma Screening with Fundus Photographs]] #OPTRetina #Glaucoma
 + [[https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/][Sentence Embeddings. Cross-encoders and Re-ranking]] #Embeddings #Pablo
-+ [[https://www.ub.edu/edap/?page_id=2898][MANIFIESTO POR UN LENGUAJE CLARO EN LA ADMINISTRACIÃƒÆ’Ã¢â‚¬Å“N]] #LenguajeClaro
++ [[https://www.ub.edu/edap/?page_id=2898][MANIFIESTO POR UN LENGUAJE CLARO EN LA ADMINISTRACIÃÆÃâÃÂ¢Ã¢âÂ¬ÃâN]] #LenguajeClaro
 + [[https://arxiv.org/pdf/2306.11644.pdf][Textbooks Are All You Need]] #ProyectoNacional
 + [[https://academic.oup.com/bioinformatics/article/37/21/3856/6313159?login=true][Medical concept normalization in clinical trials with drug and disease representation learning ]] #Leo #Normalization
 + [[https://huggingface.co/papers/2401.10225][ChatQA: Building GPT-4 Level Conversational QA Models]] #Pablo #ChatBots
 + [[https://arxiv.org/abs/2401.08417][Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation]] #Translation #ClaraMED
 + [[https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00529-3][The impact of AI errors in a human-in-the-loop process]] #CIAIS #Bias #HumanInTheLoop
 + [[https://twitter.com/yoachlacombe/status/1744447885255614661][Text to Speech]] #Text2Speech #TTS #Mirari #Leo
-+ [[https://twitter.com/predict_addict/status/1740642688829944049?s=20][TSPP: A Unified Benchmarking Tool for Time-series Forecasting]] #TimeSeriesForecasting #Neuroenergi­a
++ [[https://twitter.com/predict_addict/status/1740642688829944049?s=20][TSPP: A Unified Benchmarking Tool for Time-series Forecasting]] #TimeSeriesForecasting #NeuroenergiÂ­a
 + [[https://arxiv.org/abs/2107.13586][Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]] #Prompting
 + [[https://www.philschmid.de/fine-tune-llms-in-2024-with-trl][How to Fine-Tune LLMs in 2024 with Hugging Face]] #FineTuning #LLM
 + [[https://huggingface.co/zero-gpu-explorers][ZeroGPU Spaces]] #Hardware #HuggingFace
@@ -960,14 +960,14 @@ Synthetic Data]] #LenguaSignos
 + [[https://dataprovenance.org/][Data Provenance Explorer]] #DataProvenance
 + [[https://ceur-ws.org/Vol-3516/paper19.pdf][CLEAR.TEXT Enhancing the Modernization Public Sector Organizations by Deploying Natural Language Processing to Make Their Digital Content CLEARER to Those with Cognitive Disabilities]] #LecturaFacil #Mirari
 + [[https://ceur-ws.org/Vol-3516/paper13.pdf][IRAZ: Easy-to-Read Content Generation via Automated Text Simplification]] #LecturaFacil #Mirari
-+ [[https://ceur-ws.org/Vol-3516/paper01.pdf][OBSERÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂMENH: Digital OBSERvatory of MENtal Health in Social Networks for Healthcare Institutions Based on Language Technologies]] #PrevenIA #Pablo
++ [[https://ceur-ws.org/Vol-3516/paper01.pdf][OBSERÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃâÃÂMENH: Digital OBSERvatory of MENtal Health in Social Networks for Healthcare Institutions Based on Language Technologies]] #PrevenIA #Pablo
 + [[https://arxiv.org/pdf/2305.06813.pdf][Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models]] #OPTRetina #DifussionModels
 + [[https://selfrag.github.io/][Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflections]] #RAG #PrevenIA #Pablo
 + [[https://huggingface.co/blog/gradio-lite][Gradio-Lite: Serverless Gradio Running Entirely in Your Browser]] #Master #Gradio #Interfaces
 + [[https://huggingface.co/blog/Andyrasika/samantha-and-mistral-7b][Samantha and Mistral 7B: A Powerful and Versatile Language Model Duo]] #PrevenIA #Pablo
 + [[https://www.adept.ai/blog/fuyu-8b][Fuyu-8B: A Multimodal Architecture for AI Agents]] #MultiModality
 + [[https://lawsofux.com/es/][Laws of UX]] #Usabilidad
-+ [[https://thesequence.substack.com/p/inside-opro-google-deepminds-new?utm_source=post-email-title&publication_id=54309&post_id=138099496&utm_campaign=email-post-title&isFreemail=false&r=f2umh&utm_medium=email][Inside OPRO: Google DeepMindÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s New Method that Optimizes Prompts Better than Humans]] #PromptEngineering
++ [[https://thesequence.substack.com/p/inside-opro-google-deepminds-new?utm_source=post-email-title&publication_id=54309&post_id=138099496&utm_campaign=email-post-title&isFreemail=false&r=f2umh&utm_medium=email][Inside OPRO: Google DeepMindÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s New Method that Optimizes Prompts Better than Humans]] #PromptEngineering
 + [[https://www.nature.com/articles/s44159-023-00241-5][Using large language models in psychology]] #psychology
 + [[https://huggingface.co/docs/transformers/main/en/tasks/prompting][LLM prompting guide]] #Prompting
 + [[https://arxiv.org/abs/2310.06825][Mistral 7B]] #LLM #Pablo #GuardRails
@@ -978,7 +978,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/2303.05977][Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models]] #MedicalVQA #ProyectoIA
 + [[https://tsar-workshop.github.io/program/papers/espinosa-zaragoza-etal-2023-automatic.pdf][Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the ClearText Project]] #LecturaFacil
 + [[https://arxiv.org/pdf/2310.03744.pdf][Improved Baselines with Visual Instruction Tuning]] #ProyectoIA
-+ [[https://www.discapnet.es/vida-independiente/accesibilidad-de-comunicacion/lectura-facil][Lectura fi¡cil]] #LecturaFacil #Mirari
++ [[https://www.discapnet.es/vida-independiente/accesibilidad-de-comunicacion/lectura-facil][Lectura fiÂ¡cil]] #LecturaFacil #Mirari
 + [[https://arxiv.org/abs/2211.07624][Semantic Similarity Models for Depression Severity Estimation]] #PrevenIA
 + [[https://www.nature.com/articles/s41598-023-42384-8][Humans inherit artificial intelligence biases]] #Bias
 + [[https://hitz-zentroa.github.io/GoLLIE/][GoLLIE: Guideline-following Large Language Model for Information Extraction]] #InformationExtraction
@@ -1003,17 +1003,17 @@ Synthetic Data]] #LenguaSignos
 + [[https://github.com/ixa-ehu/antidote-casimedicos/tree/main][Antidote CasiMedicos Datasets]] #ProyectoIA
 + [[https://arxiv.org/abs/2306.03189][Easy-to-Read in Germany: A Survey on its Current State and Available Resources]] #LecturaFacil #Mirari
 + [[https://arxiv.org/pdf/2309.14052.pdf][Single Image Test-Time Adaptation for Segmentation]] #DomainAdaption
-+ [[https://www.plenainclusion.org/publicaciones/buscador/?_sf_s=lectura%20f%C3%A1cil&sort_order=_sfm_fecha_publicacion+desc+date][Recursos lectura fi¡cil]] #LecturaFacil #Mirari
++ [[https://www.plenainclusion.org/publicaciones/buscador/?_sf_s=lectura%20f%C3%A1cil&sort_order=_sfm_fecha_publicacion+desc+date][Recursos lectura fiÂ¡cil]] #LecturaFacil #Mirari
 + [[https://daisy.org/activities/standards/daisy/daisy-3/][Daisy format]] #Accesibilidad #Mirari
-+ [[http://www.sidar.org/recur/desdi/pau/directriceseuropeas%20para%20facilitar%20la%20lectura.pdf][El Camino Mi¡s Fi¡cil]] #LecturaFacil #Mirari
-+ [[https://www.ifla.org/wp-content/uploads/2019/05/assets/hq/publications/professional-report/120-es.pdf][Directrices para materiales de lectura fi¡cil]] #LecturaFacil #Mirari
++ [[http://www.sidar.org/recur/desdi/pau/directriceseuropeas%20para%20facilitar%20la%20lectura.pdf][El Camino MiÂ¡s FiÂ¡cil]] #LecturaFacil #Mirari
++ [[https://www.ifla.org/wp-content/uploads/2019/05/assets/hq/publications/professional-report/120-es.pdf][Directrices para materiales de lectura fiÂ¡cil]] #LecturaFacil #Mirari
 + [[https://link.springer.com/chapter/10.1007/978-3-031-42280-5_12][Towards an Automatic Easy-to-Read Adaptation of Morphological Features in Spanish Texts]] #TextoClaro
 + [[https://dl.acm.org/doi/10.1145/3373625.3418006][EASIER system. Language resources for cognitive accessibility]] #LecturaFacil #Mirari
 + [[https://dl.acm.org/doi/10.1145/2738046][Making It Simplext: Implementation and Evaluation of a Text Simplification System for Spanish]] #LecturaFacil #Mirari
 + [[https://aclanthology.org/C12-1023.pdf][Can Spanish Be Simpler? LexSiS]] #LecturaFacil #Mirari
-+ [[https://rua.ua.es/dspace/bitstream/10045/30664/1/PLN_51_23.pdf][DysWebxia: Textos mÃƒâ€šÃ‚Â´as Accesibles para Personas con Dislexia]] #TextoClaro #Dislexia
++ [[https://rua.ua.es/dspace/bitstream/10045/30664/1/PLN_51_23.pdf][DysWebxia: Textos mÃÆÃ¢â¬Å¡ÃâÃÂ´as Accesibles para Personas con Dislexia]] #TextoClaro #Dislexia
 + [[https://arasaac.org/pictograms/search/sport%20events][Search Pictograms]] #Pictograms
-+ [[https://planetafacil.plenainclusion.org/][Planeta fi¡cil]] #LecturaFacil #Mirari
++ [[https://planetafacil.plenainclusion.org/][Planeta fiÂ¡cil]] #LecturaFacil #Mirari
 + [[https://www.biorxiv.org/content/10.1101/2023.09.12.557460v1][BrainLM: A foundation model for brain activity recordings]] #FoundationalModel #Brain #CarmenVidaurre
 + [[https://pytorch.org/blog/inside-the-matrix/?utm_content=265147245&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024][Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond]] #Visualisations
 + [[https://supervisely.com/blog/lessons-learned-from-training-a-segmentation-model-on-synthetic-data/][Lessons Learned From Training a Segmentation Model On Synthetic Data]] #Segmentation #SyntheticData
@@ -1034,13 +1034,13 @@ Synthetic Data]] #LenguaSignos
 + [[https://dienhoa.github.io/dhblog/posts/finetune_clip.html][Why and How to Fine-tune CLIP]] #FineTuning
 + [[https://twitter.com/katieelink/status/1702331358742487402?s=20][Biomedical Computer Vision models]] #MedicalAI
 + [[https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/][Information for all: European standards for making information easy to read and understand]] #Accesibilidad #Mirari
-+ [[https://huggingface.co/spaces/coqui/xtts][CoquiÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â¸ XTTS]] #Text2Speech #VoiceCloning
++ [[https://huggingface.co/spaces/coqui/xtts][CoquiÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂÃâÃÂ¸ XTTS]] #Text2Speech #VoiceCloning
 + [[https://www.nature.com/articles/s41586-023-05881-4][Foundation models for generalist medical artificial intelligence]]  #ProyectoIA #MultiModal
 + [[https://arxiv.org/pdf/2308.02463.pdf][Towards Generalist Foundation Model for Radiology]]  #ProyectoIA #MultiModal
 + [[https://arxiv.org/abs/2306.07831][Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images]] #ProyectoIA #MultiModal
 + [[https://www.medrxiv.org/content/10.1101/2023.06.07.23291119v1][Fostering transparent medical image AI via an image-text foundation model grounded in medical literature]] #ProyectoIA #MultiModal
 + [[https://arxiv.org/abs/2008.06775][Model Patching: Closing the Subgroup Performance Gap with Data Augmentation]] #DataAuditing #Ruben
-+ [[https://www.nature.com/articles/s41591-023-02504-3.epdf?sharing_token=2umlCrKLgEIF8vmuLpQ7AtRgN0jAjWel9jnR3ZoTv0NWSxjlTuWM3jUBxiqED7ai3ueIDYQ_xX2BBBGXn0IDY_RMdGid_ppbXRxR40prhjrWvtzO3o_QB1gW6NTYt8EB0UO5VjWecg4rWh3LM_L-Rf59L6s9Fx7yR521Lp3GfhU%3D][A visualÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“language foundation model for pathology image analysis using medical Twitter]] #ProyectoIA #MultiModal
++ [[https://www.nature.com/articles/s41591-023-02504-3.epdf?sharing_token=2umlCrKLgEIF8vmuLpQ7AtRgN0jAjWel9jnR3ZoTv0NWSxjlTuWM3jUBxiqED7ai3ueIDYQ_xX2BBBGXn0IDY_RMdGid_ppbXRxR40prhjrWvtzO3o_QB1gW6NTYt8EB0UO5VjWecg4rWh3LM_L-Rf59L6s9Fx7yR521Lp3GfhU%3D][A visualÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâlanguage foundation model for pathology image analysis using medical Twitter]] #ProyectoIA #MultiModal
 + [[https://arxiv.org/abs/2308.15670][Multimodal Foundation Models For Echocardiogram Interpretation]] #ProyectoIA #MultiModal
 + [[https://www.nature.com/articles/s41586-023-06555-x][A foundation model for generalizable disease detection from retinal images]] #OPTRetina #SelfSupervisedLearning [[https://github.com/rmaphoh/RETFound_MAE][Code]]
 + [[https://facebookresearch.github.io/nougat/][Nougat: Neural Optical Understanding for Academic Documents]] #OCR
@@ -1056,7 +1056,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://huggingface.co/blog/falcon-180b][Spread Your Wings: Falcon 180B is here]] #LLM
 + [[https://haystack.deepset.ai/blog/talk-to-haystack-docs][Talk to Haystack Docs: Creating a Domain-Focused Q&A RAG Pipeline with WebRetriever]] #ProyectoIA #Retriever
 + [[https://github.com/facebookresearch/muss][Multilingual Unsupervised Sentence Simplification]] #TextSimplfication #CLARAMED
-+ [[https://medinform.jmir.org/2022/11/e38095#ref17][Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep LearningÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Based Text Simplification Approach]] #TextSimplification #CLARAMED #ReinforcementLearning
++ [[https://medinform.jmir.org/2022/11/e38095#ref17][Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep LearningÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃâBased Text Simplification Approach]] #TextSimplification #CLARAMED #ReinforcementLearning
 + [[https://github.com/asahi417/lm-question-generation][Question and Answer Generation with Language Models]] #PrevenIA #QuestionAnsweringGeneration
 + [[https://arxiv.org/abs/1905.02851][FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance]] #FAQRetrieval #PrevenIA
 + [[https://openai.com/blog/teaching-with-ai][Educator FAQ ChatGPT]] #Education #ChatGPT
@@ -1076,7 +1076,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/2305.12031v2][Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding]] #MedicalLLM #ProyectoIA
 + [[https://huggingface.co/blog/dpo-trl][Fine-tune Llama 2 with DPO]] #ReinforcementLearning #PrevenIA #ProyectoIA
 + [[https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=blog&utm_content=video][Evaluating the fairness of computer vision models]] #ComputerVision
-+ [[https://saco.csic.es/index.php/s/sCS9BbLNyRZzbWB][Bibliografi­a CLARA-MeD]] #CLARAMed
++ [[https://saco.csic.es/index.php/s/sCS9BbLNyRZzbWB][BibliografiÂ­a CLARA-MeD]] #CLARAMed
 + [[https://spj.science.org/doi/10.34133/plantphenomics.0073][Deep Learning Enables Instant and Versatile Estimation of Rice Yield Using Ground-Based RGB Images]] #PlantPhenomics #Usue
 + [[https://escuelapacientes.riojasalud.es/][Escuela de Pacientes]] #PrevenIA #ProyectoIA
 + [[https://acl2023-retrieval-lm.github.io/][Retrieval-based Language Models and Applications]] #ProyectoIA #PrevenIA
@@ -1105,7 +1105,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/][Large Language Models with Semantic Search]] #SemanticSearch #PrevenIA #Course
 + [[https://arxiv.org/abs/2307.16877][Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering]] #ProyectoIA #Evaluacion
 + [[https://arxiv.org/abs/2308.01320][DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales]] #ReinforcementLearning
-+ [[https://medlineplus.gov/spanish/all_easytoread.html][Documentos de lectura fi¡cil medline]] #ProyectoIA #LecturaFacil 
++ [[https://medlineplus.gov/spanish/all_easytoread.html][Documentos de lectura fiÂ¡cil medline]] #ProyectoIA #LecturaFacil 
 + [[https://paperswithcode.com/dataset/pathvqa][PathVQA]] #ProyectoIA #Dataset #VisualQuestionAnswering
 + [[https://www.nejm.org/doi/full/10.1056/NEJMsr2214184][Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine]] #ProyectoIA #QuestionAnswering #Biomedical 
 + [[https://arxiv.org/pdf/2307.14334.pdf][Towards Generalist Biomedical AI]] #ProyectoIA #VisualQuestionAnswering #Biomedical #MultiModal
@@ -1142,7 +1142,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://lilianweng.github.io/posts/2020-10-29-odqa/][How to Build an Open-Domain Question Answering System?]] #ProyectoIA  #QuestionAnswering #Biomedical
 + [[https://arxiv.org/abs/2305.14458][Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA]] #ProyectoIA #TextSimplification #ClaraMed
 + [[https://arxiv.org/abs/2305.12532][Multilingual Simplification of Medical Texts]] #ProyectoIA #TextSimplification #CLaraMed
-+ [[https://academic.oup.com/bioinformatics/article/27/14/2025/195171][Question answering systems in biology and medicineÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe time is now]] #ProyectoIA #QuestionAnswering #Biomedical
++ [[https://academic.oup.com/bioinformatics/article/27/14/2025/195171][Question answering systems in biology and medicineÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂthe time is now]] #ProyectoIA #QuestionAnswering #Biomedical
 + [[https://dl.acm.org/doi/10.1162/coli_a_00368][The Design and Implementation of XiaoIce, an Empathetic Social Chatbot]] #ProyectoIA #QuestionAnswering #Biomedical
 + [[https://link.springer.com/article/10.1007/s00521-021-06748-3#citeas][Recent progress in leveraging deep learning methods for question answering]] #ProyectoIA #QuestionAnswering #Biomedical
 + [[https://arxiv.org/pdf/2305.09617.pdf][Towards Expert-Level Medical Question Answering with Large Language Models]] #ProyectoIA #QuestionAnswering #Biomedical
@@ -1169,7 +1169,7 @@ Synthetic Data]] #LenguaSignos
 
 ** Junio 2023
 
-+ [[https://montoliu.naukas.com/2021/11/14/daltonismo-la-solucion-esta-en-el-morado-y-el-naranja/][Daltonismo: la solucion esti¡ en el morado y el naranja]] #Accesibilidad #Mirari
++ [[https://montoliu.naukas.com/2021/11/14/daltonismo-la-solucion-esta-en-el-morado-y-el-naranja/][Daltonismo: la solucion estiÂ¡ en el morado y el naranja]] #Accesibilidad #Mirari
 + [[https://deepmind-tapir.github.io/][TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement]] #Tracking
 + [[https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/][Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance]] #VoicenGeneration #Mirari
 + [[https://www.amazon.science/publications/web-scale-semantic-product-search-with-large-language-models][Web-scale semantic product search with large language models]] #SemanticSearch
@@ -1206,7 +1206,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://towardsdatascience.com/hugging-face-transformers-agent-3a01cf3669ac][Hugging Face Transformers Agent]] #Agents
 + [[https://arxiv.org/abs/2305.06500][InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning]] #VisualQuestionAnswering
 + [[https://arxiv.org/abs/2305.11738][CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing]] #LLMs
-+ [[https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/][Brain Activity Decoder Can Reveal Stories in PeopleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Minds]] #Neuro
++ [[https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/][Brain Activity Decoder Can Reveal Stories in PeopleÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s Minds]] #Neuro
 + [[https://sambanova.ai/blog/introducing-bloomchat-176b-the-multilingual-chat-based-llm/][BLOOMChat: a New Open Multilingual Chat LLM]] #LLMs #ChatBot #PrevenIA
 + [[https://rachel.fast.ai/posts/2023-05-16-ai-centralizes-power/][AI and Power: The Ethical Challenges of Automation, Centralization, and Scale]] #Ethics #CIAIS
 + [[https://huggingface.co/blog/assisted-generation][Assisted Generation: a new direction toward low-latency text generation]]  #LLMs #Optimization #Inference
@@ -1254,7 +1254,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.promptingguide.ai/][Prompt Engineering Guide]] #PromptEngineering
 + [[https://blog.futuresmart.ai/semantic-search-using-llamaindex-and-langchain][Semantic Search using LlamaIndex and Langchain]] #Prevenia #SemanticSearch
 + [[https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/][DINOv2: State-of-the-art computer vision models with self-supervised learning]] #SelfSupervisedLearning
-+ [[https://theconversation.com/la-dificultad-de-entender-el-lenguaje-que-utilizan-las-administraciones-publicas-203295][La dificultad de entender el lenguaje que utilizan las Administraciones piºblicas]] #TextoClaro
++ [[https://theconversation.com/la-dificultad-de-entender-el-lenguaje-que-utilizan-las-administraciones-publicas-203295][La dificultad de entender el lenguaje que utilizan las Administraciones piÂºblicas]] #TextoClaro
 + [[https://minigpt-4.github.io/][MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models]] #VisualQuestionAnswering
 + [[https://resources.nvidia.com/en-us-omniverse-industrial-digital-twins/omniverse-enterprise-5-steps?lx=deNrXD][5 Steps to Get Started with Digital Twins]] #DigitalTwin #PRIMA
 + [[https://www.nvidia.com/en-us/on-demand/playlist/playList-7e07006c-7b01-4714-a0a5-c627b3707602/][Omniverse Digital Twin playlist]] #DigitalTwin #PRIMA
@@ -1265,7 +1265,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://huyenchip.com/2023/04/11/llm-engineering.html][Building LLM applications for production]] #LanguageModels #PrevenIA
 + [[https://arxiv.org/pdf/2303.01469.pdf][Consistency Models]] #ImageGeneration
 + [[https://arxiv.org/abs/2210.03347][Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding]] #VisuallySituatedLanguage
-+ [[https://mobile.twitter.com/NielsRogge/status/1644388959416352783][Extrayendo datos de gri¡ficas]] #AngelLuis #Pix2Struct
++ [[https://mobile.twitter.com/NielsRogge/status/1644388959416352783][Extrayendo datos de griÂ¡ficas]] #AngelLuis #Pix2Struct
 + [[https://blog.futuresmart.ai/semantic-search-using-llamaindex-and-langchain][Semantic Search using LlamaIndex and Langchain]] #SemanticSearch #PrevenIA
 + [[https://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html][Developing an aging clock using deep learning on retinal images]] #OPTRetina
 + [[https://arxiv.org/abs/2303.17580][HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace]] #NLP #ChatGPT
@@ -1306,9 +1306,9 @@ Synthetic Data]] #LenguaSignos
 
 ** Enero 2023
 
-+ [[https://huggingface.co/blog/cv_state][The State of Computer Vision at Hugging Face ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€]] #ComputerVision #HuggingFace
++ [[https://huggingface.co/blog/cv_state][The State of Computer Vision at Hugging Face ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â]] #ComputerVision #HuggingFace
 + [[https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20][Neural Search Frameworks: A Head-to-Head Comparison]] #SemanticSearch
-+ [[https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext][Computational Social Science ÃƒÂ¢Ã¢â‚¬Â°Ã‚Â  Computer Science + Social Data]] #CIAIS
++ [[https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext][Computational Social Science ÃÆÃÂ¢ÃÂ¢Ã¢âÂ¬ÃÂ°ÃâÃÂ  Computer Science + Social Data]] #CIAIS
 + [[https://huggingface.co/blog/mask2former][Universal Image Segmentation with Mask2Former and OneFormer]] #SemanticSegmentation #PanopticSegmentation
 + [[https://github.com/google-research/tuning_playbook][Deep Learning Tuning Playbook]] #HyperparameterTuning
 + [[https://txt.cohere.ai/sentence-word-embeddings/][What Are Word and Sentence Embeddings?]] #NLP
@@ -1330,7 +1330,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://twitter.com/harishkgarg/status/1610202362358173696?s=20&t=E7WaIJPpYyiHoUIHU47jtg][Vector databases]] #SemanticSearch #PrevenIA
 + [[https://t.co/FSSpzATotz][Large Language Models Encode Clinical Knowledge]] #languagemodels #questionanswering #medicine
 + [[https://t.co/ASebqI7N4J][An overview of gradient descent optimization algorithms]] #machinelearning
-+ [[https://t.co/M5M7E2MPiF][Bonjour. Ãƒâ„¢Ã¢â‚¬Â¦ÃƒËœÃ‚Â±ÃƒËœÃ‚Â­ÃƒËœÃ‚Â¨ÃƒËœÃ‚Â§. Guten tag. Hola. Cohere's Multilingual Text Understanding Model is Now Available]] #SemanticSearch #prevenia
++ [[https://t.co/M5M7E2MPiF][Bonjour. ÃÆÃ¢âÂ¢ÃÂ¢Ã¢âÂ¬ÃÂ¦ÃÆÃÅÃâÃÂ±ÃÆÃÅÃâÃÂ­ÃÆÃÅÃâÃÂ¨ÃÆÃÅÃâÃÂ§. Guten tag. Hola. Cohere's Multilingual Text Understanding Model is Now Available]] #SemanticSearch #prevenia
 + [[https://arxiv.org/abs/2202.00911][Active Multi-Task Representation Learning]] #ActiveLearning #MultiTaskLearning
 + [[https://huggingface.co/tasks/conversational][Conversational]] #chatbots #prevenia
 + [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
@@ -1354,15 +1354,15 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/2212.09748][Scalable Diffusion Models with Transformers]] #Transformers #Diffusion
 + [[https://aclanthology.org/2022.acl-long.458/][The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications]] #ChatBot #PrevenIA
 + [[https://huggingface.co/blog/clipseg-zero-shot][Zero-shot image segmentation with CLIPSeg]] #ZeroShotLearning #SemanticSegmentation
-+ [[https://huggingface.co/blog/time-series-transformers][Probabilistic Time Series Forecasting with ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Transformers]] #TimeSeries
++ [[https://huggingface.co/blog/time-series-transformers][Probabilistic Time Series Forecasting with ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Transformers]] #TimeSeries
 + [[https://arxiv.org/abs/2209.00626][The alignment problem from a deep learning perspective]] #Alignment #DeepLearning
 + [[https://arxiv.org/abs/2212.06727][What do Vision Transformers Learn? A Visual Exploration]] #VisionTransformers #Interpretation
 + [[https://github.com/besacier/ASR2022][Automatic Speech Recognition: Introduction, Current Trends and Open Problems]] #ASR #Mirari
-+ [[https://huggingface.co/spaces/society-ethics/disaggregators][Exploring Disaggregated Data with ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Disaggregators]] #Ethics
++ [[https://huggingface.co/spaces/society-ethics/disaggregators][Exploring Disaggregated Data with ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Disaggregators]] #Ethics
 + [[https://docs.google.com/presentation/d/1LVnwWShIVNVBxA8eG017zsDioP7BnT7DHc8eU0NGC3E/edit#slide=id.g14ba08db4d3_0_164][Few-Shot Learning In Production]] #SetFit #FewShotLearning #Transformers
 + [[https://crfm.stanford.edu/2022/12/15/pubmedgpt.html][PubMedGPT 2.7B]] #TextoClaro #BiomedicalTexts 
 + [[https://www.mosaicml.com/blog/introducing-pubmed-gpt][PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text]] #TextoClaro #BiomedicalTexts 
-+ [[https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb][Fine-tuning for Semantic Segmentation with ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Transformers]] #SemanticSegmentation
++ [[https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb][Fine-tuning for Semantic Segmentation with ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Transformers]] #SemanticSegmentation
 + [[https://aclanthology.org/2022.slpat-1.7/][On the Ethical Considerations of Text Simplification]] #TextSimplification #TextoClaro #ClaraMed
 + [[https://github.com/UKPLab/EasyNMT][EasyNMT - Easy to use, state-of-the-art Neural Machine Translation]] #MachineTranslation #MasterArista
 + [[https://www.nature.com/articles/s41598-021-89743-x][Predicting sex from retinal fundus photographs using automated deep learning]] #UPRetina
@@ -1389,10 +1389,10 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/2005.05909][TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP]] #NLP #AdversarialAttacks #Mapi [[https://github.com/QData/TextAttack][libraryhttps://github.com/QData/TextAttack]]
 + [[https://www.youtube.com/watch?v=Sv7rI-iFvXI][Accelerating ML Inference at Scale with ONNX, Triton and Seldon | PyData Global 2021]] #ONNX #Production #OPTRetina
 + [[https://community.wandb.ai/t/taking-fastai-to-production/1705][Taking FastAI to Production]] #FastAI #Production #OPTRetina
-+ [[https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works][Scientists Increasingly CanÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t Explain How AI Works]] #Explainability #Mapi
++ [[https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works][Scientists Increasingly CanÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢t Explain How AI Works]] #Explainability #Mapi
 + [[https://docs.fast.ai/tutorial.image_sequence.html][Image sequences]] #FastAI #Video
 + [[https://github.com/NVIDIA/NeMo][NVIDIA NeMo]] #SpeechRecognition #Mirari [[https://colab.research.google.com/gist/titu1994/080c5387c4c02b41ce79dd4405d87104#scrollTo=L4y7itGOancP][Transfer learning]] [[https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html][Tutorials]]
-+ [[https://huggingface.co/blog/fine-tune-whisper][Fine-Tune Whisper For Multilingual ASR with ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Transformers]] #SpeechRecognition #Mirari
++ [[https://huggingface.co/blog/fine-tune-whisper][Fine-Tune Whisper For Multilingual ASR with ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Transformers]] #SpeechRecognition #Mirari
 + [[https://txt.cohere.ai/introducing-sandbox-coheres-experimental-open-source-initiative/][Introducing Cohere Sandbox: Open-Source Libraries to Help Developers Experiment with Language AI]] #Psicologos #Chatbot [[https://github.com/cohere-ai/sandbox-accelerating-chatbot-training][repositorio1]] [[https://github.com/cohere-ai/sandbox-toy-semantic-search][repositorio2]]
 + [[http://konect.cc/networks/eat/][Edinburgh Associative Thesaurus]]
 + [[https://ai.googleblog.com/2022/03/detecting-signs-of-disease-from.html][Detecting Signs of Disease from External Images of the Eye]] #UPRetina
@@ -1400,7 +1400,7 @@ Synthetic Data]] #LenguaSignos
 
 ** Octubre 2022
 
-+ [[https://www.sciencedirect.com/science/article/pii/S0002939420303846#appsec1][Retinal Vasculometry Associations With Glaucoma: Findings From the European Prospective Investigation of CancerÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Norfolk Eye Study]] #OPTRetina
++ [[https://www.sciencedirect.com/science/article/pii/S0002939420303846#appsec1][Retinal Vasculometry Associations With Glaucoma: Findings From the European Prospective Investigation of CancerÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃâNorfolk Eye Study]] #OPTRetina
 + [[https://arxiv.org/pdf/2210.11416.pdf][Scaling Instruction-Finetuned Language Models]] #ZeroShotLearning
 + [[https://twitter.com/ai__pub/status/1584152707622846466?s=20&t=oA2kHVNl5dYpr-iyeircOw][Neural Radiance Fields (NeRFs), Explained]] #NERFS #Roberto
 + [[https://github.com/HenriquesLab/ZeroCostDL4Mic][ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy]] #Democratization #DeepLearning
@@ -1432,7 +1432,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://huggingface.co/sentence-transformers][Sentence Transformers]] #SemanticSearch #Embeddings 
 + [[https://www.youtube.com/watch?v=AwJf8aQfChE][OpenAI Whisper: Robust Speech Recognition via Large-Scale Weak Supervision | Paper and Code]] #SpeechRecognition
 + [[https://arxiv.org/pdf/2209.12356.pdf][News Summarization and Evaluation in the Era of GPT-3]] #Summarization #TextoClaro
-+ [[https://huggingface.co/blog/accelerate-large-models][How ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Accelerate runs very large models thanks to PyTorch]] #HuggingFace #Inference
++ [[https://huggingface.co/blog/accelerate-large-models][How ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Accelerate runs very large models thanks to PyTorch]] #HuggingFace #Inference
 + [[https://huggingface.co/blog/setfit][SetFit: Efficient Few-Shot Learning Without Prompts]] #FewShotLearning #TextoClaro
 + [[https://cdn.openai.com/papers/whisper.pdf][Robust Speech Recognition via Large-Scale Weak Supervision]] #SpeechRecognition #Gobierno
 + [[https://www.trustworthyml.org/resources][Trustworthy ML]] #Resources #Fairness #Interpretability
@@ -1441,7 +1441,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://transformer-circuits.pub/2022/toy_model/index.html][Toy Models of Superposition]] #Interpretability
 + [[https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2][Transformers]] #Transformers #Slides
 + [[https://arxiv.org/abs/2209.04836][Git Re-Basin: Merging Models modulo Permutation Symmetries]] #ModelCombination
-+ [[https://huggingface.co/blog/diffusers-2nd-month][What's new in Diffusers? ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¨]] #DiffusionModels #HuggingFace
++ [[https://huggingface.co/blog/diffusers-2nd-month][What's new in Diffusers? ÃÆÃÂ°Ãâ¦ÃÂ¸Ãâ¦ÃÂ½ÃâÃÂ¨]] #DiffusionModels #HuggingFace
 + [[https://github.com/sharonzhou/long_stable_diffusion][Long Stable Diffusion: Long-form text to images]] #Diffusion #ImageGeneration
 + [[https://www.philschmid.de/fine-tuning-donut][Document AI: Fine-tuning Donut for document-parsing using Hugging Face Transformers]] #HuggingFace #NLP #Recibos #Invoices
 + [[https://huggingface.co/blog/train-decision-transformers][Train your first Decision Transformer]] #Transformers #HuggingFace #ReinforcementLearning
@@ -1458,7 +1458,7 @@ Synthetic Data]] #LenguaSignos
 ** Agosto 2022
 
 + [[https://youtu.be/xSGX8gBQDO8][large language models for real world applications]] #nlp #LanguageModels 
-+ [[https://youtu.be/J87hffSMB60][How does Stable Diffusion work? ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Latent Diffusion Models EXPLAINED]] #StableDifussion
++ [[https://youtu.be/J87hffSMB60][How does Stable Diffusion work? ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâ Latent Diffusion Models EXPLAINED]] #StableDifussion
 + [[https://cse.msu.edu/~mayao4/dlg_book/][Deep Learning on Graphs]] #GraphNeuralNetworks #Book
 + [[https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM][FastAI live coding]] #tips #tricks #basics
 + [[https://arxiv.org/abs/1409.0473][Neural Machine Translation by Jointly Learning to Align and Translate]] #NLP #Translation
@@ -1473,7 +1473,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://sites.temple.edu/borguet/files/2020/09/1-s2.0-S0009912019312019-main.pdf][How to write (and how not to write) a scientific review article]] #Phd
 + [[https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1][Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification]] #MasterArista #ComputerVision
 + [[https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf][A course in Time Series Analysis]] #TimeSeries #Zataca
-+ [[https://huggingface.co/blog/stable_diffusion][Stable Diffusion with ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â¨ Diffusers]] #Diffusion #HuggingFace
++ [[https://huggingface.co/blog/stable_diffusion][Stable Diffusion with ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ§ÃâÃÂ¨ Diffusers]] #Diffusion #HuggingFace
 + [[https://mobile.twitter.com/VisionBernie/status/1562385340819820544][How to do research]] #phd
 + [[https://pyimagesearch.com/2022/08/10/computer-vision-and-deep-learning-for-agriculture/][Computer Vision and Deep Learning for Agriculture]] #agriculture #computervision #applications
 + [[https://arxiv.org/abs/2203.05482][Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time]] #Ensemble
@@ -1534,7 +1534,7 @@ Synthetic Data]] #LenguaSignos
 ** Mayo 2022
 
 + [[https://arxiv.org/abs/2112.13492][Vision Transformer for Small-Size Datasets]] #Transformers #ComputerVision
-+ [[https://jarvislabs.ai/blogs/hf-getting-started/][Huggingface ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ is all you need for NLP and beyond]] #NLP #MasterArista
++ [[https://jarvislabs.ai/blogs/hf-getting-started/][Huggingface ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â is all you need for NLP and beyond]] #NLP #MasterArista
 + [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]] #NLP
 + [[https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/][NLP+CSS 201 Tutorials]] #MasterArista
 + [[https://sicss.io/curriculum][Open source teaching and learning resources for computational social science]] #MasterArista
@@ -1582,17 +1582,17 @@ Synthetic Data]] #LenguaSignos
 + [[https://karpathy.github.io/2022/03/14/lecun1989/][Deep Neural Nets: 33 years ago and 33 years from now]] #DeepLearning
 + [[https://github.com/nathanhubens/fasterai][Fasterai: A library to make smaller and faster neural networks]] #Pruning #FastAI
 + [[https://horace.io/brrr_intro.html][Making Deep Learning Go Brrrr From First Principles]] #GPUs
-+ [[https://huggingface.co/blog/decision-transformers][Introducing Decision Transformers on Hugging Face ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€]] #ReinforcementLearning #HuggingFace
++ [[https://huggingface.co/blog/decision-transformers][Introducing Decision Transformers on Hugging Face ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â]] #ReinforcementLearning #HuggingFace
 + [[https://twitter.com/duygu_islakoglu/status/1505588164458692619?s=20&t=KchyJM1nAMvs-NpSXwHFbg][AI ethics collection]] #Ethics
 + [[https://youtu.be/GX4l3WhOy4o][IA y PLN, una apasionante encrucijada]] #NLP #MasterArista
 + [[https://www.nih.gov/news-events/news-releases/attention-objects-peripheral-vision-not-driven-tiny-eye-movements][Attention to objects in peripheral vision is not driven by tiny eye movements]] #Vision
 + [[https://youtu.be/344w5h24-h8][Diffusion models explained. How does OpenAI's GLIDE work?]] #DifussionModels
 + [[https://www.youtube.com/watch?v=UQwWTykNFW0][MUESTREO DE DATOS: MUESTREO BASADO EN PERPLEJIDAD]] #NLP
-+ [[https://www.youtube.com/watch?v=U8fig2fqrl8][Traduccion Automi¡tica con Eva Marti­nez Garcia - Hackathon de NLP en Espyearl]] #TraduccionAutomatica #MasterArista #NLP
++ [[https://www.youtube.com/watch?v=U8fig2fqrl8][Traduccion AutomiÂ¡tica con Eva MartiÂ­nez Garcia - Hackathon de NLP en Espyearl]] #TraduccionAutomatica #MasterArista #NLP
 + [[https://www.marekrei.com/blog/mphil-project-advice/][Advice for students doing research projects in ML/NLP]] #MLProjects
 + [[https://nlp-ensae.github.io/][NLP Course]] #NLP #MasterArista
 + [[https://snap.stanford.edu/graphlearning-workshop/][Stanford Graph Learning Workshop]] #GraphNeuralNetworks
-+ [[https://huggingface.co/blog/bert-101][BERT 101 ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ State Of The Art NLP Model Explained]] #NLP #MasterArista
++ [[https://huggingface.co/blog/bert-101][BERT 101 ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â State Of The Art NLP Model Explained]] #NLP #MasterArista
 + [[https://www.youtube.com/watch?v=3WXhnQr4ADQ][Introduction to Graph Neural Network]] #GraphNeuralNetworks
 + [[https://arxiv.org/pdf/2101.02118.pdf][Do We Really Need Deep Learning Models for Time Series Forecasting?]] #TimeSeries #Zataca
 + [[https://www.sciencedirect.com/science/article/pii/S1361841519301100][REFUGE Challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs]] #OPTRetina #Glaucoma
@@ -1601,10 +1601,10 @@ Synthetic Data]] #LenguaSignos
 
 ** Febrero 2022
 
-+ [[https://huggingface2.notion.site/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599][ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Education Toolkit]] #HuggingFace #Course
++ [[https://huggingface2.notion.site/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599][ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Education Toolkit]] #HuggingFace #Course
 + [[https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9][Building and Hosting Machine Learning Demos with Gradio & Hugging Face]] #Gracdio #HuggingFace
 + [[http://www.bertforhumanists.org/tutorials/][BERT for Humanists]] #NLP #MasterArista
-+ [[https://towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055][Getting Started with PyTorch Image Models (timm): A PractitionerÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Guide]] #Timm
++ [[https://towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055][Getting Started with PyTorch Image Models (timm): A PractitionerÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s Guide]] #Timm
 + [[https://nlpoverview.com/#1][Modern Deep Learning Techniques Applied to Natural Language Processing]] #NLP
 + [[https://szeliski.org/Book/][Computer Vision: Algorithms and Applications, 2nd ed.]] #ComputerVision
 + [[https://twitter.com/omarsar0/status/1490276912601653248?s=20&t=-YwF6XNsPySPfoVGbFNR6Q][Graph neural networks resources]] #GNNs
@@ -1638,7 +1638,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/2201.02177][Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets]] #SmallDatasets #Overfitting
 + [[https://ffcv.io/][FFCV: an Optimized Data Pipeline for Accelerating ML Training]] #Fast #LibraryTraining
 + [[https://huggingface.co/tasks][HuggingFace Tasks]]
-+ [[https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3][Transformers Explained Visually ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Not Just How, but Why They Work So Well]] #Transformers
++ [[https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3][Transformers Explained Visually ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Not Just How, but Why They Work So Well]] #Transformers
 + [[https://arxiv.org/pdf/2201.03898.pdf][An Introduction to AutoEncoders]] #AutoEncoders
 + [[https://github.com/Vaibhavs10/ml-with-audio][Hugging Face Machine Learning for Audio Study Group]] #Audio
 + [[https://arxiv.org/abs/1811.12808][Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning]] #ModelEvaluation #DatasetSplit
@@ -1649,7 +1649,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://aditya-sengupta.github.io/coding/2022/01/13/wordle.html][Maximising Differential Entropy to Solve Wordle]] #Algorithms
 + [[https://huggingface.co/blog][Huggingface blog]] #HuggingFace
 + [[https://keras.io/examples/vision/vit_small_ds/][Train a Vision Transformer on small datasets]] #Transformers #SmallDataset
-+ [[https://huggingface.co/blog/wav2vec2-with-ngram][Boosting Wav2Vec2 with n-grams in ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Transformers]] #Audio #GobiernoRioja
++ [[https://huggingface.co/blog/wav2vec2-with-ngram][Boosting Wav2Vec2 with n-grams in ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Transformers]] #Audio #GobiernoRioja
 + [[https://arxiv.org/abs/2201.04182][HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning]] #FewShotLearning
 + [[https://github.com/gradio-app/awesome-demos][Awesome Gradio Demos]] #Gradio #Demos
 + [[https://arxiv.org/abs/2201.03529][Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning]] #TransferLearning
@@ -1692,9 +1692,9 @@ Synthetic Data]] #LenguaSignos
 + [[https://ai.google.com/research/NaturalQuestions][Open Domain Question Answering]] #NLP #QuestionAnswering
 + [[https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/][Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation]] #Ensemble #Distillation
 + [[https://arxiv.org/abs/2105.06224][LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment]] #CellDetection #Athento
-+ [[https://arxiv.org/abs/2112.00725][Extrapolating from a Single Image to a Thousand Classes using Distillation]] #iistillation
++ [[https://arxiv.org/abs/2112.00725][Extrapolating from a Single Image to a Thousand Classes using Distillation]] #iÂistillation
 + [[https://deepmind.com/blog/article/language-modelling-at-scale][Language modelling at scale: Gopher, ethical considerations, and retrieval]] #LanguageModel #NLP
-+ [[https://huggingface.co/blog/data-measurements-tool][Introducing the ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€ Data Measurements Tool: an Interactive Tool for Looking at Datasets]] #Datasets
++ [[https://huggingface.co/blog/data-measurements-tool][Introducing the ÃÆÃÂ°Ãâ¦ÃÂ¸ÃâÃÂ¤ÃÂ¢Ã¢âÂ¬Ã¢â¬Â Data Measurements Tool: an Interactive Tool for Looking at Datasets]] #Datasets
 + [[https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf][Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning]] #MachineLearning #Metrics #Failures
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext][The false hope of current approaches to explainable artificial intelligence in health care]] #Explainability #Healthcare
 + [[https://www.sciencedirect.com/science/article/pii/S0895435621003541?dgcid=author][Believing in black boxes: machine learning for healthcare does not need explainability to be evidence-based]] #Explainability #Healthcare
@@ -1722,13 +1722,13 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Fei_13.pdf][Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection]] #CycleGAN #OutOfDomain
 + [[https://arxiv.org/pdf/2106.05210.pdf][Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation]] #VideoSegmentation
 + [[https://faculty.washington.edu/ebender/2021_575/][ Societal Impacts of NLP]] #NLP #Ethics
-+ [[https://arxiv.org/pdf/2104.03829v1.pdf][Does Your Dermatology Classifier Know What It DoesnÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t Know? Detecting the Long-Tail of Unseen Conditions]] #OutlierDetection #OPTRetina
++ [[https://arxiv.org/pdf/2104.03829v1.pdf][Does Your Dermatology Classifier Know What It DoesnÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢t Know? Detecting the Long-Tail of Unseen Conditions]] #OutlierDetection #OPTRetina
 + [[https://openreview.net/forum?id=TVHS5Y4dNvM][Patches Are All You Need?]] #CNNs #Classification
 + [[https://www.jmir.org/2021/7/e27822][Application of an Anomaly Detection Model to Screen for Ocular Diseases Using Color Retinal Fundus Images: Design and Evaluation Study]] #AnomalyDetection #Retina
 + [[https://machinelearningmastery.com/one-class-classification-algorithms/][One-Class Classification Algorithms for Imbalanced Datasets]] #OneClassClassification
 + [[https://arxiv.org/pdf/1708.02750.pdf][Extreme clicking for efficient object annotation]] #ObjectDetection #Annotation
 + [[https://ai.googleblog.com/2021/09/revisiting-mask-head-architectures-for.html][Revisiting Mask-Head Architectures for Novel Class Instance Segmentation]] #SemanticSegmentation
-+ [[https://www.nature.com/articles/s41592-021-01262-9.epdf?sharing_token=gFbjdF-nflWTb11ulG7OwdRgN0jAjWel9jnR3ZoTv0NeCGAajxJJG9eNeKTuUDwD-rhKcp8lM5VPvscQ0aFZy_yWdNcPyVNt0r-ShB4cf_G0kZMRVgOoeQL6iHxScPIXcfKgBxgePB7jIMAk0K2zQk6TrnarJenPJemoyfnA4ts%3D][DeepImageJ: A user-friendly environment to run deep learning models in ImageJ]] #Adrii¡n #ImageJ
++ [[https://www.nature.com/articles/s41592-021-01262-9.epdf?sharing_token=gFbjdF-nflWTb11ulG7OwdRgN0jAjWel9jnR3ZoTv0NeCGAajxJJG9eNeKTuUDwD-rhKcp8lM5VPvscQ0aFZy_yWdNcPyVNt0r-ShB4cf_G0kZMRVgOoeQL6iHxScPIXcfKgBxgePB7jIMAk0K2zQk6TrnarJenPJemoyfnA4ts%3D][DeepImageJ: A user-friendly environment to run deep learning models in ImageJ]] #AdriiÂ¡n #ImageJ
 + [[https://uwspace.uwaterloo.ca/handle/10012/17103][Learning From Almost No Data]] #Sevilla #DataDistillation
 + [[https://arxiv.org/abs/2110.00476][ResNet strikes back: An improved training procedure in timm]] #ImageClassification #TrainingTricks
 + [[https://keras.io/examples/vision/handwriting_recognition/][Handwriting recognition]] #HandwritingRecognition #IER
@@ -1748,7 +1748,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/1811.10959.pdf][Dataset Distillation]] #Distillation #Sevilla
 + [[https://arxiv.org/pdf/2106.09018v2.pdf][End-to-End Semi-Supervised Object Detection with Soft Teacher]] #SemiSupervisedLearning #ObjectDetection
 + [[https://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html][Toward Fast and Accurate Neural Networks for Image Recognition]] #ImageClassification
-+ [[https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9][TinyML models ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â what happens behind the scenes]] #CompactNetworks
++ [[https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9][TinyML models ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ what happens behind the scenes]] #CompactNetworks
 + [[https://calmcode.io/altair/introduction.html][Altair]] #DataVisualization
 + [[https://www.youtube.com/watch?v=IC4qZE5Wljs][Training StyleGAN2 ADA PyTorch Images with Low GPU Memory NVIDIA]] #GAN
 + [[https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html][Contrastive Representation Learning]] #ContrastiveLearning
@@ -1760,7 +1760,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://readthedocs.org/][Read the Docs]] #Documentation #SemTorch
 + [[https://towardsdatascience.com/why-you-should-not-rely-on-t-sne-umap-or-trimap-f8f5dc333e59][Why you should not rely on t-SNE, UMAP or TriMAP]] #DimensionalityReduction #PaCMAP
 + [[https://madewithml.com/courses/mlops/objective/][Made with ML]] #MLOps
-+ [[https://pytorch.org/blog/torchvision-mobilenet-v3-implementation/][Everything you need to know about TorchVisionÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s MobileNetV3 implementation]] #CompactNetworks
++ [[https://pytorch.org/blog/torchvision-mobilenet-v3-implementation/][Everything you need to know about TorchVisionÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s MobileNetV3 implementation]] #CompactNetworks
 + [[https://arxiv.org/pdf/2103.10292.pdf][How I failed machine learning in medical imaging - shortcomings and recommendations]] #MedicalImaging
 + [[https://arxiv.org/abs/2107.136710][Deeper Learning By Doing: Integrating Hands-On Research Projects Into a Machine Learning Course]] #MachineLearning #Teaching
 + [[https://youtu.be/w6Pw4MOzMuo][Ver "ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein" en YouTube]] #GeometricDeepLearning #GraphNeuralNetworks
@@ -1788,8 +1788,8 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/2009.05673.pdf][Applications of Deep Neural Networks with Keras]]
 + [[https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext][Deep Learning for AI]] #Challenges #GodFathers
 + [[https://docs.manim.community/en/stable/index.html][Manim Community Overview]] #Visualization #Animation
-+ [[https://arxiv.org/pdf/2107.10356.pdf][Reading Race: AI Recognizes PatientÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Racial Identity In Medical Images]] #Ethics #MedicalAI
-+ [[https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/][AI has the worst superpowerÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ medical racism]] #Ethics #MedicalAI
++ [[https://arxiv.org/pdf/2107.10356.pdf][Reading Race: AI Recognizes PatientÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s Racial Identity In Medical Images]] #Ethics #MedicalAI
++ [[https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/][AI has the worst superpowerÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃâÃÂ¦ medical racism]] #Ethics #MedicalAI
 + [[https://martinfowler.com/articles/practical-test-pyramid.html][Practical Test Pyramid]] #DDD #TDD #Tests
 
 ** Julio 2021
@@ -1805,7 +1805,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://dl.acm.org/doi/10.1145/3442188.3445922][On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?]] #NLP #Ethics
 + [[https://arxiv.org/abs/2106.10270][How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers]] #Transformers #Tricks
 + [[https://arxiv.org/pdf/1912.05283.pdf][Identifying Mislabeled Instances in Classification Datasets]] #DataCleaning
-+ [[https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/][PyInstaller ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ How to Turn Your Python Code into an Exe on Windows]] #Pyinstaller
++ [[https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/][PyInstaller ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâ How to Turn Your Python Code into an Exe on Windows]] #Pyinstaller
 + [[https://arxiv.org/pdf/1405.4097.pdf][A preliminary study of Croatian Language Syllable Networks]] #NLP #Arista
 + [[https://papers.nips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf][Realistic Evaluation of Deep Semi-Supervised Learning Algorithms]] #SemiSupervisedLearning
 + [[https://www.nature.com/articles/s41467-020-17478-w.pdf][Causality matters in medical imaging]] #Causality
@@ -1915,7 +1915,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/1809.04430][Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy]] #Segmenation #MedicalImaging
 + [[https://www.climatechange.ai/papers/neurips2020/74][Long-Range Seasonal Forecasting of 2m-Temperature with Machine Learning (Papers Track) ]] #ClimateChante #ML
 + [[https://www.paperswithcode.com/datasets][Datasets papers with code]] #Datasets
-+ [[https://towardsdatascience.com/logicgamessolver-how-to-solve-logic-games-using-computer-vision-and-artificial-intelligence-1a4972e7e0be][LogicGamesSolverÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â How to solve logic games using Computer Vision and Artificial Intelligence]] #ComputerVision #Sudoku #IA
++ [[https://towardsdatascience.com/logicgamessolver-how-to-solve-logic-games-using-computer-vision-and-artificial-intelligence-1a4972e7e0be][LogicGamesSolverÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ How to solve logic games using Computer Vision and Artificial Intelligence]] #ComputerVision #Sudoku #IA
 + [[https://arxiv.org/pdf/2101.11605.pdf][Bottleneck Transformers for Visual Recognition]] #Transformers #CNN
 + [[https://missing.csail.mit.edu/][The Missing Semester of Your CS Education]] #ComputerScience #Lectures
 + [[https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/][How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras]] #SemiSupervisedLearning #GANs
@@ -1936,11 +1936,11 @@ Synthetic Data]] #LenguaSignos
 + [[https://huggingface.co/blog/zero-deepspeed-fairscale][Fit More and Train Faster With ZeRO via DeepSpeed and FairScale]] #NLP #Transformers #Efficiency
 + [[https://openreview.net/pdf?id=djwS0m4Ft_A][Evaluating the Disentanglement of Deep Generative Models through Manifold Topology]] #TDA
 + [[https://arxiv.org/pdf/2101.05224v1.pdf][Big Self-Supervised Models Advance Medical Image Classification]] #SelfSupervisedLearning #MedicalImaging
-+ [[https://bdtechtalks.com/2021/01/11/concept-whitening-interpretable-neural-networks/][Deep learning doesnÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t need to be a black box]] #Interpretability
-+ [[https://analyticsindiamag.com/microsoft-research-unadversarial/][Microsoft Releases Unadversarial Examples: Designing Objects for Robust Vision ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ A Complete Hands-On Guide ]] #AdversarialExamples
++ [[https://bdtechtalks.com/2021/01/11/concept-whitening-interpretable-neural-networks/][Deep learning doesnÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢t need to be a black box]] #Interpretability
++ [[https://analyticsindiamag.com/microsoft-research-unadversarial/][Microsoft Releases Unadversarial Examples: Designing Objects for Robust Vision ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâ A Complete Hands-On Guide ]] #AdversarialExamples
 + [[https://arxiv.org/pdf/2011.08036.pdf][Scaled-YOLOv4: Scaling Cross Stage Partial Network]] #YOLO #ObjectDetection
 + [[https://keras.io/examples/][Keras Code examples]] #Keras #Samples
-+ [[https://raevskymichail.medium.com/cowmask-data-augmentation-for-self-supervised-models-9623f99ef4bb][CowMask ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Data Augmentation for Self-Supervised Models]] #SemiSupervisedLearning
++ [[https://raevskymichail.medium.com/cowmask-data-augmentation-for-self-supervised-models-9623f99ef4bb][CowMask ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Data Augmentation for Self-Supervised Models]] #SemiSupervisedLearning
 + [[https://arxiv.org/abs/1710.05381][A systematic study of the class imbalance problem in convolutional neural networks]] #CNNs #ImbalancedData
 + [[https://testdriven.io/guides/complete-python/][The Complete Python Development Guide]] #Python 
 + [[https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/][Using GitHub Actions for MLOps & Data Science ]] #MLOps
@@ -1989,7 +1989,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/][Why Skin Lesions are Peanuts and Brain Tumors Harder Nuts]] ~ T. Kooi #MedicalImaging #ScarceData
 + [[https://arxiv.org/pdf/2009.11060.pdf][Docs are ROCs: A simple off-the-shelf approach for estimating average human performance in diagnostic studies]] ~ L. Oakden-Rayner #Evaluation
 + [[https://arxiv.org/pdf/1906.02243.pdf][Energy and Policy Considerations for Deep Learning in NLP]] ~ E. Strubell #Energy
-+ [[https://nips.cc/virtual/2020/public/invited_16166.html][You CanÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t Escape Hyperparameters and Latent Variables: Machine Learning as a Software Engineering Enterprise ]] ~ C. Isbell #Neurips #Keynote #Bias #SoftwareEngineering
++ [[https://nips.cc/virtual/2020/public/invited_16166.html][You CanÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢t Escape Hyperparameters and Latent Variables: Machine Learning as a Software Engineering Enterprise ]] ~ C. Isbell #Neurips #Keynote #Bias #SoftwareEngineering
 + [[https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/021220-ENIA.pdf][Estrategia Nacional de Inteligencia Artificial]] #IA #Moncloa
 
 
@@ -2045,7 +2045,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://openreview.net/forum?id=xTJEN-ggl1b][LambdaNetworks: Modeling long-range Interactions without Attention]] #ComputerVision #ImageClassification
 + [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] #InteractiveTools
 + [[https://www.biorxiv.org/content/10.1101/2020.10.08.327718v1.full.pdf][Creating Clear and Informative Image-based Figures forScientific Publications]] ~ H. Hambor #Images
-+ [[https://www.biorxiv.org/content/10.1101/2020.10.07.328005v1.full.pdf][1Deep-LUMEN Assay ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Human lung epithelial spheroid classification from brightfield images using deep learning]] ~ L. Abdul #Detection #Spheroids #Tumours
++ [[https://www.biorxiv.org/content/10.1101/2020.10.07.328005v1.full.pdf][1Deep-LUMEN Assay ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâ Human lung epithelial spheroid classification from brightfield images using deep learning]] ~ L. Abdul #Detection #Spheroids #Tumours
 + [[https://github.com/vinthony/ghost-free-shadow-removal][Towards Ghost-free Shadow Removal]] ~ X. Cun #ShadowRemoval #GANs [[https://colab.research.google.com/drive/1cJ_dsBUXFaFtjoZB9gDYeahjmysnvnTq#scrollTo=qnoxUFU3zqpV][notebook]]
 + [[https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Mask-ShadowGAN_Learning_to_Remove_Shadows_From_Unpaired_Data_ICCV_2019_paper.pdf][Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data]] ~ X. Hu #ShadowRemoval #CycleGAN
 + [[https://arxiv.org/abs/2009.10521][A survey on Kornia: an Open Source Differentiable Computer Vision Library for PyTorch]] ~ E. Riba #ComputerVision #DeepLearning
@@ -2070,7 +2070,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.nature.com/articles/s41586-020-2649-2.pdf][Array programming with NumPy]] ~ C. Harris #Numpy
 + [[https://arxiv.org/pdf/2008.08579.pdf][Slide-free MUSE Microscopy to H&E Histology Modality Conversionvia Unpaired Image-to-Image Translation GAN Models]] ~ T. Abraham #GANs #StyleTransfer 
 + [[https://www.mdpi.com/2072-4292/12/16/2532/htm][Fully Convolutional Neural Network for Rapid Flood Segmentation in Synthetic Aperture Radar Imagery ]] ~ E. Nemni #Fastai #Lidar #Copernicus
-+ [[https://www.sciencedirect.com/science/article/pii/S2001037020303561][A birdÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s-eye view of deep learning in bioimage analysis]] ~ E. Meijering #DeepLearning #Bioimaging #Survey #AutoML
++ [[https://www.sciencedirect.com/science/article/pii/S2001037020303561][A birdÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s-eye view of deep learning in bioimage analysis]] ~ E. Meijering #DeepLearning #Bioimaging #Survey #AutoML
 + [[https://arxiv.org/abs/2001.00018][Connecting optical morphology, environment, and HI mass fraction for low-redshift galaxies using deep learning]] ~ J. Wu #Galaxies #FastAI
 + [[https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0][Data is plural]] ~ J. Singer-Vine #Datasets
 + [[https://arxiv.org/pdf/2009.00236v1.pdf][A Survey of Deep Active Learning]] ~ P. Ren #ActiveLearning
@@ -2120,7 +2120,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://elifesciences.org/articles/55133][Imaging methods are vastly underreported in biomedical research]] ~ G. Marques #Imaging #Reproducibility
 + [[https://towardsdatascience.com/12-papers-you-should-read-to-understand-object-detection-in-the-deep-learning-era-3390d4a28891][12 Papers You Should Read to Understand Object Detection in the Deep Learning Era]] ~ E. Yanjia Li #ObjectDetection
 + [[https://jalammar.github.io/how-gpt3-works-visualizations-animations/][How GPT3 Works - Visualizations and Animations]] ~ J. Alamar #GPT3 #NLP
-+ [[https://towardsdatascience.com/pp-yolo-surpasses-yolov4-object-detection-advances-1efc2692aa62][PP-YOLO Surpasses YOLOv4 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Object Detection Advances]] ~ J. Solawetz #PPYolo #ObjectDetection #PaddlePaddle
++ [[https://towardsdatascience.com/pp-yolo-surpasses-yolov4-object-detection-advances-1efc2692aa62][PP-YOLO Surpasses YOLOv4 ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Object Detection Advances]] ~ J. Solawetz #PPYolo #ObjectDetection #PaddlePaddle
 + [[https://github.com/NirantK/awesome-project-ideas#vision][Awesome Deep Learning Project Ideas]] ~ NirantK #DeepLearning #Projects
 + MLOps Tutorial [[https://www.youtube.com/watch?v=9BgIDqAzfuA][Video 1]] [[https://www.youtube.com/watch?feature=youtu.be&v=kZKAuShWF0s&app=desktop][Video 2]] [[https://www.youtube.com/watch?v=xPncjKH6SPk&feature=youtu.be][Video 3]] ~ E. Obrien #MLOps
 + [[https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks][Top Computer Vision Google Colab Notebooks]] #Colab #ComputerVision #Resources
@@ -2129,7 +2129,7 @@ Synthetic Data]] #LenguaSignos
 ** Julio 2020
 
 + [[https://arxiv.org/pdf/1611.07004.pdf][Image-to-Image Translation with Conditional Adversarial Networks]] ~ P. Isola #Image2Image #GAN
-+ [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Wasserstein GAN & WGAN-GP]] ~ J. Hui #GANs
++ [[https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490][GAN ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Wasserstein GAN & WGAN-GP]] ~ J. Hui #GANs
 + [[https://arxiv.org/abs/1711.06897][Single-Shot Refinement Neural Network for Object Detection]] ~ S. Zhang #ObjectDetection
 + [[https://arxiv.org/abs/1706.05587][Rethinking Atrous Convolution for Semantic Image Segmentation]] ~ L. Chen #SemanticSegmentation #AtrousConvolution
 + [[https://arxiv.org/pdf/1810.03993.pdf][Model Cards for Model Reporting]] ~ M. Mitchel #Provenance [[https://modelcards.withgoogle.com][Model cards webpage]]
@@ -2147,7 +2147,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/1706.02515.pdf][Self-Normalizing Neural Networks]] ~ G. Klambauer #StructuredData
 + [[https://arxiv.org/pdf/1910.03771.pdf][Transformers: State-of-the-Art Natural Language Processing]] ~ Huggingface #NLP #Transformers
 + [[http://jalammar.github.io/illustrated-gpt2/][The Illustrated GPT-2 (Visualizing Transformer Language Models)]] ~ J. Alammar #NLP #GPT2
-+ [[https://medium.com/@pierre_guillou/faster-than-training-from-scratch-fine-tuning-the-english-gpt-2-in-any-language-with-hugging-f2ec05c98787][Faster than training from scratch ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Fine-tuning the English GPT-2 in any language with Hugging Face and fastai v2 (practical case with Portuguese)]] ~ P. Guillou #NLP #Transformers #HuggingFace #FastAI
++ [[https://medium.com/@pierre_guillou/faster-than-training-from-scratch-fine-tuning-the-english-gpt-2-in-any-language-with-hugging-f2ec05c98787][Faster than training from scratch ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Fine-tuning the English GPT-2 in any language with Hugging Face and fastai v2 (practical case with Portuguese)]] ~ P. Guillou #NLP #Transformers #HuggingFace #FastAI
 + [[https://arxiv.org/pdf/1804.08328.pdf][Taskonomy: Disentangling Task Transfer Learning]] ~ A. Zamir #TransferLearning
 + [[https://arxiv.org/pdf/2007.10928.pdf][What is important about the No Free Lunch theorems?]] ~ D. Wolpert #NoFreeLunchTheorem
 + [[https://francescopochetti.com/tabular-deep-leaning-tabnet-deep-dive/][Tabular Deep Leaning: TabNet deep dive]] ~ F. Pochetti #TabNet
@@ -2201,7 +2201,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/1911.01547][The Measure of Intelligence]] ~ F. Chollet #Intelligence #ArtificialIntelligence
 + [[https://ai.facebook.com/blog/a-new-dense-sliding-window-technique-for-instance-segmentation/][A new dense, sliding-window technique for instance segmentation]] ~ Facebook #InstanceSegmentation
 + [[https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf][Three things everyone should know to improve object retrieval]] ~ R. Arandjelovic #ObjectRetrieval #DatabaseSearch
-+ [[https://www.nature.com/articles/s41591-020-0942-0.pdf][HumanÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“computer collaboration for skin cancer recognition]] ~ P. Tschandl #MedicalImaging
++ [[https://www.nature.com/articles/s41591-020-0942-0.pdf][HumanÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâcomputer collaboration for skin cancer recognition]] ~ P. Tschandl #MedicalImaging
 + [[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf][SmoothMix: a Simple Yet Effective Data Augmentation to Train RobustClassifiers]] ~ J. H. Lee #DataAugmentation
 + [[http://mlss.tuebingen.mpg.de/2020/schedule.html][The Machine Learning Summer School]] #MachineLearning #Course
 + [[http://openaccess.thecvf.com/content_CVPR_2020/papers/Corneanu_Computing_the_Testing_Error_Without_a_Testing_Set_CVPR_2020_paper.pdf][Computing the Testing Error without a Testing Set]] ~ C. Corneanu #PersistentHomology #MachineLearning
@@ -2212,7 +2212,7 @@ Synthetic Data]] #LenguaSignos
 
 #+html: <p align="center"><img src="wordClouds/junio2020.png" /></p>
 + [[https://www.youtube.com/watch?v=DYBmD88vpiA][Object-Centric Learning with Slot Attention (Paper Explained)]] ~ Y. Kilcher #Attention 
-+ ÃƒÅ’Ã‚Â£[[https://www.youtube.com/watch?v=Hdo81GtLC_4][Direct Feedback Alignment Scales to Modern Deep Learning Tasks and Architectures (Paper Explained)]] ~ Y. Kilcher #BackPropagationAlternative #Training
++ ÃÆÃâÃâÃÂ£[[https://www.youtube.com/watch?v=Hdo81GtLC_4][Direct Feedback Alignment Scales to Modern Deep Learning Tasks and Architectures (Paper Explained)]] ~ Y. Kilcher #BackPropagationAlternative #Training
 + [[https://www.researchgate.net/profile/Jorge_Calvo-Zaragoza/publication/335333672_Handwritten_Music_Recognition_for_Mensural_Notation_with_Convolutional_Recurrent_Neural_Networks/links/5d650fac299bf1f70b101c7a/Handwritten-Music-Recognition-for-Mensural-Notation-with-Convolutional-Recurrent-Neural-Networks.pdf][Handwritten Music Recognition for Mensural Notation with Convolutional RecurrentNeural Networks]] ~ J. Calvo-Zaragoza #OMR
 + [[https://ieeexplore.ieee.org/document/8999506][Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages]] ~ T. Tsai #OMR
 + [[https://github.com/apacha/OMR-Datasets][Optical Music Recognition Datasets]] #OMR #Datasets
@@ -2288,7 +2288,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/2004.14545.pdf][Explainable Deep Learning: A Field Guide for the Uninitiated]] ~ N. Xie #Explainable #Interpretability
 + [[https://arxiv.org/abs/2004.13453][DRU-net: An Efficient Deep Convolutional Neural Network for Medical Image Segmentation]] ~ M. Jafari #Segmentation #MedicalImaging
 + [[https://arxiv.org/abs/2004.15011][TLDR: Extreme Summarization of Scientific Documents]] ~ I. Cachola  #Summarization #NLP
-+ [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] ~ S. IliÃƒâ€žÃ¢â‚¬Â¡ #Visualization #InteractiveTools
++ [[https://github.com/Machine-Learning-Tokyo/Interactive_Tools][Interactive Tools for ML, DL and Math]] ~ S. IliÃÆÃ¢â¬Å¾ÃÂ¢Ã¢âÂ¬ÃÂ¡ #Visualization #InteractiveTools
 
 ** Abril 2020
 
@@ -2329,11 +2329,11 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/2004.02042v1.pdf][ObjectNet Dataset: Reanalysis and Correction]] ~ A. Borji #ObjectNet #ObjectDetection
 + [[http://brohrer.github.io/how_convolutional_neural_networks_work.html][How do Convolutional Neural Networks work?]] ~ B. Rohrer #IntroCNNs 
 + [[https://arxiv.org/pdf/2001.03994.pdf][FAST IS BETTER THAN FREE:REVISITING ADVERSARIAL TRAINING]] ~ E. Wong #AdeversarialTraining
-+ [[https://arxiv.org/pdf/1904.13000.pdf][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. Trami¨r #AdeversarialTraining #TrabajoSevilla
++ [[https://arxiv.org/pdf/1904.13000.pdf][Adversarial Training and Robustness for Multiple Perturbations]] ~ F. TramiÂ¨r #AdeversarialTraining #TrabajoSevilla
 + [[https://deepai.org/publication/examining-the-benefits-of-capsule-neural-networks][Examining the Benefits of Capsule Neural Networks]] ~ A. Punjabi #CapsuleNetworks #Explainability
 + [[https://arxiv.org/pdf/1909.06674.pdf][A Step Toward Quantifying IndependentlyReproducible Machine Learning Research]] ~ E. Raff #Reproducibility
 + [[https://arxiv.org/pdf/2004.01241v1.pdf][Semantic Segmentation of Underwater Imagery: Dataset and Benchmark]] ~ J. Islam #SemanticSegmentation #Dataset
-+ [[https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf][The Architectural Implications of FacebookÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢sDNN-based Personalized Recommendation]] ~ U. Gupta #RecommendationSystems 
++ [[https://research.fb.com/wp-content/uploads/2020/02/The-Architectural-Implications-of-Facebook%E2%80%99s-DNN-based-Personalized-Recommendation.pdf][The Architectural Implications of FacebookÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢sDNN-based Personalized Recommendation]] ~ U. Gupta #RecommendationSystems 
 + [[https://jalammar.github.io/illustrated-bert/][The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)]] ~ J. Alammar #NLP
 + [[http://www.cleverhans.io/][cleverhans blog]] ~ I. GodFellow #Blog #Security #MachineLearning
 + [[http://www.cleverhans.io/2020/04/06/stealing-bert.html][How to steal modern NLP systems with gibberish?]] ~ K. Krishna #NLP #Bert #Attacks #Distillation
@@ -2359,7 +2359,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://link.springer.com/content/pdf/10.1007/s11263-020-01300-7.pdf][Layout2image: Image Generation from Layout]] ~ B. Zhao #Layout2Image
 + [[https://www.youtube.com/watch?v=egs0XN-xjA0&list=PL_lsbAsL_o2BY-RrqVDKDcywKnuUTp-f3&index=13%3Futm_source%3D-twitter&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=pytorch-devcon19&utm_product=Detectron2][Detectron2 - Next Gen Object Detection Library]] ~ Y. Wu #Detectron #ObjectDetection #Video
 + [[https://arxiv.org/pdf/2003.11571v1.pdf][Learning Layout and Style Reconfigurable GANsfor Controllable Image Synthesis]] ~ W. Sun #GANs #Layout2Image
-+ [[https://www.youtube.com/watch?v=bGEDjhbSHmg][Introduction to Semi-supervised Learning using MixMatch]] ~ R. Li¶wenstri¶m #SemiSupervisedLearning #MixMatch
++ [[https://www.youtube.com/watch?v=bGEDjhbSHmg][Introduction to Semi-supervised Learning using MixMatch]] ~ R. LiÂ¶wenstriÂ¶m #SemiSupervisedLearning #MixMatch
 + [[https://arxiv.org/pdf/1805.08318.pdf][Self-Attention Generative Adversarial Networks]] ~ H. Zhang #Attention #GANs
 + [[https://arxiv.org/pdf/1908.08681v1.pdf][Mish: A Self Regularized Non-Monotonic Neural Activation Function]] ~ D. Misra #ActivationFunction
 + [[https://ipam.wistia.com/medias/w1ii9wdqnd][From classical statistics to modern machine learning]] ~ M. Belkin #DoubleDescent
@@ -2395,13 +2395,13 @@ Synthetic Data]] #LenguaSignos
 + [[https://ai.googleblog.com/2020/03/visual-transfer-learning-for-robotic.html][Visual Transfer Learning for Robotic Manipulation]] ~ Y-C. Lin #Robotics #TransferLearning 
 + [[https://arxiv.org/abs/2003.06798][StarNet: towards weakly supervised few-shot detection and explainable few-shot classification]] ~ L. Karlinsky #FewShotLearning #Interpretability #WeaklySupervised #ObjectDetection
 + [[http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf][Collaborative Learning of Semi-Supervised Segmentation and Classification forMedical Images]] ~ Y. Zhou #CollaborativeLearning #Segmentation #Classification #MedicalImaging
-+ [[https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/][fastaiÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ÂA Layered API for Deep Learning]] ~ J. Howard #FastAI
++ [[https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/][fastaiÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂA Layered API for Deep Learning]] ~ J. Howard #FastAI
 + [[https://github.com/earthspecies/from_zero_to_DSP][From Zero to DSP]] ~ radekosmulski #Audio
 + [[https://insightsimaging.springeropen.com/articles/10.1186/s13244-019-0832-5#Tab1][Deep learning workflow in radiology: a primer]] ~ E. Montagnon #DeepLearning #MedicalImaging #Workflow
 + [[https://arxiv.org/abs/2002.04803][Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence]] ~ S. Raschka #Python #MachineLearning #DeepLearning
 + [[https://arxiv.org/pdf/2002.02948.pdf][A deep-learning view of chemical space designed to facilitate drug discovery]] ~ P. Maragakis #Chemistry #DrugDiscovery
 + [[https://arxiv.org/pdf/2002.01155v1.pdf][Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception]] ~ J. Islam #SuperResolution #ImageEnhancement
-+ [[https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a][From zero to research ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â An introduction to Meta-learning]] ~ T. Wolf #MetaLearning
++ [[https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a][From zero to research ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ An introduction to Meta-learning]] ~ T. Wolf #MetaLearning
 + [[https://arxiv.org/abs/1908.00709][AutoML: A Survey of the State-of-the-Art]] ~ X. He #AutoML
 + [[https://www.cc.gatech.edu/~parikh/citizenofcvpr/][Good Citizien of CVPR]] ~ Conference #Research #Advices
 + [[https://colab.research.google.com/gist/pablo14/857e3259b441621f9cba194bf272c492/tutorial-on-spam-detection-using-fastai-ulmfit-part-2-classification-model.ipynb][Tutorial on SPAM detection using fastai ULMFiT - Part 2: Classification Model]] ~ P. Casas #ULMFit #FastAI #NLP
@@ -2420,7 +2420,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://forums.fast.ai/t/fastai-v2-has-a-medical-imaging-submodule/56117][Fastai v2 has a medical imaging submodule!]] ~ J. Howard #FastAI #MedicalData
 + [[https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw][ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters]] ~ DeepSpeed #LargeModels #Library #ModelTraining #Parallelism
 + [[https://speakerdeck.com/inesmontani/the-future-of-nlp-in-python-keynote-pycon-colombia-2020][The future of NLP in Python]] ~ I. Montani #NLP
-+ [[https://quantum-journal.org/papers/q-2020-02-06-226/][Data re-uploading for a universal quantum classifier]] ~ A. Pi©rez-Salinas #QuantumComputing #MachineLearning
++ [[https://quantum-journal.org/papers/q-2020-02-06-226/][Data re-uploading for a universal quantum classifier]] ~ A. PiÂ©rez-Salinas #QuantumComputing #MachineLearning
 + [[https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html][Announcing TensorFlow Quantum: An Open Source Library for Quantum Machine Learning ]] ~ A. Ho #QuantumComputing #MachineLearning
 + [[https://github.com/alhassy/PythonCheatSheet][PythonCheatSheet]] ~ [[https://github.com/alhassy][alhassy]] #Python
 + [[https://distill.pub/2020/circuits/zoom-in/][Zoom In: An Introduction to Circuits]] ~ C. Olah #Interpretability 
@@ -2434,7 +2434,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://drive.google.com/file/d/1ax1-XprJHDRRv2Ru3dJwPLs3ShxcpQ3r/view][Learning from unlabeled data]] ~ T. Luong #SelfSupervisedLearning #SemiSupervisedLearning #NoisyStudent
 + [[https://arxiv.org/abs/2002.08512][Reliance on Metrics is a Fundamental Challenge for AI]] ~ R. Thomas #Ethics 
 + [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials/translations/espa%C3%B1ol][Pysyft:  A library for encrypted, privacy preserving machine learning]] ~ Pysyft #Privacy #DeepLearning
-+ [[https://github.com/Machine-Learning-Tokyo/AI_Curriculum][AI Curriculum]] ~ Suzana IliÃƒâ€žÃ¢â‚¬Â¡ #DeepLearning #Courses #NLP #ComputerVision
++ [[https://github.com/Machine-Learning-Tokyo/AI_Curriculum][AI Curriculum]] ~ Suzana IliÃÆÃ¢â¬Å¾ÃÂ¢Ã¢âÂ¬ÃÂ¡ #DeepLearning #Courses #NLP #ComputerVision
 + [[https://www.si.edu/openaccess/faq][Smithsonian Open Access]] #Datasets #Images #Museums
 + [[https://www.sciencedirect.com/science/article/pii/S2452310017300537][The imaging tsunami: Computational opportunities and challenges]] ~ W. Ouyang #Microscopy #Bioimaging #SuperResolution
 + [[https://github.com/fastai/fastbook][Draft of the fastai book]] ~ J. Howard #FastAI #Deeplearning #NLP #ComputerVision
@@ -2500,16 +2500,16 @@ Synthetic Data]] #LenguaSignos
 
 + [[https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/][Label Smoothing with Keras and Tensorflow]] A. Rosebrock #PyimageSearch #LabelSmoothing #Regularisation
 + [[https://st2.ning.com/topology/rest/1.0/file/get/1211570060?profile=original][Data Science Cheatsheet]] ~ M. Lin #DataScience
-+ [[https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/?utm_source=linkedin.com&utm_medium=social][ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s a Record-Breaking Crowd]] ~ P. Sharma #CroudCounting #Tutorial
++ [[https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/?utm_source=linkedin.com&utm_medium=social][ItÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s a Record-Breaking Crowd]] ~ P. Sharma #CroudCounting #Tutorial
 + [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] ~ S. Keshav #Methods #Research #Reading 
 + [[https://arxiv.org/pdf/1901.02985.pdf][Auto-DeepLab:Hierarchical Neural Architecture Search for Semantic Image Segmentation]] ~ C. Liu #SemanticSegmentation #NeuralArchitectureSearch
 + [[https://blog.datascienceheroes.com/spam-detection-using-fastai-ulmfit-part-1-language-model/][SPAM detection using fastai ULMFiT]] ~ P. Casas #FastAI #NaturalLanguageProcessing #SpamDetection
 + [[https://distill.pub/2016/augmented-rnns/][Attention and Augmented Recurrent Neural Networks]] ~ C. Olah #NaturalLanguageProcessing #Attention #RNNs
 + [[https://arxiv.org/pdf/1912.10077v1.pdf][Are Transformers universal approximators of sequence-to-sequence functions?]] ~ C. Yun #NaturalLanguageProcessing #Transformers #Attention #ContextualMapping
 + [[https://arxiv.org/pdf/1812.05239.pdf][Improving Fairness in Machine Learning Systems:What Do Industry Practitioners Need?]] ~ K. Holstein #Fairness #Industry #HumanComputerInteraction
-+ [[https://retina.elpais.com/retina/2019/12/17/innovacion/1576572302_779289.html][Nike patenta unas zapatillas basadas en ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“blockchainÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢]] ~ J. Cortes #Blockchain #Falsificaciones
++ [[https://retina.elpais.com/retina/2019/12/17/innovacion/1576572302_779289.html][Nike patenta unas zapatillas basadas en ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬Ãâ¹ÃâblockchainÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢]] ~ J. Cortes #Blockchain #Falsificaciones
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]]  ~ L. Oakden-Rayner  #MedicalAI #Methods
-+ [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably havenÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t heard of)]] ~ L. Oakden-Rayner #ClinicalTrials #MedicalAI
++ [[https://lukeoakdenrayner.wordpress.com/2019/06/01/the-best-medical-ai-research-that-you-probably-havent-heard-of/][The best medical AI research (that you probably havenÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢t heard of)]] ~ L. Oakden-Rayner #ClinicalTrials #MedicalAI
 + [[https://github.com/MIC-DKFZ/medicaldetectiontoolkit][Medical Detection Toolkit]] ~ P. Jaeger #ObjectDetection #Software
 + [[https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737][A New Way to look at GANs]] ~ M. Pasini #GANs #SiameseNetworks
 + [[https://www.biorxiv.org/content/10.1101/589333v1][Unified rational protein engineering with sequence-based deep representation learning]] ~ E. Alley #Chemistry
@@ -2522,8 +2522,8 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/pdf/1707.08721.pdf][Exploiting Web Images for Weakly Supervised Object Detection]] ~ Q. Tao #ObjectDetection #WeakSupervisedLearning #CurriculumLearning
 + [[https://www.biorxiv.org/content/10.1101/541862v1.full.pdf][Deep learning reveals cancer metastasis and therapeutic antibody targeting in whole body]] ~ C. Pan #MedicalImaging 
 + [[https://medium.com/mlreview/machine-learning-on-graphs-neurips-2019-875eecd41069][Machine Learning on Graphs @ NeurIPS 2019]] ~ M. Galkin #Graphs #GraphConvolutionalNetworks #Embeddings
-+ [[https://github.com/ageron/handson-ml2][Machine Learning Notebooks]] ~ A. Gi©ron #MachineLearning #JupyterNotebooks #Resources
-+ [[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz699/5564115][ProteinÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“protein interaction site prediction through combining local and global features with deep neural networks]] ~ M. Zeng #Proteins #Chemistry 
++ [[https://github.com/ageron/handson-ml2][Machine Learning Notebooks]] ~ A. GiÂ©ron #MachineLearning #JupyterNotebooks #Resources
++ [[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz699/5564115][ProteinÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬Ãâprotein interaction site prediction through combining local and global features with deep neural networks]] ~ M. Zeng #Proteins #Chemistry 
 + [[https://www.nature.com/articles/s41598-019-46369-4][Predicting Protein-Protein Interactions from Matrix-Based Protein Sequence Using Convolution Neural Network and Feature-Selective Rotation Forest]] ~ L. Wang #ConvolutionalNeuralNetworks #Proteins #Chemistry
 + [[https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks][A gallery of interesting Jupyter Notebooks]] ~ J. C. Agar #JupyterNotebooks #Resources
 + [[https://arxiv.org/abs/1907.09595v3][MixConv: Mixed Depthwise Convolutional Kernels]] ~ M. Tan #Mobile #ImageClassification #NeuralArchitectureSearch
@@ -2548,7 +2548,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO][TensorFlow 2.0 + Keras Overview for Deep Learning Researchers]] ~ F. Chollet #Keras #Tensorflow
 + [[https://www.biorxiv.org/content/biorxiv/early/2019/04/11/606202.full.pdf][Deciphering interaction fingerprints from protein molecular surfaces]] ~ P. Gainza #Chemistry #Molecules
 + [[https://emtiyaz.github.io/papers/learning_from_bayes.pdf][Learning-Algorithms from Bayesian Principles]] ~ M. Emtiyaz #LearningAlgorithms
-+ [[https://arxiv.org/pdf/1905.09272v2.pdf][Data-efficient image recognition with contrastive predictive coding]] ~ O. J. Hi©naff  #RepresentationLearning #ImageClassification #SemiSupervisedLearning 
++ [[https://arxiv.org/pdf/1905.09272v2.pdf][Data-efficient image recognition with contrastive predictive coding]] ~ O. J. HiÂ©naff  #RepresentationLearning #ImageClassification #SemiSupervisedLearning 
 + [[https://arxiv.org/pdf/1706.03762.pdf][Attention is all you need]] ~ A. Vaswani #MachineTranslation #Attention #Transformers #NaturalLanguageProcessing
 + [[http://eyeriss.mit.edu/2019_neurips_tutorial.pdf][Efficient Processing of Deep Neural Networks:from Algorithms to Hardware Architectures]] ~ V. Sze #Efficiency #Consumption #Hardware
 + [[https://autogluon.mxnet.io/][AutoGluon: AutoML Toolkit for Deep Learning]] ~ Gluon #AutoML #ImageClassification #ObjectDetection
@@ -2557,8 +2557,8 @@ Synthetic Data]] #LenguaSignos
 + [[https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628][10 Lessons I Learned Training GANs for one Year]] ~ M. Pasini #GANs #Tricks
 + [[https://jupyterhub.readthedocs.io/en/latest/getting-started/institutional-faq.html][Institutional JupyterHub]] ~ JupyterHub #JupyterNotebooks
 + [[https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495][Robust image classification with a small data set]] ~ Sciforce #ImageClassification #TransferLearning #DomainAdapatation #FewShotLearning
-+ [[https://arxiv.org/pdf/1909.01958.pdf][From ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“FÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ to ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“AÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ on the N.Y. Regents Science Exams:An Overview of the Aristo Project]] ~ P. Clark #NaturalLanguageProcessing #QuestionAnswering #Aristo
-+ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exi¡menes de ciencias]] ~ Microsiervos #ArtificialIntelligence #Mathematics
++ [[https://arxiv.org/pdf/1909.01958.pdf][From ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬Ãâ¹ÃâFÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢ to ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬Ãâ¹ÃâAÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢ on the N.Y. Regents Science Exams:An Overview of the Aristo Project]] ~ P. Clark #NaturalLanguageProcessing #QuestionAnswering #Aristo
++ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exiÂ¡menes de ciencias]] ~ Microsiervos #ArtificialIntelligence #Mathematics
 + [[https://arxiv.org/abs/1911.11763][SuperGlue: Learning Feature Matching with Graph Neural Networks]] ~ P-E. Sarlin # GraphNeuralNetworks #PoseEstimation #Matching #Homography
 + [[https://ai.googleblog.com/2017/04/predicting-properties-of-molecules-with.html][Predicting Properties of Molecules with Machine Learning]] ~ G. Dahl #GraphNeuralNetworks #Chemistry
 + [[https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html][Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules]] ~ A. Wiltschko #Smell #DeepNeuralNetworks #GraphNeuralNetworks #Embeddings #Chemistry
@@ -2570,11 +2570,11 @@ Synthetic Data]] #LenguaSignos
 + [[https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698][Interactive Convolutional Neural Network]] ~ V. Alto #Streamlit #ConvolutionalNeuralNetworks #Interactive #Visualization
 + [[https://arxiv.org/pdf/1905.11946.pdf][EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks]] ~ M. Tan #ConvolutionalNeuralNetworks #ImageClassification #EfficientNet #NeuralArchitectureSearch #ModelScaling
 + [[https://arxiv.org/abs/1912.01412][Deep Learning for Symbolic Mathematics]] ~ G. Lample #DeepLearning #ComputerAlgebraSystems 
-+ [[https://arxiv.org/pdf/1911.13299.pdf][WhatÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Hidden in a Randomly Weighted Neural Network?]] ~ V. Ramanujan #UntrainedNetworks #Subnetworks #LotteryTicket
++ [[https://arxiv.org/pdf/1911.13299.pdf][WhatÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s Hidden in a Randomly Weighted Neural Network?]] ~ V. Ramanujan #UntrainedNetworks #Subnetworks #LotteryTicket
 + [[https://arxiv.org/abs/1903.03425][The Ethics of AI Ethics -- An Evaluation of Guidelines]] ~ T. Hagendorff #Ethics #Guidelines
 + [[https://arxiv.org/pdf/1703.06870.pdf][Mask R-CNN]] ~ K. He #ObjectDetection #SemanticSegmentation #MultiTaskLearning
 + [[https://arxiv.org/abs/1911.04252][Self-training with Noisy Student improves ImageNet classification]] ~ Q. Xie #SelfTraining #ImageClassification #SemiSupervisedLearning #EfficientNet
-+ [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Cloud Segmentation using Deep Learning for Agriculture.]] ~ G. Rahman #Copernicus #Agriculture #IDERioja #SemanticSegmentation
++ [[https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa][Nimbus ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Cloud Segmentation using Deep Learning for Agriculture.]] ~ G. Rahman #Copernicus #Agriculture #IDERioja #SemanticSegmentation
 + [[https://logtalk.org/2019/11/13/many-worlds-design-pattern.html][The "many worlds" design pattern]] ~ P. Moura #DesignPatterns #Programming #Prolog
 + [[http://deliprao.com/archives/342][The Doers and The Clarion Callers]] ~ Delip #ArtificialIntelligence #Connectionism #Symbolism
 + [[https://arxiv.org/pdf/1901.09005.pdf][Revisiting Self-Supervised Visual Representation Learning]] ~ A. Kolesnikov #SelfSupervisedLearning #RepresentationLearning
@@ -2615,8 +2615,8 @@ Synthetic Data]] #LenguaSignos
 + [[https://machinelearningmastery.com/types-of-learning-in-machine-learning/][14 Different Types of Learning in Machine Learning]] ~ J. Brownlee #Classification #SemiSupervisedLearning #SelfSupervisedLearning
 + [[https://pair-code.github.io/understanding-umap/][Understanding UMAP]] ~ A. Coenen #DimensionalityReduction 
 + [[https://arxiv.org/pdf/1807.11626.pdf][MnasNet: Platform-Aware Neural Architecture Search for Mobile]] ~ M. Tan #AutoML #NeuralArchitectureSearch #Mobile
-+ [[https://medium.com/@santiagof/auto-is-the-new-black-google-automl-microsoft-automated-ml-autokeras-and-auto-sklearn-80d1d3c3005c][Auto is the new black ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Google AutoML, Microsoft Automated ML, AutoKeras and auto-sklearn]] ~ F. Santiago #AutoML
-+ [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Making your model confess: Shapley values]] ~ F. Santiago #Interpretability #Fairness #Privacy #Robustness #Causality #Trust
++ [[https://medium.com/@santiagof/auto-is-the-new-black-google-automl-microsoft-automated-ml-autokeras-and-auto-sklearn-80d1d3c3005c][Auto is the new black ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Google AutoML, Microsoft Automated ML, AutoKeras and auto-sklearn]] ~ F. Santiago #AutoML
++ [[https://medium.com/@santiagof/model-interpretability-making-your-model-confess-shapley-values-5fb95a10a624][Model interpretability ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Making your model confess: Shapley values]] ~ F. Santiago #Interpretability #Fairness #Privacy #Robustness #Causality #Trust
 + [[https://towardsdatascience.com/deep-dive-into-the-computer-vision-world-part-3-abd7fd2c64ef][YOLO, SSD, FPN and RetinaNet, more unified ones]] ~ J. Jeong #ObjectDetection #Architectures 
 + [[https://arxiv.org/abs/1910.14667][Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors]] ~ Z. Wu #AdversialAttacks #ObjectDetectors
 + [[https://www.frontiersin.org/articles/10.3389/fcomp.2019.00010/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE][Generative Adversarial Networks for Augmenting Training Data of Microscopic Cell Images]] ~ P. Baniukiewicz #DataAugmentation #Microscopy #GANs
@@ -2628,13 +2628,13 @@ Synthetic Data]] #LenguaSignos
 + [[http://ace.cs.ohio.edu/~gstewart/papers/aaai19-bagnall.pdf][Certifying the True Error: Machine Learning in Coq with Verified Generalization Guarantees]] ~ A. Bagnall #Coq #MachineLearningProofs #Tensorflow
 + [[https://arxiv.org/abs/1911.00385][A Formal Proof of PAC Learnability for Decision Stumps]] ~ J. Tassarotti. #TheoremProving #AdrianLanguage 
 + [[https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e][How to create buttons in Jupyter]] ~ D. Penilla #JupyterNotebooks #Interaction
-+ [[http://blog.ibanyez.info/blogs/coding/20190410-run-a-google-colab-notebook-to-train-yolov3-using-darknet-in/][How to train YOLOv3 using Darknet on Colab]] ~ D. Ibi¡i±ez #Colab #ObjectDetection #YOLO
++ [[http://blog.ibanyez.info/blogs/coding/20190410-run-a-google-colab-notebook-to-train-yolov3-using-darknet-in/][How to train YOLOv3 using Darknet on Colab]] ~ D. IbiÂ¡iÂ±ez #Colab #ObjectDetection #YOLO
 + [[https://medium.com/analytics-vidhya/training-an-object-detection-model-with-tensorflow-api-using-google-colab-4f9a688d5e8b][Training an Object Detection Model with TensorFlow API using Google COLAB]] ~ N. O. Solomon #ObjectDetection #Colab
 +  [[https://icml.cc/Conferences/2017/Schedule?showParentSession=1116][Semisupervised and curriculum learning conference]] #CurriculumLearning #SupervisedLearning #Conference
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7465792][Multi-Modal Curriculum Learning forSemi-Supervised Image Classification]] ~ C. Gong #SemiSupervisedLearning #CurriculumLearning #ImageClassification
 + [[https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf][Curriculum Learning]] ~ Y. Bengio #CurriculumLearning 
 + [[https://weightpruningdamage.github.io/][Selective Brain Damage: Measuring the Disparate Impact of Model Compression]] ~ S. Hooker #Prunning #NeuralCompression
-+ [[https://www.technologyreview.com/s/614742/machine-learning-has-revealed-exactly-how-much-of-a-shakespeare-play-was-written-by-someone/][Machine learning has revealed exactly how much of a Shakespeare play was written by someone else]] ~  P. Plechi¡Ãƒâ€žÃ‚Â #NaturalLanguageProcessing 
++ [[https://www.technologyreview.com/s/614742/machine-learning-has-revealed-exactly-how-much-of-a-shakespeare-play-was-written-by-someone/][Machine learning has revealed exactly how much of a Shakespeare play was written by someone else]] ~  P. PlechiÂ¡ÃÆÃ¢â¬Å¾ÃâÃÂ #NaturalLanguageProcessing 
 + [[https://www.nature.com/articles/s41467-019-12552-4][The Eighty Five Percent Rule for optimal learning]] ~ R. C. Wilson. #CurriculumLearning #Learning #LearningRate
 + [[https://www.uni-bonn.de/news/196-2019][Artificial intelligence in the fight against river blindness]] ~ Klarmann-Schulz #MedicalImages #ArtificialIntelligence
 + [[https://reader.elsevier.com/reader/sd/pii/S092523121930459X?token=018CD1D1335019467EE0F3ACAD5DD2811A5F777EE89CD49B37C063D9D0CB55920EEB7BDE2F7A49D4FD764CAA82A85CB9][Hybrid methodology based on Bayesian optimization and GA-PARSIMONY to search for parsimony models by combining hyperparameter optimization and feature selection]] ~ F. J. Martinez-de-Pison #GeneticAlgorithms #HyperparameterTuning # FeatureSelection
@@ -2646,7 +2646,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973][Image similarity using Triplet Loss]] ~ S. Das #TripletLoss
 + [[https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c][U-Nets with ResNet Encoders and cross connections]] ~ C. Thomas #FastAI #UNet 
 + [[https://arxiv.org/pdf/1711.09784.pdf][Distilling a Neural Network into a soft decision tree]] ~ N. Frosst. #Explanability #Distillation #SemiSupervisedLearning
-+ [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][Qui© es la teori­a de categori­as y como se ha convertido en tendencia]] ~ J. Baez #TeoriaCategorias #Logica 
++ [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][QuiÂ© es la teoriÂ­a de categoriÂ­as y como se ha convertido en tendencia]] ~ J. Baez #TeoriaCategorias #Logica 
 + [[https://www.biorxiv.org/content/10.1101/799270v1][DeepImageJ: A user-friendly plugin to run deep learning models in ImageJ]] ~ E. Gomez-de-Mariscal #ImageJ #DeepLearning 
 + [[https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html][Attention? Attention!]] ~ L. Weng #Attention #NLP
 + [[https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html][Self-Supervised Representation Learning]] ~ L. Weng #SemiSupervised #Survey #PretextTasks
@@ -2662,7 +2662,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.biorxiv.org/content/10.1101/265231v1][End-so-end differentiable learning of protein structure]] ~ M. AlQuraishi #DeepLearning #Proteins
 + [[https://www.biorxiv.org/content/10.1101/465955v4][Distance-based Protein Folding Powered by Deep Learning]] ~ J. Xu #DeepLearning #Proteins
 + [[https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/][Improving Medical AI Safety by Addressing Hidden Stratification]] ~ Luke Oakden-Rayner #AISafety 
-+ [[https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/][Keras vs. tf.keras: WhatÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s the difference in TensorFlow 2.0?]] ~ A. Rosebrock #PyimageSearch #Keras #TensorflowV2
++ [[https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/][Keras vs. tf.keras: WhatÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢s the difference in TensorFlow 2.0?]] ~ A. Rosebrock #PyimageSearch #Keras #TensorflowV2
 + [[https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/][Billion-scale semi-supervised learning for state-of-the-art image and video classification]] ~ I. Zeki Yalniz. #SemiSupervisedLearning #WeakSupervisedLearning
 + [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf][Machine Learning: The High-Interest Credit Card of Technical Debt]] ~ D. Sculley. #MachineLearning #TechnicalRisks
 + [[https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/][Why is my validation loss lower than my training loss?]] ~ A. Rosebrock #Pyimagesearch #ValidationLoss
@@ -2679,12 +2679,12 @@ Synthetic Data]] #LenguaSignos
 #+html: <p align="center"><img src="wordClouds/septiembre2019.png" /></p>
 
 + [[https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366][AutoML for Data Augmentation]]. ~
-  BarÃƒâ€žÃ‚Â±Ãƒâ€¦Ã…Â¸ ÃƒÆ’Ã¢â‚¬â€œzmen. #DeepLearning #AutoML #ImageAugmentation
+  BarÃÆÃ¢â¬Å¾ÃâÃÂ±ÃÆÃ¢â¬Â¦Ãâ¦ÃÂ¸ ÃÆÃâÃÂ¢Ã¢âÂ¬Ã¢â¬Åzmen. #DeepLearning #AutoML #ImageAugmentation
 + [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf][SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network]] ~ Yancheng Bai. #GANs #SuperResolution #ObjectDetection
 + [[https://deepai.org/publication/topology-preserving-augmentation-for-cnn-based-segmentation-of-congenital-heart-defects-from-3d-paediatric-cmr][Topology-preserving augmentation for CNN-based segmentation of congenital heart defects from 3D paediatric CMR]] ~ Nick Byrne. #MedicalImages #SemanticSegmentation #ImageAugmentation #Topology
 + [[https://www.nature.com/articles/d41586-019-02514-7][Halt the use of facial-recognition technology until it is regulated]] ~ Kate Crawford. #FaceRecognition #Ethics
 + [[https://www.pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv/][Building an Image Hashing Search Engine with VP-Trees and OpenCV]] ~ Adrian Rosebrock. #ImageProcessing #SearchEngine #OpenCV #VPTree #PyImageSearch
-+ [[https://arxiv.org/pdf/1907.11457.pdf][Two-hidden-layer feedforward networks are universal approximators: a constructive approach]] ~ Roci­o Gonzi¡lez-Di­az #NeuralNetworks  #SimplicialComplexes #UniversalTheorem
++ [[https://arxiv.org/pdf/1907.11457.pdf][Two-hidden-layer feedforward networks are universal approximators: a constructive approach]] ~ RociÂ­o GonziÂ¡lez-DiÂ­az #NeuralNetworks  #SimplicialComplexes #UniversalTheorem
 + [[https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection][Fruit Images for Object Detection]] ~ Muhammed Buyukkinaci. #Datasets #ObjectDetection
 + [[https://arxiv.org/pdf/1712.04440.pdf][Data Distillation: Towards Omni-Supervised Learning]] ~ Ilija Radosavovic. #SemiSupervisedLearning #Ensembles #DataDistillation #OmniSupervisedLearning
 + [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-00928-1_65.pdf][Omni-Supervised Learning: Scaling Upto Large Unlabelled Medical Datasets]] ~ Ruobing Huang. #MedicalImages #OmniSupervisedLearning
@@ -2696,7 +2696,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30108-6/fulltext][Automated deep learning design for medical image classification by health-care professionals with no coding experience: a feasibility study]] ~ L. Faes. #AutoML #ImageClassification #MedicalImages
 + [[https://martinfowler.com/articles/cd4ml.html][https://martinfowler.com/articles/cd4ml.html]] ~ D. Sato. #ContinuousDelivery #MachineLearning
 + [[https://rsomani95.github.io/ai-film-1.html][AI for filmmaking]] ~ R. Somali. #ImageClassification #FastAI #Resnet
-+ [[https://medium.com/starschema-blog/transfer-learning-the-dos-and-donts-165729d66625][Transfer learning: the dos and donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ts]] ~ C. Von Csefalvay. #TransferLearning #DeepLearning #Recipes
++ [[https://medium.com/starschema-blog/transfer-learning-the-dos-and-donts-165729d66625][Transfer learning: the dos and donÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢â¬Å¾ÃÂ¢ts]] ~ C. Von Csefalvay. #TransferLearning #DeepLearning #Recipes
 + [[https://arxiv.org/pdf/1905.08942v2.pdf][The Machine Learning Bazaar: Harnessing the ML Ecosystem for Effective System Development]] ~ M. J. Smith. #AutoML #PapersWithCode 
 + [[https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf][Hidden Technical Debt in Machine Learning Systems]] ~ D. Ebner. #MachineLearning #Development #Risks
 + [[https://worldmodels.github.io/][World Models: Can agents learn inside of their own dreams]] ~ D. Ha. #ReinforcementLearning #GANs
@@ -2706,16 +2706,16 @@ Synthetic Data]] #LenguaSignos
 + [[https://medium.com/health-ai/google-deepmind-might-have-just-solved-the-black-box-problem-in-medical-ai-3ed8bc21f636][Google DeepMind might have just solved the "Black Box" problem in medical AI]] ~ S. Ruyu Qi. #Interpretability #Healthcare #Unet
 + [[https://imo-grand-challenge.github.io/][IMO Grand Challenge]] ~ D. Selsam #Lean #AutomatedTheoremProving #MathematicalOlympiad
 + [[https://www.hillelwayne.com/post/theorem-prover-showdown/][The Great Theorem Prover Showdown]] ~ H. Wayne. #FormalMethods #Challenge #FunctionalProgramming
-+ [[https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/la-deuda-de-la-inteligencia-artificial-con-el-matematico-godel/][La deuda de la Inteligencia Artificial con el matemi¡tico Gi¶del]] ~ J. Mui±oz de la Cuesta. #Logica #IA
++ [[https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/la-deuda-de-la-inteligencia-artificial-con-el-matematico-godel/][La deuda de la Inteligencia Artificial con el matemiÂ¡tico GiÂ¶del]] ~ J. MuiÂ±oz de la Cuesta. #Logica #IA
 + [[https://arxiv.org/pdf/1908.07355.pdf][Knowledge distillation for semi-superviseddomain adaptation]] ~ M. Orbes-Arteaga. #SemiSupervisedLearning #DataDistillation
 + [[https://blogs.scientificamerican.com/cross-check/okay-maybe-proofs-arent-dying-after-all/][Okay, Maybe Proofs Aren't Dying After All]] ~ J. Horgan. #Mathematics #ITP
 + [[https://martinfowler.com/dsl.html][Domain-Specific Languages Guide]] ~ M. Fowler. #DSL
 + [[https://drive.google.com/file/d/19lv8p1fB47z1pEZVlfDXhop082Lc-kdD/view][Quantum supremacy using a programmable superconducting processor]] ~ Google AI Quantum and collaborators. #QuantumComputing
 + [[http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/resources/DoubleDIP.pdf][Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors]] ~ Y. Gandelsman #ImageSegmentation #DeepLearning 
-+ [[https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44][Review: DCN ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Deformable Convolutional Networks, 2nd Runner Up in 2017 COCO Detection (Object Detection)]] ~ S-H. Tsang #DeepLearning #ObjectDetection #ImageSegmentation
++ [[https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44][Review: DCN ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Deformable Convolutional Networks, 2nd Runner Up in 2017 COCO Detection (Object Detection)]] ~ S-H. Tsang #DeepLearning #ObjectDetection #ImageSegmentation
 + [[https://arxiv.org/pdf/1907.08610v1.pdf][Lookahead Optimizer:k steps forward, 1 step back]] ~ M. R. Zhang. #MachineLearning #OptimizationAlgorithm
-+ [[https://medium.com/sciforce/anomaly-detection-another-challenge-for-artificial-intelligence-c69d414b14db][Anomaly Detection ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Another Challenge for Artificial Intelligence]] ~ Sciforce. #AnomalyDetection
-+ [[https://towardsdatascience.com/enet-a-deep-neural-architecture-for-real-time-semantic-segmentation-2baa59cf97e9][ENet ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â A Deep Neural Architecture for Real-Time Semantic Segmentation]] ~ Arunava #SemanticSegmentation #DeepLearning 
++ [[https://medium.com/sciforce/anomaly-detection-another-challenge-for-artificial-intelligence-c69d414b14db][Anomaly Detection ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ Another Challenge for Artificial Intelligence]] ~ Sciforce. #AnomalyDetection
++ [[https://towardsdatascience.com/enet-a-deep-neural-architecture-for-real-time-semantic-segmentation-2baa59cf97e9][ENet ÃÆÃÂ¢ÃÂ¢Ã¢â¬Å¡ÃÂ¬ÃÂ¢Ã¢âÂ¬ÃÂ A Deep Neural Architecture for Real-Time Semantic Segmentation]] ~ Arunava #SemanticSegmentation #DeepLearning 
 + [[http://zpascal.net/cvpr2017/Zendel_Analyzing_Computer_Vision_CVPR_2017_paper.pdf][Analyzing Computer Vision Data - The Good, the Bad and the Ugly]] ~ O. Zendel. #ComputerVision #Dasasets #Curation
 + [[https://cs.brown.edu/research/pubs/theses/masters/2011/vittayakorn.pdf][Quality Assessment for Crowdsourced Object Annotations]] ~ S. Vittayakorn. #ComputerVision #Dasasets #Quality
 + [[https://link.springer.com/article/10.1007/s11263-007-0090-8][LabelMe: A Database and Web-Based Tool for Image Annotation]] ~ B. C. Russell. #ObjectDetection #ImageAnnotation
@@ -2726,18 +2726,19 @@ Synthetic Data]] #LenguaSignos
 + [[https://arxiv.org/abs/1902.07208][Transfusion: Understanding Transfer Learning for Medical Imaging]] ~ M. Raghu. #TransferLearning #MedicalImages 
 + [[https://arxiv.org/pdf/1811.08883.pdf][Rethinking ImageNet Pre-training]] ~ K. He. #TransferLearning #ObjectDetection 
 
-* Lecturas del aÃƒÂ±o 2025
+* Lecturas del aÃÆÃÂ±o 2025
 
 ** Diciembre 2025
 + [[https://qwen.ai/blog?id=qwen-image-layered][Qwen]] #ImageEdition
-+ [[https://huggingface.co/learn/cookbook/function_calling_fine_tuning_llms_on_xlam][Fine-tuning LLMs for Function Calling with xLAM Dataset - Hugging Face Open-Source AI Cookbook]] #FunctionCalling #JÃºlia
++ [[https://huggingface.co/learn/cookbook/function_calling_fine_tuning_llms_on_xlam][Fine-tuning LLMs for Function Calling with xLAM Dataset - Hugging Face Open-Source AI Cookbook]] #FunctionCalling #JÃÂºlia
+
+* Lecturas del aÃÂ±o 2025
+
+** Diciembre 2025
++ [[https://apigen-pipeline.github.io/][APIGen Pipeline]] #JÃºlia #FunctionCalling #Dataset
 
 * Lecturas del aÃ±o 2025
 
 ** Diciembre 2025
-+ [[https://apigen-pipeline.github.io/][APIGen Pipeline]] #Júlia #FunctionCalling #Dataset
-
-* Lecturas del año 2025
-
-** Diciembre 2025
 + [[https://video-reality-test.github.io/][Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?]] #VideoGeneration #VideoDetection
++ [[https://huggingface.co/blog/trl-vlm-alignment][Vision Language Model Alignment in TRL ⚡️]] #VLM #Elena
