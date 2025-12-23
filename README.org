@@ -118,6 +118,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://medium.com/neuml/training-tiny-language-models-with-token-hashing-b744aa7eb931][Training Tiny Language Models with Token Hashing | by David Mezzetti | NeuML | Medium]] #LLM #Tiny
 + [[https://sophont.med/blog/medmarks#introduction][Medmarks v0.1, a new LLM benchmark suite of medical tasks]] #Medical #LLM #Benchmark
++ [[https://blog.google/technology/developers/t5gemma-2/][T5Gemma 2: The next generation of encoder-decoder models]] #MultiModal #Elena
 ** Noviembre 2025
 
 + [[http://lse-sign.bcbl.eu/web-busqueda/][LSE-Sign]] #LSEAvatar
