@@ -116,6 +116,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2507.10492][BenchReAD: A Systematic Benchmark for Retinal Anomaly Detection]] #AnomalyDetection #OPTRetina #SpectralGeo
 + [[https://www.nature.com/articles/s41598-025-25091-4][Large-scale remote sensing model enables an integrated monitoring approach for high-resolution tracking pest vole populations]] #ImagenAerea #Adrián #Galicia
 
++ [[https://github.com/neuml/paperetl][neuml/paperetl: 📄 ⚙️ ETL processes for medical and scientific papers]] #Medicine
 ** Noviembre 2025
 
 + [[http://lse-sign.bcbl.eu/web-busqueda/][LSE-Sign]] #LSEAvatar
