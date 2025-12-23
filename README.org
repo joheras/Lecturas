@@ -2730,3 +2730,4 @@ Synthetic Data]] #LenguaSignos
 
 ** Diciembre 2025
 + [[https://qwen.ai/blog?id=qwen-image-layered][Qwen]] #ImageEdition
++ [[https://huggingface.co/learn/cookbook/function_calling_fine_tuning_llms_on_xlam][Fine-tuning LLMs for Function Calling with xLAM Dataset - Hugging Face Open-Source AI Cookbook]] #FunctionCalling #Júlia
