@@ -2721,3 +2721,8 @@ Synthetic Data]] #LenguaSignos
 + [[https://openreview.net/forum?id=Bygh9j09KX][ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness]] ~ R. Geirhos. #ImageClassification #Robustness
 + [[https://arxiv.org/abs/1902.07208][Transfusion: Understanding Transfer Learning for Medical Imaging]] ~ M. Raghu. #TransferLearning #MedicalImages 
 + [[https://arxiv.org/pdf/1811.08883.pdf][Rethinking ImageNet Pre-training]] ~ K. He. #TransferLearning #ObjectDetection 
+
+* Lecturas del aÃ±o 2025
+
+** Diciembre 2025
++ [[https://github.com/neuml/paperetl][neuml/paperetl: 📄 ⚙️ ETL processes for medical and scientific papers]] #Medicine #TextExtraction
