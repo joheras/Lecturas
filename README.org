@@ -120,6 +120,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://sophont.med/blog/medmarks#introduction][Medmarks v0.1, a new LLM benchmark suite of medical tasks]] #Medical #LLM #Benchmark
 + [[https://blog.google/technology/developers/t5gemma-2/][T5Gemma 2: The next generation of encoder-decoder models]] #Multimodal #Elena
 + [[https://docs.unsloth.ai/models/functiongemma][FunctionGemma: How to Run & Fine-tune | Unsloth Documentation]] #FunctionCalling #Júlia
++ [[https://apigen-pipeline.github.io/][APIGen Pipeline]] #FunctionCalling #Júlia #API
 ** Noviembre 2025
 
 + [[http://lse-sign.bcbl.eu/web-busqueda/][LSE-Sign]] #LSEAvatar
