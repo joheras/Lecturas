@@ -5,7 +5,7 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 
-- [[#lecturas-del-año-2025][Lecturas del año 2025]]
+- [[#lecturas-del-year-2025][Lecturas del year 2025]]
   - [[#diciembre-2025][Diciembre 2025]]
   - [[#noviembre-2025][Noviembre 2025]]
   - [[#octubre-2025][Octubre 2025]]
@@ -18,7 +18,7 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2025][Marzo 2025]]
   - [[#febrero-2025][Febrero 2025]]
   - [[#enero-2025][Enero 2025]]
-- [[#lecturas-del-año-2024][Lecturas del año 2024]]
+- [[#lecturas-del-year-2024][Lecturas del year 2024]]
   - [[#diciembre-2024][Diciembre 2024]]
   - [[#noviembre-2024][Noviembre 2024]]
   - [[#octubre-2024][Octubre 2024]]
@@ -31,7 +31,7 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2024][Marzo 2024]]
   - [[#febrero-2024][Febrero 2024]]
   - [[#enero-2024][Enero 2024]]
-- [[#lecturas-del-año-2023][Lecturas del año 2023]]
+- [[#lecturas-del-year-2023][Lecturas del year 2023]]
   - [[#diciembre-2023][Diciembre 2023]]
   - [[#noviembre-2023][Noviembre 2023]]
   - [[#octubre-2023][Octubre 2023]]
@@ -44,7 +44,7 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2023][Marzo 2023]]
   - [[#febrero-2023][Febrero 2023]]
   - [[#enero-2023][Enero 2023]]
-- [[#lecturas-del-año-2022][Lecturas del año 2022]]
+- [[#lecturas-del-year-2022][Lecturas del year 2022]]
   - [[#diciembre-2022][Diciembre 2022]]
   - [[#noviembre-2022][Noviembre 2022]]
   - [[#octubre-2022][Octubre 2022]]
@@ -57,7 +57,7 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2022][Marzo 2022]]
   - [[#febrero-2022][Febrero 2022]]
   - [[#enero-2022][Enero 2022]]
-- [[#lecturas-del-año-2021][Lecturas del año 2021]]
+- [[#lecturas-del-year-2021][Lecturas del year 2021]]
   - [[#diciembre-2021][Diciembre 2021]]
   - [[#noviembre-2021][Noviembre 2021]]
   - [[#octubre-2021][Octubre 2021]]
@@ -70,7 +70,7 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2021][Marzo 2021]]
   - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
-- [[#lecturas-del-año-2020][Lecturas del año 2020]]
+- [[#lecturas-del-year-2020][Lecturas del year 2020]]
   - [[#diciembre-2020][Diciembre 2020]]
   - [[#noviembre-2020][Noviembre 2020]]
   - [[#octubre-2020][Octubre 2020]]
@@ -83,14 +83,14 @@ Este repositorio es una recopilación de lecturas.
   - [[#marzo-2020][Marzo 2020]]
   - [[#febrero-2020][Febrero 2020]]
   - [[#enero-2020][Enero 2020]]
-- [[#lecturas-del-año-2019][Lecturas del año 2019]]
+- [[#lecturas-del-year-2019][Lecturas del year 2019]]
   - [[#diciembre-2019][Diciembre 2019]]
   - [[#noviembre-2019][Noviembre 2019]]
   - [[#octubre-2019][Octubre 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
 
 
-* Lecturas del año 2025
+* Lecturas del year 2025
 
 ** Diciembre 2025
 
@@ -260,7 +260,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://techcommunity.microsoft.com/blog/azure]]-ai-foundry-blog/evaluating-fine-tuned-models-for-function-calling-beyond-input-output-metrics/4363864][Evaluating Fine-]]Tuned Models for Function-Calling: Beyond Input-Output Metrics]] #Júlia #Evaluation #functioncalling
 + [[https://huggingface.co/blog/welcome-openai-gpt-oss][Welcome GPT OSS, the new open-source model family from OpenAI!]] #Pablo
 + [[https://huggingface.co/blog/aisheets][Introducing AI Sheets: a tool to work with datasets using open AI models!]] #Pablo #Júlia
-+ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua española: revisión crítica de métricas y propuesta de nuevas variables]]] #lecturabilidad #Mirari 
++ [[https://rua.ua.es/server/api/core/bitstreams/a0f28316-a02f-4335-a765-a162a1364c3f/content][La lecturabilidad de textos escritos en lengua espyearla: revisión crítica de métricas y propuesta de nuevas variables]]] #lecturabilidad #Mirari 
 
 ** Julio 2025
 
@@ -307,7 +307,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/papers/2506.09513][ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning]] #Chistera #Dataset #Medicine
 + [[https://mistral.ai/news/magistral][Stands to reason. Magistral]] #Chistera #Multilingual #Reasoning
 + [[https://arxiv.org/abs/2501.03200][The FACTS Grounding Leaderboard: Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input]] #Júlia #Factuality
-+ [[https://riuma.uma.es/xmlui/bitstream/handle/10630/37603/Ana%CC%81lisis%20de%20sentimiento%20del%20espan%CC%83ol%20basado%20en%20corpus%20%282%29.pdf?sequence=6&isAllowed=y][Análisis de sentimiento del español basado en corpus]] #AnalisisSentimientos #MasterNLP
++ [[https://riuma.uma.es/xmlui/bitstream/handle/10630/37603/Ana%CC%81lisis%20de%20sentimiento%20del%20espan%CC%83ol%20basado%20en%20corpus%20%282%29.pdf?sequence=6&isAllowed=y][Análisis de sentimiento del espyearl basado en corpus]] #AnalisisSentimientos #MasterNLP
 + [[https://arxiv.org/abs/2505.24478][Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning]] #GraphRAG #Pablo
 
 ** Mayo 2025
@@ -432,7 +432,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ai-art-newsletter-jan-25][The AI tools for Art Newsletter]] #ImageGeneration #VideoGeneration #AudioGeneration
 + [[http://mt-class.org/jhu/syllabus.html][Machine Translation]] #TraduccionAutomatica #Clases
 + [[https://arxiv.org/abs/2501.18362][MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding]] #Chistera #Dataset
-+ [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al español con fines prácticos y recursos limitados]] #LLMs #RigoChat
++ [[https://www.iic.uam.es/noticias/rigochat-v2-adaptando-llms-al-espanol-con-fines-practicos-y-recursos-limitados/][RigoChat-v2: adaptando LLMs al espyearl con fines prácticos y recursos limitados]] #LLMs #RigoChat
 + [[https://huggingface.co/blog/open-r1/update-1][Open-R1: Update #1]] #DeepSeek
 + [[https://arxiv.org/abs/2409.06790][Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts]] #TraduccionAutomatica #Chistera
 
@@ -699,7 +699,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://link.springer.com/article/10.1007/s13748-024-00326-z#Sec11][Advanced deep learning and large language models for suicide ideation detection on social media]] #SuicideIdeation #PrevenIA #Pablo
 + [[https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf][What Goes Around Comes Around... And Around...]] #Databases
 + [[https://huggingface.co/spaces/KwaiVGI/LivePortrait][LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control]] #LSEAvatar #CopiaExpresiones 
-+ [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Española en redes informáticas]] #LSEAvatar #TecnologiasAccesibles
++ [[http://www.sidar.org/ponencias/2007/egyrs/une139804/][Requisitos para el uso de la Lengua de Signos Espyearla en redes informáticas]] #LSEAvatar #TecnologiasAccesibles
 + [[https://www.rpdiscapacidad.gob.es/actualidad/noticias/0-504.htm][guías para elaborar materiales educativos accesibles]] #TecnologiasAccesibles
 + [[https://www.rpdiscapacidad.gob.es/estudios-publicaciones/2024_GuiaVideo.htm][Guía 6. Vídeos accesibles con subtitulado, audiodescripción y lengua de signos]] #LSEAvatar #TecnologiasAccesibles
 + [[https://x.com/akshay_pachaar/status/1808840963961598311][Faster RAG]] #RAG #Pablo
@@ -744,7 +744,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.accessible-social.com/][Accessible Social]] #Accesibilidad #Mirari
 + [[https://huggingface.co/blog/danaaubakirova/doc-augmentation][Multimodal Augmentation for Documents: Recovering “Comprehension” in “Reading and Comprehension” task]] #DocumentAnalysis
 + [[https://huggingface.co/blog/paligemma][PaliGemma – Google's Cutting-Edge Open Vision Language Model]] #Vision
-+ [[https://glosario.pikaramagazine.com/inicio.php?lg=es&sec=inicio][Glosario Lengua de Signos Española]] #LSE #Mirari #LecturaFacil
++ [[https://glosario.pikaramagazine.com/inicio.php?lg=es&sec=inicio][Glosario Lengua de Signos Espyearla]] #LSE #Mirari #LecturaFacil
 + [[https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B][Meta Llama Guard 2]] #Pablo #Guards
 + [[https://twitter.com/__kolesnikov__/status/1790464234330972239][Finetune PaliGemma]] #Vision #ImageCaptioning #PlenaInclusion #Mirari
 + [[https://github.com/huggingface/diarizers][Diarizers]] #Diarization #Mirari #Sara
@@ -1095,7 +1095,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/][Evaluating RAG pipelines with Ragas + LangSmith]] #QuestionAnswering #ProyectoIA #PrevenIA
 + [[https://huggingface.co/blog/idefics][OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents]] #MultiModal #ProyectoIA
 + [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808557?utm_source=substack&utm_medium=email][Comparison of Ophthalmologist and Large Language Model Chatbot Responses to Online Patient Eye Care Questions]] #ProyectoIA
-+ [[https://clibrain.com/blog/llama-2-13b-pr?utm_source=twitter&utm_medium=feed&utm_campaign=llama-2-13b][Adaptación de Llama 2 13B de Meta para un mejor rendimiento en español]] #LLMs #PrevenIA
++ [[https://clibrain.com/blog/llama-2-13b-pr?utm_source=twitter&utm_medium=feed&utm_campaign=llama-2-13b][Adaptación de Llama 2 13B de Meta para un mejor rendimiento en espyearl]] #LLMs #PrevenIA
 + [[https://huyenchip.com/2023/08/16/llm-research-open-challenges.html][Open challenges in LLM research]] #LLMs
 + [[https://twitter.com/DotCSV/status/1691770359681294638?s=20][WhisperX]] #Speech2Text #Mirari
 + [[https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/][Large Language Models with Semantic Search]] #SemanticSearch #PrevenIA #Course
@@ -1331,7 +1331,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://huggingface.co/tasks/conversational][Conversational]] #chatbots #prevenia
 + [[https://vkrakovna.wordpress.com/2022/06/02/paradigms-of-ai-alignment-components-and-enablers/][Paradigms of AI alignment]] #Alignment
 
-* Lecturas del año 2022
+* Lecturas del year 2022
 
 ** Diciembre 2022
 
@@ -1544,7 +1544,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6][Neural Sheaf Diffusion for deep learning on graphs]] #GNNs #Topology
 + [[https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf][A Generalist Agent]] #MultiModal
 + [[https://arxiv.org/pdf/2006.06676.pdf][Training Generative Adversarial Networks with Limited Data]] #GANs #Retina [[https://github.com/NVlabs/stylegan2-ada-pytorch][Code]]
-+ [[https://twitter.com/SomosNLP_/status/1525165918594158595][Hackaton NLP]] #NLP #Español #MasterArista
++ [[https://twitter.com/SomosNLP_/status/1525165918594158595][Hackaton NLP]] #NLP #Espyearl #MasterArista
 
 ** Abril 2022
 
@@ -1584,7 +1584,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://www.nih.gov/news-events/news-releases/attention-objects-peripheral-vision-not-driven-tiny-eye-movements][Attention to objects in peripheral vision is not driven by tiny eye movements]] #Vision
 + [[https://youtu.be/344w5h24-h8][Diffusion models explained. How does OpenAI's GLIDE work?]] #DifussionModels
 + [[https://www.youtube.com/watch?v=UQwWTykNFW0][MUESTREO DE DATOS: MUESTREO BASADO EN PERPLEJIDAD]] #NLP
-+ [[https://www.youtube.com/watch?v=U8fig2fqrl8][Traducción Automática con Eva Martínez Garcia - Hackathon de NLP en Español]] #TraduccionAutomatica #MasterArista #NLP
++ [[https://www.youtube.com/watch?v=U8fig2fqrl8][Traducción Automática con Eva Martínez Garcia - Hackathon de NLP en Espyearl]] #TraduccionAutomatica #MasterArista #NLP
 + [[https://www.marekrei.com/blog/mphil-project-advice/][Advice for students doing research projects in ML/NLP]] #MLProjects
 + [[https://nlp-ensae.github.io/][NLP Course]] #NLP #MasterArista
 + [[https://snap.stanford.edu/graphlearning-workshop/][Stanford Graph Learning Workshop]] #GraphNeuralNetworks
@@ -1669,7 +1669,7 @@ Synthetic Data]] #LenguaSignos
 + [[http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html][Training Machine Learning Models More Efficiently with Dataset Distillation]] #DatasetDistillation  #Sevilla 
 + [[https://www.nature.com/articles/nature10836][The case for open code]] #OpenScience
  
-* Lecturas del año 2021
+* Lecturas del year 2021
 
 ** Diciembre 2021
 
@@ -1951,7 +1951,7 @@ Synthetic Data]] #LenguaSignos
 + [[https://d1.awsstatic.com/whitepapers/mlops-continuous-delivery-machine-learning-on-aws.pdf?did=wp_card][MLOps: Continuous Delivery forMachine Learning on AWS]] #MLOPs
 + [[https://arxiv.org/pdf/2012.14163v1.pdf][Multiple Document Datasets Pre-training ImprovesText Line Detection With Deep Neural Networks]] #Athento #DocumentAnalysis #HistoricalDocuments
 
-* Lecturas del año 2020
+* Lecturas del year 2020
 
 ** Diciembre 2020
 
@@ -2721,8 +2721,3 @@ Synthetic Data]] #LenguaSignos
 + [[https://openreview.net/forum?id=Bygh9j09KX][ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness]] ~ R. Geirhos. #ImageClassification #Robustness
 + [[https://arxiv.org/abs/1902.07208][Transfusion: Understanding Transfer Learning for Medical Imaging]] ~ M. Raghu. #TransferLearning #MedicalImages 
 + [[https://arxiv.org/pdf/1811.08883.pdf][Rethinking ImageNet Pre-training]] ~ K. He. #TransferLearning #ObjectDetection 
-
-* Lecturas del aÃ±o 2025
-
-** Diciembre 2025
-+ [[https://github.com/neuml/paperetl][neuml/paperetl: 📄 ⚙️ ETL processes for medical and scientific papers]] #Medicine
