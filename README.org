@@ -94,7 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
-+ [https://huggingface.co/blog/neuml/biomedbert-hash-nano](Encoding the World's Medical Knowledge into 970K) #Embedding #Medical
++ [[https://huggingface.co/blog/neuml/biomedbert-hash-nano]][Encoding the World's Medical Knowledge into 970K] #Embedding #Medical
 + [[https://blog.roboflow.com/rf-detr/][RF-DETR: A SOTA Real-Time Object Detection Model]] #ObjectDetection
 + [[https://sihanxu.me/nepa/][Next-Embedding Prediction Makes Strong Vision Learners]] #pretraining #optretina
 + [[Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior][Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior]] #Interpretability #LLMs
