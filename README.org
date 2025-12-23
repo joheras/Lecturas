@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://blog.roboflow.com/rf-detr/][RF-DETR: A SOTA Real-Time Object Detection Model]] #ObjectDetection
 + [[https://sihanxu.me/nepa/][Next-Embedding Prediction Makes Strong Vision Learners]] #pretraining #optretina
 + [[Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior][Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior]] #Interpretability #LLMs
 + [[https://hms.harvard.edu/news/researchers-discover-bias-ai-models-analyze-pathology-samples][Researchers Discover Bias in AI Models That Analyze Pathology Samples]] #Pathology #Bruno #Bias
