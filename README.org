@@ -94,6 +94,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Diciembre 2025
 
++ [[https://paulabartabajo.substack.com/p/fine-tuning-lfm2-350m-for-browser][Fine-tuning a Small Language Model for browser control with GRPO and OpenEnv]] #ReinforcementLearning
 + [[https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course][Agentic AI Crash Course]] #Agents
 + [[https://arxiv.org/abs/2505.08414][An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care]] #elena #optretina
 + [[https://huggingface.co/blog/ServiceNow-AI/aprielguard][AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems]] #Pablo #GuardRails
