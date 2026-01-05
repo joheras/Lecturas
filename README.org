@@ -94,7 +94,7 @@ Este repositorio es una recopilación de lecturas.
 ** Enero 2026
 
 + [[https://magazine.sebastianraschka.com/p/state-of-llms-2025][The State Of LLMs 2025: Progress, Problems, and Predictions]] #LLMs
-
++ [[https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?st=9WhyNw&reflink=desktopwebshare_permalink][AI Chatbots Linked to Psychosis, Say Doctors]] #Pablo #PrevenIA
 
 * Lecturas del year 2025
 
