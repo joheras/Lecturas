@@ -89,6 +89,12 @@ Este repositorio es una recopilación de lecturas.
   - [[#octubre-2019][Octubre 2019]]
   - [[#septiembre-2019][Septiembre 2019]]
 
+* Lecturs del year 2026
+
+** Enero 2026
+
++ [[https://magazine.sebastianraschka.com/p/state-of-llms-2025][The State Of LLMs 2025: Progress, Problems, and Predictions]] #LLMs
+
 
 * Lecturas del year 2025
 
