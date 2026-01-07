@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del year 2025
 + [[https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html][Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University]] #Databases
 + [[https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b][Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models]] #MultiModalRetrieval #Pablo
++ [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #Evaluation
 ** Diciembre 2025
 
 + [[https://huggingface.co/papers/2512.20182][FaithLens: Detecting and Explaining Faithfulness Hallucination]] #Hallucinations #Pablo
