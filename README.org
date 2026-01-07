@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 
 
 
++ [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #test
 * Lecturas del year 2025
 ** Diciembre 2025
 
