@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del year 2025
++ [[https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html][Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University]] #Databases
 ** Diciembre 2025
 
 + [[https://huggingface.co/papers/2512.20182][FaithLens: Detecting and Explaining Faithfulness Hallucination]] #Hallucinations #Pablo
