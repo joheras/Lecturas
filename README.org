@@ -5,89 +5,6 @@ Este repositorio es una recopilación de lecturas.
 
 * Contenido :TOC:
 
-- [[#lecturas-del-year-2025][Lecturas del year 2025]]
-  - [[#diciembre-2025][Diciembre 2025]]
-  - [[#noviembre-2025][Noviembre 2025]]
-  - [[#octubre-2025][Octubre 2025]]
-  - [[#septiembre-2025][Septiembre 2025]]
-  - [[#agosto-2025][Agosto 2025]]
-  - [[#julio-2025][Julio 2025]]
-  - [[#junio-2025][Junio 2025]]
-  - [[#mayo-2025][Mayo 2025]]
-  - [[#abril-2025][Abril 2025]]
-  - [[#marzo-2025][Marzo 2025]]
-  - [[#febrero-2025][Febrero 2025]]
-  - [[#enero-2025][Enero 2025]]
-- [[#lecturas-del-year-2024][Lecturas del year 2024]]
-  - [[#diciembre-2024][Diciembre 2024]]
-  - [[#noviembre-2024][Noviembre 2024]]
-  - [[#octubre-2024][Octubre 2024]]
-  - [[#septiembre-2024][Septiembre 2024]]
-  - [[#agosto-2024][Agosto 2024]]
-  - [[#julio-2024][Julio 2024]]
-  - [[#junio-2024][Junio 2024]]
-  - [[#mayo-2024][Mayo 2024]]
-  - [[#abril-2024][Abril 2024]]
-  - [[#marzo-2024][Marzo 2024]]
-  - [[#febrero-2024][Febrero 2024]]
-  - [[#enero-2024][Enero 2024]]
-- [[#lecturas-del-year-2023][Lecturas del year 2023]]
-  - [[#diciembre-2023][Diciembre 2023]]
-  - [[#noviembre-2023][Noviembre 2023]]
-  - [[#octubre-2023][Octubre 2023]]
-  - [[#septiembre-2023][Septiembre 2023]]
-  - [[#agosto-2023][Agosto 2023]]
-  - [[#julio-2023][Julio 2023]]
-  - [[#junio-2023][Junio 2023]]
-  - [[#mayo-2023][Mayo 2023]]
-  - [[#abril-2023][Abril 2023]]
-  - [[#marzo-2023][Marzo 2023]]
-  - [[#febrero-2023][Febrero 2023]]
-  - [[#enero-2023][Enero 2023]]
-- [[#lecturas-del-year-2022][Lecturas del year 2022]]
-  - [[#diciembre-2022][Diciembre 2022]]
-  - [[#noviembre-2022][Noviembre 2022]]
-  - [[#octubre-2022][Octubre 2022]]
-  - [[#septiembre-2022][Septiembre 2022]]
-  - [[#agosto-2022][Agosto 2022]]
-  - [[#julio-2022][Julio 2022]]
-  - [[#junio-2022][Junio 2022]]
-  - [[#mayo-2022][Mayo 2022]]
-  - [[#abril-2022][Abril 2022]]
-  - [[#marzo-2022][Marzo 2022]]
-  - [[#febrero-2022][Febrero 2022]]
-  - [[#enero-2022][Enero 2022]]
-- [[#lecturas-del-year-2021][Lecturas del year 2021]]
-  - [[#diciembre-2021][Diciembre 2021]]
-  - [[#noviembre-2021][Noviembre 2021]]
-  - [[#octubre-2021][Octubre 2021]]
-  - [[#septiembre-2021][Septiembre 2021]]
-  - [[#agosto-2021][Agosto 2021]]
-  - [[#julio-2021][Julio 2021]]
-  - [[#junio-2021][Junio 2021]]
-  - [[#mayo-2021][Mayo 2021]]
-  - [[#abril-2021][Abril 2021]]
-  - [[#marzo-2021][Marzo 2021]]
-  - [[#febrero-2021][Febrero 2021]]
-  - [[#enero-2021][Enero 2021]]
-- [[#lecturas-del-year-2020][Lecturas del year 2020]]
-  - [[#diciembre-2020][Diciembre 2020]]
-  - [[#noviembre-2020][Noviembre 2020]]
-  - [[#octubre-2020][Octubre 2020]]
-  - [[#septiembre-2020][Septiembre 2020]]
-  - [[#agosto-2020][Agosto 2020]]
-  - [[#julio-2020][Julio 2020]]
-  - [[#junio-2020][Junio 2020]]
-  - [[#mayo-2020][Mayo 2020]]
-  - [[#abril-2020][Abril 2020]]
-  - [[#marzo-2020][Marzo 2020]]
-  - [[#febrero-2020][Febrero 2020]]
-  - [[#enero-2020][Enero 2020]]
-- [[#lecturas-del-year-2019][Lecturas del year 2019]]
-  - [[#diciembre-2019][Diciembre 2019]]
-  - [[#noviembre-2019][Noviembre 2019]]
-  - [[#octubre-2019][Octubre 2019]]
-  - [[#septiembre-2019][Septiembre 2019]]
 
 * Lecturas del year 2026
 
@@ -95,10 +12,11 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://magazine.sebastianraschka.com/p/state-of-llms-2025][The State Of LLMs 2025: Progress, Problems, and Predictions]] #LLMs
 + [[https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?st=9WhyNw&reflink=desktopwebshare_permalink][AI Chatbots Linked to Psychosis, Say Doctors]] #Pablo #PrevenIA
++ [[https://airisk.mit.edu/][The MIT AI Risk Repository]] #CIAIS
+
+
 
 * Lecturas del year 2025
-
-+ [[https://airisk.mit.edu/][The MIT AI Risk Repository]] #CIAIS
 ** Diciembre 2025
 
 + [[https://huggingface.co/papers/2512.20182][FaithLens: Detecting and Explaining Faithfulness Hallucination]] #Hallucinations #Pablo
