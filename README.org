@@ -13,13 +13,14 @@ Este repositorio es una recopilación de lecturas.
 + [[https://magazine.sebastianraschka.com/p/state-of-llms-2025][The State Of LLMs 2025: Progress, Problems, and Predictions]] #LLMs
 + [[https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?st=9WhyNw&reflink=desktopwebshare_permalink][AI Chatbots Linked to Psychosis, Say Doctors]] #Pablo #PrevenIA
 + [[https://airisk.mit.edu/][The MIT AI Risk Repository]] #CIAIS
-
-
-
-* Lecturas del year 2025
 + [[https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html][Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University]] #Databases
 + [[https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b][Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models]] #MultiModalRetrieval #Pablo
 + [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #Evaluation
+
+
+
+**
+* Lecturas del year 2025
 ** Diciembre 2025
 
 + [[https://huggingface.co/papers/2512.20182][FaithLens: Detecting and Explaining Faithfulness Hallucination]] #Hallucinations #Pablo
