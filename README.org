@@ -17,10 +17,6 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b][Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models]] #MultiModalRetrieval #Pablo
 + [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #Evaluation
 
-
-
-
-+ [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #test
 * Lecturas del year 2025
 ** Diciembre 2025
 
