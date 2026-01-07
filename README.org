@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 
 
 * Lecturas del year 2025
++ [[https://airisk.mit.edu/][The MIT AI Risk Repository]] #CIAIS
 ** Diciembre 2025
 
 + [[https://huggingface.co/papers/2512.20182][FaithLens: Detecting and Explaining Faithfulness Hallucination]] #Hallucinations #Pablo
