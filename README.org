@@ -18,7 +18,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=720146][Evals Flashcards – Hamel’s Blog - Hamel Husain]] #Evaluation
 
 + [[https://github.com/galilai-group/lejepa?tab=readme-ov-file][galilai-group/lejepa]] #SelfSupervisedLearning #David #OPTRetina
-+ [[https://arxiv.org/abs/2506.08276][[2506.08276] LEANN: A Low-Storage Vector Index]] #VectorDatabase #Pablo #PrevenIA
++ [[https://arxiv.org/abs/2506.08276][LEANN: A Low-Storage Vector Index]] #VectorDatabase #Pablo #PrevenIA
 * Lecturas del year 2025
 ** Diciembre 2025
 
