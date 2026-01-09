@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://github.com/galilai-group/lejepa?tab=readme-ov-file][galilai-group/lejepa]] #SelfSupervisedLearning #David #OPTRetina
 + [[https://arxiv.org/abs/2506.08276][LEANN: A Low-Storage Vector Index]] #VectorDatabase #Pablo #PrevenIA
++ [[https://ltx.io/model][Multimodal Model For Generative Creation | LTX Model]] #VideoGeneration
 * Lecturas del year 2025
 ** Diciembre 2025
 
