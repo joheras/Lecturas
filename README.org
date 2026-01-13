@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://futureofwork.saltlab.stanford.edu/][Future of Work with AI Agents]] #HumanAgentCollaboration
 + [[https://qwen.ai/blog?id=qwen3-vl-embedding][Qwen]] #MultiModalRetrieval #Reranking #BBVA
 + [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/grpo_trl_lora_qlora.ipynb][grpo_trl_lora_qlora.ipynb - Colab]] #GRPO #Reasoning #ReinforcementLearning
++ [[https://huggingface.co/Supertone/supertonic-2][Supertone/supertonic-2 · Hugging Face]] #TTS #BBVA
 * Lecturas del year 2025
 ** Diciembre 2025
 
