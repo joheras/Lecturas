@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://colab.research.google.com/github/huggingface/trl/blob/main/examples/notebooks/grpo_trl_lora_qlora.ipynb][grpo_trl_lora_qlora.ipynb - Colab]] #GRPO #Reasoning #ReinforcementLearning
 + [[https://huggingface.co/Supertone/supertonic-2][Supertone/supertonic-2 · Hugging Face]] #TTS #BBVA
 + [[https://lemas-project.github.io/LEMAS-Project/][LEMAS Project Page]] #TTS #BBVA
++ [[https://docs.ultralytics.com/models/yolo26/][Ultralytics YOLO26 - Ultralytics YOLO Docs]] #ObjectDetection #Joaquin #OpenEndedObjectDetection
 * Lecturas del year 2025
 ** Diciembre 2025
 
