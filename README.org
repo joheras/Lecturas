@@ -29,6 +29,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/][Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR]] #Elena #BBVA #David #OPTRetina #Audio
 + [[https://hunspell.github.io/][Hunspell: About]] #SpellChecking #CienciaEnClaro #Mirari
 + [[https://arxiv.org/abs/2601.08620][2601.08620 ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios]] #Júlia #RAG #Dataset
++ [[https://github.com/NVIDIA-NeMo/DataDesigner][NVIDIA-NeMo/DataDesigner: 🎨 NeMo Data Designer: A general library for generating high-quality synthetic data from scratch or based on seed data.]] #Júlia #SyntheticData
 * Lecturas del year 2025
 ** Diciembre 2025
 
