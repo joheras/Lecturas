@@ -30,10 +30,9 @@ Este repositorio es una recopilación de lecturas.
 + [[https://hunspell.github.io/][Hunspell: About]] #SpellChecking #CienciaEnClaro #Mirari
 + [[https://arxiv.org/abs/2601.08620][2601.08620 ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios]] #Júlia #RAG #Dataset
 + [[https://github.com/NVIDIA-NeMo/DataDesigner][NVIDIA-NeMo/DataDesigner: 🎨 NeMo Data Designer: A general library for generating high-quality synthetic data from scratch or based on seed data.]] #Júlia #SyntheticData
-
-+ [[https://arxiv.org/abs/2512.15921][[2512.15921] In search of truth: Evaluating concordance of AI-based anatomy segmentation models]] #Segmentation #Joaquin
-+ [[https://arxiv.org/abs/2509.20354][[2509.20354] EmbeddingGemma: Powerful and Lightweight Text Representations]] #Embedding #Multilingual #BBVA
-+ [[https://arxiv.org/abs/2509.01092][[2509.01092] REFRAG: Rethinking RAG based Decoding]] #RAG
++ [[https://arxiv.org/abs/2512.15921][In search of truth: Evaluating concordance of AI-based anatomy segmentation models]] #Segmentation #Joaquin
++ [[https://arxiv.org/abs/2509.20354][EmbeddingGemma: Powerful and Lightweight Text Representations]] #Embedding #Multilingual #BBVA
++ [[https://arxiv.org/abs/2509.01092][REFRAG: Rethinking RAG based Decoding]] #RAG
 * Lecturas del year 2025
 ** Diciembre 2025
 
