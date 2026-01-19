@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2512.15921][In search of truth: Evaluating concordance of AI-based anatomy segmentation models]] #Segmentation #Joaquin
 + [[https://arxiv.org/abs/2509.20354][EmbeddingGemma: Powerful and Lightweight Text Representations]] #Embedding #Multilingual #BBVA
 + [[https://arxiv.org/abs/2509.01092][REFRAG: Rethinking RAG based Decoding]] #RAG
++ [[https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/][TranslateGemma: A new family of open translation models]] #Traducción #BBVA
 * Lecturas del year 2025
 ** Diciembre 2025
 
