@@ -36,6 +36,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/][TranslateGemma: A new family of open translation models]] #Traducción #BBVA
 + [[https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/][A Guide to Fine-Tuning FunctionGemma - Google Developers Blog]] #Júlia #FunctionCalling
 + [[https://arxiv.org/abs/2409.08107][[2409.08107] WhisperNER: Unified Open Named Entity and Speech Recognition]] #Anonimization
++ [[https://dl.acm.org/doi/abs/10.1145/3769102.3770609][Safeguarding Privacy in Edge Speech Understanding with Tiny Foundation Models | Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing]] #Anonimization
 * Lecturas del year 2025
 ** Diciembre 2025
 
