@@ -35,6 +35,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2509.01092][REFRAG: Rethinking RAG based Decoding]] #RAG
 + [[https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/][TranslateGemma: A new family of open translation models]] #Traducción #BBVA
 + [[https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/][A Guide to Fine-Tuning FunctionGemma - Google Developers Blog]] #Júlia #FunctionCalling
++ [[https://arxiv.org/abs/2409.08107][[2409.08107] WhisperNER: Unified Open Named Entity and Speech Recognition]] #Anonimization
 * Lecturas del year 2025
 ** Diciembre 2025
 
