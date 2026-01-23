@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://ieeexplore.ieee.org/abstract/document/11005306][AudioCensorNet: A multilingual audio censoring model based on whisper for generating censored video | IEEE Conference Publication | IEEE Xplore]] #Anonimisation
 + [[https://aclanthology.org/N19-2025/][Audio De-identification - a New Entity Recognition Task - ACL Anthology]] #Anonimization
 + [[https://github.com/microsoft/VibeVoice/tree/main][microsoft/VibeVoice: Open-Source Frontier Voice AI]] #ASR #TTS
++ [[https://qwen.ai/blog?id=qwen3tts-0115][Qwen]] #TTS
 * Lecturas del year 2025
 ** Diciembre 2025
 
