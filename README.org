@@ -41,6 +41,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://aclanthology.org/N19-2025/][Audio De-identification - a New Entity Recognition Task - ACL Anthology]] #Anonimization
 + [[https://github.com/microsoft/VibeVoice/tree/main][microsoft/VibeVoice: Open-Source Frontier Voice AI]] #ASR #TTS
 + [[https://qwen.ai/blog?id=qwen3tts-0115][Qwen]] #TTS
++ [[https://medsam2.github.io/][MedSAM2: Segment Anything in 3D Medical Images and Videos]] #Segmentation #Joaquin
 * Lecturas del year 2025
 ** Diciembre 2025
 
