@@ -38,6 +38,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2409.08107][[2409.08107] WhisperNER: Unified Open Named Entity and Speech Recognition]] #Anonimization
 + [[https://dl.acm.org/doi/abs/10.1145/3769102.3770609][Safeguarding Privacy in Edge Speech Understanding with Tiny Foundation Models | Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing]] #Anonimization
 + [[https://ieeexplore.ieee.org/abstract/document/11005306][AudioCensorNet: A multilingual audio censoring model based on whisper for generating censored video | IEEE Conference Publication | IEEE Xplore]] #Anonimisation
++ [[https://aclanthology.org/N19-2025/][Audio De-identification - a New Entity Recognition Task - ACL Anthology]] #Anonimization
 * Lecturas del year 2025
 ** Diciembre 2025
 
