@@ -43,6 +43,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://qwen.ai/blog?id=qwen3tts-0115][Qwen]] #TTS
 + [[https://medsam2.github.io/][MedSAM2: Segment Anything in 3D Medical Images and Videos]] #Segmentation #Joaquin
 + [[https://huggingface.co/papers/2601.10880?utm_source=digest-papers&utm_medium=email&utm_campaign=2026-01-20][Paper page - Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation]] #Segmentation #Joaquin
++ [[https://aclanthology.org/2025.bionlp-1.28/][Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models - ACL Anthology]] #DataGeneration #Anonimization #NER
 * Lecturas del year 2025
 ** Diciembre 2025
 
