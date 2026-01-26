@@ -46,6 +46,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://aclanthology.org/2025.bionlp-1.28/][Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models - ACL Anthology]] #DataGeneration #Anonimization #NER
 + [[https://www.protecto.ai/blog/best-ner-models-for-pii-identification/][Comparing Best NER Models For PII Identification]] #Anonimization
 + [[https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/][Introducing GIST: The Next Stage in Smart Sampling | Google Research]] #Joaquin #DataSelection
++ [[https://github.com/aiming-lab/SimpleMem][aiming-lab/SimpleMem: SimpleMem: Efficient Lifelong Memory for LLM Agents]] #Pablo #Memory
 * Lecturas del year 2025
 ** Diciembre 2025
 
