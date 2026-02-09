@@ -49,6 +49,9 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/aiming-lab/SimpleMem][aiming-lab/SimpleMem: SimpleMem: Efficient Lifelong Memory for LLM Agents]] #Pablo #Memory
 + [[https://arxiv.org/html/2502.17513v2][Int2Int: a framework for mathematics with transformers]] #RepresentationLearning
 + [[https://huggingface.co/blog/lightonai/lightonocr-2][LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family]] #OCR
+
+** Febrero 2026
++ [[https://huggingface.co/blog/nvidia/nemotron-colembed-v2][Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model]] #Embedding #VisualRAG
 * Lecturas del year 2025
 ** Diciembre 2025
 
