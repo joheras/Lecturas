@@ -52,6 +52,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Febrero 2026
 + [[https://huggingface.co/blog/nvidia/nemotron-colembed-v2][Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model]] #Embedding #VisualRAG
++ [[https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/][How AI tools can redefine universal design to increase accessibility]] #Accesibilidad
 * Lecturas del year 2025
 ** Diciembre 2025
 
