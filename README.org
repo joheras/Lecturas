@@ -57,6 +57,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2026
 + [[https://encyclopediaworld.github.io/howaiworks/index.html][How AI Works — An Interactive History]] #IA
++ [[https://huggingface.co/OpenMed/OpenMed-PII-Spanish-SnowflakeMed-Large-568M-v1][OpenMed/OpenMed-PII-Spanish-SnowflakeMed-Large-568M-v1 · Hugging Face]] #Anonimisation
 * Lecturas del year 2025
 ** Diciembre 2025
 
