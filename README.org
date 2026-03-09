@@ -9,6 +9,7 @@ Este repositorio es una recopilación de lecturas.
 * Lecturas del year 2026
 
 ** Marzo 2026
++ [[https://huggingface.co/Cannae-AI/MedicalLlama3.2-vision-11B-IT][MedicalLlama3.2-11B-IT]] #Elena #MLLM
 + [[https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/][Where wild things roam: Identifying wildlife with SpeciesNet]] #WildLife #ObjectDetection
 + [[https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/][How AI trained on birds is surfacing underwater mysteries]] #TransferLearning #Audio #Embeddings
 + [[https://encyclopediaworld.github.io/howaiworks/index.html][How AI Works — An Interactive History]] #IA
