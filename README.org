@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.kaggle.com/writeups/cdeotte/xgboost-tips-and-tricks][XGBoost Tips and Tricks | Kaggle]] #XGBOOST #IA
 + [[https://huggingface.co/blog/moe-transformers][Mixture of Experts (MoEs) in Transformers]] #MOE
 + [[https://huggingface.co/blog/Photoroom/prx-part3][PRX Part 3 — Training a Text-to-Image Model in 24h!]] #TextToImage
++ [[https://arxiv.org/abs/2603.06578v1][[2603.06578v1] Multimodal Large Language Models as Image Classifiers]] #MLLM #Elena
 
 
 ** Febrero 2026
