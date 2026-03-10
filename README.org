@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/teaching-ai-to-read-a-map/][Teaching AI to read a map]] #MLLM
 + [[https://www.kaggle.com/writeups/cdeotte/xgboost-tips-and-tricks][XGBoost Tips and Tricks | Kaggle]] #XGBOOST #IA
 + [[https://huggingface.co/blog/moe-transformers][Mixture of Experts (MoEs) in Transformers]] #MOE
++ [[https://huggingface.co/blog/Photoroom/prx-part3][PRX Part 3 — Training a Text-to-Image Model in 24h!]] #TextToImage
 
 
 ** Febrero 2026
