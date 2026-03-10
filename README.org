@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/OpenMed/OpenMed-PII-Spanish-SnowflakeMed-Large-568M-v1][OpenMed/OpenMed-PII-Spanish-SnowflakeMed-Large-568M-v1 · Hugging Face]] #Anonimisation
 + [[https://research.google/blog/teaching-ai-to-read-a-map/][Teaching AI to read a map]] #MLLM
 + [[https://www.kaggle.com/writeups/cdeotte/xgboost-tips-and-tricks][XGBoost Tips and Tricks | Kaggle]] #XGBOOST #IA
++ [[https://huggingface.co/blog/moe-transformers][Mixture of Experts (MoEs) in Transformers]] #MOE
 
 
 ** Febrero 2026
