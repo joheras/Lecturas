@@ -10,6 +10,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2026
 
++ [[https://huggingface.co/blog/ibm-granite/granite-4-speech][Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge]] #ASR
 + [[https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval][Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline]] #Retrival #Agents
 + [[https://www.draeger.com/Content/Documents/Content/ECRI-Top-10-Health-Technology-Hazards-for-2026-Executive-Brief.pdf][Top 10 Health Technology Hazards for 2026]] #Pablo #BBVA
 + [[https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical?utm_source=alphasignal&utm_campaign=2026-03-11&lid=UdTMmoi9N45XuDKw][Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members]] #Pablo #Health
