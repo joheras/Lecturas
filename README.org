@@ -10,6 +10,7 @@ Este repositorio es una recopilación de lecturas.
 
 ** Marzo 2026
 
++ [[https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical?utm_source=alphasignal&utm_campaign=2026-03-11&lid=UdTMmoi9N45XuDKw][Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members]] #Pablo #Health
 + [[https://arxiv.org/abs/2009.10625][Curriculum Learning with Diversity for Supervised Computer Vision Tasks]] #CurriculumLearning #Joaquin
 + [[https://ctxt.es/es/20260201/Culturas/52080/inteligencia-artificial-jose-l-aznarte-generativo-matematicas-alucinaciones-el-ministerio-turing.htm?utm_campaign=lecturas-9-de-febrero&utm_medium=email&utm_source=acumbamail][¿Acaso da igual?]] #CIAIS
 + [[https://huggingface.co/blog/MaziyarPanahi/protein-ai-landscape][The ML Engineer's Guide to Protein AI]] #AlphaFold
