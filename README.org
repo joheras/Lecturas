@@ -31,6 +31,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.sophielwang.com/blog/jpeg][Sophie Wang]] #JPEG #Compression
 + [[https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/][Exploring the feasibility of conversational diagnostic AI in a real-world clinical study]] #Pablo
 + [[https://blog.jxmo.io/p/how-to-train-the-best-embedding-model][How to train the best embedding model in the world]] #Embeddings
++ [[https://wheremachinesthink.substack.com/p/the-case-for-world-models-part-i][The Case For World Models, Part I: The Neuroscientific Reason]] #WorldModels
 
 
 ** Febrero 2026
