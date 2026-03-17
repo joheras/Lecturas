@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2505.02428][2505.02428 Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90+ Novice Counselors]] #Pablo #LLM
 + [[https://www.sophielwang.com/blog/jpeg][Sophie Wang]] #JPEG #Compression
 + [[https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/][Exploring the feasibility of conversational diagnostic AI in a real-world clinical study]] #Pablo
++ [[https://blog.jxmo.io/p/how-to-train-the-best-embedding-model][]] #Embeddings
 
 
 ** Febrero 2026
