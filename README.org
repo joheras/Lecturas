@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://wheremachinesthink.substack.com/p/the-case-for-world-models-part-i][The Case For World Models, Part I: The Neuroscientific Reason]] #WorldModels
 + [[https://llm-vulnerability.github.io/][ACL 2024 Tutorial: Vulnerabilities of Large Language Models to Adversarial Attacks]] #AdversarialAttacks
 + [[https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/][Omnilingual MT: Machine Translation for 1,600 Languages]] #Translation #ChistERA
++ [[https://arxiv.org/abs/2602.13367][2602.13367 Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts]] #Julia
 
 
 ** Febrero 2026
