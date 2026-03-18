@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.jxmo.io/p/how-to-train-the-best-embedding-model][How to train the best embedding model in the world]] #Embeddings
 + [[https://wheremachinesthink.substack.com/p/the-case-for-world-models-part-i][The Case For World Models, Part I: The Neuroscientific Reason]] #WorldModels
 + [[https://llm-vulnerability.github.io/][ACL 2024 Tutorial: Vulnerabilities of Large Language Models to Adversarial Attacks]] #AdversarialAttacks
++ [[https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/][Omnilingual MT: Machine Translation for 1,600 Languages]] #Translation #ChistERA
 
 
 ** Febrero 2026
