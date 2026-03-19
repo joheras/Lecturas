@@ -36,6 +36,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/][Omnilingual MT: Machine Translation for 1,600 Languages]] #Translation #ChistERA
 + [[https://arxiv.org/abs/2602.13367][2602.13367 Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts]] #Julia
 + [[https://www.blackhc.net/essays/future_of_software/][Andreas Kirsch | The Flawed Ephemeral Software Hypothesis]] #Software #IA
++ [[https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking][Qwen/Qwen3-Omni-30B-A3B-Thinking · Hugging Face]] #OmniModel #Reasoning
 
 
 ** Febrero 2026
