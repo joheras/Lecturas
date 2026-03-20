@@ -37,6 +37,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2602.13367][2602.13367 Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts]] #Julia
 + [[https://www.blackhc.net/essays/future_of_software/][Andreas Kirsch | The Flawed Ephemeral Software Hypothesis]] #Software #IA
 + [[https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking][Qwen/Qwen3-Omni-30B-A3B-Thinking · Hugging Face]] #OmniModel #Reasoning
++ [[https://www.kaggle.com/blog/community-hackathons][Introducing Community Hackathons | Kaggle]] #Hackaton #IA
 
 
 ** Febrero 2026
