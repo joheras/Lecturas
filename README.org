@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.kaggle.com/blog/community-hackathons][Introducing Community Hackathons | Kaggle]] #Hackaton #IA
 + [[https://huggingface.co/spaces/la-leaderboard/la-leaderboard][La Leaderboard - a Hugging Face Space by la-leaderboard]] #Júlia
 + [[https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf][An unsolicited guide to good research]] #PhD
++ [[https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune][Build a Domain-Specific Embedding Model in Under a Day]] #Pablo #Embedding
 
 
 ** Febrero 2026
