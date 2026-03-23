@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking][Qwen/Qwen3-Omni-30B-A3B-Thinking · Hugging Face]] #OmniModel #Reasoning
 + [[https://www.kaggle.com/blog/community-hackathons][Introducing Community Hackathons | Kaggle]] #Hackaton #IA
 + [[https://huggingface.co/spaces/la-leaderboard/la-leaderboard][La Leaderboard - a Hugging Face Space by la-leaderboard]] #Júlia
++ [[https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf][An unsolicited guide to good research]] #PhD
 
 
 ** Febrero 2026
