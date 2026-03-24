@@ -41,6 +41,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/spaces/la-leaderboard/la-leaderboard][La Leaderboard - a Hugging Face Space by la-leaderboard]] #Júlia
 + [[https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf][An unsolicited guide to good research]] #PhD
 + [[https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune][Build a Domain-Specific Embedding Model in Under a Day]] #Pablo #Embedding
++ [[https://github.com/nv-tlabs/kimodo][GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation. · GitHub]] #LSEAvatar
 
 
 ** Febrero 2026
