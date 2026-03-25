@@ -44,6 +44,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/nv-tlabs/kimodo][GitHub - nv-tlabs/kimodo: Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation. · GitHub]] #LSEAvatar
 + [[https://huggingface.co/blog/OpenMed/synthvision][SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation]] #SyntheticData #Elena
 + [[https://arxiv.org/abs/2602.16800][2602.16800 Large-scale online deanonymization with LLMs]] #Deanonymization
++ [[https://github.com/oracle-devrel/oracle-ai-developer-hub/blob/main/notebooks/oracle_image_similarity_openclip.ipynb][oracle-ai-developer-hub/notebooks/oracle_image_similarity_openclip.ipynb at main · oracle-devrel/oracle-ai-developer-hub · GitHub]] #AnomalyDetection #SpectralGeo
 
 
 ** Febrero 2026
