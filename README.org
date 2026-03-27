@@ -49,6 +49,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://cohere.com/blog/transcribe][Cohere Transcribe: state-of-the-art speech recognition]] #ASR
 + [[https://developers.redhat.com/articles/2025/08/08/ollama-vs-vllm-deep-dive-performance-benchmarking#][Ollama vs. vLLM: A deep dive into performance benchmarking]] #Pablo
 + [[https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/][Announcing the winners of the MedGemma Impact Challenge]] #Elena
++ [[https://hamel.dev/blog/posts/revenge/][The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain]] #Evaluation
 
 
 ** Febrero 2026
