@@ -48,6 +48,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://sakana.ai/ai-scientist-nature/][The AI Scientist: Towards Fully Automated AI Research, Now Published in &lt;i&gt;Nature&lt;/i&gt;]] #IA
 + [[https://cohere.com/blog/transcribe][Cohere Transcribe: state-of-the-art speech recognition]] #ASR
 + [[https://developers.redhat.com/articles/2025/08/08/ollama-vs-vllm-deep-dive-performance-benchmarking#][Ollama vs. vLLM: A deep dive into performance benchmarking]] #Pablo
++ [[https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/][Announcing the winners of the MedGemma Impact Challenge]] #Elena
 
 
 ** Febrero 2026
