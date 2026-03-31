@@ -51,6 +51,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/][Announcing the winners of the MedGemma Impact Challenge]] #Elena
 + [[https://hamel.dev/blog/posts/revenge/][The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain]] #Evaluation
 + [[https://mistral.ai/news/voxtral-tts][Speaking of Voxtral | Mistral AI]] #TTS #Anonymization
++ [[https://x.com/antoine_chaffin/status/2037195994081673316][Late interaction models have no LIMIT: a story about benchmarks, bugs and better retrieval]] #Retrieval #Pablo
 
 
 ** Febrero 2026
