@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/][Building better AI benchmarks: How many raters are enough?]] #Evaluation
 + [[https://huggingface.co/blog/tiiuae/falcon-perception][Falcon Perception]] #OCR #Image #Segmentation
 + [[https://huggingface.co/blog/trl-v1][TRL v1.0: Post-Training Library Built to Move with the Field]] #Postraining
++ [[https://huggingface.co/blog/ibm-granite/granite-4-vision][Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents]] #Charts #Tables
 
 
 ** Marzo 2026
