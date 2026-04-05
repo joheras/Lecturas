@@ -12,6 +12,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/][Gemma 4: Our most capable open models to date]] #Gemma #Pablo
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4][A Visual Guide to Gemma 4]]
++ [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4][A Visual Guide to Gemma 4]] #Pablo #Gemma #Elena
 
 
 ** Marzo 2026
