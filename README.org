@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Abril 2026
+
++ [[https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/][Gemma 4: Our most capable open models to date]] #Gemma #Pablo
+
+
 ** Marzo 2026
 
 + [[https://huggingface.co/blog/ibm-granite/granite-4-speech][Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge]] #ASR
