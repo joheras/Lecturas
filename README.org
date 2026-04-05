@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4][A Visual Guide to Gemma 4]]
 + [[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4][A Visual Guide to Gemma 4]] #Pablo #Gemma #Elena
 + [[https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/][Building better AI benchmarks: How many raters are enough?]] #Evaluation
++ [[https://huggingface.co/blog/tiiuae/falcon-perception][Falcon Perception]] #OCR #Image #Segmentation
 
 
 ** Marzo 2026
