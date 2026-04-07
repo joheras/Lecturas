@@ -18,6 +18,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/trl-v1][TRL v1.0: Post-Training Library Built to Move with the Field]] #Postraining
 + [[https://huggingface.co/blog/ibm-granite/granite-4-vision][Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents]] #Charts #Tables
 + [[https://huggingface.co/blog/gemma4][Welcome Gemma 4: Frontier multimodal intelligence on device]] #Gemma #Pablo #Elena
++ [[https://pyimagesearch.com/2026/01/26/sam-3-concept-based-visual-understanding-and-segmentation/][SAM 3: Concept-Based Visual Understanding and Segmentation - PyImageSearch]] #SemanticSegmentation
 
 
 ** Marzo 2026
