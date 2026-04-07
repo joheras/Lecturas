@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-granite/granite-4-vision][Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents]] #Charts #Tables
 + [[https://huggingface.co/blog/gemma4][Welcome Gemma 4: Frontier multimodal intelligence on device]] #Gemma #Pablo #Elena
 + [[https://pyimagesearch.com/2026/01/26/sam-3-concept-based-visual-understanding-and-segmentation/][SAM 3: Concept-Based Visual Understanding and Segmentation - PyImageSearch]] #SemanticSegmentation
++ [[https://pyimagesearch.com/2026/04/06/agentic-ai-vision-system-object-segmentation-with-sam-3-and-qwen/][Agentic AI Vision System: Object Segmentation with SAM 3 and Qwen - PyImageSearch]] #SemanticSegmentation #Agents
 
 
 ** Marzo 2026
