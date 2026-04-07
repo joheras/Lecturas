@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://pyimagesearch.com/2026/01/26/sam-3-concept-based-visual-understanding-and-segmentation/][SAM 3: Concept-Based Visual Understanding and Segmentation - PyImageSearch]] #SemanticSegmentation
 + [[https://pyimagesearch.com/2026/04/06/agentic-ai-vision-system-object-segmentation-with-sam-3-and-qwen/][Agentic AI Vision System: Object Segmentation with SAM 3 and Qwen - PyImageSearch]] #SemanticSegmentation #Agents
 + [[https://pyimagesearch.com/2023/06/26/detr-breakdown-part-3-architecture-and-details/][DETR Breakdown Part 3: Architecture and Details - PyImageSearch]] #ObjectDetection
++ [[https://pyimagesearch.com/2025/01/06/anomaly-detection-how-to-find-outliers-using-the-grubbs-test][Anomaly Detection: How to Find Outliers Using the Grubbs Test - PyImageSearch]] #AnomalyDetection #SpectralGeo
 
 
 ** Marzo 2026
