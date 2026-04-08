@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://pyimagesearch.com/2025/10/27/build-a-vlc-playlist-generator-with-smolvlm-for-video-highlight-tagging][Build a VLC Playlist Generator with SmolVLM for Video Highlight Tagging - PyImageSearch]] #VLM #VideoTagging
 + [[https://pyimagesearch.com/2025/05/26/ai-for-healthcare-fine-tuning-googles-paligemma-2-for-brain-tumor-detection][AI for Healthcare: Fine-Tuning Google&#039;s PaliGemma 2 for Brain Tumor Detection - PyImageSearch]] #VLM #FineTuning
 + [[https://miguelguerrero.eu/article-synthetic-personas-spain.html][Spain Is Not a Translation Problem: Building Frontier AI That Understands the Country It Serves - Miguel Guerrero]] #Personas
++ [[https://huggingface.co/blog/Nicolas-BZRD/bidirlm-release][BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders]] #Encoders
 
 
 ** Marzo 2026
