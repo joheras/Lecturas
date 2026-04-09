@@ -27,6 +27,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://miguelguerrero.eu/article-synthetic-personas-spain.html][Spain Is Not a Translation Problem: Building Frontier AI That Understands the Country It Serves - Miguel Guerrero]] #Personas
 + [[https://huggingface.co/blog/Nicolas-BZRD/bidirlm-release][BidirLM: Turning Generative LLMs into the Best Open-Source Omnimodal Encoders]] #Encoders
 + [[https://arxiv.org/abs/2405.09768][2405.09768 Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model]] #Anonimization #Sara
++ [[https://docs.liquid.ai/examples/customize-models/car-maker-identification][Fine tuning LFM2-VL to identify car makers from images - Liquid Docs]] #VLM #FineTuning #Elena
 
 
 ** Marzo 2026
