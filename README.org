@@ -29,6 +29,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2405.09768][2405.09768 Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model]] #Anonimization #Sara
 + [[https://docs.liquid.ai/examples/customize-models/car-maker-identification][Fine tuning LFM2-VL to identify car makers from images - Liquid Docs]] #VLM #FineTuning #Elena
 + [[https://huggingface.co/blog/multimodal-sentence-transformers][Multimodal Embedding &amp; Reranker Models with Sentence Transformers]] #Embedding #MultiModal
++ [[https://www.softcatala.org/la-intelligencia-artificial-al-vostre-ordinador-personal/models-dintelligencia-artificial-en-catala-per-usar-en-local/][Models d&#039;intel·ligència artificial en català per a usar en local - Softcatalà]] #Júlia #Catalán #Evaluación
 
 
 ** Marzo 2026
