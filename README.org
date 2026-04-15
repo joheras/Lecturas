@@ -32,6 +32,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.softcatala.org/la-intelligencia-artificial-al-vostre-ordinador-personal/models-dintelligencia-artificial-en-catala-per-usar-en-local/][Models d&#039;intel·ligència artificial en català per a usar en local - Softcatalà]] #Júlia #Catalán #Evaluación
 + [[https://www.sciencedirect.com/science/article/pii/S1350946226000273][Quantification of retinal microvascular imaging features from fundus photos in ocular and systemic disease: a framework for standardization]] #Retina #Elena #David
 + [[https://blog.langchain.com/the-anatomy-of-an-agent-harness/][The Anatomy of an Agent Harness]] #Harness #Pablo
++ [[https://llm-as-a-verifier.notion.site/][Notion]] #Evaluation
 
 
 ** Marzo 2026
