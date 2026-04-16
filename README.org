@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.sciencedirect.com/science/article/pii/S1350946226000273][Quantification of retinal microvascular imaging features from fundus photos in ocular and systemic disease: a framework for standardization]] #Retina #Elena #David
 + [[https://blog.langchain.com/the-anatomy-of-an-agent-harness/][The Anatomy of an Agent Harness]] #Harness #Pablo
 + [[https://llm-as-a-verifier.notion.site/][Notion]] #Evaluation
++ [[https://pubmed.ncbi.nlm.nih.gov/41533847/][Neurosymbolic AI Framework for Explainable Retinal Disease Classification From OCT Images - PubMed]] #NeurosymbolicAI #Retina
 
 
 ** Marzo 2026
