@@ -36,6 +36,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://pubmed.ncbi.nlm.nih.gov/41533847/][Neurosymbolic AI Framework for Explainable Retinal Disease Classification From OCT Images - PubMed]] #NeurosymbolicAI #Retina
 + [[https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis][Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents]] #Júlia #Benchmark
 + [[https://huggingface.co/blog/FINAL-Bench/darwin-gpqa][&quot;Darwin-27B-Opus: Surpassing the Foundation Model Without Training&quot;]] #ModelMerge
++ [[https://huggingface.co/blog/nielsr/ocr-papers-jobs][How we OCR&#39;ed 30,000 papers using Codex, open OCR models and Jobs]] #OCR
 
 
 ** Marzo 2026
