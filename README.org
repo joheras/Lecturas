@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.langchain.com/the-anatomy-of-an-agent-harness/][The Anatomy of an Agent Harness]] #Harness #Pablo
 + [[https://llm-as-a-verifier.notion.site/][Notion]] #Evaluation
 + [[https://pubmed.ncbi.nlm.nih.gov/41533847/][Neurosymbolic AI Framework for Explainable Retinal Disease Classification From OCT Images - PubMed]] #NeurosymbolicAI #Retina
++ [[https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis][Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents]] #Júlia #Benchmark
 
 
 ** Marzo 2026
