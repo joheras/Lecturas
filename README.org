@@ -37,6 +37,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis][Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents]] #Júlia #Benchmark
 + [[https://huggingface.co/blog/FINAL-Bench/darwin-gpqa][&quot;Darwin-27B-Opus: Surpassing the Foundation Model Without Training&quot;]] #ModelMerge
 + [[https://huggingface.co/blog/nielsr/ocr-papers-jobs][How we OCR&#39;ed 30,000 papers using Codex, open OCR models and Jobs]] #OCR
++ [[https://huggingface.co/blog/train-multimodal-sentence-transformers][Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers]] #MultiModal #Embedding #Retrieval
 
 
 ** Marzo 2026
