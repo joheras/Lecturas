@@ -43,6 +43,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28][Evaluating Netflix Show Synopses with LLM-as-a-Judge]] #LLMasaJudge
 + [[https://arxiv.org/abs/2503.23451][2503.23451 Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection]] #AnomalyDetection #SpectralGeo
 + [[https://pub.sakana.ai/ssot/][String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation]] #Prompting
++ [[https://mlechner.substack.com/p/quantized-neural-networks-the-only][Quantized Neural Networks: The Only Guide You Need]] #Quantization
 
 
 ** Marzo 2026
