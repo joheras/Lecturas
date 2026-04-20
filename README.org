@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/train-multimodal-sentence-transformers][Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers]] #MultiModal #Embedding #Retrieval
 + [[https://www.nature.com/articles/s41746-026-02607-4][Seven deadly sins in artificial intelligence for digital medicine | npj Digital Medicine]] #Medicine #Risks
 + [[https://huggingface.co/blog/nvidia/nemotron-ocr-v2][Building a Fast Multilingual OCR Model with Synthetic Data]] #OCR
++ [[https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28][Evaluating Netflix Show Synopses with LLM-as-a-Judge]] #LLMasaJudge
 
 
 ** Marzo 2026
