@@ -45,6 +45,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://pub.sakana.ai/ssot/][String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation]] #Prompting
 + [[https://mlechner.substack.com/p/quantized-neural-networks-the-only][Quantized Neural Networks: The Only Guide You Need]] #Quantization
 + [[https://raw.works/rlms-are-the-new-reasoning-models/][RLMs are the new reasoning models]] #RecursiveLanguageModels #Júlia
++ [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847679][Large Language Model Performance and Clinical Reasoning Tasks]] #LLM #Medicine
 
 
 ** Marzo 2026
