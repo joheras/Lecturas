@@ -51,6 +51,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2510.01934][2510.01934 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]] #AnomalyDetection #SpectralGeo #David
 + [[https://towardsdatascience.com/logic-explained-networks-d81c8d119bde/][Logic Explained Networks | Towards Data Science]] #NeurosymbolicAI
 + [[https://arxiv.org/abs/2604.09497][2604.09497 BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation]] #Evaluation
++ [[https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/][Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System - MachineLearningMastery.com]] #Pablo #GraphRAG
 
 
 ** Marzo 2026
