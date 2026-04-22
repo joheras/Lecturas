@@ -50,6 +50,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.nature.com/articles/s41586-024-08328-6][Accurate predictions on small data with a tabular foundation model | Nature]] #TabularData
 + [[https://arxiv.org/abs/2510.01934][2510.01934 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]] #AnomalyDetection #SpectralGeo #David
 + [[https://towardsdatascience.com/logic-explained-networks-d81c8d119bde/][Logic Explained Networks | Towards Data Science]] #NeurosymbolicAI
++ [[https://arxiv.org/abs/2604.09497][2604.09497 BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation]] #Evaluation
 
 
 ** Marzo 2026
