@@ -49,6 +49,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://x.com/Vtrivedy10/article/2041927488918413589][Better Harness: A Recipe for Harness Hill-Climbing with Evals]] #Harness
 + [[https://www.nature.com/articles/s41586-024-08328-6][Accurate predictions on small data with a tabular foundation model | Nature]] #TabularData
 + [[https://arxiv.org/abs/2510.01934][2510.01934 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]] #AnomalyDetection #SpectralGeo #David
++ [[https://towardsdatascience.com/logic-explained-networks-d81c8d119bde/][Logic Explained Networks | Towards Data Science]] #NeurosymbolicAI
 
 
 ** Marzo 2026
