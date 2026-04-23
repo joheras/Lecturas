@@ -54,6 +54,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/][Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System - MachineLearningMastery.com]] #Pablo #GraphRAG
 + [[https://huggingface.co/blog/KBLab/easyaligner][easyaligner: Forced alignment of text and audio, made easy]] #Audio #Sara #Alignment
 + [[https://huggingface.co/openai/privacy-filter][openai/privacy-filter · Hugging Face]] #Anonimization #Sara
++ [[https://vision-banana.github.io/][Vision Banana | Google DeepMind]] #GeneralistVisionLearner
 
 
 
