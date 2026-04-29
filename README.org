@@ -63,6 +63,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://princeton-computational-imaging.github.io/Telescope/][Telescope: Learnable Hyperbolic Foveation]] #ObjectDetection #SmallObjects
 + [[https://gepa-ai.github.io/gepa/blog/2026/02/18/introducing-optimize-anything/][optimize_anything: A Universal API for Optimizing any Text Parameter - GEPA]] #GEPA #PromptOptimization
 + [[https://huggingface.co/blog/ibm-granite/granite-4-1][Granite 4.1 LLMs: How They’re Built]] #Models
++ [[https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset][SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution]] #SatelliteImages
 
 
 
