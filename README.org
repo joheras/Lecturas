@@ -60,6 +60,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence][Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents]] #OmniModel #David #Elena
 + [[https://huggingface.co/blog/nielsr/gemini-community-science][Running AI agents to automate outreach at scale]] #Agents #Workflows
 + [[https://huggingface.co/blog/deepseekv4][DeepSeek-V4: a million-token context that agents can actually use]] #Models
++ [[https://princeton-computational-imaging.github.io/Telescope/][Telescope: Learnable Hyperbolic Foveation]] #ObjectDetection #SmallObjects
 
 
 
