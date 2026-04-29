@@ -56,6 +56,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/openai/privacy-filter][openai/privacy-filter · Hugging Face]] #Anonimization #Sara
 + [[https://vision-banana.github.io/][Vision Banana | Google DeepMind]] #GeneralistVisionLearner
 + [[https://uwspace.uwaterloo.ca/items/dc44caa2-f092-49d1-b527-da3a30097367][Benchmarks, Data, and Evaluation for Robust Retrieval and Retrieval-Augmented Generation on Heterogeneous Domains and Languages]] #Júlia
++ [[https://huggingface.co/blog/openai-privacy-filter-web-apps][How to build scalable web apps with OpenAI&#39;s Privacy Filter]] #Anonimization
 
 
 
