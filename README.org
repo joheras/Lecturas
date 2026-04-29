@@ -58,6 +58,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://uwspace.uwaterloo.ca/items/dc44caa2-f092-49d1-b527-da3a30097367][Benchmarks, Data, and Evaluation for Robust Retrieval and Retrieval-Augmented Generation on Heterogeneous Domains and Languages]] #Júlia
 + [[https://huggingface.co/blog/openai-privacy-filter-web-apps][How to build scalable web apps with OpenAI&#39;s Privacy Filter]] #Anonimization
 + [[https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence][Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents]] #OmniModel #David #Elena
++ [[https://huggingface.co/blog/nielsr/gemini-community-science][Running AI agents to automate outreach at scale]] #Agents #Workflows
 
 
 
