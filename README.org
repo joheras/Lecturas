@@ -65,6 +65,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-granite/granite-4-1][Granite 4.1 LLMs: How They’re Built]] #Models
 + [[https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset][SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution]] #SatelliteImages
 + [[https://huggingface.co/blog/evaleval/eval-costs-bottleneck][AI evals are becoming the new compute bottleneck]] #Evaluation #Benchmarks
++ [[https://huggingface.co/blog/AmelieSchreiber/faster-pha][Faster Persistent Homology Alignment and Protein Complex Clustering with ESM-2 and Persistence Landscapes]] #Proteins #PersistentHomology
 
 
 
