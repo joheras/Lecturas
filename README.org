@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Mayo 2026
+
++ [[https://pub.sakana.ai/kame/][Async Knowledge Injection for Speech AI with Tandem Architecture]] #Speech2Speech
+
+
 ** Abril 2026
 
 + [[https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/][Gemma 4: Our most capable open models to date]] #Gemma #Pablo
