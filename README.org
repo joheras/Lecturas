@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Mayo 2026
 
 + [[https://pub.sakana.ai/kame/][Async Knowledge Injection for Speech AI with Tandem Architecture]] #Speech2Speech
++ [[https://victoryepes.blogs.upv.es/2026/05/04/auditar-la-ia-y-no-solo-usarla/][El «sesgo hacia el error»: por qué el futuro de la ingeniería depende de auditar la IA (y no solo de usarla) - El blog de Víctor Yepes]] #Educación
 
 
 ** Abril 2026
