@@ -15,6 +15,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://docs.google.com/document/d/179uI7VYEbm9KbN0HBlktjX3x6Mc5Pj-HYtegfvziqtM/edit?tab=t.0][NeurIPS Evaluations and Datasets: Guidelines for filling RAI attributes - Documentos de Google]] #Júlia #Datasets
 + [[https://dl.acm.org/doi/10.1145/3650203.3663326][Croissant: A Metadata Format for ML-Ready Datasets]] #Datasets #Júlia
 + [[https://github.com/lyhyl/Reti-Pioneer][GitHub - lyhyl/Reti-Pioneer: AI Framework for Multidisease Detection via Retinal Imaging · GitHub]] #OPTetina #FoundationalModel
++ [[https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation][The Paradox of Medical AI Implementation]]
 
 
 ** Abril 2026
