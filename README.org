@@ -12,6 +12,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://pub.sakana.ai/kame/][Async Knowledge Injection for Speech AI with Tandem Architecture]] #Speech2Speech
 + [[https://victoryepes.blogs.upv.es/2026/05/04/auditar-la-ia-y-no-solo-usarla/][El «sesgo hacia el error»: por qué el futuro de la ingeniería depende de auditar la IA (y no solo de usarla) - El blog de Víctor Yepes]] #Educación
++ [[https://docs.google.com/document/d/179uI7VYEbm9KbN0HBlktjX3x6Mc5Pj-HYtegfvziqtM/edit?tab=t.0][NeurIPS Evaluations and Datasets: Guidelines for filling RAI attributes - Documentos de Google]] #Júlia #Datasets
 
 
 ** Abril 2026
