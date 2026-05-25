@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/lyhyl/Reti-Pioneer][GitHub - lyhyl/Reti-Pioneer: AI Framework for Multidisease Detection via Retinal Imaging · GitHub]] #OPTetina #FoundationalModel
 + [[https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation][The Paradox of Medical AI Implementation]]
 + [[https://www.youtube.com/watch?v=dWk4Rq-2esA][Post-Entrenamiento de LLMs, Sergio Paniego @Hugging Face | #HackathonSomosNLP 2026 - YouTube]] #Pablo #PostEntrenamiento #Júlia
++ [[https://isaacflath.com/writing/QuantizationFundamentalsForMultiVectorRetrieval][Quantization for ColBERT | Isaac Flath]] #Quantization #MultiEmbedding #Retrieval
 
 
 ** Abril 2026
