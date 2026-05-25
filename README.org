@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://dl.acm.org/doi/10.1145/3650203.3663326][Croissant: A Metadata Format for ML-Ready Datasets]] #Datasets #Júlia
 + [[https://github.com/lyhyl/Reti-Pioneer][GitHub - lyhyl/Reti-Pioneer: AI Framework for Multidisease Detection via Retinal Imaging · GitHub]] #OPTetina #FoundationalModel
 + [[https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation][The Paradox of Medical AI Implementation]]
++ [[https://www.youtube.com/watch?v=dWk4Rq-2esA][Post-Entrenamiento de LLMs, Sergio Paniego @Hugging Face | #HackathonSomosNLP 2026 - YouTube]] #Pablo #PostEntrenamiento #Júlia
 
 
 ** Abril 2026
