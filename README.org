@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.youtube.com/watch?v=dWk4Rq-2esA][Post-Entrenamiento de LLMs, Sergio Paniego @Hugging Face | #HackathonSomosNLP 2026 - YouTube]] #Pablo #PostEntrenamiento #Júlia
 + [[https://isaacflath.com/writing/QuantizationFundamentalsForMultiVectorRetrieval][Quantization for ColBERT | Isaac Flath]] #Quantization #MultiEmbedding #Retrieval
 + [[https://huggingface.co/blog/nvidia/nemotron-labs-diffusion][Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models]] #Difusion #LLMs
++ [[https://airesistlist.org/][The AI Resist List]] #CIAIS
 
 
 ** Abril 2026
