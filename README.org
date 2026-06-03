@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Junio 2026
 
 + [[https://huggingface.co/blog/lbourdois/introduction-to-trimming][Introduction to Trimming ✂]] #Pruning
++ [[https://simax.media/][SiMAX | Home - SiMAX]] #LSEAvatar
 
 
 ** Mayo 2026
