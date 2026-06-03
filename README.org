@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Junio 2026
+
++ [[https://huggingface.co/blog/lbourdois/introduction-to-trimming][Introduction to Trimming ✂]] #Pruning
+
+
 ** Mayo 2026
 
 + [[https://pub.sakana.ai/kame/][Async Knowledge Injection for Speech AI with Tandem Architecture]] #Speech2Speech
