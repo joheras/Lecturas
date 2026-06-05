@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://simax.media/][SiMAX | Home - SiMAX]] #LSEAvatar
 + [[https://evoc.readthedocs.io/en/latest/index.html][EVōC: Embedding Vector Oriented Clustering &mdash; EVoC 0.1.0 documentation]] #Clustering #Embedding
 + [[https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety][Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI]] ##Pablo #Safety
++ [[https://huggingface.co/blog/allenai/olmoearth-v1-1][OlmoEarth v1.1: A more efficient family of Earth observation models]] #Adrian #Jaime
 
 
 ** Mayo 2026
