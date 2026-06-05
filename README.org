@@ -13,6 +13,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/lbourdois/introduction-to-trimming][Introduction to Trimming ✂]] #Pruning
 + [[https://simax.media/][SiMAX | Home - SiMAX]] #LSEAvatar
 + [[https://evoc.readthedocs.io/en/latest/index.html][EVōC: Embedding Vector Oriented Clustering &mdash; EVoC 0.1.0 documentation]] #Clustering #Embedding
++ [[https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety][Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI]] ##Pablo #Safety
 
 
 ** Mayo 2026
