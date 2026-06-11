@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://rawalkhirodkar.github.io/sapiens2/][Sapiens2]] #Human #LSEAvatar
 + [[https://flashml-org.github.io/][FlashLib: Bringing Flash Magic to Classical Machine Learning Operators]] #ClassicalML #CUDA
 + [[https://x.com/sairahul1/article/2058464422306443766][AI Agents: The Complete Course]]
++ [[https://huggingface.co/blog/agent-glossary][Harness, Scaffold, and the AI Agent Terms Worth Getting Right]] #Agents
 
 
 ** Mayo 2026
