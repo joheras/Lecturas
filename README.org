@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2][Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality]] #Pablo #Embeddings
 + [[https://rawalkhirodkar.github.io/sapiens2/][Sapiens2]] #Human #LSEAvatar
 + [[https://flashml-org.github.io/][FlashLib: Bringing Flash Magic to Classical Machine Learning Operators]] #ClassicalML #CUDA
++ [[https://x.com/sairahul1/article/2058464422306443766][AI Agents: The Complete Course]]
 
 
 ** Mayo 2026
