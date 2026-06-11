@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/allenai/olmoearth-v1-1][OlmoEarth v1.1: A more efficient family of Earth observation models]] #Adrian #Jaime
 + [[https://huggingface.co/blog/ettin-reranker][Introducing the Ettin Reranker Family]] #Reranker #Pablo
 + [[https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2][Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality]] #Pablo #Embeddings
++ [[https://rawalkhirodkar.github.io/sapiens2/][Sapiens2]] #Human #LSEAvatar
 
 
 ** Mayo 2026
