@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/agent-glossary][Harness, Scaffold, and the AI Agent Terms Worth Getting Right]] #Agents
 + [[https://pub.sakana.ai/kame/][Two Heads Are Better Than One:]] Async Knowledge Injection for Speech AI with Tandem Architecture#Speech2Speech
 + [[https://www.sciencedirect.com/science/article/pii/S0952197626012819][Advancing Spanish clinical language understanding through domain-adaptive pretraining and new open clinical resources]] #Leo
++ [[https://link.springer.com/article/10.1007/s10916-026-02414-0][Client Challenge]] #OPTRetina
 
 
 ** Mayo 2026
