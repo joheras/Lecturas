@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lecturas Explorer - Búsqueda de Etiquetas y Gráficos</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- App Styles -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- Pre-compiled Data Fallback Script (as secondary backup) -->
+  <script src="lecturas_data.js" onerror="console.warn('lecturas_data.js could not be loaded. This is fine since we are fetching from GitHub.')"></script>
+
+  <!-- Loading Overlay -->
+  <div id="loadingOverlay" class="loading-overlay">
+    <div class="spinner"></div>
+    <p style="color: var(--text-secondary); font-weight: 500;" id="loadingText">Cargando lecturas...</p>
+  </div>
+
+  <div class="app-container">
+    
+    <!-- Sidebar: Filters, Upload and Info -->
+    <aside class="sidebar">
+      
+      <!-- Branding -->
+      <div class="glass-panel branding">
+        <div class="logo-container">
+          <i class="fa-solid fa-book-open-reader logo-icon"></i>
+          <span class="logo-text">Lecturas</span>
+        </div>
+        <p>Buscador de lecturas y análisis de etiquetas</p>
+      </div>
+
+      <!-- Remote URL Loader -->
+      <div class="glass-panel filter-card">
+        <h3 class="filter-title"><i data-lucide="globe"></i> Cargar desde GitHub / URL</h3>
+        <div class="form-group" style="margin-bottom: 0.75rem;">
+          <label for="urlInput">URL del README.org</label>
+          <input type="text" id="urlInput" class="form-control" style="padding-left: 1rem;" placeholder="https://github.com/.../README.org" value="https://github.com/joheras/Lecturas/blob/master/README.org">
+        </div>
+        <button id="loadUrlBtn" class="pagination-btn" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 0.5rem; background: var(--accent-gradient); border-color: transparent;">
+          <i class="fa-solid fa-rotate"></i> Cargar desde URL
+        </button>
+      </div>
+
+      <!-- File Uploader (Fallback) -->
+      <div class="glass-panel filter-card">
+        <h3 class="filter-title"><i data-lucide="file-up"></i> Cargar Archivo Local</h3>
+        <div class="file-drop-area" id="dropArea">
+          <i class="fa-solid fa-cloud-arrow-up"></i>
+          <p>Arrastra tu archivo <strong>README.org</strong> o haz clic aquí</p>
+          <input type="file" id="fileInput" class="file-input" accept=".org">
+        </div>
+      </div>
+
+      <!-- Search & Filters -->
+      <div class="glass-panel filter-card">
+        <h3 class="filter-title"><i data-lucide="filter"></i> Filtros de Búsqueda</h3>
+        
+        <!-- Text Search -->
+        <div class="form-group">
+          <label for="textSearch">Buscar Texto</label>
+          <div class="search-input-wrapper">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input type="text" id="textSearch" class="form-control" placeholder="Título, autor, URL...">
+          </div>
+        </div>
+
+        <!-- Tag Autocomplete Select -->
+        <div class="form-group">
+          <label for="tagSearchInput">Buscar por Etiqueta (#)</label>
+          <div class="tag-autocomplete">
+            <div class="search-input-wrapper">
+              <i class="fa-solid fa-hashtag search-icon"></i>
+              <input type="text" id="tagSearchInput" class="form-control" placeholder="Escribe para buscar etiqueta...">
+            </div>
+            <div id="tagDropdown" class="tag-dropdown"></div>
+          </div>
+          <!-- Active Tags Chips -->
+          <div id="activeTags" class="active-tags-container"></div>
+        </div>
+
+        <!-- Time Selectors -->
+        <div class="form-group">
+          <label for="yearSelect">Año</label>
+          <select id="yearSelect" class="form-control">
+            <option value="">Todos los años</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="monthSelect">Mes</label>
+          <select id="monthSelect" class="form-control">
+            <option value="">Todos los meses</option>
+          </select>
+        </div>
+
+        <!-- Reset Filters -->
+        <button id="resetFilters" class="pagination-btn" style="width: 100%; margin-top: 0.5rem; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+          <i class="fa-solid fa-rotate-left"></i> Restablecer Filtros
+        </button>
+
+      </div>
+
+    </aside>
+
+    <!-- Main Content -->
+    <main class="dashboard-main">
+      
+      <!-- Stats Row -->
+      <section class="stats-grid">
+        
+        <div class="glass-panel stat-card">
+          <div class="stat-icon"><i class="fa-solid fa-list-check"></i></div>
+          <div class="stat-details">
+            <h4>Lecturas</h4>
+            <div id="statTotal" class="stat-value">0</div>
+          </div>
+        </div>
+
+        <div class="glass-panel stat-card">
+          <div class="stat-icon"><i class="fa-solid fa-hashtag"></i></div>
+          <div class="stat-details">
+            <h4>Etiquetas Únicas</h4>
+            <div id="statTags" class="stat-value">0</div>
+          </div>
+        </div>
+
+        <div class="glass-panel stat-card">
+          <div class="stat-icon"><i class="fa-solid fa-calendar-days"></i></div>
+          <div class="stat-details">
+            <h4>Años Activos</h4>
+            <div id="statYears" class="stat-value">0</div>
+          </div>
+        </div>
+
+        <div class="glass-panel stat-card">
+          <div class="stat-icon"><i class="fa-solid fa-pen-nib"></i></div>
+          <div class="stat-details">
+            <h4>Con Autor</h4>
+            <div id="statAuthors" class="stat-value">0</div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- Charts Grid -->
+      <section class="charts-grid">
+        
+        <!-- Timeline Chart -->
+        <div class="glass-panel chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title"><i class="fa-solid fa-chart-column"></i> Evolución de Lecturas</h3>
+            <button id="resetTimelineChart" class="chart-reset-btn" style="display: none;">Ver Todos</button>
+          </div>
+          <div class="chart-container">
+            <canvas id="timelineChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Top Tags Chart -->
+        <div class="glass-panel chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title"><i class="fa-solid fa-chart-bar"></i> Top 10 Etiquetas</h3>
+            <button id="resetTagsChart" class="chart-reset-btn" style="display: none;">Ver Todos</button>
+          </div>
+          <div class="chart-container">
+            <canvas id="tagsChart"></canvas>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- Readings List Section -->
+      <section style="display: flex; flex-direction: column; gap: 1rem;">
+        
+        <div class="section-header">
+          <h2 class="section-title" id="readingsCountText">Lecturas Encontradas</h2>
+          <div class="view-controls">
+            <button class="view-btn active" id="viewListBtn" title="Vista Lista"><i data-lucide="list"></i></button>
+            <button class="view-btn" id="viewGridBtn" title="Vista Cuadrícula"><i data-lucide="grid"></i></button>
+          </div>
+        </div>
+
+        <!-- Readings Cards Container -->
+        <div id="readingsContainer" class="readings-container"></div>
+
+        <!-- Pagination -->
+        <div class="pagination-container">
+          <div class="pagination-info" id="paginationInfo">Mostrando 0-0 de 0 lecturas</div>
+          <div class="pagination-buttons">
+            <button class="pagination-btn" id="prevPageBtn" disabled><i class="fa-solid fa-angle-left"></i> Anterior</button>
+            <button class="pagination-btn" id="nextPageBtn" disabled>Siguiente <i class="fa-solid fa-angle-right"></i></button>
+          </div>
+        </div>
+
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- App Logic Script -->
+  <script>
+    // App State
+    let allReadings = [];
+    let filteredReadings = [];
+    let activeTags = [];
+    
+    // Pagination State
+    let currentPage = 1;
+    const itemsPerPage = 20;
+
+    // Charts Instances
+    let timelineChartInstance = null;
+    let tagsChartInstance = null;
+
+    // Chart Filter States
+    let chartFilteredYear = null;
+    let chartFilteredTag = null;
+
+    // DOM Elements
+    const dropArea = document.getElementById('dropArea');
+    const fileInput = document.getElementById('fileInput');
+    const urlInput = document.getElementById('urlInput');
+    const loadUrlBtn = document.getElementById('loadUrlBtn');
+    
+    const textSearch = document.getElementById('textSearch');
+    const tagSearchInput = document.getElementById('tagSearchInput');
+    const tagDropdown = document.getElementById('tagDropdown');
+    const activeTagsContainer = document.getElementById('activeTags');
+    const yearSelect = document.getElementById('yearSelect');
+    const monthSelect = document.getElementById('monthSelect');
+    const resetFiltersBtn = document.getElementById('resetFilters');
+    
+    const statTotal = document.getElementById('statTotal');
+    const statTags = document.getElementById('statTags');
+    const statYears = document.getElementById('statYears');
+    const statAuthors = document.getElementById('statAuthors');
+
+    const readingsContainer = document.getElementById('readingsContainer');
+    const readingsCountText = document.getElementById('readingsCountText');
+    const viewListBtn = document.getElementById('viewListBtn');
+    const viewGridBtn = document.getElementById('viewGridBtn');
+    
+    const paginationInfo = document.getElementById('paginationInfo');
+    const prevPageBtn = document.getElementById('prevPageBtn');
+    const nextPageBtn = document.getElementById('nextPageBtn');
+    
+    const loadingOverlay = document.getElementById('loadingOverlay');
+    const loadingText = document.getElementById('loadingText');
+    
+    const resetTimelineChartBtn = document.getElementById('resetTimelineChart');
+    const resetTagsChartBtn = document.getElementById('resetTagsChart');
+
+    // Months translation helper
+    const monthOrder = {
+      'Enero': 1, 'Febrero': 2, 'Marzo': 3, 'Abril': 4, 'Mayo': 5, 'Junio': 6,
+      'Julio': 7, 'Agosto': 8, 'Septiembre': 9, 'Octubre': 10, 'Noviembre': 11, 'Diciembre': 12,
+      'N/A': 99
+    };
+
+    // Initialize application
+    window.addEventListener('DOMContentLoaded', () => {
+      // Initialize Lucide icons
+      lucide.createIcons();
+      
+      // Setup file input listeners
+      setupFileListeners();
+
+      // Setup filter listeners
+      setupFilterListeners();
+
+      // Load Default URL
+      const defaultUrl = urlInput.value.trim();
+      fetchDataFromUrl(defaultUrl);
+    });
+
+    // Helper: translate standard GitHub page URL to Raw contents URL
+    function getRawUrl(url) {
+      try {
+        const ghRegex = /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/([^\/]+)\/(.+)$/;
+        const match = url.match(ghRegex);
+        if (match) {
+          const user = match[1];
+          const repo = match[2];
+          const branch = match[3];
+          const path = match[4];
+          return `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`;
+        }
+      } catch (e) {
+        console.error("Error formatting github URL", e);
+      }
+      return url;
+    }
+
+    // Load Data from URL
+    function fetchDataFromUrl(url) {
+      const rawUrl = getRawUrl(url);
+      setLoading(true, 'Descargando archivo README.org desde GitHub...');
+      
+      fetch(rawUrl)
+        .then(res => {
+          if (!res.ok) throw new Error('HTTP error ' + res.status);
+          return res.text();
+        })
+        .then(text => {
+          allReadings = parseOrgContent(text);
+          initData();
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error("Error fetching remote file: ", err);
+          
+          // Try local pre-compiled backup
+          if (window.lecturasData && window.lecturasData.length > 0) {
+            console.log("Using backup local precompiled data.");
+            allReadings = window.lecturasData;
+            initData();
+            alert('No se pudo conectar a GitHub. Se cargaron los datos guardados en caché local.');
+          } else {
+            alert('No se pudieron descargar los datos desde GitHub. Por favor, sube un archivo README.org manualmente.');
+          }
+          setLoading(false);
+        });
+    }
+
+    // Toggle loading overlay
+    function setLoading(show, text = 'Cargando...') {
+      loadingText.textContent = text;
+      if (show) {
+        loadingOverlay.classList.add('active');
+      } else {
+        loadingOverlay.classList.remove('active');
+      }
+    }
+
+    // Setup drag-and-drop & file selection
+    function setupFileListeners() {
+      dropArea.addEventListener('click', () => fileInput.click());
+
+      dropArea.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        dropArea.classList.add('dragover');
+      });
+
+      ['dragleave', 'dragend'].forEach(type => {
+        dropArea.addEventListener(type, () => dropArea.classList.remove('dragover'));
+      });
+
+      dropArea.addEventListener('drop', (e) => {
+        e.preventDefault();
+        dropArea.classList.remove('dragover');
+        
+        const files = e.dataTransfer.files;
+        if (files.length > 0) {
+          handleFile(files[0]);
+        }
+      });
+
+      fileInput.addEventListener('change', (e) => {
+        if (e.target.files.length > 0) {
+          handleFile(e.target.files[0]);
+        }
+      });
+
+      loadUrlBtn.addEventListener('click', () => {
+        const url = urlInput.value.trim();
+        if (url) {
+          fetchDataFromUrl(url);
+        } else {
+          alert('Por favor introduce una URL válida.');
+        }
+      });
+    }
+
+    // Handle selected/dropped file
+    function handleFile(file) {
+      setLoading(true, `Leyendo ${file.name}...`);
+      const reader = new FileReader();
+      
+      reader.onload = (e) => {
+        try {
+          const text = e.target.result;
+          allReadings = parseOrgContent(text);
+          initData();
+          setLoading(false);
+        } catch (error) {
+          alert('Error al analizar el archivo: ' + error.message);
+          setLoading(false);
+        }
+      };
+
+      reader.onerror = () => {
+        alert('Error al leer el archivo.');
+        setLoading(false);
+      };
+
+      reader.readAsText(file);
+    }
+
+    // Client-Side Org-mode Parser
+    function parseOrgContent(text) {
+      const lines = text.split('\n');
+      let currentYear = '';
+      let currentMonth = '';
+      const items = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) continue;
+
+        // Match Year header: e.g. * Lecturas del year 2026
+        const yearMatch = line.match(/^\*\s+(?:Lecturas del year|Lecturas del año|Year|Año)\s+(\d{4})/i);
+        if (yearMatch) {
+          currentYear = yearMatch[1];
+          currentMonth = ''; // Reset month
+          continue;
+        }
+
+        // Match Month header: e.g. ** Junio 2026
+        const monthMatch = line.match(/^\*\*\s+([a-zA-ZáéíóúÁÉÍÓÚñÑ]+)(?:\s+(\d{4}))?/);
+        if (monthMatch) {
+          currentMonth = monthMatch[1];
+          if (monthMatch[2]) {
+            currentYear = monthMatch[2];
+          }
+          continue;
+        }
+
+        // Match list items
+        if (line.startsWith('+') || line.startsWith('-')) {
+          let rest = line.substring(1).trim();
+          let url = '';
+          let title = '';
+
+          // [[URL][Title]] or [[URL]]
+          const doubleBracketMatch = rest.match(/^\[\[([^\]]+)\]\[([^\]]+)\]\]/);
+          if (doubleBracketMatch) {
+            url = doubleBracketMatch[1].trim();
+            title = doubleBracketMatch[2].trim();
+            rest = rest.substring(doubleBracketMatch[0].length).trim();
+          } else {
+            const singleBracketMatch = rest.match(/^\[\[([^\]]+)\]\]/);
+            if (singleBracketMatch) {
+              url = singleBracketMatch[1].trim();
+              title = url;
+              rest = rest.substring(singleBracketMatch[0].length).trim();
+            } else {
+              continue;
+            }
+          }
+
+          // Extract tags
+          const tagRegex = /#([a-zA-Z0-9áéíóúÁÉÍÓÚñÑ_\-]+)/g;
+          const tags = [];
+          let match;
+          let cleanRest = rest;
+          while ((match = tagRegex.exec(rest)) !== null) {
+            tags.push(match[1]);
+            cleanRest = cleanRest.replace(match[0], '');
+          }
+
+          // Extract author/notes
+          let author = '';
+          let notes = '';
+          const tildeIndex = cleanRest.indexOf('~');
+          if (tildeIndex !== -1) {
+            author = cleanRest.substring(tildeIndex + 1).trim();
+            author = author.replace(/[\s.,;!\-]+$/, '');
+          } else {
+            notes = cleanRest.trim();
+            notes = notes.replace(/[\s.,;!\-]+$/, '');
+          }
+
+          title = title.replace(/\\/g, '');
+
+          items.push({
+            url,
+            title,
+            tags: tags.map(t => t.trim()).filter(Boolean),
+            author: author.trim(),
+            notes: notes.trim(),
+            year: currentYear || 'N/A',
+            month: currentMonth || 'N/A',
+            id: items.length + 1
+          });
+        }
+      }
+
+      return items;
+    }
+
+    // Initialize dropdowns, stats and charts
+    function initData() {
+      // Extract unique years and months for selectors
+      const yearsSet = new Set();
+      const monthsSet = new Set();
+      
+      allReadings.forEach(item => {
+        if (item.year && item.year !== 'N/A') yearsSet.add(item.year);
+        if (item.month && item.month !== 'N/A') monthsSet.add(item.month);
+      });
+
+      // Populate Year Select
+      yearSelect.innerHTML = '<option value="">Todos los años</option>';
+      const sortedYears = Array.from(yearsSet).sort((a, b) => b - a); // Descending
+      sortedYears.forEach(year => {
+        const opt = document.createElement('option');
+        opt.value = year;
+        opt.textContent = year;
+        yearSelect.appendChild(opt);
+      });
+
+      // Populate Month Select
+      monthSelect.innerHTML = '<option value="">Todos los meses</option>';
+      const sortedMonths = Array.from(monthsSet).sort((a, b) => {
+        return (monthOrder[a] || 0) - (monthOrder[b] || 0);
+      });
+      sortedMonths.forEach(month => {
+        const opt = document.createElement('option');
+        opt.value = month;
+        opt.textContent = month;
+        monthSelect.appendChild(opt);
+      });
+
+      // Setup tag search auto-complete dropdown
+      setupTagAutocomplete();
+
+      // Run filter & render
+      applyFilters();
+    }
+
+    // Set up Tag Autocomplete
+    function setupTagAutocomplete() {
+      tagSearchInput.addEventListener('focus', () => showTagDropdown());
+      tagSearchInput.addEventListener('input', () => showTagDropdown());
+      
+      document.addEventListener('click', (e) => {
+        if (!e.target.closest('.tag-autocomplete')) {
+          tagDropdown.style.display = 'none';
+        }
+      });
+    }
+
+    function showTagDropdown() {
+      const query = tagSearchInput.value.toLowerCase().trim();
+      const tagCounts = {};
+      
+      // Calculate tag frequency in active filtered items, or all items
+      const itemsToCount = filteredReadings.length > 0 ? filteredReadings : allReadings;
+      itemsToCount.forEach(item => {
+        item.tags.forEach(tag => {
+          if (!activeTags.includes(tag)) {
+            tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+          }
+        });
+      });
+
+      let tagsList = Object.keys(tagCounts).map(tag => ({
+        name: tag,
+        count: tagCounts[tag]
+      }));
+
+      // Filter by query
+      if (query) {
+        tagsList = tagsList.filter(t => t.name.toLowerCase().includes(query));
+      }
+
+      // Sort by count descending
+      tagsList.sort((a, b) => b.count - a.count);
+
+      tagDropdown.innerHTML = '';
+      
+      if (tagsList.length === 0) {
+        tagDropdown.style.display = 'none';
+        return;
+      }
+
+      tagsList.slice(0, 15).forEach(tag => {
+        const item = document.createElement('div');
+        item.className = 'tag-option';
+        item.innerHTML = `<span>#${tag.name}</span> <span class="count">${tag.count}</span>`;
+        item.addEventListener('click', () => {
+          addTagFilter(tag.name);
+          tagSearchInput.value = '';
+          tagDropdown.style.display = 'none';
+        });
+        tagDropdown.appendChild(item);
+      });
+
+      tagDropdown.style.display = 'block';
+    }
+
+    function addTagFilter(tagName) {
+      if (!activeTags.includes(tagName)) {
+        activeTags.push(tagName);
+        renderActiveTags();
+        applyFilters();
+      }
+    }
+
+    function removeTagFilter(tagName) {
+      activeTags = activeTags.filter(t => t !== tagName);
+      renderActiveTags();
+      applyFilters();
+    }
+
+    function renderActiveTags() {
+      activeTagsContainer.innerHTML = '';
+      activeTags.forEach(tag => {
+        const chip = document.createElement('span');
+        chip.className = 'tag-chip';
+        chip.innerHTML = `#${tag} <span class="tag-chip-remove">&times;</span>`;
+        chip.querySelector('.tag-chip-remove').addEventListener('click', () => {
+          removeTagFilter(tag);
+        });
+        activeTagsContainer.appendChild(chip);
+      });
+    }
+
+    // Setup Filter Listeners
+    function setupFilterListeners() {
+      textSearch.addEventListener('input', () => {
+        currentPage = 1;
+        applyFilters();
+      });
+      
+      yearSelect.addEventListener('change', () => {
+        currentPage = 1;
+        applyFilters();
+      });
+      
+      monthSelect.addEventListener('change', () => {
+        currentPage = 1;
+        applyFilters();
+      });
+
+      resetFiltersBtn.addEventListener('click', () => {
+        textSearch.value = '';
+        tagSearchInput.value = '';
+        yearSelect.value = '';
+        monthSelect.value = '';
+        activeTags = [];
+        chartFilteredYear = null;
+        chartFilteredTag = null;
+        resetTimelineChartBtn.style.display = 'none';
+        resetTagsChartBtn.style.display = 'none';
+        renderActiveTags();
+        currentPage = 1;
+        applyFilters();
+      });
+
+      // View modes (list vs grid)
+      viewListBtn.addEventListener('click', () => {
+        viewListBtn.classList.add('active');
+        viewGridBtn.classList.remove('active');
+        readingsContainer.classList.remove('grid-view');
+        renderReadingsList();
+      });
+
+      viewGridBtn.addEventListener('click', () => {
+        viewGridBtn.classList.add('active');
+        viewListBtn.classList.remove('active');
+        readingsContainer.classList.add('grid-view');
+        renderReadingsList();
+      });
+
+      // Pagination events
+      prevPageBtn.addEventListener('click', () => {
+        if (currentPage > 1) {
+          currentPage--;
+          renderReadingsList();
+        }
+      });
+
+      nextPageBtn.addEventListener('click', () => {
+        const maxPage = Math.ceil(filteredReadings.length / itemsPerPage);
+        if (currentPage < maxPage) {
+          currentPage++;
+          renderReadingsList();
+        }
+      });
+
+      // Chart Reset buttons
+      resetTimelineChartBtn.addEventListener('click', () => {
+        chartFilteredYear = null;
+        resetTimelineChartBtn.style.display = 'none';
+        applyFilters();
+      });
+
+      resetTagsChartBtn.addEventListener('click', () => {
+        chartFilteredTag = null;
+        resetTagsChartBtn.style.display = 'none';
+        applyFilters();
+      });
+    }
+
+    // Apply filters to data
+    function applyFilters() {
+      const textQuery = textSearch.value.toLowerCase().trim();
+      const yearQuery = yearSelect.value;
+      const monthQuery = monthSelect.value;
+
+      filteredReadings = allReadings.filter(item => {
+        // Text Match
+        if (textQuery) {
+          const matchTitle = item.title.toLowerCase().includes(textQuery);
+          const matchUrl = item.url.toLowerCase().includes(textQuery);
+          const matchAuthor = item.author.toLowerCase().includes(textQuery);
+          const matchNotes = item.notes.toLowerCase().includes(textQuery);
+          const matchTags = item.tags.some(tag => tag.toLowerCase().includes(textQuery));
+          
+          if (!matchTitle && !matchUrl && !matchAuthor && !matchNotes && !matchTags) {
+            return false;
+          }
+        }
+
+        // Active Tags (Must match all selected tags)
+        if (activeTags.length > 0) {
+          const hasAllTags = activeTags.every(t => item.tags.includes(t));
+          if (!hasAllTags) return false;
+        }
+
+        // Selector Year Match
+        if (yearQuery && item.year !== yearQuery) {
+          return false;
+        }
+
+        // Selector Month Match
+        if (monthQuery && item.month !== monthQuery) {
+          return false;
+        }
+
+        // Chart Filter Year Match
+        if (chartFilteredYear && item.year !== chartFilteredYear) {
+          return false;
+        }
+
+        // Chart Filter Tag Match
+        if (chartFilteredTag && !item.tags.includes(chartFilteredTag)) {
+          return false;
+        }
+
+        return true;
+      });
+
+      // Update Dashboard stats
+      updateStats();
+
+      // Render readings list
+      renderReadingsList();
+
+      // Update Charts
+      updateTimelineChart();
+      updateTagsChart();
+    }
+
+    // Calculate and update stats values
+    function updateStats() {
+      statTotal.textContent = filteredReadings.length.toLocaleString();
+
+      // Unique tags
+      const tagsSet = new Set();
+      filteredReadings.forEach(item => item.tags.forEach(t => tagsSet.add(t)));
+      statTags.textContent = tagsSet.size.toLocaleString();
+
+      // Active years
+      const yearsSet = new Set();
+      filteredReadings.forEach(item => {
+        if (item.year && item.year !== 'N/A') yearsSet.add(item.year);
+      });
+      statYears.textContent = yearsSet.size.toLocaleString();
+
+      // Readings with author
+      const withAuthorCount = filteredReadings.filter(item => item.author).length;
+      statAuthors.textContent = withAuthorCount.toLocaleString();
+    }
+
+    // Render items list with pagination
+    function renderReadingsList() {
+      readingsContainer.innerHTML = '';
+      
+      const totalItems = filteredReadings.length;
+      readingsCountText.innerHTML = `<i class="fa-solid fa-book-open"></i> Lecturas Encontradas (${totalItems})`;
+
+      if (totalItems === 0) {
+        readingsContainer.innerHTML = `
+          <div class="glass-panel empty-state">
+            <i class="fa-regular fa-folder-open"></i>
+            <h3>No se encontraron lecturas</h3>
+            <p>Intenta ajustar tus criterios de búsqueda o limpia los filtros.</p>
+          </div>
+        `;
+        paginationInfo.textContent = 'Mostrando 0-0 de 0 lecturas';
+        prevPageBtn.disabled = true;
+        nextPageBtn.disabled = true;
+        return;
+      }
+
+      const totalPages = Math.ceil(totalItems / itemsPerPage);
+      if (currentPage > totalPages) currentPage = totalPages || 1;
+
+      const startIndex = (currentPage - 1) * itemsPerPage;
+      const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
+      
+      const paginatedItems = filteredReadings.slice(startIndex, endIndex);
+
+      paginatedItems.forEach(item => {
+        // Extract domain name
+        let domain = 'Link';
+        try {
+          domain = new URL(item.url).hostname.replace('www.', '');
+        } catch(e) {}
+
+        const card = document.createElement('article');
+        card.className = 'glass-panel reading-card';
+        
+        // Build Tags markup
+        let tagsMarkup = '';
+        if (item.tags && item.tags.length > 0) {
+          tagsMarkup = `
+            <div class="reading-tags">
+              ${item.tags.map(tag => `<span class="reading-tag-badge" onclick="addTagFilter('${tag}')">#${tag}</span>`).join('')}
+            </div>
+          `;
+        }
+
+        // Build author markup
+        const authorMarkup = item.author 
+          ? `<div class="reading-author"><i class="fa-solid fa-pen-nib"></i> ${item.author}</div>`
+          : '';
+
+        // Build notes markup
+        const notesMarkup = item.notes
+          ? `<div class="reading-notes">${item.notes}</div>`
+          : '';
+
+        card.innerHTML = `
+          <div>
+            <div class="reading-header">
+              <div class="reading-meta-top">
+                <span class="domain-badge" title="${item.url}">${domain}</span>
+                <span class="date-badge"><i class="fa-regular fa-calendar"></i> ${item.month} ${item.year}</span>
+              </div>
+            </div>
+            
+            <h3 class="reading-title">
+              <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+            </h3>
+            
+            ${authorMarkup}
+            ${notesMarkup}
+            ${tagsMarkup}
+          </div>
+
+          <div class="reading-actions">
+            <button class="action-btn" title="Copiar enlace al portapapeles" onclick="copyLink('${item.url}')">
+              <i class="fa-regular fa-copy"></i>
+            </button>
+            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="action-btn" title="Visitar página web" style="text-decoration: none;">
+              <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.85rem;"></i>
+            </a>
+          </div>
+        `;
+
+        readingsContainer.appendChild(card);
+      });
+
+      // Update Pagination UI
+      paginationInfo.textContent = `Mostrando ${startIndex + 1}-${endIndex} de ${totalItems} lecturas`;
+      prevPageBtn.disabled = currentPage === 1;
+      nextPageBtn.disabled = currentPage === totalPages;
+    }
+
+    // Copy to clipboard utility
+    function copyLink(url) {
+      navigator.clipboard.writeText(url)
+        .then(() => alert('¡Enlace copiado al portapapeles!'))
+        .catch(err => console.error('Error al copiar el enlace', err));
+    }
+
+    // Chart 1: Timeline Chart
+    function updateTimelineChart() {
+      // Group readings by year
+      // To display year-by-year counts
+      const countsByYear = {};
+      
+      const isYearSpecific = (chartFilteredYear !== null) || (yearSelect.value !== "");
+      const selectedYear = chartFilteredYear || yearSelect.value;
+      
+      let labels = [];
+      let data = [];
+
+      if (isYearSpecific) {
+        // Show month-by-month for that year
+        const monthsCount = {};
+        const yearItems = allReadings.filter(item => item.year === selectedYear);
+        
+        // Count in the year's readings
+        yearItems.forEach(item => {
+          if (item.month) {
+            monthsCount[item.month] = (monthsCount[item.month] || 0) + 1;
+          }
+        });
+
+        // Sort months chronologically
+        labels = Object.keys(monthsCount).sort((a, b) => (monthOrder[a] || 0) - (monthOrder[b] || 0));
+        data = labels.map(m => monthsCount[m]);
+      } else {
+        // Group by Year
+        allReadings.forEach(item => {
+          if (item.year && item.year !== 'N/A') {
+            countsByYear[item.year] = (countsByYear[item.year] || 0) + 1;
+          }
+        });
+
+        labels = Object.keys(countsByYear).sort((a, b) => a - b);
+        data = labels.map(y => countsByYear[y]);
+      }
+
+      if (timelineChartInstance) {
+        timelineChartInstance.destroy();
+      }
+
+      const ctx = document.getElementById('timelineChart').getContext('2d');
+      
+      // Determine bar colors (highlighting selected filter)
+      const backgroundColors = labels.map(label => {
+        if (isYearSpecific) {
+          return 'rgba(139, 92, 246, 0.6)'; // violet
+        }
+        return label === chartFilteredYear ? 'rgba(99, 102, 241, 0.95)' : 'rgba(99, 102, 241, 0.4)';
+      });
+
+      const borderColors = labels.map(label => {
+        if (isYearSpecific) return 'rgba(139, 92, 246, 1)';
+        return label === chartFilteredYear ? 'rgba(99, 102, 241, 1)' : 'rgba(99, 102, 241, 0.6)';
+      });
+
+      timelineChartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: isYearSpecific ? `Artículos leídos en ${selectedYear}` : 'Artículos leídos por Año',
+            data: data,
+            backgroundColor: backgroundColors,
+            borderColor: borderColors,
+            borderWidth: 1.5,
+            borderRadius: 6,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              display: false
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleFont: { family: 'Outfit', size: 13 },
+              bodyFont: { family: 'Inter', size: 12 },
+              borderColor: 'rgba(255, 255, 255, 0.1)',
+              borderWidth: 1
+            }
+          },
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: { color: '#94a3b8', font: { family: 'Inter', size: 11 } }
+            },
+            y: {
+              grid: { color: 'rgba(255, 255, 255, 0.05)' },
+              ticks: { color: '#94a3b8', font: { family: 'Inter', size: 11 } }
+            }
+          },
+          onClick: (event, elements) => {
+            if (elements.length > 0 && !isYearSpecific) {
+              const elementIndex = elements[0].index;
+              const selectedYearLabel = labels[elementIndex];
+              
+              chartFilteredYear = selectedYearLabel;
+              resetTimelineChartBtn.style.display = 'inline-block';
+              currentPage = 1;
+              applyFilters();
+            }
+          }
+        }
+      });
+    }
+
+    // Chart 2: Top Tags Chart
+    function updateTagsChart() {
+      const tagCounts = {};
+      
+      // Count tags in CURRENT filtered readings
+      filteredReadings.forEach(item => {
+        item.tags.forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        });
+      });
+
+      // Sort and take top 10
+      const sortedTags = Object.keys(tagCounts)
+        .map(name => ({ name, count: tagCounts[name] }))
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 10);
+
+      const labels = sortedTags.map(t => `#${t.name}`);
+      const data = sortedTags.map(t => t.count);
+
+      if (tagsChartInstance) {
+        tagsChartInstance.destroy();
+      }
+
+      if (sortedTags.length === 0) {
+        return;
+      }
+
+      const ctx = document.getElementById('tagsChart').getContext('2d');
+
+      const bgColors = sortedTags.map(tagObj => {
+        return tagObj.name === chartFilteredTag ? 'rgba(16, 185, 129, 0.95)' : 'rgba(139, 92, 246, 0.4)';
+      });
+      const borderColors = sortedTags.map(tagObj => {
+        return tagObj.name === chartFilteredTag ? 'rgba(16, 185, 129, 1)' : 'rgba(139, 92, 246, 0.7)';
+      });
+
+      tagsChartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [{
+            data: data,
+            backgroundColor: bgColors,
+            borderColor: borderColors,
+            borderWidth: 1.5,
+            borderRadius: 6,
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              display: false
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleFont: { family: 'Outfit', size: 13 },
+              bodyFont: { family: 'Inter', size: 12 },
+              borderColor: 'rgba(255, 255, 255, 0.1)',
+              borderWidth: 1
+            }
+          },
+          scales: {
+            x: {
+              grid: { color: 'rgba(255, 255, 255, 0.05)' },
+              ticks: { color: '#94a3b8', font: { family: 'Inter', size: 11 } }
+            },
+            y: {
+              grid: { display: false },
+              ticks: { color: '#94a3b8', font: { family: 'Inter', size: 11 } }
+            }
+          },
+          onClick: (event, elements) => {
+            if (elements.length > 0) {
+              const elementIndex = elements[0].index;
+              const clickedTagLabel = labels[elementIndex].substring(1); // remove '#'
+              
+              if (chartFilteredTag === clickedTagLabel) {
+                chartFilteredTag = null;
+                resetTagsChartBtn.style.display = 'none';
+              } else {
+                chartFilteredTag = clickedTagLabel;
+                resetTagsChartBtn.style.display = 'inline-block';
+              }
+              currentPage = 1;
+              applyFilters();
+            }
+          }
+        }
+      });
+    }
+  </script>
+</body>
+</html>
