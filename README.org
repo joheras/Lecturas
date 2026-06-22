@@ -27,6 +27,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://paperswithcode.co/paper/2604.18811][Rethinking Dataset Distillation: Hard Truths about Soft Labels | Papers with Code]] #DatasetPruning #Joaquin
 + [[https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/][A decoder-only foundation model for time-series forecasting]] #TimeSeriesForecasting
 + [[https://huggingface.co/blog/peft-beyond-lora][Beyond LoRA: Can you beat the most popular fine-tuning technique?]] #FineTuning
++ [[https://huggingface.co/blog/is-it-agentic-enough][Is it agentic enough? Benchmarking open models on your own tooling]] #Agents #Tools
 
 
 ** Mayo 2026
