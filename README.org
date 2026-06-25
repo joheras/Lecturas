@@ -29,6 +29,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/peft-beyond-lora][Beyond LoRA: Can you beat the most popular fine-tuning technique?]] #FineTuning
 + [[https://huggingface.co/blog/is-it-agentic-enough][Is it agentic enough? Benchmarking open models on your own tooling]] #Agents #Tools
 + [[https://huggingface.co/blog/PaddlePaddle/pp-ocrv6][PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters]] #OCR
++ [[https://huggingface.co/blog/ffasr-leaderboard][Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World]] #ASR
 
 
 ** Mayo 2026
