@@ -12,6 +12,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://huggingface.co/blog/cerebras-gemma4-voice-ai][Hugging Face and Cerebras bring Gemma 4 to real-time voice AI]] #Speech2Speech
 + [[https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable][Why Specialization Is Inevitable]] #Specialization
++ [[https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/][Introducing TabFM: A zero-shot foundation model for tabular data]] #TabularData
 
 
 ** Junio 2026
