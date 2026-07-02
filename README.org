@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Julio 2026
 
 + [[https://huggingface.co/blog/cerebras-gemma4-voice-ai][Hugging Face and Cerebras bring Gemma 4 to real-time voice AI]] #Speech2Speech
++ [[https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable][Why Specialization Is Inevitable]] #Specialization
 
 
 ** Junio 2026
