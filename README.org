@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Julio 2026
+
++ [[https://huggingface.co/blog/cerebras-gemma4-voice-ai][Hugging Face and Cerebras bring Gemma 4 to real-time voice AI]] #Speech2Speech
+
+
 ** Junio 2026
 
 + [[https://huggingface.co/blog/lbourdois/introduction-to-trimming][Introduction to Trimming ✂]] #Pruning
