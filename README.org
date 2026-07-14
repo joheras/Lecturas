@@ -15,6 +15,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/][Introducing TabFM: A zero-shot foundation model for tabular data]] #TabularData
 + [[https://huggingface.co/blog/eee-community-evals][Featuring Every Eval Ever Results on Hugging Face Model Pages]] #Evaluation #LeaderBoards
 + [[https://erc.europa.eu/news-events/magazine-article/why-values-not-just-rules-are-needed-stop-ethics-dumping][Why values – not just rules – are needed to stop ethics dumping |ERC]] #CIAIS
++ [[https://inferenceengineering.tech/chapters/inference/][Ch 0: The Three Layers of Inference | Inference Engineering]] #InferenceEngineering
 
 
 ** Junio 2026
