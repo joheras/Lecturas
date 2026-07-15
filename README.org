@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.neurips.cc/2026/03/23/introducing-the-evaluations-datasets-track-at-neurips-2026/][Introducing the Evaluations &#038; Datasets Track at NeurIPS 2026 &#8211; NeurIPS Blog]] #Júlia
 + [[https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/][What will be left for us to work on? — ICML 2026 keynote]] #IA
 + [[https://huggingface.co/blog/hugging-science/doctobert-cookbook][Putting DoctoBERT to Work: A Practical Guide]] #MedicalEncoder #French #Leo
++ [[https://huggingface.co/blog/bofenghuang/doctobert-fr-release][Where Does the Signal Live? &lt;br&gt; A Web Data Recipe for Medical Encoder Pretraining]] #DatasetCuration #Medicine
 
 
 ** Junio 2026
