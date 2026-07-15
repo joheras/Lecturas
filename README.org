@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/][What will be left for us to work on? — ICML 2026 keynote]] #IA
 + [[https://huggingface.co/blog/hugging-science/doctobert-cookbook][Putting DoctoBERT to Work: A Practical Guide]] #MedicalEncoder #French #Leo
 + [[https://huggingface.co/blog/bofenghuang/doctobert-fr-release][Where Does the Signal Live? &lt;br&gt; A Web Data Recipe for Medical Encoder Pretraining]] #DatasetCuration #Medicine
++ [[https://huggingface.co/blog/nvidia/open-data-for-agents][Data for Agents]] #Datasets
 
 
 ** Junio 2026
