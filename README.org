@@ -17,6 +17,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://erc.europa.eu/news-events/magazine-article/why-values-not-just-rules-are-needed-stop-ethics-dumping][Why values – not just rules – are needed to stop ethics dumping |ERC]] #CIAIS
 + [[https://inferenceengineering.tech/chapters/inference/][Ch 0: The Three Layers of Inference | Inference Engineering]] #InferenceEngineering
 + [[https://blog.neurips.cc/2026/03/23/introducing-the-evaluations-datasets-track-at-neurips-2026/][Introducing the Evaluations &#038; Datasets Track at NeurIPS 2026 &#8211; NeurIPS Blog]] #Júlia
++ [[https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/][What will be left for us to work on? — ICML 2026 keynote]] #IA
 
 
 ** Junio 2026
