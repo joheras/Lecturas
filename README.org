@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/bofenghuang/doctobert-fr-release][Where Does the Signal Live? &lt;br&gt; A Web Data Recipe for Medical Encoder Pretraining]] #DatasetCuration #Medicine
 + [[https://huggingface.co/blog/nvidia/open-data-for-agents][Data for Agents]] #Datasets
 + [[https://x.com/SergioPaniego/article/2073066275819991472][A brief history of distillation in AI]] #Distillation
++ [[https://opencv.org/opencv-5/][OpenCV 5 Deep Dive: A New Foundation for Computer Vision]] #OpenCV #ComputerVision
 
 
 ** Junio 2026
