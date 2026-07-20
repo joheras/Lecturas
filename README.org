@@ -24,6 +24,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://x.com/SergioPaniego/article/2073066275819991472][A brief history of distillation in AI]] #Distillation
 + [[https://opencv.org/opencv-5/][OpenCV 5 Deep Dive: A New Foundation for Computer Vision]] #OpenCV #ComputerVision
 + [[https://huggingface.co/blog/real-world-voiceeq][Introducing Real World VoiceEQ: Measuring the human quality of voice AI]] #Audio
++ [[https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel][Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers]] #Text2Image #Text2Video
 
 
 ** Junio 2026
