@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Agosto 2026
 
 + [[https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize][OpenMOSS-Team/MOSS-Transcribe-Diarize · Hugging Face]] #Transcription #Diarization
++ [[https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation][Making Knowledge Distillation Cheap Enough to Run at Scale]] #Distillation
 
 
 ** Julio 2026
