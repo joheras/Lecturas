@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-research/altk-evolve-sldd][Thinking of ACE? We Can Do It with Fewer Tokens]] #Memory #Agents
 + [[https://huggingface.co/blog/allenai/olmoearth-embeddings][Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis]] #Jaime #Adrian #Embeddings
 + [[https://huggingface.co/blog/icml-2026-open-reproductions][What We Learned by Reproducing 2,200 papers from ICML]] #Reproducibility #Agents
++ [[https://huggingface.co/blog/state-of-open-models-summer-2026][State of Open Models: Summer 2026 Observations]] #OpenModels
 
 
 ** Julio 2026
