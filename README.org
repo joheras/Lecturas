@@ -13,6 +13,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize][OpenMOSS-Team/MOSS-Transcribe-Diarize · Hugging Face]] #Transcription #Diarization
 + [[https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation][Making Knowledge Distillation Cheap Enough to Run at Scale]] #Distillation
 + [[https://huggingface.co/blog/muse-glimmer][Meta is back with Muse Glimmer: local, agentic, multimodal, and open source]] #MLLM
++ [[https://huggingface.co/blog/asr-benchmark-optimization][Measuring benchmark optimization in speech recognition]] #Benchmarks #ASR
 
 
 ** Julio 2026
