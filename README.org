@@ -15,6 +15,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/muse-glimmer][Meta is back with Muse Glimmer: local, agentic, multimodal, and open source]] #MLLM
 + [[https://huggingface.co/blog/asr-benchmark-optimization][Measuring benchmark optimization in speech recognition]] #Benchmarks #ASR
 + [[https://queue.acm.org/detail.cfm?id=3712057][Systems Correctness Practices at AWS]] #FormalMethods
++ [[https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents][Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS]] #TTSS
 
 
 ** Julio 2026
