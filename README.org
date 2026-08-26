@@ -21,6 +21,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/allenai/olmoearth-embeddings][Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis]] #Jaime #Adrian #Embeddings
 + [[https://huggingface.co/blog/icml-2026-open-reproductions][What We Learned by Reproducing 2,200 papers from ICML]] #Reproducibility #Agents
 + [[https://huggingface.co/blog/state-of-open-models-summer-2026][State of Open Models: Summer 2026 Observations]] #OpenModels
++ [[https://cekrem.github.io/posts/programming-as-theory-building-naur/][Programming as Theory Building: Why Senior Developers Are More Valuable Than Ever · cekrem.github.io]] #TheoryBuilding
 
 
 ** Julio 2026
