@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/icml-2026-open-reproductions][What We Learned by Reproducing 2,200 papers from ICML]] #Reproducibility #Agents
 + [[https://huggingface.co/blog/state-of-open-models-summer-2026][State of Open Models: Summer 2026 Observations]] #OpenModels
 + [[https://cekrem.github.io/posts/programming-as-theory-building-naur/][Programming as Theory Building: Why Senior Developers Are More Valuable Than Ever · cekrem.github.io]] #TheoryBuilding
++ [[https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/][AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR]] #VirtualReality
 
 
 ** Julio 2026
