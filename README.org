@@ -27,6 +27,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/train-multi-vector-encoder][Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers]] #Embeddings #Pablo
 + [[https://realpython.com/quantum-computing-basics/][Quantum Computing Basics With Qiskit – Real Python]] #QuantumComputing
 + [[https://pageindex.ai/blog/pageindex-intro][PageIndex: Next-Generation Vectorless, Reasoning-based RAG]] #LLMs #Pablo #Retrieval
++ [[https://www.iic.uam.es/noticias/metricas-para-construir-inteligencia-artificial-fiable/][Métricas para construir una inteligencia artificial fiable - IIC]] #Fiabilidad #Metricas
 
 
 ** Julio 2026
