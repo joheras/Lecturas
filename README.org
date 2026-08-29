@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/][AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR]] #VirtualReality
 + [[https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/][Empty shelves or lost keys? Recall is the bottleneck for parametric factuality]] #Facts #Pablo
 + [[https://huggingface.co/blog/train-multi-vector-encoder][Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers]] #Embeddings #Pablo
++ [[https://realpython.com/quantum-computing-basics/][Quantum Computing Basics With Qiskit – Real Python]] #QuantumComputing
 
 
 ** Julio 2026
