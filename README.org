@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Septiembre 2026
+
++ [[https://huggingface.co/blog/ServiceNow/mosaicleaks][MosaicLeaks: Can your research agent keep a secret?]] #Privacy
+
+
 ** Agosto 2026
 
 + [[https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize][OpenMOSS-Team/MOSS-Transcribe-Diarize · Hugging Face]] #Transcription #Diarization
