@@ -12,6 +12,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://huggingface.co/blog/ServiceNow/mosaicleaks][MosaicLeaks: Can your research agent keep a secret?]] #Privacy
 + [[https://arxiv.org/abs/2606.05107][2606.05107 Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have]] #DomainAdaptation
++ [[https://huggingface.co/blog/Hcompany/neomme][NeoMME: an efficient Multimodal-native and Multilingual Encoder]] #VisualRAG #MultiModalEmbedding
 
 
 ** Agosto 2026
