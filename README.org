@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2606.05107][2606.05107 Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have]] #DomainAdaptation
 + [[https://huggingface.co/blog/Hcompany/neomme][NeoMME: an efficient Multimodal-native and Multilingual Encoder]] #VisualRAG #MultiModalEmbedding
 + [[https://huggingface.co/blog/train-to-paint-with-code][Training a coding model to paint watercolours with TRL and OpenEnv]] #ReinforcementLearning #TRL
++ [[https://x.com/SergioPaniego/article/2074863503312044499][Distillation in 2026 (so far): which frontier models use it and how | Sergio Paniego (@SergioPaniego) on X]] #Distillation
 
 
 ** Agosto 2026
