@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.liquid.ai/blog/lfm2-5-retrievers][LFM2.5 Retrievers: Bi-directional LFMs for Fast Multilingual Search | Blog | Liquid AI]] #RAG #Pablo
 + [[https://huggingface.co/blog/LiquidAI/lfm2-5-encoders][LFM2.5-Encoders for Fast Long-Context Inference on CPU]] #Encoder #PII #Mirari #CienciaEnClaro
 + [[https://chatgpt.com/share/6a9ed8e0-249c-83eb-a1a3-7e7fc06a73a1][ChatGPT - Explicación del spellchecker]] #Mapi #Mirari
++ [[https://huggingface.co/blog/hugging-science/run-aifs-yourself][ECMWF&#39;s AI forecasting model is open source: now let&#39;s make it easy to run.]] #WeatherForecasting
 
 
 ** Agosto 2026
