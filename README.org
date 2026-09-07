@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/train-to-paint-with-code][Training a coding model to paint watercolours with TRL and OpenEnv]] #ReinforcementLearning #TRL
 + [[https://x.com/SergioPaniego/article/2074863503312044499][Distillation in 2026 (so far): which frontier models use it and how | Sergio Paniego (@SergioPaniego) on X]] #Distillation
 + [[https://www.rtve.es/noticias/20260622/mapa-inteligencia-artificial-espana/17126158.shtml][De la A a la Z, mapa de la inteligencia artificial en España]] #Referentes
++ [[https://huggingface.co/blog/allenai/olmoearth-infrastructure][The OlmoEarth Platform: Geospatial inference at planetary scale]] #Adrian #Jaime
 
 
 ** Agosto 2026
