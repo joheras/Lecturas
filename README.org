@@ -18,6 +18,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.rtve.es/noticias/20260622/mapa-inteligencia-artificial-espana/17126158.shtml][De la A a la Z, mapa de la inteligencia artificial en España]] #Referentes
 + [[https://huggingface.co/blog/allenai/olmoearth-infrastructure][The OlmoEarth Platform: Geospatial inference at planetary scale]] #Adrian #Jaime
 + [[https://www.liquid.ai/blog/lfm2-5-retrievers][LFM2.5 Retrievers: Bi-directional LFMs for Fast Multilingual Search | Blog | Liquid AI]] #RAG #Pablo
++ [[https://huggingface.co/blog/LiquidAI/lfm2-5-encoders][LFM2.5-Encoders for Fast Long-Context Inference on CPU]] #Encoder #PII #Mirari #CienciaEnClaro
 
 
 ** Agosto 2026
