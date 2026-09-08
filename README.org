@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/hugging-science/run-aifs-yourself][ECMWF&#39;s AI forecasting model is open source: now let&#39;s make it easy to run.]] #WeatherForecasting
 + [[https://huggingface.co/blog/allenai/discoformer][DiScoFormer: One transformer for density and score, across distributions]] #Diffusion
 + [[https://huggingface.co/blog/daya-shankar/open-source-llm-models-to-run-locally][The Best Open Source and Open-Weight LLM Models to Run Locally in 2026]] #OpenSource #LocalModels
++ [[https://huggingface.co/blog/Qdrant/fineweb-10b-release][Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale]] #Database
 
 
 ** Agosto 2026
