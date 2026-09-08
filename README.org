@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/daya-shankar/open-source-llm-models-to-run-locally][The Best Open Source and Open-Weight LLM Models to Run Locally in 2026]] #OpenSource #LocalModels
 + [[https://huggingface.co/blog/Qdrant/fineweb-10b-release][Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale]] #Database
 + [[https://huggingface.co/blog/ibm-research/cuga-apps][Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]] #Agents
++ [[https://dl.acm.org/doi/10.1145/3236784][Ready, set, verify! applying hs-to-coq to real-world Haskell code (experience report)]] #Verification #Coq
 
 
 ** Agosto 2026
