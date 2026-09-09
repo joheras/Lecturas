@@ -27,6 +27,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/ibm-research/cuga-apps][Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]] #Agents
 + [[https://dl.acm.org/doi/10.1145/3236784][Ready, set, verify! applying hs-to-coq to real-world Haskell code (experience report)]] #Verification #Coq
 + [[https://dl.acm.org/doi/full/10.1145/3703155][A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions]] #Pablo #Hallucinations
++ [[https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom][Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic]] #Pablo #PrevenIA
 
 
 ** Agosto 2026
