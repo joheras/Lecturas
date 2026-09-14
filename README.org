@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom][Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic]] #Pablo #PrevenIA
 + [[https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series][IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license]] #TimeSeries
 + [[https://arxiv.org/abs/2307.05080][2307.05080 Estimating label quality and errors in semantic segmentation data via any model]] #Joaquin #DataPriorization
++ [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662][On the Slow Death of Scaling]]
 
 
 ** Agosto 2026
