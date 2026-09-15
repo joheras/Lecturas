@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662][On the Slow Death of Scaling]]
 + [[https://pub.sakana.ai/pc-alm/][Augmented Lagrangian Predictive Coding: training 1000-layer networks without backpropagation]] #Learning
 + [[https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and][GPT-6 Astra, Looped Transformers, and Hidden Reasoning]] #Transformers
++ [[https://arxiv.org/abs/2605.20520][2605.20520 Open-World Evaluations for Measuring Frontier AI Capabilities]] @s #Evaluation
 
 
 ** Agosto 2026
