@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://pub.sakana.ai/pc-alm/][Augmented Lagrangian Predictive Coding: training 1000-layer networks without backpropagation]] #Learning
 + [[https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and][GPT-6 Astra, Looped Transformers, and Hidden Reasoning]] #Transformers
 + [[https://arxiv.org/abs/2605.20520][2605.20520 Open-World Evaluations for Measuring Frontier AI Capabilities]] @s #Evaluation
++ [[https://huggingface.co/spaces/HuggingFaceM4/encoder-free-vlm][Encoder-Free VLM - a Hugging Face Space by HuggingFaceM4]] #VLM
 
 
 ** Agosto 2026
