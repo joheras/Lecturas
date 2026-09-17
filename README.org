@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2607.04249][2607.04249 Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation]] #SemanticSegmentation #SemiSupervised #Joaquin
 + [[http://paperswithcode.co/paper/2602.23339][Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation? (arXiv:2602.23339) | Papers with Code]] #SemanticSegmentation
 + [[https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001661][Atrial fibrillation and retinal imaging-based oculomics: A cross-sectional and longitudinal analysis of two large cohorts | PLOS Digital Health]] #Retina
++ [[https://arxiv.org/abs/2607.17693][2607.17693 Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation]] #VLM #Segmentation #David
 
 
 ** Agosto 2026
