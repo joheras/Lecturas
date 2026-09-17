@@ -38,6 +38,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/][ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;]] #Júlia #Dataset
 + [[https://arxiv.org/abs/2512.18176][2512.18176 Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation]] #SemanticSegmentation #Joaquin
 + [[https://arxiv.org/abs/2607.04249][2607.04249 Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation]] #SemanticSegmentation #SemiSupervised #Joaquin
++ [[http://paperswithcode.co/paper/2602.23339][Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation? (arXiv:2602.23339) | Papers with Code]] #SemanticSegmentation
 
 
 ** Agosto 2026
