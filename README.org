@@ -43,6 +43,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2607.17693][2607.17693 Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation]] #VLM #Segmentation #David
 + [[https://psych.ukp-lab.de/][Home - NLP for Mental Health at UKP]] #Pablo #MentalHealth
 + [[https://sepln2026.org/wp-content/uploads/2026/07/21_ETEL.pdf][ETEL: A Lightweight System for Readability Assessment in Basque]] #Readability #Mirari
++ [[https://sepln2026.org/wp-content/uploads/2026/08/71_Machinne_Translation.pdf][Machine Translation between Uruguayan Sign Language (LSU) Glosses and Spanish]] #LSEAvatar
 
 
 ** Agosto 2026
