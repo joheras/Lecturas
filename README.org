@@ -46,6 +46,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://sepln2026.org/wp-content/uploads/2026/08/71_Machinne_Translation.pdf][Machine Translation between Uruguayan Sign Language (LSU) Glosses and Spanish]] #LSEAvatar
 + [[https://sepln2026.org/wp-content/uploads/2026/07/87_The_First_Spoken.pdf][The First Spoken Spanish Treebank in Universal Dependencies: Annotation, Distributional Analysis, and Parsing Evaluation]] #Sara
 + [[https://arxiv.org/abs/2608.06292][2608.06292 NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering]] #Pablo #PrevenIA #AtomicFacts
++ [[https://fmplaza.github.io/][Flor Plaza]] #Pablo
 
 
 ** Agosto 2026
