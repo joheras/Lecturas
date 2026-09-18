@@ -42,6 +42,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001661][Atrial fibrillation and retinal imaging-based oculomics: A cross-sectional and longitudinal analysis of two large cohorts | PLOS Digital Health]] #Retina
 + [[https://arxiv.org/abs/2607.17693][2607.17693 Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation]] #VLM #Segmentation #David
 + [[https://psych.ukp-lab.de/][Home - NLP for Mental Health at UKP]] #Pablo #MentalHealth
++ [[https://sepln2026.org/wp-content/uploads/2026/07/21_ETEL.pdf][ETEL: A Lightweight System for Readability Assessment in Basque]] #Readability #Mirari
 
 
 ** Agosto 2026
