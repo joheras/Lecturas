@@ -48,6 +48,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2608.06292][2608.06292 NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering]] #Pablo #PrevenIA #AtomicFacts
 + [[https://fmplaza.github.io/][Flor Plaza]] #Pablo
 + [[https://typesafe.ai/blog/introducing-system-one-models-and-jev][Introducing System One Models &amp; Jev - TypeSafe AI Blog]] #DecissionSuport #Pablo #Mirari #CienciaEnClaro
++ [[https://archerhume.com/posts/jevs-architecture-unmasked][Jev’s Architecture Unmasked — archerhume]] #Jev
 
 
 ** Agosto 2026
