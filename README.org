@@ -49,6 +49,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://fmplaza.github.io/][Flor Plaza]] #Pablo
 + [[https://typesafe.ai/blog/introducing-system-one-models-and-jev][Introducing System One Models &amp; Jev - TypeSafe AI Blog]] #DecissionSuport #Pablo #Mirari #CienciaEnClaro
 + [[https://archerhume.com/posts/jevs-architecture-unmasked][Jev’s Architecture Unmasked — archerhume]] #Jev
++ [[https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/][Anomaly Detection with Isolation Forest and Kernel Density Estimation - MachineLearningMastery.com]] #AnomalyDetection
 
 
 ** Agosto 2026
