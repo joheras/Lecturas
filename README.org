@@ -53,6 +53,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2607.05147][2607.05147 DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation]] #SpeculativeDecoding
 + [[https://csprofkgd.github.io/Computer-Vision-Coursepage/][A Visual and Technical Journey Into Computer Vision]] #Teaching
 + [[https://csprofkgd.github.io/deep-learning-coursepage/][A Visual and Technical Journey Into Deep Learning]] #Teaching
++ [[https://laya.convaiinnovations.com/][Laya — 33ms Multilingual System 1 Decision Engine with Calibrated Probabilities]] #ZeroShotClassification #Pablo #Mirari
 
 
 ** Agosto 2026
