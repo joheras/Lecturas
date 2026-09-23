@@ -54,6 +54,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://csprofkgd.github.io/Computer-Vision-Coursepage/][A Visual and Technical Journey Into Computer Vision]] #Teaching
 + [[https://csprofkgd.github.io/deep-learning-coursepage/][A Visual and Technical Journey Into Deep Learning]] #Teaching
 + [[https://laya.convaiinnovations.com/][Laya — 33ms Multilingual System 1 Decision Engine with Calibrated Probabilities]] #ZeroShotClassification #Pablo #Mirari
++ [[https://huggingface.co/blog/evaleval-aisi][How UK AISI and EvalEval Are Making Benchmark Results Reproducible]] #Júlia #Evaluatino
 
 
 ** Agosto 2026
