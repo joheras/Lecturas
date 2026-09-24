@@ -56,6 +56,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://laya.convaiinnovations.com/][Laya — 33ms Multilingual System 1 Decision Engine with Calibrated Probabilities]] #ZeroShotClassification #Pablo #Mirari
 + [[https://huggingface.co/blog/evaleval-aisi][How UK AISI and EvalEval Are Making Benchmark Results Reproducible]] #Júlia #Evaluatino
 + [[https://www.sciencedirect.com/science/article/pii/S2643651525001268?via%3Dihub][Nondestructive individual tree aboveground biomass estimation using a hierarchical Bayesian approach in combination with individual tree competition indices]] #Adrian #DireccionGeneral
++ [[https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/][Don’t be fooled by this summer of AI hype]]
 
 
 ** Agosto 2026
