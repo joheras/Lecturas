@@ -61,6 +61,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/nvidia/nemotron-diarization][**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**]] #Diarization #Sara
 + [[https://contrastive-lm.notion.site/][Notion]] #Jev #DecissionSupport
 + [[https://ieeexplore.ieee.org/document/11430670][Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation]] #Calibration #Segmentation
++ [[https://arxiv.org/html/2409.00924v1][MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM]] #UnncertaintyCuantification #MedSAM
 
 
 ** Agosto 2026
