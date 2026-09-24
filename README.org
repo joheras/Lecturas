@@ -59,6 +59,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/][Don’t be fooled by this summer of AI hype]]
 + [[https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/][Don’t be fooled by this summer of AI hype]] #CIAIS
 + [[https://huggingface.co/blog/nvidia/nemotron-diarization][**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**]] #Diarization #Sara
++ [[https://contrastive-lm.notion.site/][Notion]] #Jev #DecissionSupport
 
 
 ** Agosto 2026
