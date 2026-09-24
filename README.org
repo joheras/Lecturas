@@ -62,6 +62,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://contrastive-lm.notion.site/][Notion]] #Jev #DecissionSupport
 + [[https://ieeexplore.ieee.org/document/11430670][Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation]] #Calibration #Segmentation
 + [[https://arxiv.org/html/2409.00924v1][MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM]] #UnncertaintyCuantification #MedSAM
++ [[https://arxiv.org/abs/2511.19046][2511.19046 MedSAM3: Delving into Segment Anything with Medical Concepts]] #MedSAM
 
 
 ** Agosto 2026
