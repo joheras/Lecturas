@@ -66,6 +66,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2505.05049][2505.05049 UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model]] #UncertaintyQuantification #SAM
 + [[https://arxiv.org/html/2609.26550v1][JEV-as-a-Judge: Accept When Confident, Escalate When Unsure]] #Evaluation #Jev
 + [[https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark][Accelerating vision-language models with LFM2.5-VL-DSpark]] #VLM #Decoding
++ [[https://papers.miccai.org/miccai-2025/0877-Paper1739.html][SUGFW: A SAM-based Uncertainty-guided Feature Weighting Framework for Cold Start Active Learning | MICCAI 2025 - Open Access]] #SAM #UncertaintyQuantification
 
 
 ** Agosto 2026
