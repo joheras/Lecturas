@@ -64,6 +64,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/html/2409.00924v1][MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM]] #UnncertaintyCuantification #MedSAM
 + [[https://arxiv.org/abs/2511.19046][2511.19046 MedSAM3: Delving into Segment Anything with Medical Concepts]] #MedSAM
 + [[https://arxiv.org/abs/2505.05049][2505.05049 UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model]] #UncertaintyQuantification #SAM
++ [[https://arxiv.org/html/2609.26550v1][JEV-as-a-Judge: Accept When Confident, Escalate When Unsure]] #Evaluation #Jev
 
 
 ** Agosto 2026
