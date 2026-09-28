@@ -70,6 +70,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://papers.miccai.org/miccai-2026/0840-Paper4232.html][Quality-Guided Semi-supervised Learning for Medical Image Segmentation | MICCAI 2026 - Open Access]] #SemiSupervisedLearning #Joaquin #Adrian
 + [[https://papers.miccai.org/miccai-2026/0835-Paper0846.html][PseudoRET: A General Retinal Segmentation Framework with Multi-target Pseudo Embeddings | MICCAI 2026 - Open Access]] #OPTtina #Segmentation
 + [[https://huggingface.co/blog/Hcompany/holo4][Holo4: powering generalist computer-use agents]] #ComputerUse
++ [[https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/][Framework for Data Preparation Techniques in Machine Learning - MachineLearningMastery.com]] #DataPreparation #Master #Docencia
 
 
 ** Agosto 2026
