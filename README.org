@@ -72,6 +72,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/Hcompany/holo4][Holo4: powering generalist computer-use agents]] #ComputerUse
 + [[https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/][Framework for Data Preparation Techniques in Machine Learning - MachineLearningMastery.com]] #DataPreparation #Master #Docencia
 + [[https://papers.miccai.org/miccai-2026/0634-Paper2934.html][MedFuse-Seg: Multi-level Visual and Semantic Context Fusion for Segmentation-Based Medical Reasoning | MICCAI 2026 - Open Access]] #Segmentation #VLM
++ [[https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring?ncid=so-twit-994629][NVIDIA Open Agent Safety Platform: A Reference for Continuous In&#x2d;Silicon Agent Monitoring | NVIDIA Technical Blog]] #Safety
 
 
 ** Agosto 2026
