@@ -74,6 +74,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://papers.miccai.org/miccai-2026/0634-Paper2934.html][MedFuse-Seg: Multi-level Visual and Semantic Context Fusion for Segmentation-Based Medical Reasoning | MICCAI 2026 - Open Access]] #Segmentation #VLM
 + [[https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring?ncid=so-twit-994629][NVIDIA Open Agent Safety Platform: A Reference for Continuous In&#x2d;Silicon Agent Monitoring | NVIDIA Technical Blog]] #Safety
 + [[https://docs.gptr.dev/docs/gpt-researcher/gptr/context-filter][Jev's context is 59% more relevant than embeddings at the same cost]] #JEV #RAG
++ [[https://magazine.sebastianraschka.com/p/classifier-history-and-jev][Language Models for Text Classification: From Bag-of-Words to Jev]] #Jev
 
 
 ** Agosto 2026
