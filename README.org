@@ -75,6 +75,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring?ncid=so-twit-994629][NVIDIA Open Agent Safety Platform: A Reference for Continuous In&#x2d;Silicon Agent Monitoring | NVIDIA Technical Blog]] #Safety
 + [[https://docs.gptr.dev/docs/gpt-researcher/gptr/context-filter][Jev's context is 59% more relevant than embeddings at the same cost]] #JEV #RAG
 + [[https://magazine.sebastianraschka.com/p/classifier-history-and-jev][Language Models for Text Classification: From Bag-of-Words to Jev]] #Jev
++ [[https://scikit-learn.org/stable/modules/calibration.html][1.16. Probability calibration &#8212; scikit-learn 1.9.1 documentation]] #Calibration
 
 
 ** Agosto 2026
