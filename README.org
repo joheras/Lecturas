@@ -78,6 +78,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://scikit-learn.org/stable/modules/calibration.html][1.16. Probability calibration &#8212; scikit-learn 1.9.1 documentation]] #Calibration
 + [[https://huggingface.co/blog/nvidia/kumo-tabular][NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]] #TabularData
 + [[https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source][Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents]] #FactVerification #Pablo
++ [[https://ollama.com/blog/ollama-now-supports-jev-style-decision-models][Ollama now supports Jev-style decision models · Ollama Blog]] #ollama #jev
 
 
 ** Agosto 2026
