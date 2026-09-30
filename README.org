@@ -76,6 +76,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://docs.gptr.dev/docs/gpt-researcher/gptr/context-filter][Jev's context is 59% more relevant than embeddings at the same cost]] #JEV #RAG
 + [[https://magazine.sebastianraschka.com/p/classifier-history-and-jev][Language Models for Text Classification: From Bag-of-Words to Jev]] #Jev
 + [[https://scikit-learn.org/stable/modules/calibration.html][1.16. Probability calibration &#8212; scikit-learn 1.9.1 documentation]] #Calibration
++ [[https://huggingface.co/blog/nvidia/kumo-tabular][NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]] #TabularData
 
 
 ** Agosto 2026
