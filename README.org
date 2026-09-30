@@ -80,6 +80,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source][Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents]] #FactVerification #Pablo
 + [[https://ollama.com/blog/ollama-now-supports-jev-style-decision-models][Ollama now supports Jev-style decision models · Ollama Blog]] #ollama #jev
 + [[https://arxiv.org/abs/2609.06704][2609.06704 Counterfactual Tests for Measuring Chain-of-Thought Faithfulness in Visual Language Models]] #COT #Faithfulness #VLM
++ [[https://huggingface.co/blog/exolabs/the-dgx-spark-handbook][The DGX Spark Handbook]] #Inference
 
 
 ** Agosto 2026
