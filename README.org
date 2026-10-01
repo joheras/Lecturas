@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Octubre 2026
 
 + [[https://www.alphaxiv.org/abs/2609.invent-a-dataset-zero-seed][Invent a Dataset: Measuring Dataset Generation Abilities with Zero Seed Data | alphaXiv]] #DatasetGeneration
++ [[https://huggingface.co/blog/open-tts-leaderboard][Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning]] #TTS
 
 
 ** Septiembre 2026
