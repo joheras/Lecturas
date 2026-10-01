@@ -8,6 +8,11 @@ Este repositorio es una recopilación de lecturas.
 
 * Lecturas del year 2026
 
+** Octubre 2026
+
++ [[https://www.alphaxiv.org/abs/2609.invent-a-dataset-zero-seed][Invent a Dataset: Measuring Dataset Generation Abilities with Zero Seed Data | alphaXiv]] #DatasetGeneration
+
+
 ** Septiembre 2026
 
 + [[https://huggingface.co/blog/ServiceNow/mosaicleaks][MosaicLeaks: Can your research agent keep a secret?]] #Privacy
