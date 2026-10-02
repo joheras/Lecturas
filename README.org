@@ -13,6 +13,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.alphaxiv.org/abs/2609.invent-a-dataset-zero-seed][Invent a Dataset: Measuring Dataset Generation Abilities with Zero Seed Data | alphaXiv]] #DatasetGeneration
 + [[https://huggingface.co/blog/open-tts-leaderboard][Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning]] #TTS
 + [[https://arxiv.org/abs/2609.28470][2609.28470 StudentBench: AI and human tutoring yield equivalent GRE learning gains]] #Teaching #Tutoring
++ [[https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/][Is sandboxing sufficient to contain rogue agents? &#8211; A Few Thoughts on Cryptographic Engineering]] #Safety
 
 
 ** Septiembre 2026
