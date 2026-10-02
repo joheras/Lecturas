@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/][Is sandboxing sufficient to contain rogue agents? &#8211; A Few Thoughts on Cryptographic Engineering]] #Safety
 + [[https://blog.cloudflare.com/clef-decision-models/][Introducing Clef: our open-source decision models, and new RL fine-tuning platform | Cloudflare Blog]] #DecisionModel #Jev
 + [[https://varunneal.github.io/essays/diffusion][Diffusion will be everywhere]] #TextDiffusion
++ [[https://arxiv.org/abs/2609.38597][2609.38597 PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation]] #ImageGeneration #Video
 
 
 ** Septiembre 2026
