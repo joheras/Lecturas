@@ -25,6 +25,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/LiquidAI/open-d1][Multimodal open d1 decision models for the edge]] #DecisionModel #Jev #MultiModal
 + [[https://arxiv.org/html/2610.00381v1][OmniMed-Jev: Calibrating LVLM Confidencefor Trustworthy Medical Multimodal Decisions via System One]] #DecisionModel #David #Oftalmología
 + [[https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026][One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO]] #Mathematics
++ [[https://huggingface.co/blog/autotrust/autotrustjev-27b-fast-calibrated-decisions-and-ful][autotrust/JEV-27B: fast, calibrated decisions and full reasoning from one open model]] #DecisionModel
 
 
 ** Septiembre 2026
