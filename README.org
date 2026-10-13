@@ -28,6 +28,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/autotrust/autotrustjev-27b-fast-calibrated-decisions-and-ful][autotrust/JEV-27B: fast, calibrated decisions and full reasoning from one open model]] #DecisionModel
 + [[https://huggingface.co/blog/tiiuae/falcon-emirati][Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance]] #Dialects #Sara
 + [[https://huggingface.co/blog/allenai/astabrief][Open-sourcing AstaBrief, the fast report-generation model in Asta]] #Research #LiteratureAnalysis
++ [[https://github.com/MaxLiu22/Motion2MixamoRig][GitHub - MaxLiu22/Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character. · GitHub]] #LenguaSignos
 
 
 ** Septiembre 2026
