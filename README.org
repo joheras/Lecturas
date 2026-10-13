@@ -19,6 +19,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2609.38597][2609.38597 PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation]] #ImageGeneration #Video
 + [[https://bmjopen.bmj.com/content/16/9/e123460][Reproducible study identification and selection in systematic reviews: barriers and paths forward | BMJ Open]] #SystematicReview #Júlia
 + [[https://www.sophielwang.com/blog/paper-writing][behind the scenes of paper writing]] #Writing
++ [[https://machinelearningmastery.com/evaluating-graph-rag-vs-standard-rag-a-hallucination-benchmark-on-fact-dense-queries/][Evaluating Graph-RAG vs. Standard RAG: A Hallucination Benchmark on Fact-Dense Queries - MachineLearningMastery.com]] #GraphRAG #Pablo
 
 
 ** Septiembre 2026
