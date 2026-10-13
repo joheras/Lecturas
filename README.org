@@ -26,6 +26,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/html/2610.00381v1][OmniMed-Jev: Calibrating LVLM Confidencefor Trustworthy Medical Multimodal Decisions via System One]] #DecisionModel #David #Oftalmología
 + [[https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026][One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO]] #Mathematics
 + [[https://huggingface.co/blog/autotrust/autotrustjev-27b-fast-calibrated-decisions-and-ful][autotrust/JEV-27B: fast, calibrated decisions and full reasoning from one open model]] #DecisionModel
++ [[https://huggingface.co/blog/tiiuae/falcon-emirati][Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance]] #Dialects #Sara
 
 
 ** Septiembre 2026
