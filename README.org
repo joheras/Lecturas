@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://machinelearningmastery.com/evaluating-graph-rag-vs-standard-rag-a-hallucination-benchmark-on-fact-dense-queries/][Evaluating Graph-RAG vs. Standard RAG: A Hallucination Benchmark on Fact-Dense Queries - MachineLearningMastery.com]] #GraphRAG #Pablo
 + [[https://mlhonk.substack.com/p/69-lejepa-ssl-without-the-heuristics][LeJEPA: SSL Without the Heuristics]] #SelfSupervisedLearning #David
 + [[https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/][EmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings]] #Embedding #MultiModal
++ [[https://huggingface.co/blog/LiquidAI/open-d1][Multimodal open d1 decision models for the edge]] #DecisionModel #Jev #MultiModal
 
 
 ** Septiembre 2026
