@@ -31,6 +31,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/MaxLiu22/Motion2MixamoRig][GitHub - MaxLiu22/Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character. · GitHub]] #LenguaSignos
 + [[https://arxiv.org/abs/2609.39627][2609.39627 Introduction to Computer Vision]] #ComputerVision #Docencia
 + [[https://openreview.net/forum?id=H99naEH09W#discussion][Can MLLMs Perceive and Describe Medical Image Quality Beyond Scores?]] #MedicalImaging #QualityAssessment
++ [[https://mlhonk.substack.com/p/63-steerable-visual-representations][63. Steerable Visual Representations]]
 
 
 ** Septiembre 2026
