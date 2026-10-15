@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://mlhonk.substack.com/p/63-steerable-visual-representations][63. Steerable Visual Representations]] #David
 + [[https://huggingface.co/blog/dmis-lab/ultrabert][UltraBERT: One Encoder for Classification and Retrieval]] #Embedding #Classification #Retrieval
 + [[https://huggingface.co/papers/2610.18615][Paper page - VideoJev: System One Model for Video Understanding and Interaction]] #DecisionModel #Video
++ [[https://github.com/SihanLv/AudioJev-Inference][GitHub - SihanLv/AudioJev-Inference: A Python inference library and HTTP service for AudioJev. Provide an audio clip and natural-language questions to get candidate probabilities, yes/no judgments, or ordinal scores. A single request can ask multiple questions about the same audio. · GitHub]] #isionModel #Audio
 
 
 ** Septiembre 2026
