@@ -36,6 +36,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/papers/2610.18615][Paper page - VideoJev: System One Model for Video Understanding and Interaction]] #DecisionModel #Video
 + [[https://github.com/SihanLv/AudioJev-Inference][GitHub - SihanLv/AudioJev-Inference: A Python inference library and HTTP service for AudioJev. Provide an audio clip and natural-language questions to get candidate probabilities, yes/no judgments, or ordinal scores. A single request can ask multiple questions about the same audio. · GitHub]] #isionModel #Audio
 + [[https://arxiv.org/abs/2610.18861][2610.18861 Hybrid Reasoning Agents]] #Reasoning
++ [[https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents][Scaling agent teams: reach the frontier at 30% of the cost]] #Agents
 
 
 ** Septiembre 2026
