@@ -33,6 +33,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://openreview.net/forum?id=H99naEH09W#discussion][Can MLLMs Perceive and Describe Medical Image Quality Beyond Scores?]] #MedicalImaging #QualityAssessment
 + [[https://mlhonk.substack.com/p/63-steerable-visual-representations][63. Steerable Visual Representations]] #David
 + [[https://huggingface.co/blog/dmis-lab/ultrabert][UltraBERT: One Encoder for Classification and Retrieval]] #Embedding #Classification #Retrieval
++ [[https://huggingface.co/papers/2610.18615][Paper page - VideoJev: System One Model for Video Understanding and Interaction]] #DecisionModel #Video
 
 
 ** Septiembre 2026
