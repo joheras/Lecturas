@@ -38,6 +38,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2610.18861][2610.18861 Hybrid Reasoning Agents]] #Reasoning
 + [[https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents][Scaling agent teams: reach the frontier at 30% of the cost]] #Agents
 + [[https://cohere.com/blog/north-small-translate][Introducing North Small Translate | Cohere]] #Translation
++ [[https://github.com/tencent/AngelSlim][GitHub - Tencent/AngelSlim: Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. · GitHub]] #Quantization
 
 
 ** Septiembre 2026
