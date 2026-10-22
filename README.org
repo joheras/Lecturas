@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://cohere.com/blog/north-small-translate][Introducing North Small Translate | Cohere]] #Translation
 + [[https://github.com/tencent/AngelSlim][GitHub - Tencent/AngelSlim: Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. · GitHub]] #Quantization
 + [[https://arxiv.org/abs/2609.37989][2609.37989 TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models]] #TabularModel
++ [[https://bastian.rieck.me/blog/2026/quo_vadis/][Quo Vadis, Academia?]] #Academia
 
 
 ** Septiembre 2026
