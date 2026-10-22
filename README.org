@@ -43,6 +43,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://bastian.rieck.me/blog/2026/quo_vadis/][Quo Vadis, Academia?]] #Academia
 + [[https://huggingface.co/blog/nvidia/kumo-relational][NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]] #RelationalData
 + [[https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization][How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications]] #Tokenizer #Training
++ [[https://huggingface.co/blog/ibm-granite/granite-speech-5][Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster]] #Speech2Text
 
 
 ** Septiembre 2026
