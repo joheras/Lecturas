@@ -42,6 +42,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2609.37989][2609.37989 TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models]] #TabularModel
 + [[https://bastian.rieck.me/blog/2026/quo_vadis/][Quo Vadis, Academia?]] #Academia
 + [[https://huggingface.co/blog/nvidia/kumo-relational][NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]] #RelationalData
++ [[https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization][How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications]] #Tokenizer #Training
 
 
 ** Septiembre 2026
