@@ -41,6 +41,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://github.com/tencent/AngelSlim][GitHub - Tencent/AngelSlim: Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. · GitHub]] #Quantization
 + [[https://arxiv.org/abs/2609.37989][2609.37989 TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models]] #TabularModel
 + [[https://bastian.rieck.me/blog/2026/quo_vadis/][Quo Vadis, Academia?]] #Academia
++ [[https://huggingface.co/blog/nvidia/kumo-relational][NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]] #RelationalData
 
 
 ** Septiembre 2026
