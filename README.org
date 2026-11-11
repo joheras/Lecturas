@@ -11,6 +11,7 @@ Este repositorio es una recopilación de lecturas.
 ** Noviembre 2026
 
 + [[https://huggingface.co/blog/decision][Decision Models in Hugging Face]] #DecisionModels
++ [[https://huggingface.co/blog/LiquidAI/lfm3][Build specialized multimodal models with LFM3]] #David #OmniModel
 
 
 ** Octubre 2026
