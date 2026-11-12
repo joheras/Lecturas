@@ -12,6 +12,7 @@ Este repositorio es una recopilación de lecturas.
 
 + [[https://huggingface.co/blog/decision][Decision Models in Hugging Face]] #DecisionModels
 + [[https://huggingface.co/blog/LiquidAI/lfm3][Build specialized multimodal models with LFM3]] #David #OmniModel
++ [[https://e-means.github.io/][e-means: outperforming k-means in one-tenth the epochs]] #Clustering
 
 
 ** Octubre 2026
