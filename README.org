@@ -16,6 +16,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://thepalindrome.org/p/graph-theory-for-visual-learners-320][Graph Theory for Visual Learners]]
 + [[https://huggingface.co/blog/amazon/higher-order-pruning-experts][Your Experts Have Partners. There&#39;s HOPE for Keeping Them Together]] #MOEs
 + [[https://abdullahamdi.com/llmseg/][LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines]] #Segmentation #David
++ [[https://github.com/besacier/ASR2026][GitHub - besacier/ASR2026 · GitHub]] #ASR
 
 
 ** Octubre 2026
