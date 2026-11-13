@@ -14,6 +14,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/LiquidAI/lfm3][Build specialized multimodal models with LFM3]] #David #OmniModel
 + [[https://e-means.github.io/][e-means: outperforming k-means in one-tenth the epochs]] #Clustering
 + [[https://thepalindrome.org/p/graph-theory-for-visual-learners-320][Graph Theory for Visual Learners]]
++ [[https://huggingface.co/blog/amazon/higher-order-pruning-experts][Your Experts Have Partners. There&#39;s HOPE for Keeping Them Together]] #MOEs
 
 
 ** Octubre 2026
