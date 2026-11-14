@@ -18,6 +18,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://abdullahamdi.com/llmseg/][LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines]] #Segmentation #David
 + [[https://github.com/besacier/ASR2026][GitHub - besacier/ASR2026 · GitHub]] #ASR
 + [[https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/][&#8220;&#8230;and the proof is checked in Lean&#8221; | Xena]] #Lean #TheoremProving
++ [[https://drifting-distillation.github.io/][Dataset Distillation via Drifting]] #DatasetDistillation #Joaquin
 
 
 ** Octubre 2026
