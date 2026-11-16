@@ -20,6 +20,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/][&#8220;&#8230;and the proof is checked in Lean&#8221; | Xena]] #Lean #TheoremProving
 + [[https://drifting-distillation.github.io/][Dataset Distillation via Drifting]] #DatasetDistillation #Joaquin
 + [[https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1][Introducing Salesforce SOV-Transcribe-1: #1 Open-Weight Model Built for Real-World Speech]] #AST
++ [[https://huggingface.co/blog/tngtech/bring-your-own-expert-extending-moe-models-with-ne][Bring Your Own Expert! Extending MoE Models with New Domain Expertise]] #MOE
 
 
 ** Octubre 2026
