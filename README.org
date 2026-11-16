@@ -22,6 +22,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1][Introducing Salesforce SOV-Transcribe-1: #1 Open-Weight Model Built for Real-World Speech]] #AST
 + [[https://huggingface.co/blog/tngtech/bring-your-own-expert-extending-moe-models-with-ne][Bring Your Own Expert! Extending MoE Models with New Domain Expertise]] #MOE
 + [[https://futureproofds.com/blog/mlops-for-data-scientists/5-monitoring-in-production][ML Model Monitoring and Data Drift Detection | MLOps for Data Scientists]] #Monitoring
++ [[https://huggingface.co/blog/allenai/xybench][XYBench: Helping with the problem behind the question]] #Datasets #Misconceptions
 
 
 ** Octubre 2026
