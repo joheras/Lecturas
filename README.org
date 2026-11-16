@@ -23,6 +23,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/tngtech/bring-your-own-expert-extending-moe-models-with-ne][Bring Your Own Expert! Extending MoE Models with New Domain Expertise]] #MOE
 + [[https://futureproofds.com/blog/mlops-for-data-scientists/5-monitoring-in-production][ML Model Monitoring and Data Drift Detection | MLOps for Data Scientists]] #Monitoring
 + [[https://huggingface.co/blog/allenai/xybench][XYBench: Helping with the problem behind the question]] #Datasets #Misconceptions
++ [[https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/][Pangram is not an oracle • Buttondown]] #AIDetection
 
 
 ** Octubre 2026
