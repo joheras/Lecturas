@@ -27,6 +27,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://star-project.stanford.edu/][STAR · Stanford Tabular and Relational Project · Foundation Models for Structured Data]] #DecisionModel #StructuredData
 + [[https://www.liquid.ai/blog/d1-2][d1.2: State-of-the-Art Omnimodal Decision Models | Blog | Liquid AI]] #DecisionModel #OmniModel #David
 + [[https://huggingface.co/blog/inkling2mini][Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup]] #LoopModel #LocalModel
++ [[https://huggingface.co/blog/harness-adapters-at-scale][Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost]] #Harness
 
 
 ** Octubre 2026
