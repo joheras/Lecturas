@@ -28,6 +28,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://www.liquid.ai/blog/d1-2][d1.2: State-of-the-Art Omnimodal Decision Models | Blog | Liquid AI]] #DecisionModel #OmniModel #David
 + [[https://huggingface.co/blog/inkling2mini][Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup]] #LoopModel #LocalModel
 + [[https://huggingface.co/blog/harness-adapters-at-scale][Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost]] #Harness
++ [[https://drhb.github.io/blog/posts/looped-transformers/][What a 26B looped transformer actually does inside its loop]] #LoopedTransformer
 
 
 ** Octubre 2026
