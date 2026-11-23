@@ -36,6 +36,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time][Why your fine-tuning job takes longer than the FLOPs say]] #TrainingEstimation
 + [[https://github.com/ibm-granite/granite-tsfm][GitHub - ibm-granite/granite-tsfm: Foundation Models for Time Series · GitHub]] #TimeSeries
 + [[https://huggingface.co/blog/rumble-2-flash][Rumble-2-Flash: an open 0.5B speech model for 40+ languages]] #AutomaticSpeechRecognition
++ [[https://ronensc.github.io/Explainability-Illusion/][The Explainability Illusion: Must ViTs Exhibit Patch-Decoding Interpretability?]] #Explainability
 
 
 ** Octubre 2026
