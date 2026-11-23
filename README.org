@@ -30,6 +30,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/harness-adapters-at-scale][Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost]] #Harness
 + [[https://drhb.github.io/blog/posts/looped-transformers/][What a 26B looped transformer actually does inside its loop]] #LoopedTransformer
 + [[https://arxiv.org/abs/2605.03555][2605.03555 MILE: Mixture of Incremental LoRA Experts for Continual Semantic Segmentation across Domains and Modalities]] #FederatedLearning #ContinualLearning #Joaquin
++ [[https://mathnet.mit.edu/index2.html][MathNet: A Global Multimodal Benchmark for Mathematical Reasoning and Retrieval]] #Mathematics #Dataset #Retrieval
 
 
 ** Octubre 2026
