@@ -34,6 +34,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2610.29409][2610.29409 LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines]] #Segmentation
 + [[https://helmcode.com/es/posts/como-crear-un-modelo-abliterado][Cómo crear un modelo abliterado: guía paso a paso | Helmcode]] #Pablo #Abliteración
 + [[https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time][Why your fine-tuning job takes longer than the FLOPs say]] #TrainingEstimation
++ [[https://github.com/ibm-granite/granite-tsfm][GitHub - ibm-granite/granite-tsfm: Foundation Models for Time Series · GitHub]] #TimeSeries
 
 
 ** Octubre 2026
