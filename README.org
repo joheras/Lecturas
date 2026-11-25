@@ -39,6 +39,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://ronensc.github.io/Explainability-Illusion/][The Explainability Illusion: Must ViTs Exhibit Patch-Decoding Interpretability?]] #Explainability
 + [[https://huggingface.co/blog/agentic-evals][How to build and maintain an agentic evaluation]] #Evaluation #Júlia
 + [[https://arxiv.org/abs/2602.02739][2602.02739 TopoPrune: Robust Data Pruning via Unified Latent Space Topology]] #Joaquin #Pruning
++ [[https://arxiv.org/abs/2511.08977v1][2511.08977v1 Efficient and Effective In-context Demonstration Selection with Coreset]] ##Joaquin #Pruning
 
 
 ** Octubre 2026
