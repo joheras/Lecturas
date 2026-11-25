@@ -40,6 +40,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/agentic-evals][How to build and maintain an agentic evaluation]] #Evaluation #Júlia
 + [[https://arxiv.org/abs/2602.02739][2602.02739 TopoPrune: Robust Data Pruning via Unified Latent Space Topology]] #Joaquin #Pruning
 + [[https://arxiv.org/abs/2511.08977v1][2511.08977v1 Efficient and Effective In-context Demonstration Selection with Coreset]] ##Joaquin #Pruning
++ [[https://arxiv.org/abs/2407.10233][2407.10233 Visual Prompt Selection for In-Context Learning Segmentation]] #Joaquin #Pruning
 
 
 ** Octubre 2026
