@@ -38,6 +38,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://huggingface.co/blog/rumble-2-flash][Rumble-2-Flash: an open 0.5B speech model for 40+ languages]] #AutomaticSpeechRecognition
 + [[https://ronensc.github.io/Explainability-Illusion/][The Explainability Illusion: Must ViTs Exhibit Patch-Decoding Interpretability?]] #Explainability
 + [[https://huggingface.co/blog/agentic-evals][How to build and maintain an agentic evaluation]] #Evaluation #Júlia
++ [[https://arxiv.org/abs/2602.02739][2602.02739 TopoPrune: Robust Data Pruning via Unified Latent Space Topology]] #Joaquin #Pruning
 
 
 ** Octubre 2026
