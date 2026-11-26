@@ -42,6 +42,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2511.08977v1][2511.08977v1 Efficient and Effective In-context Demonstration Selection with Coreset]] ##Joaquin #Pruning
 + [[https://arxiv.org/abs/2407.10233][2407.10233 Visual Prompt Selection for In-Context Learning Segmentation]] #Joaquin #Pruning
 + [[https://amaarora.github.io/posts/2026-25-11-deepdive-into-clef.html][Deep dive into CLEF with step by step walkthrough of its model architecture in PyTorch – Aman Arora’s Blog]] #DecisionModel
++ [[https://huggingface.co/spaces/dlouapre/looped-transformers][Looped transformers: thinking twice with the same weights - a Hugging Face Space by dlouapre]] #LoopedTransformers
 
 
 ** Octubre 2026
