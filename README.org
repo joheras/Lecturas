@@ -41,6 +41,7 @@ Este repositorio es una recopilación de lecturas.
 + [[https://arxiv.org/abs/2602.02739][2602.02739 TopoPrune: Robust Data Pruning via Unified Latent Space Topology]] #Joaquin #Pruning
 + [[https://arxiv.org/abs/2511.08977v1][2511.08977v1 Efficient and Effective In-context Demonstration Selection with Coreset]] ##Joaquin #Pruning
 + [[https://arxiv.org/abs/2407.10233][2407.10233 Visual Prompt Selection for In-Context Learning Segmentation]] #Joaquin #Pruning
++ [[https://amaarora.github.io/posts/2026-25-11-deepdive-into-clef.html][Deep dive into CLEF with step by step walkthrough of its model architecture in PyTorch – Aman Arora’s Blog]] #DecisionModel
 
 
 ** Octubre 2026
